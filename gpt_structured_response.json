@@ -1,0 +1,78 @@
+[
+  {
+    "mutual_fund": "IDFC Sterling Value Fund",
+    "signal": "Buy",
+    "confidence": "Low",
+    "explanation": "Sentiment around value strategies remains cautious, with minimal positive enthusiasm and continued questions on timing and exits.",
+    "positive_count": 10,
+    "negative_count": 35,
+    "neutral_count": 55,
+    "representative_comments": [
+      "nikhil shivkumar: BHAI BEL NIKALNA CHAIYE?",
+      "Vaibhav Ghoyal: Nifty me Entry Ban Gay??",
+      "TODAY'S WORLD: 10%sl",
+      "Rohit Bist: dhamakkkkaaaaaaa",
+      "shil shah: dhamaal kiya hain gold ne"
+    ]
+  },
+  {
+    "mutual_fund": "HDFC Gold Fund",
+    "signal": "Buy",
+    "confidence": "High",
+    "explanation": "Gold remains strongly supported with vivid expressions of excitement and affirmations of performance, reinforcing positive sentiment.",
+    "positive_count": 40,
+    "negative_count": 15,
+    "neutral_count": 10,
+    "representative_comments": [
+      "shil shah: dhamaal kiya hain gold ne",
+      "Alka Nandagawli: gold rapchik trade",
+      "Raja Rajshekar : Ek dam lallantaap",
+      "Vinayak Shinde: booked 100$",
+      "Zaid Bedade: gold max kaha takh hold kara?"
+    ]
+  },
+  {
+    "mutual_fund": "ICICI Prudential Banking and Financial Services Fund",
+    "signal": "Buy",
+    "confidence": "Low",
+    "explanation": "Sentiment in banking is still mixed with some optimism, but concerns around entry timing and market direction persist.",
+    "positive_count": 20,
+    "negative_count": 30,
+    "neutral_count": 20,
+    "representative_comments": [
+      "nikhil shivkumar: BHAI BEL NIKALNA CHAIYE?",
+      "shil shah: dhamaal kiya hain gold ne",
+      "Alka Nandagawli: gold rapchik trade",
+      "TODAY'S WORLD: 10%sl",
+      "Rohit Bist: dhamakkkkaaaaaaa"
+    ]
+  },
+  {
+    "mutual_fund": "Kotak Emerging Equity Scheme",
+    "signal": "Buy",
+    "confidence": "Medium",
+    "explanation": "Cryptocurrency discussions, especially around BTC, show strong holding sentiment and confidence in performance.",
+    "positive_count": 8,
+    "negative_count": 1,
+    "neutral_count": 32,
+    "representative_comments": [
+      "bhavik patel: btc hold",
+      "Suyasha Prajapat: Didi yeh btc trade hold karre?",
+      "Aakash Adhav: btc hold rakhe ekya",
+      "Sumit Nath: Main BTC Move kita sirf ek hi reason , Office time pe main trade nahi karpata isliye . warna Indian market best .",
+      "Gaming is Life: btc fir se bhaga"
+    ]
+  },
+  {
+    "mutual_fund": "Nippon India Silver ETF Fund of Fund",
+    "signal": "Buy",
+    "confidence": "Medium",
+    "explanation": "Mentions around silver suggest growing interest and speculative momentum despite limited volume.",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 6,
+    "representative_comments": [
+      "Trader yesh gavel: silver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m"
+    ]
+  }
+]
