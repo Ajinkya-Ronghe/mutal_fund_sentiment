@@ -3,92 +3,48 @@
     "mutual_fund": "IDFC Sterling Value Fund",
     "signal": "Buy",
     "confidence": "Low",
-    "explanation": "Sentiment for value-oriented strategies remains largely neutral with some concern about risk and stoploss triggers, indicating a cautious outlook.",
     "positive_count": 13,
     "negative_count": 41,
-    "neutral_count": 64,
-    "representative_comments": [
-      "Kaustav Das: sir maine 24900 k put liya tha 2point k sl lga k 1766 profit book exit",
-      "sayali patil: trailing stop loss jael kay 170 la lavly",
-      "#Bunny: yes Bhai abhi down aye ga",
-      "Toxic Trader: loss ka to bhi limit hoga na???",
-      "Suyog Ambavane: Te Jaude market movement Ky ahe aaj aata uthtoy"
-    ]
+    "neutral_count": 64
   },
   {
     "mutual_fund": "HDFC Gold Fund",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Gold-related sentiment continues to be positive with mentions of strong upward movement and successful profit-booking across sessions.",
     "positive_count": 55,
     "negative_count": 14,
-    "neutral_count": 28,
-    "representative_comments": [
-      "STUDY TIME GS: 2200 profit booked",
-      "Kaustav Das: sir maine 24900 k put liya tha 2point k sl lga k 1766 profit book exit",
-      "Vinayak Shinde: booked 100$",
-      "Amit Thakor: up side move",
-      "Alka Nandagawli: gold rapchik trade"
-    ]
+    "neutral_count": 28
   },
   {
     "mutual_fund": "ICICI Prudential Banking and Financial Services Fund",
     "signal": "Buy",
     "confidence": "Medium",
-    "explanation": "Banking-related sentiment has seen improvement with more positive reactions to profits and less visible negativity, indicating cautious optimism.",
     "positive_count": 27,
     "negative_count": 24,
-    "neutral_count": 34,
-    "representative_comments": [
-      "Music system : not buy",
-      "Toxic Trader: loss ka to bhi limit hoga na???",
-      "Kaustav Das: sir maine 24900 k put liya tha 2point k sl lga k 1766 profit book exit",
-      "sayali patil: baguya ek tr stoploss or target",
-      "Suyog Ambavane: Te Jaude market movement Ky ahe aaj aata uthtoy"
-    ]
+    "neutral_count": 34
   },
   {
     "mutual_fund": "Kotak Emerging Equity Scheme",
     "signal": "Buy",
     "confidence": "Medium",
-    "explanation": "Crypto and emerging asset sentiment has maintained a strong base, with BTC discussions still leaning toward 'hold' and positive performance.",
     "positive_count": 12,
     "negative_count": 3,
-    "neutral_count": 42,
-    "representative_comments": [
-      "bhavik patel: btc hold",
-      "Gaming is Life: btc fir se bhaga",
-      "Suyasha Prajapat: Didi yeh btc trade hold karre?",
-      "Aakash Adhav: btc hold rakhe ekya",
-      "Kaustav Das: sir maine 24900 k put liya tha 2point k sl lga k 1766 profit book exit"
-    ]
+    "neutral_count": 42
   },
   {
     "mutual_fund": "Nippon India Silver ETF Fund of Fund",
     "signal": "Buy",
     "confidence": "Low",
-    "explanation": "Silver continues to draw neutral mentions with no strong directional sentiment, indicating passive interest without significant conviction.",
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 12,
-    "representative_comments": [
-      "Trader yesh gavel: silver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m"
-    ]
+    "neutral_count": 12
   },
   {
     "mutual_fund": "Axis Technology Fund",
     "signal": "Buy",
     "confidence": "Medium",
-    "explanation": "Tech sector mentions including Nifty IT and TCS indicate growing curiosity and moderate positive expectations, warranting continued recommendation.",
     "positive_count": 18,
     "negative_count": 4,
-    "neutral_count": 25,
-    "representative_comments": [
-      "Amit Thakor: up side move",
-      "sagar jagtap: NIFTY IT analysis please",
-      "G.Natural: TCS analysis",
-      "Suyog Ambavane: Te Jaude market movement Ky ahe aaj aata uthtoy",
-      "Rohit Singh: bhai yr aap bdi late mile mrko vrna aaj mai loss me na hota"
-    ]
+    "neutral_count": 25
   }
 ]
