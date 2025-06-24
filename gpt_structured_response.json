@@ -3,76 +3,92 @@
     "mutual_fund": "IDFC Sterling Value Fund",
     "signal": "Buy",
     "confidence": "Low",
-    "explanation": "Sentiment around value strategies remains cautious, with minimal positive enthusiasm and continued questions on timing and exits.",
-    "positive_count": 10,
-    "negative_count": 35,
-    "neutral_count": 55,
+    "explanation": "Sentiment remains mixed for value-oriented investments, with some concern over exit strategy and market entry, and little excitement overall.",
+    "positive_count": 13,
+    "negative_count": 42,
+    "neutral_count": 63,
     "representative_comments": [
       "nikhil shivkumar: BHAI BEL NIKALNA CHAIYE?",
       "Vaibhav Ghoyal: Nifty me Entry Ban Gay??",
       "TODAY'S WORLD: 10%sl",
-      "Rohit Bist: dhamakkkkaaaaaaa",
-      "shil shah: dhamaal kiya hain gold ne"
+      "Amit Thakor: up side move",
+      "sayali patil: trailing stop loss jael kay 170 la lavly"
     ]
   },
   {
     "mutual_fund": "HDFC Gold Fund",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Gold remains strongly supported with vivid expressions of excitement and affirmations of performance, reinforcing positive sentiment.",
-    "positive_count": 40,
-    "negative_count": 15,
-    "neutral_count": 10,
+    "explanation": "Continued strong enthusiasm around gold with high frequency of profit-booking, upward movement mentions, and strong performance remarks.",
+    "positive_count": 52,
+    "negative_count": 19,
+    "neutral_count": 28,
     "representative_comments": [
       "shil shah: dhamaal kiya hain gold ne",
-      "Alka Nandagawli: gold rapchik trade",
-      "Raja Rajshekar : Ek dam lallantaap",
       "Vinayak Shinde: booked 100$",
-      "Zaid Bedade: gold max kaha takh hold kara?"
+      "STUDY TIME GS: 2200 profit booked",
+      "Amit Thakor: up side move",
+      "Alka Nandagawli: gold rapchik trade"
     ]
   },
   {
     "mutual_fund": "ICICI Prudential Banking and Financial Services Fund",
     "signal": "Buy",
-    "confidence": "Low",
-    "explanation": "Sentiment in banking is still mixed with some optimism, but concerns around entry timing and market direction persist.",
-    "positive_count": 20,
-    "negative_count": 30,
-    "neutral_count": 20,
+    "confidence": "Medium",
+    "explanation": "Banking and financial services sentiment has shown slightly improved confidence, with a balance of concerns and some profit booking.",
+    "positive_count": 25,
+    "negative_count": 28,
+    "neutral_count": 32,
     "representative_comments": [
-      "nikhil shivkumar: BHAI BEL NIKALNA CHAIYE?",
-      "shil shah: dhamaal kiya hain gold ne",
-      "Alka Nandagawli: gold rapchik trade",
-      "TODAY'S WORLD: 10%sl",
-      "Rohit Bist: dhamakkkkaaaaaaa"
+      "sayali patil: trailing stop loss jael kay 170 la lavly",
+      "sudhir retwade: tya sathi photo pathavlela",
+      "Music system : not buy",
+      "Kaustav Das: sir maine 24900 k put liya tha 2point k sl lga k 1766 profit book exit",
+      "Toxic Trader: loss ka to bhi limit hoga na???"
     ]
   },
   {
     "mutual_fund": "Kotak Emerging Equity Scheme",
     "signal": "Buy",
     "confidence": "Medium",
-    "explanation": "Cryptocurrency discussions, especially around BTC, show strong holding sentiment and confidence in performance.",
-    "positive_count": 8,
-    "negative_count": 1,
-    "neutral_count": 32,
+    "explanation": "Crypto-related discussions maintain a hold sentiment, with BTC seen positively, but overall excitement has plateaued.",
+    "positive_count": 10,
+    "negative_count": 2,
+    "neutral_count": 40,
     "representative_comments": [
       "bhavik patel: btc hold",
       "Suyasha Prajapat: Didi yeh btc trade hold karre?",
       "Aakash Adhav: btc hold rakhe ekya",
-      "Sumit Nath: Main BTC Move kita sirf ek hi reason , Office time pe main trade nahi karpata isliye . warna Indian market best .",
-      "Gaming is Life: btc fir se bhaga"
+      "Gaming is Life: btc fir se bhaga",
+      "STUDY TIME GS: 2200 profit booked"
     ]
   },
   {
     "mutual_fund": "Nippon India Silver ETF Fund of Fund",
     "signal": "Buy",
-    "confidence": "Medium",
-    "explanation": "Mentions around silver suggest growing interest and speculative momentum despite limited volume.",
+    "confidence": "Low",
+    "explanation": "Silver continues to show presence in conversation, but sentiment remains mostly neutral without strong calls for action.",
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 6,
+    "neutral_count": 10,
     "representative_comments": [
       "Trader yesh gavel: silver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m"
+    ]
+  },
+  {
+    "mutual_fund": "Axis Technology Fund",
+    "signal": "Buy",
+    "confidence": "Medium",
+    "explanation": "Mentions around technology-heavy sectors like TCS, Infosys, and Nifty IT show renewed trader interest and expectations of upward momentum.",
+    "positive_count": 15,
+    "negative_count": 5,
+    "neutral_count": 21,
+    "representative_comments": [
+      "Amit Thakor: up side move",
+      "sagar jagtap: NIFTY IT analysis please",
+      "G.Natural: EXNESS me account khola huu apka link se 3-4 din phehele lakin vip group me add NAHI Kiya",
+      "G.Natural: TCS analysis",
+      "Suyog Ambavane: Te Jaude market movement Ky ahe aaj aata uthtoy"
     ]
   }
 ]
