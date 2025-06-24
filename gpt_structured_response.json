@@ -3,30 +3,30 @@
     "mutual_fund": "IDFC Sterling Value Fund",
     "signal": "Buy",
     "confidence": "Low",
-    "explanation": "Sentiment remains mixed for value-oriented investments, with some concern over exit strategy and market entry, and little excitement overall.",
+    "explanation": "Sentiment for value-oriented strategies remains largely neutral with some concern about risk and stoploss triggers, indicating a cautious outlook.",
     "positive_count": 13,
-    "negative_count": 42,
-    "neutral_count": 63,
+    "negative_count": 41,
+    "neutral_count": 64,
     "representative_comments": [
-      "nikhil shivkumar: BHAI BEL NIKALNA CHAIYE?",
-      "Vaibhav Ghoyal: Nifty me Entry Ban Gay??",
-      "TODAY'S WORLD: 10%sl",
-      "Amit Thakor: up side move",
-      "sayali patil: trailing stop loss jael kay 170 la lavly"
+      "Kaustav Das: sir maine 24900 k put liya tha 2point k sl lga k 1766 profit book exit",
+      "sayali patil: trailing stop loss jael kay 170 la lavly",
+      "#Bunny: yes Bhai abhi down aye ga",
+      "Toxic Trader: loss ka to bhi limit hoga na???",
+      "Suyog Ambavane: Te Jaude market movement Ky ahe aaj aata uthtoy"
     ]
   },
   {
     "mutual_fund": "HDFC Gold Fund",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Continued strong enthusiasm around gold with high frequency of profit-booking, upward movement mentions, and strong performance remarks.",
-    "positive_count": 52,
-    "negative_count": 19,
+    "explanation": "Gold-related sentiment continues to be positive with mentions of strong upward movement and successful profit-booking across sessions.",
+    "positive_count": 55,
+    "negative_count": 14,
     "neutral_count": 28,
     "representative_comments": [
-      "shil shah: dhamaal kiya hain gold ne",
-      "Vinayak Shinde: booked 100$",
       "STUDY TIME GS: 2200 profit booked",
+      "Kaustav Das: sir maine 24900 k put liya tha 2point k sl lga k 1766 profit book exit",
+      "Vinayak Shinde: booked 100$",
       "Amit Thakor: up side move",
       "Alka Nandagawli: gold rapchik trade"
     ]
@@ -35,42 +35,42 @@
     "mutual_fund": "ICICI Prudential Banking and Financial Services Fund",
     "signal": "Buy",
     "confidence": "Medium",
-    "explanation": "Banking and financial services sentiment has shown slightly improved confidence, with a balance of concerns and some profit booking.",
-    "positive_count": 25,
-    "negative_count": 28,
-    "neutral_count": 32,
+    "explanation": "Banking-related sentiment has seen improvement with more positive reactions to profits and less visible negativity, indicating cautious optimism.",
+    "positive_count": 27,
+    "negative_count": 24,
+    "neutral_count": 34,
     "representative_comments": [
-      "sayali patil: trailing stop loss jael kay 170 la lavly",
-      "sudhir retwade: tya sathi photo pathavlela",
       "Music system : not buy",
+      "Toxic Trader: loss ka to bhi limit hoga na???",
       "Kaustav Das: sir maine 24900 k put liya tha 2point k sl lga k 1766 profit book exit",
-      "Toxic Trader: loss ka to bhi limit hoga na???"
+      "sayali patil: baguya ek tr stoploss or target",
+      "Suyog Ambavane: Te Jaude market movement Ky ahe aaj aata uthtoy"
     ]
   },
   {
     "mutual_fund": "Kotak Emerging Equity Scheme",
     "signal": "Buy",
     "confidence": "Medium",
-    "explanation": "Crypto-related discussions maintain a hold sentiment, with BTC seen positively, but overall excitement has plateaued.",
-    "positive_count": 10,
-    "negative_count": 2,
-    "neutral_count": 40,
+    "explanation": "Crypto and emerging asset sentiment has maintained a strong base, with BTC discussions still leaning toward 'hold' and positive performance.",
+    "positive_count": 12,
+    "negative_count": 3,
+    "neutral_count": 42,
     "representative_comments": [
       "bhavik patel: btc hold",
+      "Gaming is Life: btc fir se bhaga",
       "Suyasha Prajapat: Didi yeh btc trade hold karre?",
       "Aakash Adhav: btc hold rakhe ekya",
-      "Gaming is Life: btc fir se bhaga",
-      "STUDY TIME GS: 2200 profit booked"
+      "Kaustav Das: sir maine 24900 k put liya tha 2point k sl lga k 1766 profit book exit"
     ]
   },
   {
     "mutual_fund": "Nippon India Silver ETF Fund of Fund",
     "signal": "Buy",
     "confidence": "Low",
-    "explanation": "Silver continues to show presence in conversation, but sentiment remains mostly neutral without strong calls for action.",
+    "explanation": "Silver continues to draw neutral mentions with no strong directional sentiment, indicating passive interest without significant conviction.",
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 10,
+    "neutral_count": 12,
     "representative_comments": [
       "Trader yesh gavel: silver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m chart bhaisilver 30m"
     ]
@@ -79,16 +79,16 @@
     "mutual_fund": "Axis Technology Fund",
     "signal": "Buy",
     "confidence": "Medium",
-    "explanation": "Mentions around technology-heavy sectors like TCS, Infosys, and Nifty IT show renewed trader interest and expectations of upward momentum.",
-    "positive_count": 15,
-    "negative_count": 5,
-    "neutral_count": 21,
+    "explanation": "Tech sector mentions including Nifty IT and TCS indicate growing curiosity and moderate positive expectations, warranting continued recommendation.",
+    "positive_count": 18,
+    "negative_count": 4,
+    "neutral_count": 25,
     "representative_comments": [
       "Amit Thakor: up side move",
       "sagar jagtap: NIFTY IT analysis please",
-      "G.Natural: EXNESS me account khola huu apka link se 3-4 din phehele lakin vip group me add NAHI Kiya",
       "G.Natural: TCS analysis",
-      "Suyog Ambavane: Te Jaude market movement Ky ahe aaj aata uthtoy"
+      "Suyog Ambavane: Te Jaude market movement Ky ahe aaj aata uthtoy",
+      "Rohit Singh: bhai yr aap bdi late mile mrko vrna aaj mai loss me na hota"
     ]
   }
 ]
