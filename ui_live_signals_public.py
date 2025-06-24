@@ -62,7 +62,7 @@ def main():
                             st.markdown(f"<div style='border:1px solid #27ae60;border-radius:8px;padding:12px;margin:4px;background:#f9fff9;min-width:220px;display:inline-block'>" +
                                 f"<h4 style='color:{SIGNAL_COLORS.get(signal, '#bdc3c7')}'>{fund}: {signal}</h4>" +
                                 f"<span style='color:{CONFIDENCE_COLORS.get(confidence, '#bdc3c7')};font-weight:bold'>Confidence: {confidence}</span><br>" +
-                                f"<span style='font-size:13px'>Positive: {pos}    Negative: {neg}    Neutral: {neu}</span><br>" +
+                                f"<span style='color:black; font-size:13px'>Positive: {pos}    Negative: {neg}    Neutral: {neu}</span><br>" +
                                 "</div>", unsafe_allow_html=True)
                 # Show Medium Confidence in a horizontal row
                 if med_conf:
@@ -81,7 +81,7 @@ def main():
                             st.markdown(f"<div style='border:1px solid #f1c40f;border-radius:8px;padding:12px;margin:4px;background:#fffef9;min-width:220px;display:inline-block'>" +
                                 f"<h4 style='color:{SIGNAL_COLORS.get(signal, '#bdc3c7')}'>{fund}: {signal}</h4>" +
                                 f"<span style='color:{CONFIDENCE_COLORS.get(confidence, '#bdc3c7')};font-weight:bold'>Confidence: {confidence}</span><br>" +
-                                f"<span style='font-size:13px'>Positive: {pos}    Negative: {neg}    Neutral: {neu}</span><br>" +
+                                f"<span style='color:black; font-size:13px'>Positive: {pos}    Negative: {neg}    Neutral: {neu}</span><br>" +
                                 "</div>", unsafe_allow_html=True)
                 # Show Low Confidence in a horizontal row
                 if low_conf:
@@ -100,7 +100,7 @@ def main():
                             st.markdown(f"<div style='border:1px solid #e74c3c;border-radius:8px;padding:12px;margin:4px;background:#fff9f9;min-width:220px;display:inline-block'>" +
                                 f"<h4 style='color:{SIGNAL_COLORS.get(signal, '#bdc3c7')}'>{fund}: {signal}</h4>" +
                                 f"<span style='color:{CONFIDENCE_COLORS.get(confidence, '#bdc3c7')};font-weight:bold'>Confidence: {confidence}</span><br>" +
-                                f"<span style='font-size:13px'>Positive: {pos}    Negative: {neg}    Neutral: {neu}</span><br>" +
+                                f"<span style='color:black; font-size:13px'>Positive: {pos}    Negative: {neg}    Neutral: {neu}</span><br>" +
                                 "</div>", unsafe_allow_html=True)
         time.sleep(10)
 
