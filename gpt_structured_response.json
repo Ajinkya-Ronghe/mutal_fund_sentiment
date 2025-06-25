@@ -1,33 +1,28 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
+    "1_minute_candlestick_signal": "neutral",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The live chat reflects mixed short-term sentiment, but with a slight bullish tilt. Several users reference bullish chart patterns (bull flag, hammer), mention breaking out, and anticipate positive moves if rate cuts occur. However, there are also opinions about retesting support and some uncertainty. The presence of a 400 BTC wall and discussion of a potential final dip before a pump suggest caution, but the overall bias is towards an upward move with moderate confidence. No one-minute chart confirmations, but multiple references to bullish momentum and 'to the moon' type language. Leverage should be kept low and isolated due to mixed signals.",
+    "explanation": "Opinions indicate mixed short-term sentiment for BTC: references to consolidation, retesting support, and waiting for confirmation. However, broader discussion of bullish catalysts like anticipated Fed rate cuts, large buy walls, and the expectation of a breakout suggest a positive medium-term bias. No strong consensus on a short-term candlestick signal, but the medium-term outlook leans bullish due to anticipated macro events and community optimism.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 5,
-    "neutral_count": 9,
+    "positive_count": 7,
+    "negative_count": 4,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Nillionaire: If this *is* a giant bull flag, I think now is the time, yes.",
-      "oscartg638: bullish 5 min",
-      "Dogald Trump: Bitcoin is like the invention of the wheel - you dont change the wheel, you dont make it a fking triangle, you just put a rubber tire on it and keep rollin",
+      "mae chin: btc likes to consolidate",
       "TexMachina: WE'RE BACK BABY!! TO THE MOON",
       "Butthead: rate cuts will definitely be very very bullish",
-      "B.A.M: i think that would be the final dip before the pump",
       "Ahmad Khalid: 400btc wall at 107",
       "FARD N SHIDDER: I think bottom line wants to go up I'm thinking of closing shorts please advise.",
+      "B.A.M: i think that would be the final dip before the pump",
+      "Solidity Monster: 4 minutes for the new hourly candle, then it will decide.",
       "Sajib Rahman: usne Support line main Retesting Kiya he",
-      "Sajib Rahman: ye To Niche Aye ga Bhai",
+      "oscartg638: bullish 5 min",
+      "Ricardo Sala: look 1hr chart, this is not even a mosquito blood",
       "Tjeerd Phaff: break down",
-      "Real Krantikari : tread se bahar aagaya sir",
-      "oscartg638: steady, Ferhaan. It hasn't confirmed",
-      "Ricardo Sala: look 1hr chart... this is not even a monitor blood",
       "Samado: if there any big news tomorrow it may pump but i feel itâs quite now it either stays or go down",
-      "Samado: i feel we might get bad news before weekend",
-      "Rowbot: oh no.... its over",
-      "XRPLparadise: Itâs fight between 218 and 217"
+      "Samado: i feel we might get bad news before weekend"
     ]
   }
 ]
