@@ -4,19 +4,23 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several opinions suggest caution or a retracement for BTC in the immediate term, especially on lower timeframes. There is mention of rejection at trendlines and double tops on the 1h, as well as warnings about potential trap setups and the need for a decent retracement before longing. While some users are optimistic about higher targets (e.g., $108k), the prevailing short-term sentiment is to avoid new longs and consider short/neutral positions until further confirmation.",
+    "explanation": "BTC sentiment is mixed, but the majority of 1-minute and short-term candlestick observations in the chat indicate rejection at resistance, potential trap for longs, and warnings about a retracement. Several participants mention failed attempts to break higher, a double top on the hourly, and caution against longing until a pullback. However, there is also bullish long-term sentiment, including all-time high speculation and long-term price targets, but these are not supported by the current short-term technicals.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 12,
-    "neutral_count": 13,
+    "positive_count": 6,
+    "negative_count": 11,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
+      "PeaPopz: Btc 105k se long pe set h chances of new all time high?",
+      "Hamdan Chuhdry: kia ab Bitcoin $108k touch kry ga",
+      "NEMESIS: Bitcoin or girega kya",
       "oscartg638: it was rejected at the 1min for sure",
+      "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
+      "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
       "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
       "TraderX: To be careful here for those thinking of longing or who did. I felt trapping more likely than not.",
       "Tjeerd Phaff: I would not long until we get a decent retracement",
       "Ferhaan Schmidt: wait for short",
-      "oscartg638: 15 looking bad again"
+      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed."
     ]
   }
 ]
