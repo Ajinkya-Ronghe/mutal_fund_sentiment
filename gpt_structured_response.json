@@ -4,19 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment in the live chat is mixed, but there is a notable tilt towards caution and short-term bearishness for BTC based on frequent mentions of resistance, liquidity hunting, order block breakdowns, and potential for a market reversal or drop below current levels. Several participants discuss sell entries, risk of further downside, and strong resistance walls above. However, there are also bullish opinions and targets for higher prices, creating a neutral to slightly bearish short-term outlook. The confidence is medium due to this split, but the immediate candlestick and order flow signals suggest caution or short bias.",
+    "explanation": "Opinions show a mixed and uncertain BTC market with heavy resistance in the 108k-110k zone, multiple mentions of large sell walls, concerns of absorption and uptrend exhaustion, and traders closing longs or shifting short. However, some bullish opinions exist about upcoming ATHs and longer-term buys, but the immediate momentum and short-term sentiment lean toward a cautious short. No clear unified direction, but short setups and warnings dominate the current minute-by-minute sentiment.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 10,
-    "negative_count": 15,
-    "neutral_count": 7,
+    "positive_count": 8,
+    "negative_count": 14,
+    "neutral_count": 11,
     "representative_opinions": [
-      "Tempus Fugit: btc will go to 93k before it goes to 120k",
-      "framesbyayannn: aagr ae candle red close ho jaye to selling aa sakta hai",
       "Ahmad Khalid: the amouunt of walls above us is craaaaaaaaaaaaaaaaaaaazy",
-      "mpepin1905: closing more longs",
       "Josema: Once This gets rejected at this levels again, bears will become much more confident, and we will drop much harder than 108 to 106, this is 100% a short IMO",
-      "Abdul Malek: buy me market kamjor hai selling me pressure nahi hai",
-      "Saandip Bhise: 108172 target rahega 70 %exit 30 % holding kar sakte"
+      "FitZoneX: it's going to dump",
+      "art slandered1: Market buyers got absorbed by limit sellers",
+      "Tempus Fugit: btc will go to 93k before it goes to 120k",
+      "KiloCharley: Nice time to buy some BTC",
+      "Gyan Singh: sir btc ath jayega in upcoming months",
+      "Abdul Malek: buy me market kamjor hai selling me pressure nahi hai"
     ]
   }
 ]
