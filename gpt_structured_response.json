@@ -4,26 +4,24 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Mixed but slightly bullish sentiment with some participants calling for higher BTC prices (120k, 130k, $1m), mentions of BTC holding up, demand zone bounces, and commentary on opportunities to go long. There are also warnings of possible drops and short calls near resistance levels, but the prevailing tone is anticipation of further upside, supported by recent price resilience.",
+    "explanation": "There is a mix of short-term bearish and bullish comments, but overall, positive momentum is suggested by several opinions expecting a bounce or further upside, with references to BTC holding up and targets as high as 120k or even 130k-180k. Some users express caution about immediate resistance and potential drops, but the prevailing theme is optimism for upward movement. The 1-minute chart is repeatedly referenced, and live chart links are shared, indicating active bullish monitoring.",
     "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 8,
-    "negative_count": 4,
-    "neutral_count": 6,
+    "negative_count": 5,
+    "neutral_count": 7,
     "representative_opinions": [
       "Noob Trader: tomorrow more up today little down next up and up and up until 130k",
-      "Alina Bogdan: 130k? .. we need to get to 120k first",
-      "Bitcoin GTR: BITTY BITTY BITCOIN!!!!!",
       "Bitcoin LIVE: Yeah btc is holding up",
-      "Target Hit: while BTC goes to $120 000",
-      "Abell: if break again 107,500 The Crash",
+      "Alina Bogdan: 130k?  .. we need to get to 120k first",
+      "Bitcoin GTR: $1m soon",
+      "ÐÐ¾ÑÐ¸Ñ ÐÑÐ¸ÑÐ²Ð°: 106800 next 4 hours",
       "SeÃ±or Joce: I think we're going to see a big BTC drop again pretty soon",
       "Target Hit: Not able to be macro bullish here also",
-      "Multigang: Its beter to short now",
-      "Pradeep Gupta: 107700 se maine short kiya hai",
-      "Unlimited Printsð¤: We going to fly soon",
+      "Target Hit: while BTC goes to $120 000",
+      "Bitcoin GTR: BITTY BITTY BITCOIN!!!!!",
       "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "Family gaming: Bhai ma new ho kuch amzing trick btao btc ka bara ma",
-      "moons..: buy?"
+      "SeÃ±or Joce: 108k was a very good level to hit today, but we're not going to ATH just yet.",
+      "Multigang: Its beter to short now"
     ]
   }
 ]
