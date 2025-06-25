@@ -4,25 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple users express a positive outlook on BTC, citing retest completions, expectations for upward movement, and bullish candlestick signals on the 1-minute timeframe (e.g., users mentioning 'BTC upar jaane ke liye taiyar hai', 'retest complete now going up', and 'we long only'). Several comments reference potential breakouts and buying dips, while some warn of traps or recommend caution due to market volatility or liquidity sweeps. There are scattered suggestions to short, but the majority of actionable opinions and price commentary are skewed toward a long/buy bias. The presence of sideways and risk management mentions tempers the conviction slightly.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 13,
-    "negative_count": 6,
-    "neutral_count": 10,
+    "explanation": "A majority of opinions suggest bullish sentiment on BTC, including calls for long positions, expectations of upward movement, and technical confirmations (e.g., 'BTC upar jaane ke liye taiyar hai', 'we long only', 'BTC retest complete now going up'). However, there are also a few warnings about possible traps, sideways action, and calls for caution, which tempers the overall confidence to medium. The positive momentum is supported by mentions of weak sellers, upward targets, and market structure, while a minority suggest risk management or are undecided.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 19,
+    "negative_count": 7,
+    "neutral_count": 12,
     "representative_opinions": [
       "Amit Anand: bhai BTC upar jaane ke liye taiyar hai",
-      "Akshay kumar: Btc ka retest complete now going up bhai",
       "Islandsteve: we long only",
       "Florent Raes: 107850k first target for me i up my sl i see seller weak no xD",
-      "trading whale: btc ka plan hai ki sl 3 bar lunga uske baad bada target dunga Jiska patience hain usiko dunga",
-      "SlickShoes: the volume has been waning this entire move up as well",
-      "aV1rus: thats long term liquidity though... MM has no prob going down first... heathier chart too",
+      "Akshay kumar: Btc ka retest complete now going up bhai",
       "Freedumb for Joel: Nice time to buy some BTC",
-      "Mr Moon: Quite a bit of liq up at 120k +",
-      "Ever Last: Juhu sehen die BollingerbÃ¤nder nicht so aus als ob ne groÃe Bewegung nach oben kommt ?",
-      "Ayush Gupta: I'm thinking to short and sleep...lol",
-      "Acke: short here is risky",
-      "DEDLY: Bhai ab entry lu kya sell"
+      "SlickShoes: the volume has been waning this entire move up as well",
+      "Acke: short here is risky"
     ]
   }
 ]
