@@ -4,19 +4,29 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "BTC-related comments reflect a divided sentiment, leaning slightly bearish. Some opinions mention potential for a hard fall if certain market support disappears, and others reference ongoing manipulation and shorting around key levels (e.g., 108600). There's also mention of short targets and warnings about possible market traps. Although a few suggest a rebound from bottom structure or trendline support, more direct calls are for shorting or caution. The 1-minute candlestick signal is 'short' considering the majority of actionable signals and warnings about downside risk.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 5,
-    "negative_count": 9,
+    "explanation": "The overall sentiment around BTC in the provided opinions is bearish to neutral with several mentions of manipulation, possible hard falls, and recommendations for shorting around certain levels. There is some mention of trendline supports, but more voices highlight downside risks, caution about bulltraps, and warnings about potential dumps. Only a few suggest possible upward movement, but these are outnumbered by warnings and negative expectations.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 4,
+    "negative_count": 10,
     "neutral_count": 7,
     "representative_opinions": [
-      "the moment that entity stops placing the orders to support price we could fall hard",
-      "btc dominance has been consolidating all day and looking to go up now, any scalp longs should be closed, try and hold swing longs if you bought near the beginning of the move",
-      "Target Hit: Short BTC 4X (3.5% risk)",
-      "crozxz: 108600 good area for short",
+      "Tjeerd Phaff: someone wants btc somewhere... highly manipulated",
+      "Molyn Brefon: should up from here but babababa",
+      "Tjeerd Phaff: the moment that entity stops placing the orders to support price we could fall hard",
+      "Rodolfo: btc dominance has been consolidating all day and looking to go up now, any scalp longs should be closed, try and hold swing longs if you bought near the beginning of the move",
+      "Bear Bull: 107400 and go long",
       "Tjeerd Phaff: i short around 109 or break of trendline",
+      "Jorge smacks: dump",
+      "Jorge smacks: in coming",
+      "crozxz: 108600 good area for short",
+      "Ryan Teng: idk if its a good time to short",
+      "HNterritory: why short now?",
+      "SeÃ±or Joce: Just a scalp short for me, not expecting a 2x lol",
       "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
-      "Tjeerd Phaff: the only thing you had to do was buy every touch of trendline"
+      "Tjeerd Phaff: the only thing you had to do was buy every touch of trendline",
+      "Wide shorts: Send all confederate people to the Favelas in Brazil watch how fast they hold up an American flag",
+      "Neev: the 1 min chart candles are looking flat and ugly witht his vol",
+      "Immigrant Diaries: Looks like a volume stopping candle if it closes like that on the 15â¦ a small one but notableâ¦ we still gotta eye the 5 for it"
     ]
   }
 ]
