@@ -4,29 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants show strong bullish sentiment toward BTC, referencing key price levels, positive momentum on the 1-minute chart, and confirmations from both technical analysis (bullish flag, absorption of sellers, volume spikes) and live trading signals. Several users report being in long trades or preparing to buy, and Marticlues AI gives a specific BTC/USDT long signal. While a few voices warn of short-term volatility or potential dips, the dominant view is bullish, particularly in the very short term.",
+    "explanation": "Multiple participants expressed bullish sentiment on BTC, referencing key support and breakout levels, high trading volumes, and positive technical signals. There are direct calls to 'long' BTC, mentions of bullish flags, and anticipation of further upside if certain price points are breached. Several users cited recent price recoveries, strong buying pressure, and supportive macro factors such as potential Fed rate cuts. There are some warnings of volatility and possible dips, but the overall momentum and consensus lean heavily toward continued upside action in the immediate term.",
     "safe_leverage_isolate_future_perpetual": 5,
-    "positive_count": 17,
+    "positive_count": 19,
     "negative_count": 4,
     "neutral_count": 7,
     "representative_opinions": [
-      "Marticlues AI: Long BTC/USDT:ENTRY=107356.01,TP1=107570.72,TP2=107678.07,TP3=107892.79,SL=106604.51,TA=Long Quest!",
       "Freedumb for Joel: Nice time to buy some BTC",
+      "Marticlues AI: Long BTC/USDT:ENTRY=107356.01,TP1=107570.72,TP2=107678.07,TP3=107892.79,SL=106604.51,TA=Long Quest!",
       "Ferhaan Schmidt: see the long now ,,, i think its confirmed",
-      "Bear Bull: I donât feel like shorting is the right decision short term to be honest",
-      "Billy katoen: easy long all day",
-      "mae chin: bullish flag on daily tf that's why",
-      "JR: 109k here we come",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Y00LKA: i think its prep for upside to > 108",
-      "Joyjit Fun: Sar BTC mein abhi trade le le",
-      "art slandered1: 107100 uptrend absorption?",
       "oscartg638: in long at 107315. Stop loss at 107150",
-      "oscartg638: here come the bulls",
-      "Trading Crusader: Watch $106500 key level",
-      "molyn Brefon: top class",
-      "Freedumb for Joel: BTC donât miss it",
-      "KiloCharley: LFG BTC n stuff"
+      "mae chin: bullish flag on daily tf that's why",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "JR: 109k here we come",
+      "Y00LKA: i think its prep for upside to > 108"
     ]
   }
 ]
