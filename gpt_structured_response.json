@@ -4,25 +4,25 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Mixed opinions with a slight bearish tilt. While some expect a new all-time high (105k-108k), several technical analysts point to recent rejections at trendlines, a double top on higher time frames, and warnings about potential bull traps. Many recommend waiting for a retracement before considering longs, with immediate short-term signals (1-min/15-min) showing weakness or rejection. The overall consensus is cautious, suggesting a likely short-term pullback.",
+    "explanation": "Several opinions note recent rejections at 1-minute and short-term timeframes, cautioning against longing until a retracement occurs. There are warnings about short traps and the risk of further downside or range-bound action. While some mention potential for new highs, the prevailing short-term sentiment is caution, with calls for patience and possible short entries after confirmation. The overall tone suggests waiting for clearer bullish signals before entering long trades.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 12,
-    "neutral_count": 8,
+    "positive_count": 5,
+    "negative_count": 9,
+    "neutral_count": 9,
     "representative_opinions": [
       "PeaPopz: Btc 105k se long pe set h chances of new all time high?",
       "Hamdan Chuhdry: apko kia lagta btc ab $108k touch kry ga",
-      "TraderX: BTC hasn't moved a lot today and alts only move a little compared to BTC. BTC UP 1% ALTS down 10%.",
       "oscartg638: it was rejected at the 1min for sure",
       "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
+      "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
       "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
       "TraderX: To be careful here for those thinking of longing or who did. I felt trapping more likely than not.",
       "Tjeerd Phaff: I would not long until we get a decent retracement",
-      "Ferhaan Schmidt: wait for short",
       "oscartg638: before the new retest at 5min. Now it's definitely looking like a trap.",
-      "oscartg638: 15 looking bad again",
-      "oscartg638: the 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
-      "Amo Menottant: will retrace after locally bouncing on LSOBs"
+      "Ferhaan Schmidt: wait for short",
+      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
+      "Amo Menottant: will retrace after locally bouncing on LSOBs",
+      "oscartg638: 15 looking bad again"
     ]
   }
 ]
