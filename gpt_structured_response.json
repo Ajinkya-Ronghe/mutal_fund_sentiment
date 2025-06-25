@@ -4,21 +4,24 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of relevant BTC comments indicate expectations of upside or bullishness, referencing trend respect on the 15min, support above the 50 MA, and anticipation of a move up to higher price zones (e.g., 108500, 110k). There are also calls for entries and some buy confirmations, but there is notable mention of sideways and choppy markets, as well as warnings about volatility and the need for caution. Therefore, confidence is not high, but the overall sentiment leans long.",
+    "explanation": "Several users are inquiring about BTC entries and showing interest in buying, with some expressing bullish expectations for BTC to reach higher targets (e.g., 108500, 110k). Some users reference bullish price action, MA support, and a bullish pattern. However, there are also mentions of sideways movement and caution about market fluctuations, indicating a mixed but slightly bullish sentiment. There are not enough strong, unanimous signals for high confidence, but the buy side is more actively represented.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 9,
+    "positive_count": 12,
     "negative_count": 3,
-    "neutral_count": 10,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Mausham Neupane: bro the bitcoin is respecting the 15min trend i guess it gonna go up to selling zone.",
-      "Daniel Ho: btc only testing support, as long trading above 50 ma, it's still bullish",
+      "Manpreet singh: bt c entry blo",
+      "Mohit Prajapati âï¸: BHAI BTC ENTRY BATA DO",
       "Panchani Jagnesh: BTC 108500 tak jaega",
-      "Manggala Yatra: this now go buy ,,",
+      "Manggala Yatra: 110k yess",
       "Aspire Crypto ð: bullish pattern ban raha hai...",
+      "Daniel Ho: btc only testing support, as long trading above 50 ma, it's still bullish",
+      "Manggala Yatra: this now go buy ,,",
       "Kshitij Kumar: btc ko uper mat bhejo",
       "Kumar Anand: btc side ways ho gaya",
       "Swapnil Rahate (Swap): BTC ME AJKAL KOIBHI STRATEGY FOLLOW NHI HO RHI",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed"
     ]
   }
 ]
