@@ -4,23 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite significant short-term bearish sentiment and reports of volatility, there are multiple contrarian signals suggesting an impending bullish reversal. Several traders mention key buy zones around 106k-107k, algorithmic buy signals near current levels, and expectations of a bounce to higher targets (108k+). There is persistent demand and trader discipline on the long side, with some warnings against shorting at current levels. The overall market sentiment is choppy, but BTC's limited supply and dominance narrative remain strong. While short-term price action includes both bullish and bearish calls, the most actionable and repeated opinions from experienced voices favor a buy on dips with targets at or above 108k. Use high but manageable leverage with strict risk controls due to volatility.",
-    "positive_count": 11,
+    "explanation": "The opinions reveal a mix of short-term bearish sentiment and broader long-term bullish sentiment for BTC. Despite many short calls around the 106-110k range, several comments indicate strong support at lower levels (103-107k), anticipated rebounds, and an overall belief in BTC's scarcity and coming upside moves. There is repeated mention of algorithmic buy signals and confidence from experienced traders. The presence of high-volume trading activity, significant liquidity at higher levels, and market participants waiting for a reversal or bounce after corrections further reinforce a high-confidence buy on dips. The environment is volatile, but the dominant narrative expects BTC to recover quickly after corrections, and smart money is looking for long entries at key supports.",
+    "positive_count": 13,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 13,
-    "neutral_count": 9,
+    "negative_count": 16,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Ace Winner: Ace algorithm buy call here, target 108.4k",
-      "Unlimited Printsð¤: Itâs buy soon will fly",
-      "FreshEditZone: sir btc 109k up jaya ga",
-      "Afzal Shaikh: 107k ke paas buying zone ho sakta hai Agar bullish pattern bane to",
+      "Marcoco: Alts are unlimited asset, only btc limited",
+      "Ace Winner: Ace algorithm buy call here, target 108.2k",
       "Peace Blessings: Told u 102 then bounce",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "Saurav Pandey: BTC PE AAP OPEN KARKE RAKH LO BHAIYA",
-      "og_comedyman: btc swing analysis please",
-      "Manggala Yatra: this now go buy ,, ",
+      "Fake Buy Wall: ace algorithm",
+      "Scott âXRPfutureMillionaire!â Hobby: It will go back up just as fast",
+      "Unlimited Printsð¤: Itâs buy soon will fly",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "SYKO GAMERZ: smc kehta hai market bulish he",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!"
+      "FreshEditZone: sir btc 109k up jaya ga",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
+      "Saurav Pandey: BTC PE AAP OPEN KARKE RAKH LO BHAIYA",
+      "Manggala Yatra: this now go buy ,,",
+      "DigitalOrgy: Btc C leg completed. Rockets incoming"
     ]
   }
 ]
