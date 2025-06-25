@@ -4,26 +4,26 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of the actionable opinions suggest a bearish outlook for BTC in the short term. Multiple users mention expectations of a price drop, with references to large levels being rejected, upcoming dumps, and BTC being at the top of a descending channel. There are also comments about shorting around the 108k level and expecting a dump on contract expiry. While a few opinions mention holding or longing, the prevailing sentiment and actionable trade ideas are skewed toward shorting or expecting lower prices in the near term.",
+    "explanation": "Multiple participants express bearish sentiment for BTC in the short term, mentioning expected drops, resistance at key levels (e.g., 108k, 109k), and several users entering short trades. There is also mention of a 'short squeeze', but the prevailing mood is caution, with more calls for shorts or warnings of a potential drop, supported by recent price action and resistance at the top of the descending channel.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 10,
-    "neutral_count": 8,
+    "positive_count": 3,
+    "negative_count": 9,
+    "neutral_count": 6,
     "representative_opinions": [
       "Rishabh Jaiswal: q ki 8000 ka leval todne wala hai is liye hold Kiya hu niche bi trap kr chuka hai sir ab dekho upr kya hota hai",
       "plentygolden: maybe sidewYs down for now tho",
       "LÃ³gica y MÃ©todos Discretos: Short now",
-      "BTCBILL : have some business at 109.2 to take care of first, have some short gamblers to ruin first then dip",
+      "Pradeep Gupta: 107700 se maine short kiya hai",
       "Ricky Cohen: 107.775 needs rejection to start a decent short",
-      "Ryan Teng: too much long buying power",
       "Ryan Teng: I think we dumping on friday",
       "SeÃ±or Joce: I think we're going to see a big BTC drop again pretty soon",
       "GoldenChild: Btc is at the top of its descending channel and VAH so it could just reject from here also though. Hoping for that 109k first though",
       "Preparing 4War: I'm short $108k on Blofin",
       "Maria Alexandra Becker : This is a Short Squeeze",
-      "Noob Trader: if goes up next short will be harder",
-      "Snowman âï¸: Holding",
-      "Unlimited Printsð¤: We going to fly soon"
+      "oscartg638: might long at 107200",
+      "oscartg638: if support line holds i'll long to 108300",
+      "Bear Bull: Yeah I will too",
+      "Unlimited Printsð¤: We going to fly soon "
     ]
   }
 ]
