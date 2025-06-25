@@ -4,29 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of real-time comments reflect bearish sentiment or uncertainty. There are mentions of red candles, 'massacre', 'waterfall', and 'dump incoming', along with users discussing covering longs and suggesting short positions around specific levels. Some positive or neutral opinions (e.g., 'hit the bottom', 'good buy') exist, but the overall tone is biased towards a short-term sell/short, particularly for scalpers in the 1-minute timeframe. The market is described as choppy with low volume and flat candles, increasing risk.",
+    "explanation": "The overall sentiment is bearish for BTC based on multiple mentions of 'sell', 'dump incoming', and concerns of a further drop. Several users reference key levels for shorting (e.g., 107400, 108600) and mention market being oversold, waterfall moves, and potential for another leg down. A few bullish or neutral comments exist (trendline bounce, possible bottom structure), but the prevailing mood is caution or anticipating downside, especially in the short-term, with references to Asia market direction and lack of bullish momentum on short timeframes.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
     "negative_count": 15,
-    "neutral_count": 10,
+    "neutral_count": 9,
     "representative_opinions": [
       "Eriya Creative girlð©·ð: bhai abhi sell kar sakte hai",
-      "Molyn Brefon: should up from here but babababa",
-      "Rodolfo: btc dominance has been consolidating all day and looking to go up now, any scalp longs should be closed, try and hold swing longs if you bought near the beginning of the move",
-      "MVRSO: Massacre Soon",
-      "MVRSO: join waterfall now",
+      "MVRSO: asia will short",
       "Bear Bull: 107400 and go long",
       "crozxz: 108600 good area for short",
+      "Dennis Bell: Massively oversold.",
       "Jorge smacks: dump",
-      "Jorge smacks: in coming",
-      "BÐ¾ÑÐ¸Ñ ÐÑÐ¸ÑÐ²Ð°: Red candels",
-      "Butthead: asia gonna dump this B",
-      "Neev: the 1 min chart candles are looking flat and ugly witht his vol",
-      "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
-      "Tjeerd Phaff: the only thing you had to do was buy every touch of trendline",
-      "Tjeerd Phaff: i short around 109 or break of trendline",
-      "oscartg638: 107200",
-      "Akshay Mehra: Bhai btc move hi ni kr rhi"
+      "Rodolfo: btc dominance has been consolidating all day and looking to go up now, any scalp longs should be closed"
     ]
   }
 ]
