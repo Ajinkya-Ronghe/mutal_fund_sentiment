@@ -1,46 +1,27 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
-    "confidence": "medium",
-    "explanation": "There is a significant cluster of opinions favoring short positions or selling BTC at current levels, with several users mentioning active sell trades, identifying a selling area, or expressing caution about upside moves. Some mention profit-taking, stop losses for shorts, and expectation of a near-term dip. However, there is a notable minority with buy/dip-buy ideas and longer-term bullish comments, resulting in only medium confidence.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 8,
-    "negative_count": 18,
-    "neutral_count": 11,
-    "representative_opinions": [
-      "PAThanâs trade labð: Bro sell kia he mene yaha pe",
-      "Vatsal: Bhiya 0.5 lot sell kar diya btc ka stop loss kya rakhu",
-      "PAThanâs trade labð: Bhai sell mara he yaha",
-      "PAThanâs trade labð: Mager selling area he ye",
-      "Alina Bogdan: short boys .. who longs the top?",
-      "Immigrant Diaries: Iâm short nowâ¦ sl is 109kâ¦ looking towards 105.8-106.2",
-      "FitZoneX: it's going to dump",
-      "FitZoneX: short it now",
-      "Axel: BTC still pushing â¦. I see a sweeping of the lows comingâ¦â¦",
-      "art slandered1: Market buyers got absorbed by limit sellers"
-    ]
-  },
-  {
-    "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "low",
-    "explanation": "Some participants are suggesting buying the dip, holding for longer-term upside, or anticipating a reversal after the current correction. However, these are outnumbered by sells/shorts and there is high uncertainty due to volatile and mixed sentiment. Therefore, confidence in a buy is low and the recommendation is cautious.",
-    "safe_leverage_isolate_future_perpetual": 1,
+    "confidence": "medium",
+    "explanation": "There is a mixed sentiment around BTC, with some participants noting recent uptrends, breaking local highs, and considering this a buying opportunity. Several users explicitly mention buying BTC or placing buy orders. While there are short calls and some volatility warnings, the prevailing actionable comments lean toward buying or holding, with expectation of further upside or recovery after a recent drop. No overwhelming consensus on high conviction, but the buy bias is clear.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 8,
-    "negative_count": 18,
-    "neutral_count": 11,
+    "negative_count": 4,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Rohit Dance Studio: Yaha se uppar jaiga upside move dega Trend k opposite jaakr trade kon leta hai",
-      "Super Trader: ab buyer entry kar rahe hai price action growing",
-      "Freedumb for Joel: Nice time to buy some BTC",
+      "KiloCharley: Nice time to buy some BTC",
       "Freedumb for Joel: BTC dont miss it",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "DigitalOrgy: Btc C leg completed. Rockets incoming",
+      "Manggala Yatra: this now go buy ,,",
       "Gourav stock market: I think dip is to buy",
-      "Gourav stock market: I am thinking to buy and hold",
+      "Lundara: huge pump in progress",
       "Thunder: Buy time",
-      "Kane: Soon, buy now or cry later"
+      "FitZoneX: it's going to dump",
+      "FitZoneX: short it now",
+      "PAThanâs trade labð: Bhai sell mara he yaha",
+      "Immigrant Diaries: Iâm short nowâ¦ sl is 109kâ¦ looking towards 105.8-106.2"
     ]
   }
 ]
