@@ -4,20 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The sentiment from the live chat is mixed, but there is a notable increase in negative momentum and warnings of a downtrend. Several users mention key support levels being broken (e.g., $106,500), expectations for a further fall to $104,000, and references to 'crash', 'dump', and large sell volumes at resistance (108k). Some bullish comments exist, such as mentions of 'recovery', but the majority of actionable trading talk skews bearish for the immediate term. There are also direct questions about whether to buy or sell, showing indecision, but more representative opinions are worried about downside or suggest closing longs. No clear high-confidence bullish entries are visible, and the 1-minute sentiment is short-term negative.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
+    "explanation": "The overall sentiment from the live chat is mixed but leans bearish for BTC in the very short term. Multiple participants mention downtrends, major resistance at 108k, large sell volumes, and expectations of further drops to 106k or even 104k. A few bullish or neutral comments exist (e.g., possible support, sideways action, or fireworks for July), but the frequency of negative opinions and warnings about resistance and big sells outweighs the positives. The chat also references manipulation and choppy, indecisive price action, leading to mediumânot highâconfidence in a short-term bearish move. No clear high-conviction consensus for a strong trend, so leverage should be minimal.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 7,
     "negative_count": 16,
     "neutral_count": 9,
     "representative_opinions": [
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "StiD: huge sell volume when it hits (108k)",
       "Abell: The Crash Soon!!",
-      "Noob Trader: 106k max target for short as it might bounce strong like a raber band",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "SeÃ±or Joce: Looks like a downtrend is actually starting now, not enough volume yet though",
-      "Mar Vaey 2.2: it looks to be recovering",
+      "StiD: huge sell volume when it hits",
+      "Molyn Brefon: maybe 106.630 good long maybe",
       "lil porky: we have daily rsi breakout if we close here on btc",
-      "Joyjit Fun: sir BTC mein abhi trade le le"
+      "Mar Vaey 2.2: it looks to be recovering"
     ]
   }
 ]
