@@ -1,24 +1,25 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of recent BTC-related opinions indicate short positions or expectations of a near-term decline. Multiple participants mentioned selling BTC, setting stop-losses for shorts, or expecting BTC to fall to lower levels (e.g., 104k-106k). Some mention big fluctuations and volatility ahead. There are a handful of positive (buy-the-dip) and long-term bullish comments, but short-term sentiment leans bearish or cautious.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 13,
-    "neutral_count": 6,
+    "explanation": "There is a mix of short-term bearishness and long-term bullishness in the opinions, with some traders calling for immediate shorting due to potential pullbacks and others emphasizing buy opportunities on dips and a positive outlook for the next weeks. The presence of both strong selling (shorts) and several explicit buy encouragements and FOMO language suggests a choppy market but with underlying bullish sentiment and possible upcoming volatility. Several comments highlight current or upcoming volatility and suggest âdonât missâ the opportunity to buy, especially for the longer term.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 10,
+    "negative_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Vatsal: Bhiya 0.5 lot sell kar diya hai btc mein kal news ke liye stop loss kitna rakhu",
-      "Immigrant Diaries: Iâm short nowâ¦ sl is 109kâ¦ looking towards 105.8-106.2",
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "tametheark: ...then entered a BTC short near this local top. I'm a beast!",
-      "FitZoneX: it's going to dump; short it now",
-      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
-      "KiloCharley: Nice time to buy some BTC",
+      "Freedumb for Joel: Nice time to buy some BTC",
       "Freedumb for Joel: BTC dont miss it",
-      "Gourav stock market: I think dip is to buy"
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Lundara: huge pump in progress",
+      "Manggala Yatra: this now go buy ,, ",
+      "Gourav stock market: I think dip is to buy",
+      "KiloCharley: LFG BTC n stuff",
+      "FitZoneX: it's going to dump",
+      "Immigrant Diaries: Iâm short nowâ¦ sl is 109kâ¦ looking towards 105.8-106.2",
+      "Axel: BTC still pushing â¦. I see a sweeping of the lows comingâ¦â¦"
     ]
   }
 ]
