@@ -4,22 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite significant mixed and bearish chatter, several technical signals and live trade updates indicate BTC is in a reversal or bounce phase, particularly after a period of heavy shorting and liquidation. Real-time M1 chart signals, references to a bounce and potential for sharp moves, and active discussion of long strategies (especially after a pullback) support a high-confidence buy. Many traders are preparing for volatility, but the most recent actionable signals and rapid profit-taking on shorts suggest a bullish scalp or bounce setup on the 1-minute chart. Risk appetite is high, but leverage should be managed safely.",
-    "positive_count": 10,
+    "explanation": "Despite mixed short-term sentiment and volatility warnings, a cluster of opinions and signals recommend buying or holding BTC. Notably, the Marticlues AI bot issued three consecutive BTC/USDT long signals on the 1-minute chart, targeting incremental take-profits up to +0.5%. While a significant portion of the chat discusses shorting or expecting a pullback, algorithmic and experienced trader commentary points toward favorable long scalps and the potential for quick rebounds. Consolidation and liquidity sweeps are mentioned, but the dominant AI candlestick signal is long. The environment is volatile, with war/news risk and warnings of big moves, but the structured signals and several traders' willingness to re-enter after dips support a high-confidence buy with isolated high leverage for experienced traders only.",
+    "positive_count": 9,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 8,
-    "neutral_count": 6,
+    "negative_count": 7,
+    "neutral_count": 5,
     "representative_opinions": [
       "Marticlues AI: BTC/USDT Long Score TP1!: P=105541.48,+0.2%",
       "Marticlues AI: BTC/USDT Long Nail TP2!: P=105541.48,+0.3%",
       "Marticlues AI: BTC/USDT Long Boom TP3!: P=105541.48,+0.5%",
+      "Manggala Yatra: this now go buy ,,",
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
+      "Aman Tiwari: support se bounce back bhi le sakta h",
       "Jemerson Paulo: btc i think its will pullback first to 104k then pump",
-      "Joshua Kaye: Reversal incoming",
-      "Y00LKA: well there is more liquidations on the bottom . possible quick pick towards 108 but closer to downside . i dont expect much move for next 1h sideways till new move happens lets observe.",
-      "Sarvagya: @crazy Lucky nahi yarr btc ki leverage kamm hai only 2x",
-      "PRO TUBE: BTC ne uper ki liquidity saaf ki hai isiliye gir rha ha Me ne sell dala profit hua",
-      "Manggala Yatra: this now go buy ,, ",
-      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed"
+      "Sabo: Maine just kiya hai 3% hai 20x se"
     ]
   }
 ]
