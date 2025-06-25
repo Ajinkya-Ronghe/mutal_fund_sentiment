@@ -4,19 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment leans bearish with multiple users expressing ongoing or planned short positions, discussing resistance at higher levels, and mentioning high open interest suggesting a possible correction. While there are isolated bullish comments, the weight of opinions, especially among vocal traders, signals short-term downside risk. The confidence is not high due to some uncertainty and the presence of a few bullish voices.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Mixed but leaning bearish: several participants mention holding shorts from 108K+, expecting correction due to high open interest, low volume, and liquidity grabs below. Some call for a blow-off top or correction soon, while a few mention longing or bullish structure, but the negative/neutral mentions dominate the current sentiment.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 5,
-    "negative_count": 11,
+    "negative_count": 10,
     "neutral_count": 7,
     "representative_opinions": [
-      "Multigang: im als in the short from 108050",
-      "Target Hit: I'm trying to close 75% of BTC and SOL now",
       "andrei lucian varvaruc: aggregated open interest - spike very high in the last 36 hours, that's mean we can see soon correction",
-      "Guitar 2.0: Bhai neechy to tofan hona btc m",
+      "Multigang: im als in the short from 108050",
       "Bruce Wayne: they killing shorts again and again nothing changed months non stop of massacres",
+      "Patch Daddy: im selling all mine",
+      "Corey: I want my btc 108,880 limit short to hit so bad",
+      "Target Hit: I'm trying to close 75% of BTC and SOL now",
+      "ChaudharySB: MATLAB BTC ki jidhar zyadah liquidity ho udhar ki trade laga lo",
       "Otaku WeebTV: will btc grab the 1M liquid $11k or will go down ??",
-      "ChaudharySB: MATLAB BTC ki jidhar zyadah liquidity ho udhar ki trade laga lo"
+      "Guitar 2.0: Bhai neechy to tofan hona btc m",
+      "Multigang: we dont go much abve 10800"
     ]
   }
 ]
