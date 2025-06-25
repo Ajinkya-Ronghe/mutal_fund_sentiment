@@ -4,27 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There is a notable increase in negative sentiment and caution, with several users calling for short positions or expecting a major downward move. Some users mention technical levels and trendline breaks that suggest potential bearish momentum. However, there are also a few bullish or neutral opinions, and no extreme consensus, leading to a medium confidence rating.",
+    "explanation": "There is a notable split in sentiment for BTC. Some participants highlight a recent price retest of 99k followed by a move to 107k and suggest zooming out (bullish), but a cluster of opinions and calls indicate bearishness in the short term: repeated mentions of a 'biggest short', 'short it, bet your house on it', and traders discussing breakdowns and entering shorts at double tops. There are also technical mentions of price holding at support, trendline breaks, and waiting for retests, which point to indecision but a bearish tilt in the immediate term. No direct, actionable bullish 1-minute signals were given.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 10,
-    "negative_count": 13,
-    "neutral_count": 11,
+    "positive_count": 5,
+    "negative_count": 8,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Dogald Trump: btc just re tested 99k and now its 107k, zoom out zoom out zoom out",
+      "Dogald Trump: btc just re tested 99k and now its 107k, zoom out zoom out zoom out zoom out",
+      "JUDAS THE TRAITOR: THIS IS VERY COOL STUFF BTC IS DOING RIGHT NOW!",
       "MVRSO: THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN",
       "BTCBILL : short it, bet your house on it",
-      "TraderX: 107.2 is the 200 on the 5 min need to hold that or we're going lower",
-      "XRPLparadise: I SEE A BULL FLAG",
-      "Matt S: long as we close above 106.8k its technically successful, everything else is dead tho",
+      "Tjeerd Phaff: I eneterd a short when we had double too",
       "oscartg638: touching ichimoku cloud support",
-      "oscartg638: aligns with trend line",
-      "oscartg638: holding",
-      "Joey: it's going up",
-      "Bear Bull: Longerinooooo",
-      "Solidity Monster: I'm going to short and long this now",
-      "Ricardo Sala: good risk management!",
-      "Matt S: alts would need to pump 5-10% from here",
-      "Matt S: its cause mms will just do the opposite of what everyone else do, everyone was xpcting 10-20x gains, so they just simply wont let it happen, more profitable for them lol"
+      "Matt S: long as we close above 106.8k its technically successful, everything else is dead tho",
+      "XRPLparadise: I SEE A BULL FLAG"
     ]
   }
 ]
