@@ -4,26 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mixed sentiment among participants, but several messages suggest BTC is in a phase of accumulation, approaching key liquidity levels, or poised for a bounce, with others mentioning buying opportunities and upcoming rate cuts potentially being bullish. However, manipulation and risk of further downside are noted, so confidence is medium.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 14,
-    "negative_count": 10,
-    "neutral_count": 13,
+    "explanation": "The sentiment for BTC is mixed but with a slight positive leaning. Several users mention price levels where BTC could bounce or accelerate upwards (e.g., 'need bounce up on 107750', 'if dayli close above 107k tomorrow will a great day', 'BTC still pushing â¦ I see a sweeping of the lows coming', 'nice time to buy some BTC', 'BTC dont miss it'), and discussion of possible higher targets (e.g., 'Maybe 115k guys'). There is also mention of manipulation, sideways action, and some users shorting or expressing caution. Overall, more users are looking for bounces, potential upside, or suggesting buys at dips than are aggressively calling for shorts. The presence of new highs, bounce targets, and 'buy' calls pushes the candlestick signal and trade suggestion to 'long/Buy', but the confidence is 'medium' due to conflicting short-term opinions and references to volatility and manipulation.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 11,
+    "negative_count": 7,
+    "neutral_count": 8,
     "representative_opinions": [
       "Florent Raes: if dayli close above 107k tomorrow will a great day",
-      "KiloCharley: LFG BTC n stuff",
-      "Freedumb for Joel: Nice time to buy some BTC",
+      "KiloCharley: Nice time to buy some BTC",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Ruben van Eek: It looks like it wants to go higher",
       "Gourav stock market: I think dip is to buy",
-      "Manggala Yatra: this now go buy ,, ",
-      "DigitalOrgy: Btc C leg completed; Rockets incoming",
-      "FitZoneX: it's going to dump",
+      "Manggala Yatra: this now go buy ,,",
       "Immigrant Diaries: Iâm short nowâ¦ sl is 109kâ¦ looking towards 105.8-106.2",
+      "FitZoneX: it's going to dump",
       "Super Trader : btc fully manipulating the retailer",
-      "Business Bull: down",
-      "Neev: right now my tp is at 108801 cuz i like the number",
-      "Joyjit Fun: sir BTC me trade le keya demo me"
+      "Mustafijur Rahman: BTC Nikal jane ka kasis karta hai .",
+      "DigitalOrgy: Btc C leg completed; Rockets incoming",
+      "Ruben van Eek: It looks like it wants to go higher"
     ]
   }
 ]
