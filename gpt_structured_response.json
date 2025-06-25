@@ -1,29 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There is a mixed but overall slightly bullish sentiment for BTC. Some users expect a correction or are holding shorts, but others reference big moves higher, breaking out, or a possible pump. Multiple users say 'buy now or cry later', 'nice time to buy some BTC', and mention targets of 120k and higher. However, there is notable caution about high prices and possible corrections, with some traders preferring to short at resistance. The 1-minute chart is referenced in a Nightbot alert, suggesting active trading signals, and the mention of 'huge green candle' and 'buyers have control' adds evidence for a short-term long bias. Confidence is not high due to the amount of uncertainty and calls for both long and short positions.",
+    "explanation": "BTC sentiment is mixed but leans bearish. Several users are discussing ongoing short positions, expectations of downward moves, and a possible correction. There's mention of limit short orders, profit targets below current levels, and warnings about buying at regional highs. However, there are also bullish voices anticipating a pump or new ATH, but these are less frequent and less assertive. The overall market tone suggests caution and a short bias in the immediate term.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 12,
-    "negative_count": 8,
-    "neutral_count": 9,
+    "positive_count": 8,
+    "negative_count": 15,
+    "neutral_count": 7,
     "representative_opinions": [
-      "MOON CAT: HUGEGREENCANDLE HUGEGREENCANDLE HUGEGREENCANDLE",
-      "Freedumb for Joel: Nice time to buy some BTC",
-      "KiloCharley: 122k it?",
-      "Freedumb for Joel: BTC dont miss it",
       "Bruce Wayne: they killing shorts again and again nothing changed months non stop of massacres",
-      "Preparing 4War: BTC just begging for a correction though",
       "Multigang: im als in the short from 108050",
+      "Corey: I want my btc 108,880 limit short to hit so bad",
+      "Preparing 4War: BTC just begging for a correction though",
       "Frederic: this is at a regional high, there is no buy here, u do not buy the high , and there is no short signal",
+      "Florent Raes: diivergence bears",
       "Ruben van Eek: This is it guys, blow off top - 150k",
-      "CHAMP: next stop 120k folks",
-      "Otaku WeebTV: will btc grab the 1M liquid $11k or will go down ??",
-      "Koute Mohamed: how about BTC",
-      "Suresh Xettri: bhai btc kidar move hogi batadije please",
-      "Fauxanism: btc to bhaag rha h"
+      "AmviciousRav: Btc rocket is refueling for next week"
     ]
   }
 ]
