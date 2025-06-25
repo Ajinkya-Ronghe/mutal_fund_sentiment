@@ -4,27 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "BTC sentiment is mixed but leans positive with many suggesting buying on trendline breaks, holding above key levels like 106,500, and some expecting a new all-time high or further upside. Some comments caution about volatility and possible local dips, but the majority see BTC as outperforming alts, with several asking if now is a good time to buy and others confirming active trades. Shorters and bears are present, but bulls are slightly more vocal especially around key levels and recoveries. Suggest isolated low leverage due to intraday volatility and mixed signals.",
+    "explanation": "There is a mix of bullish and bearish sentiment, but the overall volume of positive opinions around buying, holding, and BTC dominance shifting from alts suggests a buy bias. Several users mention key levels holding (106,500â107,200), 'BTC time', and interest in buying/holding. Some warnings about trendline breaks, liquidations, and short calls exist, but net sentiment is slightly bullish for near-term scalps or short-term trades.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 15,
+    "positive_count": 18,
     "negative_count": 9,
-    "neutral_count": 7,
+    "neutral_count": 12,
     "representative_opinions": [
-      "Eriya Creative girlð©·ð: bhai trend line break hone ke baad bhi li ja sakti hai trade",
       "Bear Bull: The time has come for me to open a new long!",
       "KiloCharley: LFG BTC n stuff",
       "Freedumb for Joel: Nice time to buy some BTC",
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time.",
-      "Goldy Singh: Ab green me aya trade 3.5 dollar profit running brother",
-      "Twelve: BTC ke Nakhre to larkiyo se b jyada hai. 3 dino se bachaye hi jarae",
-      "Ricardo Sala: price go upstairs and get down in elevator",
-      "Matt S: ya after under performing, so for me no need to look at them again, ill stick to scalping btc",
-      "eesa rk: abhi buy kar sakte hai ? btc",
-      "Gourav stock market: I am thinking to buy and hold",
-      "Trading Crusader: Watch $106500 key level",
-      "claus knudsen: Nahh, I got shorts going. Wanna see if BTC can hold 106 k here",
-      "Ricardo Sala: I see liquidations above 108.7k",
-      "Dogworld: time for 109k!"
+      "Joyjit Fun: Sar BTC mein abhi trade le le",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Deer: why is alt coin going down and btc up",
+      "Y00LKA: because ppl selling alts to get BTC",
+      "Matt S: ya after under performing, so for me no need to look at them again, ill stick to scalping btc"
     ]
   }
 ]
