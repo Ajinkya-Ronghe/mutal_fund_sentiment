@@ -1,27 +1,32 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
+    "1_minute_candlestick_signal": "neutral",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions are mixed but several users advocate for buying and holding BTC, dollar cost averaging, and expecting upward movement after a volatile or sideways period. Some caution about sideways or trap markets, but sentiment includes long trend signals, buy recommendations, and positive remarks about BTC's resilience. There is also mention of macro events (rate cuts) possibly acting as a catalyst. Short-term volatility and market liquidity sweeps remain a risk, so leverage should be kept low.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "BTC sentiment from the live chat is mixed, with sideways action, major resistance noted, and both bullish and bearish voices. However, repeated advocacy for buying and holding BTC (e.g., DCA, 'always buy BTC', 'don't miss it') and a tendency for users to see dips as buying opportunities suggest a medium confidence buy signal, especially for those using dollar-cost averaging or spot positions. No strong unified short-term candlestick signal, but longer-term bias leans positive. Leverage should be minimized due to high volatility and mixed signals.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 11,
-    "negative_count": 7,
-    "neutral_count": 7,
+    "negative_count": 9,
+    "neutral_count": 6,
     "representative_opinions": [
+      "Preparing 4War: Long the BTC trend at VWAP",
       "oscartg638: always buy btc. trade only what you're willing to lose and the rest put in cold wallet. Dollar cost average.",
-      "Freedumb for Joel: Nice time to buy some BTC",
       "Gourav stock market: I think dip is to buy",
-      "Mar: it will explode up as always",
-      "Guitar 2.0: Hold is Gold very soon",
-      "DigitalOrgy: Rockets incoming",
-      "Manggala Yatra: this now go buy ,, ",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "FitZoneX: it's going to dump",
-      "FitZoneX: short it now",
+      "Mar: it will explode up as always",
+      "DigitalOrgy: Btc C leg completed. Rockets incoming",
+      "Freedumb for Joel: Nice time to buy some BTC",
+      "Bookmap4u: Market buyers got absorbed by limit sellers",
+      "StiD: huge sell volume when it hits",
       "Adarsh Jaiswal: Market sideways hai bhai trap krke sl hunt krega sirf support ya resistance brake kre tbhi setup bna ke trade lene layak hai",
-      "StiD: strange if we go throught 108k without volumes",
-      "StiD: huge sell volume when it hits "
+      "FitZoneX: short it now",
+      "Lex: Short all the way",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "Manggala Yatra: this now go buy ,, ",
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
+      "Chris: short this pos"
     ]
   }
 ]
