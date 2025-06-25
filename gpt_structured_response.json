@@ -4,19 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Majority of the recent opinions and chat reactions point to a bearish momentum or expectation of further downside in BTC in the immediate term. Multiple users mention 'crash', 'dump', 'downtrend', or lower price targets (e.g., $104k, $106k, 'massacre', 'waterfall'). There are also references to key levels being broken (e.g., $106500) and the start of a downtrend. However, a few messages also mention possible rebounds or manipulation, so sentiment is not unanimously negative, but the short-term candlestick and crowd sentiment lean bearish.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 15,
-    "neutral_count": 8,
+    "explanation": "The sentiment in the chat indicates increased bearishness and anticipation of a price drop for BTC. Multiple users mention terms such as 'downtrend', 'crash', 'dump', and 'big short'. Key levels (106400, 104400, and 106500) are discussed for potential further declines. Some voices note price support, but the overall tone is cautious, with bears growing more vocal and participants suggesting to close longs and prepare for a downward move. There is also mention of low volume and concern over manipulation, adding to the uncertainty.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 8,
+    "negative_count": 16,
+    "neutral_count": 6,
     "representative_opinions": [
       "Abell: The Crash is here",
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Immigrant Diaries: Big sells coming in",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "SeÃ±or Joce: Looks like a downtrend is actually starting now, not enough volume yet though",
-      "Tjeerd Phaff: someone wants btc somewhere... highly manipulated",
-      "Mar Vaey 2.2: it looks to be recovering",
-      "Molyn Brefon: maybe 106.630 good long maybe"
+      "Immigrant Diaries: Big sells coming in",
+      "Tjeerd Phaff: the moment that entity stops placing the orders to support price we could fall hard",
+      "Noob Trader: 106k max target for short as it might bounce strong like a raber band",
+      "andrei lucian varvaruc: key target is 109000 and 106400, let's se where is going",
+      "Rob Zzzeed: yes we sad in long..;(",
+      "Trading Crusader: Watch $106500 key level"
     ]
   }
 ]
