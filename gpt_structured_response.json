@@ -1,27 +1,32 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "neutral",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "sideways",
+    "signal": "Neutral",
     "confidence": "medium",
-    "explanation": "Opinions are highly mixed and the market is described as sideways and consolidating, but there are several calls for BTC buys, mentions of strong support at 104k-106.5k, and expectations of a positive move if the daily close holds above 106.5k. Significant negative sentiment about recent drops is balanced by optimism for recovery and sideways action suggests low immediate downside risk. Short-term volatility and false breakouts are cautioned, but the mood is overall cautiously bullish for a bounce or recovery.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 12,
+    "explanation": "BTC sentiment in the live talk is highly mixed. There is mention of sideways price action, indecision, and a lack of clear confirmation for either bullish or bearish positions. Some expect further drops, others anticipate a bounce, and several are waiting for a daily close to confirm direction. Notably, there is mention of consolidation, traps, and both short and long liquidations. The 1-minute candlestick signal shows chop/sideways, as there is no consensus for a strong move in either direction at the moment. Most participants suggest waiting for more confirmation or a daily close before committing to a trade.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 8,
     "negative_count": 10,
-    "neutral_count": 19,
+    "neutral_count": 15,
     "representative_opinions": [
-      "Risky trade : btc buy kar sakte hai",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Matt S: id wanna see a daily close around 106.5k + to remain bullish",
+      "Amit Anand: abhi kuchh bhi confirmation nahin hai",
+      "trade with rishu: bhai jidhar bhi breakout hoga 1st wo trap rahega then opposite side fat jayega",
+      "Diana X: Itâs just bots doings their thing lol nobody else is playing with BTC",
+      "oscartg638: don't forget, from a high of 10.9k on june 9th to a low from sunday btc has retraced 0.786",
+      "@tokthailand: 120k end June no chance",
+      "RaberTrades: caution is definitely warranted",
       "Matt S: for now looks like bears baited again tbh",
-      "Mike S: now it'd be midweek reversal territory tonight/tomorrow imo",
+      "Matt S: dont think were gonna know til daily close",
+      "Matt S: as expected sideways to piss everyone off",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Michael Montesano: btc is the little engine that could today geesss",
       "Dennis H: Btc ist zum kotzen heute",
       "emazu: bitcoin so tot letzten 2 tage",
-      "oscartg638: the pull back from here could be real, guys",
-      "RaberTrades: so caution is definitely warranted",
-      "Shivam b: sideways lag raha h",
-      "Matt S: dont think were gonna know til daily close",
-      "art slandered1: Market buyers got absorbed by limit sellers"
+      "Risky trade : btc buy kar sakte hai",
+      "Risky trade : chalye btc buying karte hai upside",
+      "FitZoneX: it's going to dump",
+      "FitZoneX: short it now"
     ]
   }
 ]
