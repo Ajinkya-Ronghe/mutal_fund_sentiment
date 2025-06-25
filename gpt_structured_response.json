@@ -4,22 +4,29 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite mixed short-term sentiment and volatility, there is strong support for a bullish outlook on BTC, especially on retests of key levels (e.g., USDT dominance at 5.0%). Several experienced traders indicate a preference to enter long positions at these points. Multiple users discourage shorting BTC now and suggest waiting for ideal long setups. The 1-minute candlestick and recent price action analysis support a buy signal with high leverage for experienced traders. Representative opinions mention expectations of a major move within 24-48 hours, and strong buying activity on dips, suggesting high confidence in a bounce or continuation upward. While there are some short calls and caution due to volatility, the net sentiment among influential opinions is bullish for tactical long entries.",
-    "positive_count": 9,
+    "explanation": "Despite mixed short-term sentiment and volatility, the majority of recent opinions highlight strong buying interest on dips, anticipation of bullish breakouts, and support at key levels. Multiple users mention waiting for a long entry when USDT dominance hits certain thresholds, strong resistance holding, and a general bias towards continued upward movement. Caution is advised for short positions at current levels; a retest and breakout to higher targets is expected by several stream participants. Notable support at 106200 and the view that price could trend towards 120k further boosts bullish confidence. The consensus is to buy on dips, use technical confirmation, and maintain high but isolated leverage due to volatility.",
+    "positive_count": 17,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 6,
-    "neutral_count": 5,
+    "negative_count": 7,
+    "neutral_count": 10,
     "representative_opinions": [
       "Jemerson Paulo: but if usdtdom touch 5.0 i will enter long in BTC",
       "KryptoSquad: all in in btc, eth and sol :D",
-      "KryptoSquad: @Ilias Gaddur wait for the perfect long entry :)",
       "Hugo Adam: btc still need to clase below at around 106200, for now it could just be a breakout and a retest to go higher",
+      "Sir Creeden: 103k soon",
       "Robert Parham: I donât know where the bottom is but Iâm just buying every level. I want to see 120k by the weekend",
+      "Afzal Shaikh: Bhai Bullish view hai Bitcoin me mera",
+      "Khokan Das: bhai btc buy korlo btc upore jayga",
       "Travel with Nik: Btc ka batado",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
       "Manggala Yatra: this now go buy ,,",
-      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
+      "Saint Ouens: in general, the structure is bearish for now, sellers are clearly putting pressure, volumes are good on the fall. if the price returns above 107300, we will have to reassess the situation, but for now everything is in favor of a price decrease",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "DigitalOrgy: Btc C leg completed. Rockets incoming"
+      "Indy: Nope close above 107k is bulish",
+      "GT the Roaster: btc will go down looks like",
+      "oscartg638: next three to four 15min candlesticks will determine direction",
+      "Bang mateskueen: time to short",
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed"
     ]
   }
 ]
