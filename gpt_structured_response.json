@@ -4,22 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The overall sentiment for BTC is bullish with multiple users referencing upward targets (e.g., 109300, 110k, 115k, and much higher), reports of large profits from recent long positions, and direct comments stating BTC 'will never go down' and 'is going rocket.' Positive technicals are mentioned, such as cup and handle patterns, bullish divergences, and support bounces. While some shorts and cautionary voices exist, the bullish sentiment notably outweighs them. Powell's testimony and macroeconomic factors like rate cut expectations are also seen as upside catalysts. The count of positive opinions, strong upward momentum, and lack of significant new bearish technical arguments support a high-confidence buy recommendation with a 1-minute candlestick long bias. Safe leverage suggested by the community is up to 20x isolated perpetuals.",
-    "positive_count": 27,
+    "explanation": "BTC is showing strong resilience above key support levels with multiple users noting significant upside momentum, large profit-taking by longs, and expectations of further gains if Powell hints at rate cuts. There is continued bullish sentiment despite some shorting activity, with several users capturing large profits on recent long trades and expecting 109k+ targets soon. The presence of cup and handle patterns and positive correlation with gold's rise further supports a bullish bias. Short-term corrections are mentioned, but overall sentiment and technicals favor a buy on dips approach.",
+    "positive_count": 11,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 10,
-    "neutral_count": 15,
+    "negative_count": 4,
+    "neutral_count": 10,
     "representative_opinions": [
       "Fawaz Habib: Gold is increasing and BTC as well",
-      "claus knudsen: BTC will hit 185 - 241 k in January ... lol",
-      "Zsanett SzabÃ³: i long 8 alt at btc 98k i never had such a good week like this",
-      "Jemerson Paulo: 109300 soon",
+      "Zsanett SzabÃ³: i long 8 alt at btc 98k i never had such a good week like this, i was very uncomfortable with my profit i need tp it but maybe we can go higher",
       "AdriÃ¡n Bailey: If Powell even mentions 'possible cuts in september', we are going to 115k",
-      "Mark Crew: THE MSTR FLYWHEEL IS REAL",
-      "bijesh paraprath: BTC bol raha hai me ab kabhi nahi neeche aayoga",
+      "claus knudsen: BTC will hit 185 - 241 k in January ... lol",
+      "Pk Lucas: BTC close to 110K",
+      "mae chin: only 2red candles since 98 233",
+      "Vikram studio : bhai BTC 108500 Tak jaega hold karo",
+      "Sameer: btc target upside?",
       "Tayyab Shaikh: 1300 points capture in BTC, 106840 se entry liya tha maskedtraderlive channel se",
-      "bhupesh goyal: bhai BTC is going rocket",
-      "Vikram studio : bhai BTC 108500 Tak jaega hold karo"
+      "Atif Hussain: btc correction lega",
+      "Mark Crew: HOW MSTR WILL ROLL IN BTC PUMP- shorts not hedged with BTC will BREAK, causing shorts hedged with BTC to break, leading to higher NAV, pushing price of MSTR HIGHER as yield skyrockets"
     ]
   }
 ]
