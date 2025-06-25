@@ -4,21 +4,30 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite some bearish short-term sentiment and volatility, the overall consensus from recent live opinions suggests strong bullish momentum ahead for BTC. Multiple participants discuss trendline support on short timeframes, signals to wait for a long entry, and expectations for significant upside targets (e.g., 70k, 103k, 120k, 240k). Several traders mention buying at current levels, holding through dips, or waiting for confirmation of reversal to re-enter long. Notably, large fluctuations are expected in the next weeks, but the majority are seeking buy setups and expressing positive sentiment for BTC's next move. Candlestick and trendline analysis on 1m, 15m, and 1h timeframes are referenced as supporting bullish entries.",
-    "positive_count": 29,
+    "explanation": "Despite volatility and a mix of bullish and bearish short-term calls, the prevailing sentiment across the live chat is to buy or hold BTC. Multiple users discuss support levels, trendlines, and potential for upside moves, with several urging to avoid shorting for now and highlighting strong buy signals from algorithms and traders. The overall crowd expects higher levels soon, with some pointing to technical setups for a breakout. There is also evidence of major players buying at every level and a consensus to wait for perfect long entries rather than short. The risk of sudden dips is acknowledged, but buying opportunities are emphasized, and most suggest buying or holding rather than selling.",
+    "positive_count": 18,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 12,
-    "neutral_count": 10,
+    "negative_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
-      "KryptoSquad: @Ilias Gaddur wait for the perfect long entry :)",
-      "Yash Goyal: 1 hour pe btc trend line ko follow karra Hai pls check",
-      "Robert Parham: I donât know where the bottom is but Iâm just buying every level. I want to see 120k by the weekend",
+      "KryptoSquad: wait for the perfect long entry :)",
+      "Ace Winner: Ace algorithm buy call stands here. Target 108.4k",
       "Khokan Das: bhai btc buy korlo btc upore jayga",
       "Afzal Shaikh: Bhai Bullish view hai Bitcoin me mera",
+      "brinkrya: should pump soon though",
+      "Robert Parham: I donât know where the bottom is but Iâm just buying every level. I want to see 120k by the weekend",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Yash Goyal: 1 hour pe btc trend line ko follow karra Hai pls check",
       "Manggala Yatra: this now go buy ,,",
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
+      "Cloud tech gadgets : Buy krene ka kya logic hau",
+      "Travel with Nik: Btc ka batado",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "GT the Roaster: btc will go down looks like",
+      "bang mateskueen: time to shlrt",
+      "bang mateskueen: time to short gae",
       "Shristi shivam vlogs: btc",
-      "Shristi shivam vlogs: ohi trandline ka bare bataya"
+      "shubham bakhade: abhi crude me kaha entry bana sakte hai"
     ]
   }
 ]
