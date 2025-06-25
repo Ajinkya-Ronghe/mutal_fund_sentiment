@@ -4,19 +4,30 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The live chat contains a mix of opinions, but there are several positive and neutral signals for BTC. While some mention market uncertainty and waiting for confirmation, others note bullish patterns (such as hammer candlesticks and bull flags) and positive sentiment about BTC's resilience and upcoming events like potential Fed rate cuts, which are viewed as bullish for crypto. However, a few are still cautious, waiting for clear breakouts or confirmation, and some refer to possible short-term volatility. The overall tone leans more positive than negative.",
+    "explanation": "The chat reflects mixed but slightly bullish sentiment for BTC. Some users mention a 'bull flag' and imminent breakout, referencing bullish formations and upcoming volatility. A few warn of potential dips or a final dump before a pump, but the overall tone, especially around talk of a Fed rate cut, leans toward an optimistic eventual move up. No strong short signals were discussed for BTC. Several comments focus on orderbook dynamics, profit-taking, and DCA (dollar-cost averaging) strategies, which imply ongoing accumulation and preparation for an upward move. The 1-minute focus and calls for closing shorts further support a near-term bullish bias.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
     "negative_count": 3,
     "neutral_count": 7,
     "representative_opinions": [
-      "JUDAS THE TRAITOR: THIS IS VERY COOL STUFF BTC IS DOING RIGHT NOW!",
       "Nillionaire: If this *is* a giant bull flag, I think now is the time, yes.",
+      "FARD N SHIDDER: I think bottom line wants to go up I'm thinking of closing shorts please advise.",
+      "Butthead: rate cuts will definitely be very very bullish ",
       "oscartg638: bullish 5 min",
-      "Samado: if there any big news tomorrow it may pump but i feel itâs quite now it either stays or go down",
+      "Jason H: Been DCAâing since February and down to 2.20 cost average finally.",
+      "B.A.M: i think that would be the final dip before the pump",
+      "Ahmad Khalid: 400btc wall at 107 ",
+      "Rowbot: oh no.... its over",
+      "MVRSO: THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN",
       "B.A.M: apparently according to Tino when fed pivots there a big dump",
-      "Butthead: rate cuts will definitely be very very bullish",
-      "Ahmad Khalid: 400btc wall at 107"
+      "C-130: If hostilities pick back up and the price goes down I will make a purchase. 100 bucks because I'm already well funded",
+      "Ricardo Sala: Just move SL to BE and you will sleep in peace",
+      "oscartg638: if you are unable to see profits evaporate instead of closing position, you either way will not sleep well.",
+      "oscartg638: steady, Ferhaan. It hasn't confirmed",
+      "Solidity Monster: 4 minutes for the new hourly candle, then it will decide.",
+      "Ferhaan Schmidt: i will start long ??? lol",
+      "Ferhaan Schmidt: i wait",
+      "Dogald Trump: Bitcoin is like the invention of the wheel - you dont change the wheel, you dont make it a fking triangle, you just put a rubber tire on it and keep rollin"
     ]
   }
 ]
