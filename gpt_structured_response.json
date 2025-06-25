@@ -4,22 +4,23 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Sentiment is mixed but leans bearish in the short term. Many users discuss shorting at current levels (107-108k), expecting further downside or relief drops. There is mention of exhaustion after a strong up-move and concerns about liquidity grabs and stop hunts. However, there are some bullish voices expecting another push higher or longer-term upside. The positive and negative opinion counts are close, indicating indecision, but the immediate crowd focus is on short-term correction and volatility.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 10,
-    "negative_count": 13,
-    "neutral_count": 7,
+    "explanation": "There is significant indecision and volatility in BTC price action, with many traders discussing failed breakouts, resistance at key levels, liquidity grabs, and expectations of a relief drop after a rapid climb. Multiple opinions suggest short-term exhaustion, potential for further downward moves, and the need to hunt stops below before any sustained upward momentum. However, there are also bullish long-term voices, but the 1-minute sentiment is weighted toward a short-term retracement or consolidation. The candlestick signals are mixed, but the majority in the immediate timeframe lean bearish or cautious.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 11,
+    "negative_count": 17,
+    "neutral_count": 16,
     "representative_opinions": [
+      "Dragon editz: sir agar resistance pe higher low banta hai toh buyers are willing to buy at higher price despite price being at resistance which means significant buying pressure.",
       "Josema: Once This gets rejected at this levels again, bears will become much more confident, and we will drop much harder than 108 to 106, this is 100% a short IMO",
-      "HolDasBier: SHORT!!!!!!",
       "Mix videos: no chance of going upp",
-      "Lehnser: short bei 107.807",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Matt S: shame we cant see a clearer trend tho since mm's manipulating the fek outta it",
+      "Abdul Malek: 107890 pe sell kya",
       "Pakt: BTC pusht eh durch, keine Chance",
-      "Franzbert ð¨: Wo wÃ¼rdest du profite nehmen bei dem btc short",
-      "Paradigm Shift: there will be no dump just look in stochrsi 1hr",
-      "Noob Trader: money inflow to crypto has risen a lot that why it bullish people want to buy inflation and rate cuts comming",
-      "Wesley Marsh: Nice time to buy some BTC",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!"
+      "Rodolfo: btc dominance still struggling to 65.77%",
+      "Oscartg638: relieving pressure. This is bullish.",
+      "DigitalOrgy: Btc C leg completed. Rockets incoming",
+      "Noah 'S: short term yep"
     ]
   }
 ]
