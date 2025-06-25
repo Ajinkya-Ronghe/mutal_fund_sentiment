@@ -4,26 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions are mixed but slightly skewed toward bullishness in the short term for BTC. Some users expect significant upside (targets like 86k, 80k, 94k, 109k, 110k) and there is active discussion about entering trades now and holding. Some references to strong support at the 50 EMA, and users asking if now is a good time to trade BTC, with others confirming they are taking trades. However, there are also warnings about possible dumps, bloodbaths, and price control by sellers. The 1-minute chart is referenced multiple times, especially by Nightbot, indicating current focus on short-term moves. Overall, there is more positive than negative sentiment, but confidence is tempered by significant bearish warnings.",
+    "explanation": "There is some bullish sentiment for BTC in the chat, with mentions of taking trades, references to BTC holding above the 50 EMA, and anticipation of upward targets like 109k and 110k. However, there are also mixed and cautionary views, including references to potential dumps, market confusion, and the need to confirm swing failure patterns. The presence of both positive and negative short-term perspectives, along with requests for live BTC M1 chart analysis, supports a medium confidence buy signal for short-term trading.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 13,
-    "negative_count": 8,
-    "neutral_count": 7,
+    "positive_count": 5,
+    "negative_count": 4,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Sandro Martins: 86k next month",
-      "Fake Buy Wall: 80k gauranteed next month",
-      "henrique aoyagui: bloodbath incoming",
-      "henrique aoyagui: sell while you can",
       "Joyjit Fun: sir BTC me trade le keya demo me",
-      "Joyjit Fun: Sar BTC mein abhi trade le le",
-      "Nilesh Prajapati: btc me trade le kya abhi",
       "GoldenChild: What about btc liq levels above? Do you think sheâll take em before dropping. Seems like sheâs already dumping. Iâm holding out for that 109k. Hopefully I donât miss it",
       "RocaPong: holding above at 50 ema so maybe attemps 110k or just fakes out and dump from here lol",
-      "Florent Raes: buyers start step in x) but sellers have control",
-      "Florent Raes: sellers still control but buyers step so lets se what happen",
-      "oscartg638: the way the price is held up by support is supernatural. lol.",
       "Ahmad Khalid: sfp + stopping volume just need to lose that 50 and we droppin more",
-      "Joyjit Fun: Sar aapane Jo trade dete Ho loss Kabhi Nahin hota hai Sharab badhiya trade Dete Hain"
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "Florent Raes: buyers start step in x) but sellers have control",
+      "Noob Trader: short has better chance now",
+      "Vitor Rabbit: This is a big house of cards about to collapse."
     ]
   }
 ]
