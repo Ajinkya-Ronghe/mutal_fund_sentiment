@@ -4,23 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple users mentioned closing shorts and opening longs, projecting higher targets up to 108k-112k, and referencing bullish drivers like tech stocks in green and war de-escalation. There are bullish remarks about taking trades, holding positions, and anticipation of a pump if BTC breaks key resistance levels (e.g., 107200, 107800). Some caution about volatility and stop loss hits, but overall, sentiment and candlestick signals point toward sustained upward momentum. No major negative or neutral consensus, and representative opinions show current market optimism and expectation of higher BTC price.",
-    "positive_count": 9,
+    "explanation": "Multiple live chat participants and trading influencers discussed recent and upcoming bullish moves for BTC, referencing targets above 107k, 108k, and even 112k. There is consensus around buying dips and holding for higher levels, with some traders closing shorts and moving to long positions. Market sentiment is further supported by broader tech stock strength and speculation of post-FED bullishness. Risk management-focused comments highlight using leverage cautiously, but several traders explicitly mention success with high leverage and profit-taking on long positions. The overall tone is bullish for the near term.",
+    "positive_count": 14,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 2,
-    "neutral_count": 3,
+    "negative_count": 6,
+    "neutral_count": 8,
     "representative_opinions": [
       "AdriÃ¡n Bailey: hello, everyone. I closed my shorts and opened the longs half asleep",
       "Jemerson Paulo: if btc breaks 107200 it will pump 109k @Adrian you can sleep with harmony",
+      "Akshay Dantal: 108300 tk jayega",
       "WaveyyyyDogeeee: BTC high 108/112k",
+      "Sandip Shete: Sirji you should not have traded btc aginst the 20 Bcoz it is my experience whenever i trade against 20 i have got stopped out",
       "MO: that is the reason btc is bullish too because the tech stocks in green pre us open",
-      "THE STAG - Rameez Shaikh: Bullish hai view positionally",
-      "Abhinandan Furniture : war stop ho gaya isliya btc upar gaya",
-      "Sandip Shete: Sirji you should not have traded btc aginst the 20",
-      "Sandip Shete: Bcoz it is my experience whenever i trade against 20 i have got stopped out",
-      "Ambrosia Cakes bakes and snacks: BTC",
+      "Victoria: a buy!",
+      "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !",
+      "Kuldeep Dangi: hanji mam. morning me 1200 point captured in btc",
+      "Auxine : short kro bhai",
+      "Red RRR: Btc sell kar skate hai kya",
       "Daphine N.: is it a sell on BTC???",
-      "Victoria: a buy!"
+      "Suresh Xettri: btc tred ley sakte hy kyaa sir",
+      "Vicky: Sir aaj Delta me fees kitna lakta he wo dekhne keliye btc me do bar entry kiya wo bhi .03 lot aur fees lagta rs. 558.37 sir kya ye shahi he"
     ]
   }
 ]
