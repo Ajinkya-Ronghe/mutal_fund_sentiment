@@ -4,20 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is some bullish sentiment for BTC in the chat, with mentions of taking trades, references to BTC holding above the 50 EMA, and anticipation of upward targets like 109k and 110k. However, there are also mixed and cautionary views, including references to potential dumps, market confusion, and the need to confirm swing failure patterns. The presence of both positive and negative short-term perspectives, along with requests for live BTC M1 chart analysis, supports a medium confidence buy signal for short-term trading.",
+    "explanation": "Several participants mention potential bullish scenarios for BTC, such as waiting for bullish candles after a trap at 7000, expectations of a move to 94k, holding for a possible 109k, and calls to buy at specific levels. However, there is also caution about market manipulation, seller control, and waiting for confirmation of swing failure patterns. The mixed sentiment suggests a medium confidence on a long position, especially on the 1-minute chart where volatility is high.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 4,
-    "neutral_count": 8,
+    "positive_count": 8,
+    "negative_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Joyjit Fun: sir BTC me trade le keya demo me",
+      "Rishabh Jaiswal: niche bi trap krega btc 7000 level pe ur agr vha pe bullish candle bne trap krne k bad to entry kr lena q ki upr k lavel 8000 breckout krega btc upr lene se achha niche baitho q sl tumra profit. me",
+      "henrique aoyagui: eth back to 2100, btc to 94k",
+      "Filthy Rabbit: Buy before 115000",
+      "Dd: Buy when btc is 16k",
       "GoldenChild: What about btc liq levels above? Do you think sheâll take em before dropping. Seems like sheâs already dumping. Iâm holding out for that 109k. Hopefully I donât miss it",
-      "RocaPong: holding above at 50 ema so maybe attemps 110k or just fakes out and dump from here lol",
-      "Ahmad Khalid: sfp + stopping volume just need to lose that 50 and we droppin more",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
       "Florent Raes: buyers start step in x) but sellers have control",
-      "Noob Trader: short has better chance now",
-      "Vitor Rabbit: This is a big house of cards about to collapse."
+      "Joyjit Fun: sir BTC me trade le keya demo me",
+      "Nilesh Prajapati: btc me trade le kya abhi"
     ]
   }
 ]
