@@ -4,22 +4,29 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple live opinions suggest BTC is seeing bullish momentum with several references to hitting upside targets and confirmation from trading bots signaling long positions (Marticlues AI: 'BTC/USDT Long Score TP1!'; 'Long Nail TP2!'; 'Long Boom TP3!'). However, short-term uncertainty exists as some users discuss manipulative moves, short opportunities at specific levels (e.g., 108600), and mixed funding signals, balancing overall sentiment to medium confidence.",
+    "explanation": "BTC is receiving positive sentiment from both technical and community-driven sources. Multiple users mention successful long trades on BTC/USDT, hitting various take-profit targets, and note trendline support. However, there are also concerns about short-term manipulation, some users suggesting possible drops, and mixed views on immediate direction. The prevailing sentiment leans positive with technical signals (Marticlues AI long calls) and community trust in BTC's reliability, but some caution is warranted due to conflicting short-term expectations and mentions of manipulation.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 4,
+    "positive_count": 8,
+    "negative_count": 5,
     "neutral_count": 7,
     "representative_opinions": [
       "Marticlues AI: BTC/USDT Long Score TP1!: P=105560,+0.2%",
       "Marticlues AI: BTC/USDT Long Nail TP2!: P=105560,+0.3%",
       "Marticlues AI: BTC/USDT Long Boom TP3!: P=105560,+0.5%",
+      "Leo Cagape: bitcoin is more realiable",
+      "JUDAS THE TRAITOR: sell all xrp and buy bitcoin, pepe and shiba inu",
       "oscartg638: it's different for everyone that's not on phemex. Just know there is a valid trendline support level.",
-      "Ryan Teng: re are retesting this level to go up further",
       "Ryan Teng: not enough sell pressure",
-      "crozxz: 108600 good area for short",
+      "Ryan Teng: re are retesting this level",
+      "Ryan Teng: to go up further",
+      "Molyn Brefon: funding trajectoire short term",
+      "Noob Trader: i think it will go down to the top of first leg up",
       "Goldy Singh: 1 day ki candle dekhona Trendlines uparse",
+      "Goldy Singh: Bohot bada manipulation chalra h 2 dinse",
       "Goldy Singh: Niche girega dhadam se",
-      "Molyn Brefon: funding trajectoire short term"
+      "crozxz: 108600 good area for short",
+      "Ryan Teng: idk if its a good time to short",
+      "DRUG PUBGM: ok then i am going for long"
     ]
   }
 ]
