@@ -1,20 +1,31 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
+    "1_minute_candlestick_signal": "neutral",
     "signal": "Buy",
-    "confidence": "low",
-    "explanation": "There are very few direct BTC-specific opinions in the chat. Some users mention buying during dips or waiting for chaotic moves, but there is no strong consensus. A few messages reference chaotic Friday markets and dip-buying strategies, which is weakly bullish, but overall, direct BTC sentiment is very limited and mixed with more general or altcoin-focused discussion.",
+    "confidence": "medium",
+    "explanation": "There is a mix of opinions and little direct BTC-specific technical analysis in the chat. Some participants mention market chaos, indecision, and caution around shorting and longing, while others refer to waiting for dips or loading up before the stock market opens. There is no strong consensus for an immediate long or short, but the majority of the few BTC-related comments lean toward waiting for a buy opportunity on dips, suggesting a neutral-to-bullish sentiment. No direct candlestick call was made. The confidence is medium due to a lack of clear technical signals but slight bias towards buying dips.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 2,
-    "negative_count": 1,
-    "neutral_count": 6,
+    "positive_count": 4,
+    "negative_count": 3,
+    "neutral_count": 9,
     "representative_opinions": [
       "TraderX: Sunday will be a Good time to load up on the dips as the stock market will open green Monday",
       "oscartg638: we love the trail of red candles reaching our buy level, lol",
-      "FightThePower: Im not interested in btc but another but not buying now lol no way",
-      "TraderX: That' s just my take on things. Also, as always no one even the best traders are right all the time.",
-      "BIGREDAPE: I've been shorting close to break out 50ma and been getting stomped out ans loosing on fees"
+      "Ferhaan Schmidt: its not hard long ,, Tp as you need",
+      "BIGREDAPE: indecision",
+      "Molyn Brefon: will align to dump more haha",
+      "Mar: Hammer is bullish",
+      "oscartg638: just saw 15min hammer!!!!",
+      "Raudhan Yuriansyah: bro will it dump?",
+      "Raudhan Yuriansyah: where should i put my tp, im on short now",
+      "TraderX: be careful here trapping we need to hold that 1068 or we testing the demand zone.",
+      "oscartg638: 5min low volume",
+      "TraderX: Not sure no one can answer that things happen to change things.",
+      "oscartg638: yes, friday will be chaotic",
+      "BIGREDAPE: I've been shorting close to break out 50ma and been getting stomped out ans loosing on fees",
+      "BIGREDAPE: waiting for full confirmation now",
+      "herr_lippi: rip long"
     ]
   }
 ]
