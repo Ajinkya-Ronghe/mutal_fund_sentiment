@@ -4,22 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The live chat opinions show a mix of bullish and bearish sentiments, but with a slight bullish tilt. Several participants mention upside potential, resistance breakouts, or holding, while others warn of possible downside or short trades near 108,000. Technical references include formations like bull flag and symmetrical triangle on short timeframes, and some users note that a daily close above 106,680 would be bullish. There is also skepticism about shorting BTC at these levels, and talk of holding or buying dips. The overall mood is indecisive but leans toward cautious accumulation or holding, with increased volatility and both sides being traded. Confidence is rated medium due to conflicting signals and lack of clear consensus, but short-term long setups are favored.",
+    "explanation": "The overall sentiment in the opinions is mixed, but there are a notable number of bullish signals and expectations of upside movement for BTC. Some users mention potential for new highs, daily closes above resistance, and bullish candlestick formations on higher timeframes. However, caution is also present with mentions of risky shorts, waiting for resistance to break, and possible volatility. The consensus leans slightly bullish for an intraday or immediate-term move, but confidence is not high due to conflicting signals.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
-    "negative_count": 6,
-    "neutral_count": 10,
+    "negative_count": 5,
+    "neutral_count": 11,
     "representative_opinions": [
       "AllMarketView: BTC toh upside jaaega as per operator",
-      "Gyan Singh: sir short tread btc ka risky lag raha h thoda..",
-      "Bear Bull: I said when you shorted and it pumped that I wished you had close your shortsâ¦",
       "Franzbert ð¨: BTC Ziel 107193.4",
-      "Arkadiusz Kaminski: BTC geht bald in Keller, Bier holen.... Short >.<",
-      "Bahman: i want give shorte in 108k or 108300",
       "Matt: btc daily close above 106680 and bears in big poop",
+      "el Vegano ð: bull flag daily...",
+      "EMO EXTREME: bhai market uprrr hi jayega mat lo sell side trade",
+      "Gyan Singh: sir short tread btc ka risky lag raha h thoda..",
+      "Arkadiusz Kaminski: BTC geht bald in Keller, Bier holen.... Short >.<",
       "Mr.Bean00: 108,000 pr sell side fresh entry he broo bss wait kro",
       "maxbimmer111: symetrical triangle on 15min btc?",
-      "el Vegano ð: bull flag daily..."
+      "Risky trade : 4h candle open bullish"
     ]
   }
 ]
