@@ -4,25 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a clear bias towards bullish sentiment for BTC among the opinions, with several users discussing support holding, breakout potential, and targeting higher prices. Some highlight the market structure shifting upward, confirmation from green candles, and recommendations not to sell now. However, there are also a few warnings about red candles and reversals, indicating that while the majority are bullish, there is caution due to volatility.",
+    "explanation": "BTC commentary is highly mixedâmany mention sideways, consolidation, or 'zig-zag' price action, but there are repeated opinions about BTC holding above key support levels (e.g., 106500), buyers capturing, and positive sentiment when above trendlines. Some expect breakout moves, with targets above 109300, and bullishness if daily closes hold above 106.5k. Several caution about volatility and risk, but nearly all explicit trade recommendations lean toward buying or holding if support holds. However, some warn of sharp drops and advocate waiting for daily close confirmation before aggressive entries. The overall mood is cautiously bullish for BTC, with more positive than negative direct trade signals.",
     "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 13,
-    "negative_count": 5,
-    "neutral_count": 7,
+    "negative_count": 6,
+    "neutral_count": 14,
     "representative_opinions": [
-      "Raj...: aaj zig-zag zoom Khel raha btc...",
+      "Saurabh Kushwaha: abhi jb tk trend line ke upr hai tb tk to mere according upr ka hi plan rkhna chahie safe stop loss dekhkr",
       "bhupendra kunvar: don't sell now",
+      "Sandy Candy: bahut time leta hai, aur patience ki bhi patience check karta hai bitcoin",
       "Saurabh Kushwaha: 106800pr aik horizontal support resistance interchnge hai 30minute pr or candle green bn ra hai mjhe confirmation aa ra hai ye upr hi jaega",
-      "Sandy Candy: profit",
-      "Sandy Candy: jitna loss le rahe the utna profit tabhi to rr maintain hoga",
-      "Saurabh Kushwaha: breakout ana chahie is baar",
-      "Sandy Candy: brokareg kitna lagta hai, par lot k hisab se brokareg leta hai ya par order",
-      "Sachin Suryawanshi: 107443 se bye kiyA hai",
-      "Kk Nawabi: bro BTC me kya view h up side ya down",
-      "Kk Nawabi: haahahahaha mene up side view h",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "Matt S: dont think were gonna know til daily close",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Matt S: for now looks like bears baited again tbh",
+      "ashim das: sir btc up side bon ne wala he chek please",
+      "meenakshi soni: buy kyo kiya",
+      "Yogesh Yadav: buy",
       "Manggala Yatra: this now go buy ,,",
-      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed"
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
+      "Matt S: id wanna see a daily close around 106.5k + to remain bullish"
     ]
   }
 ]
