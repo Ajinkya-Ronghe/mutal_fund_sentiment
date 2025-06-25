@@ -4,20 +4,25 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of BTC-related opinions suggest bearishness or caution. There is mention of trendline breaks, lack of volume, funding being negative, and expectation of further downside moves (targets like 105k, 107200 called out as shorting zones). Multiple users mention shorting or expecting a downward move, with only a handful of conflicting or neutral comments. The 1-minute chart is described as flat and ugly, indicating indecision or impending volatility. There are also references to bulltraps and market manipulation. However, there are some neutral and a few bullish/scalping long opinions, so the confidence is not high.",
+    "explanation": "The overall sentiment from the live chat is bearish for BTC, with several users mentioning a lack of volume, negative funding, upcoming down moves, and trendline breaks. Some expect a bounce at certain levels, but the immediate bias is to the downside. A few are neutral or unsure, but the negative views outweigh positive ones.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 12,
-    "neutral_count": 8,
+    "positive_count": 6,
+    "negative_count": 13,
+    "neutral_count": 7,
     "representative_opinions": [
       "Eriya Creative girlð©·ð: bhai abhi sell kar sakte hai",
-      "Aljaz Rokavec: NO VOLUME bear indicator",
+      "Adarsh Jaiswal: because ab liquidity niche hai to market ko to lena chahiye abhi eak spike ayega sell me",
       "MVRSO: asia will short",
-      "Trade Like Operator: funding negative",
+      "Aljaz Rokavec: NO VOLUME bear indicator",
+      "henrique aoyagui: gotta be crazy to think it will go up from here",
       "crozxz: 108600 good area for short",
       "Bear Bull: 107400 and go long",
       "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
-      "Neev: the 1 min chart candles are looking flat and ugly witht his vol"
+      "Trade Like Operator: abhi upar hi rahega",
+      "Joey: so we pumpin?",
+      "Ryan Teng: its a trap",
+      "Tjeerd Phaff: Bulltrap",
+      "oscartg638: it's different for everyone that's not on phemex. Just know there is a valid trendline support level."
     ]
   }
 ]
