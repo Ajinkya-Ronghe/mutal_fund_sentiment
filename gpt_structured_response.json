@@ -4,27 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment in the chat suggests a cautious bullish bias for BTC. Several users mentioned potential for an upward move, holding longs, and expecting a 'little pump.' However, there are warnings about manipulation and possible retracements, and some expect downward moves. The buy signal is supported by more positive/hold comments than negative, but the market is seen as choppy with frequent references to traps and volatility. Therefore, the confidence is medium rather than high.",
-    "safe_leverage_isolate_future_perpetual": 1,
+    "explanation": "There is a mix of bullish and bearish opinions, but a slight majority of recent messages suggest holding or expecting a pump for BTC. Several users mention holding longs, not selling, expecting a little pump, and BTC holding strong. While some express caution or expect a dip, the sentiment is net slightly positive. No clear strong consensus or strong candlestick confirmation, so confidence is medium.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
-    "negative_count": 5,
+    "negative_count": 6,
     "neutral_count": 7,
     "representative_opinions": [
       "Compounding king: up jayega btc bro",
       "RaberTrades: I wonât be selling any of my longs nor took any profits today.",
-      "Ryan Teng: to go up further",
-      "RaberTrades: Well Iâm fluent in the data because Iâm a Macroeconomist. TA can kill ya so I love to ride the waves up",
-      "Noob Trader: 106k",
-      "Molyn Brefon: may little pump maybe",
       "RaberTrades: Bears are trying to pill this down to 104-106k",
-      "henrique aoyagui: if it goes anywhere near 106900 its a bloodbath",
-      "Adarsh Jaiswal: Market abhi trendline pe buyer ko trap karega fir spike me sell ayega",
-      "Goldy Singh: Bohot bada manipulation chalra h 2 dinse",
-      "MVRSO: Big sell ordrrs incoming",
-      "Valis34: mega dump",
-      "Alonso Incacutipa Cotrado â: When we reach the 'demand zone' is when we should buy, right?",
-      "melissa : I hold :)",
-      "RaberTrades: Bears are trying to pill this down to 104-106k"
+      "Ryan Teng: to go up further",
+      "Molyn Brefon: may little pump maybe",
+      "Immigrant Diaries: 50 holding strong",
+      "Goldy Singh: Niche girega dhadam se",
+      "Adarsh Jaiswal: Market abhi trendline pe buyer ko trap karega fir spike me sell ayega"
     ]
   }
 ]
