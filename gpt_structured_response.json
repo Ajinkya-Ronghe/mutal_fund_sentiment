@@ -4,24 +4,16 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "BTC sentiment is highly mixed but with notable bullish signals on lower timeframes. There are strong indications of imminent volatility and potential for sharp upward movement, especially after liquidity grabs and seller traps. Several users mention order blocks and demand zones near current levels, suggesting institutional buying. Positive signals include live trading discussions, calls for focus on BTC, mentions of strong historical moves after drawdowns, and a recent large bullish transfer to Binance. While some warn of quick dumps and heavy selling above 108,700, the overall consensus leans toward a strategic buy with careful risk management and isolated leverage. The community expects up to 2-3k moves soon, and many are requesting buy entry points and indicating current or planned long positions. Macro news (Powell/Trump) adds volatility but does not change the underlying technical setups.",
+    "explanation": "Despite a high number of bearish and indecisive comments (many participants discussing shorting, sell zones, and heavy volatility), there is mounting evidence of trapped sellers and a liquidity grab, which often precedes a strong upward move. Large buy orders and bullish liquidity events are being reported (e.g., $111M USD sent to Binance suggesting whale interest), and multiple voices indicate moves to 'trap' both buyers and sellers before a reversal. There are also repeated calls for entries on pullbacks, mentions of retail being shaken out, and fresh buy signals emerging from both technical and sentiment perspectives. The presence of news events (e.g., Powell comments, macro shifts) have created volatility but not reversed the overall bullish undercurrent, especially with spot buying highlighted and leverage not yet overheated. The recommended leverage is set to 20x isolated to balance risk and opportunity, as volatility is high but directional conviction is strong for a bounce or upward move from current levels.",
     "positive_count": 15,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 10,
-    "neutral_count": 8,
+    "negative_count": 25,
+    "neutral_count": 12,
     "representative_opinions": [
-      "BTC PE BOLO BHAI",
-      "BTC ka high conform huwa?",
-      "BTC ME ORDER BLOCK HAI NEECHE WALE CANDLE ME",
-      "patel ji: btc me 2 to 3 k move aane wala h guys 100% kh rha hu",
-      "Amar Sonawane: Bitcoin buying Target 108550@@@As i already told you brother..",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "Manggala Yatra: this now go buy ,,",
-      "Ashis Lama: btc abhi upar jayga",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "RaberTrades: The rally is fueled by spot buying, not much long leverage to unwind.",
-      "Chandu asura: I was thinking that price will go up and it may go upto 108,927 grab liquidity and may come down",
-      "ANUPTHERMOYT: ABHI ABHI KISI BIG INVESTER à¤¦à¥à¤µà¤¾à¤°à¤¾ 111749921 USD BINANCE ME sand kiya gya h ,,,,,, Matlab market bull ke à¤¤à¤°à¤« ja shakta h ,,,,"
+      "BTC WOKE ME UP BEFORE MY ALERT",
+      "The rally is fueled by spot buying, not much long leverage to unwind. Also, you guys are too TA happy- not taking into account the Macro shifts.",
+      "JUST IN: Federal Reserve Chair Jerome Powell says 'banks are free to conduct crypto activities.'",
+      "ABHI ABHI KISI BIG INVESTER à¤¦à¥à¤µà¤¾à¤°à¤¾ 111749921 USD BINANCE ME sand kiya gya h ,,,,,, Matlab market bull ke à¤¤à¤°à¤« ja shakta h ,,,,"
     ]
   }
 ]
