@@ -4,20 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "BTC is showing resilience with several users noting it is 'holding up', and others expressing bullish sentiment for moves towards 120k or higher. However, there are also warnings of short-term drops and mixed macroeconomic commentary, so confidence is medium. No strong negative consensus, but notable caution and uncertainty remain.",
+    "explanation": "While there are mixed opinions, overall sentiment shows BTC is holding up, with some users expecting price increases up to 120k or 130k, and others noting a demand zone bounce or calling for 'fly soon'. However, a few users warn of possible big drops and current lack of momentum, leading to a medium confidence level.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 8,
-    "negative_count": 5,
-    "neutral_count": 13,
+    "positive_count": 7,
+    "negative_count": 4,
+    "neutral_count": 5,
     "representative_opinions": [
-      "Bitcoin LIVE: Yeah btc is holding up",
       "Noob Trader: tomorrow more up today little down next up and up and up until 130k",
-      "Alina Bogdan: 130k?  .. we need to get to 120k first",
-      "Bitcoin GTR: $1m soon",
-      "Wide shorts: m2 Global liquidity offset is now off cause of war",
-      "SeÃ±or Joce: I think we're going to see a big BTC drop again pretty soon",
+      "Bitcoin GTR: BITTY BITTY BITCOIN!!!!!",
+      "Bitcoin LIVE: Yeah btc is holding up",
+      "Alina Bogdan: 130k? .. we need to get to 120k first",
       "Target Hit: while BTC goes to $120 000",
-      "Pradeep Gupta: 107700 se maine short kiya hai"
+      "SeÃ±or Joce: I think we're going to see a big BTC drop again pretty soon",
+      "Target Hit: Not able to be macro bullish here also",
+      "Rishabh Jaiswal: vo momentum ni aa rha hai jo aani chaiye ur muje Aisa. lg rha jaise vha ek bullish candle bnegi",
+      "Pradeep Gupta: 107700 se maine short kiya hai",
+      "David Middleton: we got a good entry. Just chopping around for now",
+      "Unlimited Printsð¤: We going to fly soon "
     ]
   }
 ]
