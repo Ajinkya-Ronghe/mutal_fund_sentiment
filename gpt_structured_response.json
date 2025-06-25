@@ -4,25 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Sentiment is broadly bullish with multiple mentions of uptrend, 'blow off top', 'huge green candle', and advice to buy or take advantage of trend continuation. There are some concerns about high open interest and possible corrections, but the dominant opinion is upward momentum. Liquidity is noted as a factor, with advice to follow where liquidity is highest. The presence of 'new BTC M1 chart' and real-time signals, as well as explicit 'buy now or cry later' comments, further support a bullish bias.",
+    "explanation": "There is a strong consensus in the live chat about a bullish trend for BTC, with multiple users mentioning uptrends, green candles, and breaking new highs. Several users discuss positive structure, support, and ongoing bullish momentum, while only a few mention short-term corrections or shorting. The majority sentiment is focused on continued growth, institutional interest, and a lack of significant bearish pressure. The presence of bullish technical patterns (e.g., cup and handle, uptrend absorption) and comments about liquidity targeting further reinforce a high-confidence buy signal.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 13,
-    "negative_count": 6,
-    "neutral_count": 4,
+    "negative_count": 5,
+    "neutral_count": 6,
     "representative_opinions": [
+      "Capital Caps: Time frames are turning green",
+      "chuamishael - Audio Library: we're still bullish",
       "Crypto Algorithm: damn btc.d is exploding again. we should forget altseason for a few more months",
-      "Ruben van Eek: This is it guys, blow off top - 150k",
-      "Kane: Soon, buy now or cry later",
+      "MOON CAT: HUGEGREENCANDLE HUGEGREENCANDLE HUGEGREENCANDLE HUGEGREENCANDLE HUGEGREENCANDLE HUGEGREENCANDLE",
+      "HighkeyRBz: that uptrend tho",
+      "Kane: We rise",
       "Thunder: Buy time",
-      "HighkeyRBz: cant deny the trend",
-      "ChaudharySB: MATLAB BTC ki jidhar zyadah liquidity ho udhar ki trade laga lo",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "Bookmap4u: @Bookmap4u",
+      "Ruben van Eek: This is it guys, blow off top - 150k",
+      "Mr Moon: Structure can do it but we ainât got much",
+      "VectorCandle707: pump it so I can short it",
       "FitZoneX: it's going to dump",
-      "FitZoneX: short it now",
-      "art slandered1: Market buyers got absorbed by limit sellers",
-      "andrei lucian varvaruc: aggregated open interest - spike very high in the last 36 hours, that's mean we can see soon correction",
-      "Target Hit: I'm trying to close 75% of BTC and SOL now",
-      "Guitar 2.0: Bhai neechy to tofan hona btc m"
+      "FitZoneX: short it now"
     ]
   }
 ]
