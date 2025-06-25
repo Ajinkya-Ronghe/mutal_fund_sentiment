@@ -4,22 +4,24 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The sentiment for BTC in the provided opinions is generally bearish in the short term. Multiple users mention expected drops, weak momentum, or failed rallies (e.g., 'big BTC drop again pretty soon', 'odds are with more down', 'Not able to be macro bullish here also', 'Btc is at the top of its descending channel and VAH so it could just reject from here'). Some users are hedging or shorting around the 108k level. However, there are also a few bullish outliers looking for higher targets (e.g., 120k or 130k), but these are less frequent. The majority of actionable opinions lean toward a short or sell bias for the immediate term. There is no overwhelming consensus, but the negative outweighs the positive in current sentiment.",
+    "explanation": "Sentiment is leaning bearish, with several traders mentioning expectations of a big drop, weak momentum, and failed bullish pushes. Key levels like 108k and 107,500 are discussed as resistance or short entry points. Some expect retests lower (104k, 102,200, even 88k mentioned). However, a minority expect a bounce or slow move up, so confidence is not high.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 4,
     "negative_count": 10,
-    "neutral_count": 8,
+    "neutral_count": 6,
     "representative_opinions": [
+      "henrique aoyagui: thats gonna be a huge red candle....",
+      "Abell: break again 107,500 The Crash",
+      "Dd: Bulls are out of steam",
       "SeÃ±or Joce: I think we're going to see a big BTC drop again pretty soon",
-      "Target Hit: the odds are with more down",
-      "GoldenChild: Btc is at the top of its descending channel and VAH so it could just reject from here also though. Hoping for that 109k first though",
-      "Kh Vlog: Tomorrow btc slowly slowly down mark my words guyz",
+      "Target Hit: Not able to be macro bullish here also",
       "Preparing 4War: I'm short $108k on Blofin",
-      "Noob Trader: tomorrow more up today little down next up and up and up until 130k",
+      "Kh Vlog: Tomorrow btc slowly slowly down mark my words guyz",
       "Alina Bogdan: 104k incoming .. 102200 next .. if we fake to the upside 109k entry point",
-      "Oscartg638: if support line holds i'll long to 108300",
-      "GoldenChild: This money flow is still thick in the green and no good bear divs, except the 2 hr. If we get one more push up we could for some better bear divs. Thereâs really not many at all without another high",
-      "Pradeep Gupta: 107700 se maine short kiya hai"
+      "Noob Trader: tomorrow more up today little down next up and up and up until 130k",
+      "oscartg638: if support line holds i'll long to 108300",
+      "GoldenChild: This money flow is still thick in the green and no good bear divs, except the 2 hr. If we get one more push up we could for some better bear divs.",
+      "Unlimited Printsð¤: We going to fly soon"
     ]
   }
 ]
