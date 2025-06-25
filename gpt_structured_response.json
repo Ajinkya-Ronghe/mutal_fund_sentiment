@@ -1,28 +1,34 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
+    "1_minute_candlestick_signal": "neutral",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mixed sentiment but with slightly more positive momentum for BTC, especially on higher timeframes (4hr bullish liquidity run, bullish candles, expectations of upward moves, and mentions of buyers preparing for a pump). However, caution is advised due to notable neutral and negative opinions (sideways/range-bound market, some warnings of fake-outs, and heavy shorting by some traders). The consensus leans toward a buy/long signal, but not with high confidence due to overall volatility and range-bound action.",
+    "explanation": "The opinions on BTC are highly mixed, with some strong calls for 'short' and 'sell', but also repeated mentions of re-entry, support for buying, and expectations for a pump or sideways action. There's notable mention of BTC holding strong, possible upcoming volatility, and whales accumulating. However, there is also concern about fakeouts, liquidity sweeps, and possible downside risks (e.g., 'big sell', 'crash', 'going to drop soon'). The absence of clear consensus, along with continued mentions of entries and holding, suggests a medium-confidence buy but with caution.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 13,
-    "negative_count": 7,
-    "neutral_count": 18,
+    "positive_count": 19,
+    "negative_count": 21,
+    "neutral_count": 22,
     "representative_opinions": [
-      "Yuvraj Singh Malik: Liquidity run hua h BTC mein 4 hr time frame, bullish raho for 108,840",
-      "Adnan bhai: double top complete tote bullish candle par mai ne long leleiya the",
-      "Sports Authority: 5 mint tim one frame pr symmetrical triangle ban rha h with higher highs. chance h resistance break ho jaye.",
+      "MVRSO: short dont be dumb",
+      "Comedy video 098: sar mere pas 10 bitcoin hai mene sell kar diya hai",
+      "GivemeDipprice: big sell",
+      "skills N Luck: TONIGHT IS ALL TIME HIGH NIGHT",
       "Dogworld: bitcoin is more important then bears think",
+      "stefanman: What a weird day on the cryptomarket. BTC plus 1.2 up most alts pretty red overall. BTC dominance ath?",
+      "Arthur Morgan: It can be pumping for days on end but it will all fall back below 100k on a random day like always",
+      "Dogworld: bitcoin has to go up now look at the money of euro going up",
+      "Eric G: btc dominance is almost ready to completely collapse",
       "Bear Bull: This looks like itâs about to super pump",
+      "@tokthailand: BTC waiting buyers for a big drop",
       "DragonSoul1492: Whales are buying, they are expecting to have a big pump",
-      "RaberTrades: 98k drop was the push we needed to send us up to 117-120kish for end of June",
-      "Abdul Malek: Thora upar Jate hi sell karunga....... volume acha hua to",
-      "Neborion: dear,, btc pe abibi buying strong he....",
+      "Mrsd_m3: Claudius was meinst du, fÃ¤llt der btc in nÃ¤chster Zeit?",
+      "HideAndLeet: BTC sieht nicht gut aus :D",
+      "Dennis H: Btc ist zum kotzen heute",
+      "emazu: bitcoin so tot letzten 2 tage",
+      "Acke: just watch for short here and dont long any shit, we are close to crash soon. myb sweep to ath and done",
       "Risky trade : btc buy kar sakte hai",
-      "Risky trade : chalye btc buying karte hai upside",
-      "Veen: The pump will be respected! Istanbullish!",
-      "jussee85: BUY baby BUY"
+      "Risky trade : chalye btc buying karte hai upside"
     ]
   }
 ]
