@@ -4,21 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants indicate major support and long opportunities around 101,600â107,750, with some expecting a bounce if daily closes hold above 107k. Others mention long-term buy-on-dip strategy, and some anticipate price targets up to 111,400â114,000. Sentiment is not fully unanimousâthere are notable warnings about manipulation and risk at 100k, and some short-term traders are taking short positions or expecting sideways/downward moves. However, the positive long/accumulation opinions and observed support zones outweigh immediate bearish calls.",
+    "explanation": "Opinions are mixed with both bullish and bearish comments, but several participants highlight potential for BTC to bounce at support levels (107,750 and 101,600), and mention the opportunity for higher targets (111,400, 112k, 114k). Some stress manipulation and risk, but the overall sentiment leans slightly bullish, especially on dips and when key levels hold. Multiple mentions of 'buy on dip for long term' and 'liquidity grabs' support a moderate buy bias.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 9,
+    "positive_count": 8,
     "negative_count": 6,
-    "neutral_count": 6,
+    "neutral_count": 4,
     "representative_opinions": [
-      "Florent Raes: we are going to take that liquidity at 112k",
-      "Florent Raes: need bounce up on 107 750",
       "Mehul Patel: Tiwari ji BTC buy on dip hai kya ? For long term",
+      "Florent Raes: if dayli close above 107k tomorrow will a great day",
       "andrei lucian varvaruc: when the price break 101600, longs position was clear open",
-      "santosh tammi: seller ka paise khane ke liye Upar jaega",
-      "Mustafijur Rahman: BTC Nikal jane ka kasis karta hai .",
-      "Ruben van Eek: It looks like it wants to go higher",
-      "Arthur Morgan: The price will go there naturally over time, we donât need any black swan events",
-      "Tom Hill: powell said crypto becoming mainstream. well no sht Sherlock"
+      "Florent Raes: need bounce up on 107 750",
+      "Florent Raes: we are going to take that liquidity at 112k",
+      "Immigrant Diaries: Iâm short nowâ¦ sl is 109kâ¦ looking towards 105.8-106.2",
+      "srj801 : downnnnnnnnn",
+      "Business Bull: down"
     ]
   }
 ]
