@@ -4,15 +4,30 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "BTC sentiment remains bullish in the current session, with multiple users referencing upward price targets (107,700, 108,300, 114,000, 121,000). Technical analysis discussion points to strong uptrend signals from daily and 4h stochastics; several mention the break above $106,500 as a trigger for further upward movement. While some short-term scalping and local resistance notes (such as 108k-109k and POC at 104800) are present, the overall community consensus is for continuation to new highs barring any significant negative news. No significant negative catalysts were raised beyond normal volatility and local pullbacks, and there is a high count of requests for BTC trade signals and entries, showing strong interest and confidence in further upside.",
-    "positive_count": 15,
+    "explanation": "Multiple chat participants discussed BTC breaking above $106,500 as a bullish trigger, with several anticipating further upward moves toward $108,000 and potentially new all-time highs. There is repeated mention of bullish technical signals: daily and 4h stochastics turning up, strong uptrend on short timeframes, and confirmation that tech stocks are green pre-market, which is historically positive for BTC. While some warn of possible retracements or bull traps, the majority of actionable opinions favor buying BTC on dips or current price, especially for scalping or short-term trading. Several technical analysts highlight resistance at 108k-109k but see further upside if broken. There is notable excitement and high conviction in the live chat for long trades.",
+    "positive_count": 18,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 3,
-    "neutral_count": 9,
+    "negative_count": 6,
+    "neutral_count": 5,
     "representative_opinions": [
-      "MR.Z: btc 107200 confirmed",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "MO: that is the reason btc is bullish too because the tech stocks in green pre us open",
-      "Chirag Doshi: madam btc reach new high 114000 & 121000 in coming period"
+      "MO: 4h stochastic came back up and pushing into bullish daily stoch zone",
+      "SlickShoes: if we break upwards we are likely heading towards 108982 area",
+      "Sinlos: 13/50 ema is key on the 15 mins now still in a strong uptrend",
+      "Lily Lily: You will make a big gain if you can play that one.",
+      "KiloCharley: BTC looking mucho fina but... ?",
+      "Chrissy K: did i call out a btc pump last night???",
+      "Victoria: a buy!",
+      "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !",
+      "Sharan: mam yeh up side jye ga 110000",
+      "Chirag Doshi: madam btc reach new high 114000 & 121000 in coming period",
+      "Mix videos: btc ?? ke bare me kuz",
+      "Mohit: Btc bata do bhai",
+      "MR.Z: btc 107200 confirmed",
+      "Florent Raes: I went to the bathroom to get out of the BTC longs XD",
+      "Florent Raes: buyers step out for entry below",
+      "Daphine N.: is it a sell on BTC??? / Victoria: a buy!"
     ]
   }
 ]
