@@ -4,20 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There are several buy-side opinions based on support levels around 106,600â106,800, and calls for upward movement (e.g., 'BRO BTC WILL MOVE UP FROM NEAR 106,800'). However, there is also significant caution, conflicting short/sideways comments, and warnings of volatility. The overall sentiment is slightly positive but with notable uncertainty due to mentions of bear flag and liquidation sweeps.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "There is a mix of opinions but several users expect BTC to move up from the 106,600-106,800 zone, referencing support levels and possible reversals. A few express caution about shorting and note high liquidation near 105k, suggesting downside risk, but the positive sentiment toward a bounce is more frequent. Some users mention sideways or choppy market with possible retest of support, so confidence is not high.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 8,
-    "negative_count": 6,
-    "neutral_count": 10,
+    "negative_count": 5,
+    "neutral_count": 6,
     "representative_opinions": [
-      "BRO BTC WILL MOVE UP FROM NEAR 106,800 OR MAYBE FROM 106,600",
-      "btc side ways ho gaya",
-      "btc short kiya hai 104700 se kya hua paas aayega is level par",
-      "btc me bhai koi trade ban rh hai kya",
-      "Moon Staars Light: BRO BTC WILL MOVE UP FROM NEAR 106,800",
-      "BITCOIN EXPERT: btc sudden dump karega short ka moka nhi dega",
+      "Moon Staars Light: BRO BTC WILL MOVE UP FROM NEAR 106,800 OR MAYBE FROM 106,600",
       "Daniel Ho: btc only testing support, as long trading above 50 ma, it's still bullish",
-      "World best companies& interview questions : 114 kai bad bada down fall aiiga bhai"
+      "BITCOIN EXPERT: btc sudden dump karega short ka moka nhi dega",
+      "hk haryanvi technical: btc sell side target fast 105800",
+      "Manish Aggarwal: btc short kiya hua h",
+      "D Capital Market: i have short gold and long in BTCC",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
+      "kashyap cloud: fib level 108500 ka level untouch kia hai, retest karne ja sakta hai niche jane ke pahele, aap suggest kar sakte hai,"
     ]
   }
 ]
