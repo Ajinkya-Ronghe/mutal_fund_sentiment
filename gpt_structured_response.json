@@ -1,22 +1,29 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "neutral",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There are opinions indicating potential for a crash and market being overhyped, with some participants mentioning selling or expecting a dip. However, there is also mention of buying on dips and indecision, reflecting a lack of strong consensus. No clear 1-minute candlestick signal was expressed in the collected opinions.",
+    "explanation": "There is a high level of indecision and mixed sentiment in the live chat. Some participants note bullish reversal candlesticks (e.g., hammer), expectations for an upside, and suggestions to 'load up on dips' before the stock market opens green on Monday. Others warn of potential crashes, shorting opportunities, and chaotic Friday trading. Representative opinions reference both bullish and bearish scenarios, with no clear consensus. The overall sentiment is cautious, but with several traders expressing interest in buying dips or expecting upward movement, a medium confidence buy signal is given.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 2,
+    "positive_count": 4,
     "negative_count": 5,
-    "neutral_count": 7,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Abell: CRASH SOON!",
-      "FightThePower: Sell ?",
-      "FightThePower: Thanks for replying the market seems over hyped or inflated feels like to me could it dip back under 100k",
+      "oscartg638: just saw 15min hammer!!!!",
+      "Mar: Hammer is bullish",
       "TraderX: Sunday will be a Good time to load up on the dips as the stock market will open green Monday",
-      "BIGREDAPE: I've been shorting close to break out 50ma and been getting stomped out ans loosing on fees",
+      "Molyn Brefon: will align to dump more haha",
+      "Abell: CRASH SOON!",
       "Caquaino: is going up guys",
-      "Moon Boy: Crash? Ok"
+      "BIGREDAPE: indecision",
+      "TIVERSON PUBG: i short this",
+      "Asi Landes: let it break the up trend",
+      "herr_lippi: rip long",
+      "TraderX: Not sure no one can answer that things happen to change things.",
+      "oscartg638: 5min low volume",
+      "Y00LKA: i think its prep for upside to > 108",
+      "FightThePower: the market seems over hyped or inflated feels like to me could it dip back under 100k"
     ]
   }
 ]
