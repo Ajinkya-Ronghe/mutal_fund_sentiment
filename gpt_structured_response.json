@@ -4,26 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions show BTC is in a slow movement but holding a bullish channel with breakout attempts, double bottom patterns, and uptrend signals on higher timeframes (4hr, 15min). Some traders are accumulating or planning to buy, and there is conviction from participants who have moved capital into BTC. However, there is notable hesitation and mentions of resistance at 107700, potential for sharp drops if support breaks, and mixed opinions regarding consolidation and sideways action, which tempers high confidence.",
+    "explanation": "There are multiple opinions noting BTC's uptrend, breakout, and buying pressure, including mentions of double bottoms and breakout above resistance. Some users are taking profits and some expect a further dip, but the overall sentiment leans bullish on short-term timeframes. A few warn of volatility ahead, suggesting to be alert, but the dominant momentum for now is to the upside.",
     "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 14,
     "negative_count": 7,
-    "neutral_count": 10,
+    "neutral_count": 3,
     "representative_opinions": [
-      "Diksha Kathayat: go bTC go",
-      "Salman Nisar: btc and eth same performing",
+      "Rising Lion: I took profits today on litecoin, over 15%. Put it all in btc, even at this area. I have conviction.",
       "bhupendra kunvar: btc up ka signal de rha hai bro...",
       "Mr Tanmay: bitcoin uptrend dikha raha hai..",
       "bhupendra kunvar: break out diya hai..",
-      "Rising Lion: I took profits today on litecoin, over 15%. Put it all in btc, even at this area. I have conviction.",
-      "Panchani Jagnesh: BTC 108500 tak jaega",
-      "Mr Tanmay: aap ki lux algo v uptrend dikha raha hai",
-      "Sneha Shinde: aise nahi lag raha hai ki. BTC has done grabbing enough buyers liquidity till now, abh gira toh bhayankar hi girega. but ye toh gir hi nahi raha dhang se",
+      "Everything About Hookah: btc double bottom 15min",
       "Wiesz Co nie: Good to have it pumping, Im long from 107600 xd",
-      "Leela Darji: market reversal dera hai buy jai ga",
-      "Ajay Yadav: Bhai btc buy me hi jayega",
+      "Manggala Yatra: this now go buy ,,",
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
+      "Phone Thant Kyaw: if price break above 107700, i think there is no chance for short.",
+      "Justin Wilson: We are doing a w reversal rn by the looks of it",
+      "Mr Tanmay: aap ki lux algo v uptrend dikha raha hai",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
       "Sanjay Sharma vlog: Mujhe bhi 100 % 2000 point upper lag raha hai",
-      "Prabhat: crypto se P2P krte ho"
+      "Ajay Yadav: Bhai btc buy me hi jayega"
     ]
   }
 ]
