@@ -4,21 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple experienced traders in the live chat warn against longing BTC after a recent uptick, citing broken trend lines, double top on higher timeframes, rejection at key resistance, and concerns about a bull trap. There's consensus to wait for a decent retracement before considering longs. No strong bullish sentiment identified; the technical mood is cautious or bearish for the immediate term.",
-    "safe_leverage_isolate_future_perpetual": 3,
+    "explanation": "Several experienced traders in the chat expressed caution about longing BTC on short upticks, noting traps and rejections at key technical levels (trendline, double top, high average weekly range). Multiple references to recent upward movement and overextension suggest a retracement is more likely in the short term. One-minute candlestick signals and technicals (trap, rejection, 50 crossing 800) support this cautious outlook. No strong bullish arguments or momentum signals for immediate long entries were presented.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 2,
     "negative_count": 7,
-    "neutral_count": 2,
+    "neutral_count": 7,
     "representative_opinions": [
       "TraderX: Told you guys be careful longing on that little uptick. More like trapping. We need to hold that 1072 it is the 200 on the 5min. Next stop is that 1068 area if not.",
       "oscartg638: it's looking like a trap",
       "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
-      "Tjeerd Phaff: I would not long until we get a decent retracement",
+      "oscartg638: it was rejected at the 1min for sure",
       "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
-      "oscartg638: but that's too small of a time frame",
-      "Mar: They want to trap lot of shorts",
-      "Ahmad Khalid: 50 crossin 800 on 1m"
+      "Tjeerd Phaff: I would not long until we get a decent retracement"
     ]
   }
 ]
