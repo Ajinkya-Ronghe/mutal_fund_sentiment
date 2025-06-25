@@ -4,21 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mix of opinions around BTC. Several users mention holding or buying BTC at various levels and express optimism about near-term liquidity grabs (e.g., 109k), while some anticipate a dump. There is specific mention of upside potential due to macro indicators (DXY down) and liquidity levels above, but also warnings of resistance and possible dumps. More positive than negative sentiment is evident, but some uncertainty persists due to conflicting short-term calls (e.g., 'dump' and 'sell'). 1-min chart signals are referenced as bullish in some bot messages, and there is encouragement to take BTC trades now. The confidence is medium due to the mixed nature of 'dump' warnings and positive liquidity targets.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 8,
-    "negative_count": 5,
-    "neutral_count": 7,
+    "explanation": "The BTC chat shows a mix of opinions, but there are more positive signals for buying or holding than explicit negatives. Several users mention buying and holding BTC, references to price targets above 108k and 109k, and comments about BTC 'waking up' and targeting higher liquidity levels. However, there are also warnings about potential dumps and resistance at higher levels. Additionally, some chat mentions about 1-minute charts and the use of indicators like RSI provide mixed to cautious short-term sentiment but don't negate the overall bias towards a long trade. No clear consensus on extreme leverage; safe, isolated, low leverage is advised due to volatility.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 10,
+    "negative_count": 6,
+    "neutral_count": 8,
     "representative_opinions": [
-      "rs: 7347 se buy Kiya hu hold Kiya hu",
+      "7347 se buy Kiya hu hold Kiya hu",
+      "Jay Douglas: Tom, dxy down is another macro indicator for btc upside. I canât find any negatives for a 95 to 85 haircut.",
       "GoldenChild: Btc should go up and take out this liquidity at 109k i would think",
-      "Joyjit Fun: Sar BTC mein abhi trade le le",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
       "Dd: BTC can be dumped seperatly",
       "Dd: Selll",
-      "GoldenChild: What about btc liq levels above? Do you think sheâll take em before dropping. Seems like sheâs already dumping. Iâm holding out for that 109k.",
-      "Jay Douglas: Tom, dxy down is another macro indicator for btc upside. I canât find any negatives for a 95 to 85 haircut.",
-      "RocaPong: holding above at 50 ema so maybe attemps 110k or just fakes out and dump from here lol"
+      "Glenn Davis: yeah 180k.has been really stiff resistance lmfao",
+      "Joyjit Fun: Sar BTC mein abhi trade le le",
+      "Joyjit Fun: Sar aapane Jo trade dete Ho loss Kabhi Nahin hota hai Sharab badhiya trade Dete Hain",
+      "Nilesh Prajapati: btc me trade le kya abhi",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
     ]
   }
 ]
