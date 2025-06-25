@@ -4,23 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "While there are mixed opinions, overall sentiment shows BTC is holding up, with some users expecting price increases up to 120k or 130k, and others noting a demand zone bounce or calling for 'fly soon'. However, a few users warn of possible big drops and current lack of momentum, leading to a medium confidence level.",
+    "explanation": "Mixed but slightly bullish sentiment with some participants calling for higher BTC prices (120k, 130k, $1m), mentions of BTC holding up, demand zone bounces, and commentary on opportunities to go long. There are also warnings of possible drops and short calls near resistance levels, but the prevailing tone is anticipation of further upside, supported by recent price resilience.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 7,
+    "positive_count": 8,
     "negative_count": 4,
-    "neutral_count": 5,
+    "neutral_count": 6,
     "representative_opinions": [
       "Noob Trader: tomorrow more up today little down next up and up and up until 130k",
+      "Alina Bogdan: 130k? .. we need to get to 120k first",
       "Bitcoin GTR: BITTY BITTY BITCOIN!!!!!",
       "Bitcoin LIVE: Yeah btc is holding up",
-      "Alina Bogdan: 130k? .. we need to get to 120k first",
       "Target Hit: while BTC goes to $120 000",
+      "Abell: if break again 107,500 The Crash",
       "SeÃ±or Joce: I think we're going to see a big BTC drop again pretty soon",
       "Target Hit: Not able to be macro bullish here also",
-      "Rishabh Jaiswal: vo momentum ni aa rha hai jo aani chaiye ur muje Aisa. lg rha jaise vha ek bullish candle bnegi",
+      "Multigang: Its beter to short now",
       "Pradeep Gupta: 107700 se maine short kiya hai",
-      "David Middleton: we got a good entry. Just chopping around for now",
-      "Unlimited Printsð¤: We going to fly soon "
+      "Unlimited Printsð¤: We going to fly soon",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "Family gaming: Bhai ma new ho kuch amzing trick btao btc ka bara ma",
+      "moons..: buy?"
     ]
   }
 ]
