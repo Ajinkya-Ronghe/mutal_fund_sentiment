@@ -4,26 +4,25 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of recent opinions indicate bearish sentiment for BTC, with several users discussing a potential drop, a lack of bullish momentum, and specific price levels being mentioned as resistance or breakdown points (107,500â108,000). There are some bullish outliers targeting much higher prices, but these are less frequent and lack immediate technical justification. Short-term candlestick and order flow commentary (e.g., 'more down', 'Bulls are out of steam', 'bearzzzzzzzz', 'BTC drop again pretty soon') suggest a higher probability of further downside in the immediate term.",
-    "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 4,
-    "negative_count": 13,
-    "neutral_count": 3,
+    "explanation": "Multiple participants are expressing bearishness or caution regarding BTC, citing levels such as 107,500 and 108,000 as resistance and expecting a potential crash or big drop. Some state the odds are with more downside, and there is a lack of bullish momentum. However, a few opinions remain neutral or discuss possible future upside, so confidence is medium.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 5,
+    "negative_count": 10,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Kh Vlog: Tomorrow btc slowly slowly down mark my words guyz",
-      "Dd: Bulls are out of steam",
       "Abell: break again 107,500 The Crash",
-      "Target Hit: and since then the upper vWAP is keeping the price dropping",
       "Target Hit: the odds are with more down",
+      "Dd: Bulls are out of steam",
       "SeÃ±or Joce: I think we're going to see a big BTC drop again pretty soon",
-      "Preparing 4War: I'm short $108k on Blofin",
       "Target Hit: Not able to be macro bullish here also",
-      "Marticlues AI: BB/USDT Short Stop Out!: P=0.0839,-0.7%",
-      "Preparing 4War: $108.6 SL",
+      "GoldenChild: This money flow is still thick in the green and no good bear divs, except the 2 hr. If we get one more push up we could for some better bear divs. Thereâs really not many at all without another high",
       "Noob Trader: tomorrow more up today little down next up and up and up until 130k",
       "Alina Bogdan: 104k incoming .. 102200 next .. if we fake to the upside 109k entry point",
-      "GoldenChild: This money flow is still thick in the green and no good bear divs, except the 2 hr. If we get one more push up we could for some better bear divs. Thereâs really not many at all without another high",
-      "Unlimited Printsð¤: We going to fly soon"
+      "Pradeep Gupta: 107700 se maine short kiya hai",
+      "Wide shorts: m2 Global liquidity offset is now off cause of war",
+      "Preparing 4War: longing the trend to hedge",
+      "Unlimited Printsð¤: We going to fly soon",
+      "moons..: buy?"
     ]
   }
 ]
