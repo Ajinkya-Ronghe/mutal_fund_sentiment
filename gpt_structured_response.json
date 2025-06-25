@@ -4,25 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite a prevailing bearish sentiment with many opinions favoring shorts and expecting further downside (targets from 106k to 102k, calls to short at 107k and 108k, and references to high supply/liquidity zones), there are key contrarian signals and fresh buy calls: algorithmic systems have called for a buy at current levels, several users discuss the potential for a bounce or recovery, and some are mentioning significant support/bounce possibility at 106,400/105,500. Additionally, the sharp drop seems to have triggered liquidations, often preceding a relief rally. The presence of volatility, large fluctuations expected in the next 12 weeks, and references to rapid recoveries after such dumps, as well as trading bots and algorithms suggesting a buy, all point toward a high-confidence opportunity for a counter-trend long. The 1-minute candlestick action is likely to show volatility and a possible reversal to the upside.",
-    "positive_count": 13,
+    "explanation": "Despite a dominant short-term bearish consensus in chat, there are notable counter-signals for a tactical long. Most participants are expecting further downside, citing supply zones around 110k, liquidity grabs, and targets between 102k-106k. However, this strong bearish crowding and references to liquidation sweeps, support levels being defended, and some traders flipping to long after a sharp drop, suggest a high probability for a short-term bounce or reversal (contrarian setup). A few opinions even mention buy signals, algorithmic buy calls, and expectations for rapid upside after the shakeout. Quick reversals after liquidation events and the presence of 'buy the dip' comments alongside algorithmic signals support a high-confidence, high-risk buy for nimble traders, especially with proper risk controls. Use isolated 20x leverage only with strict stops and swift profit booking.",
+    "positive_count": 8,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 22,
-    "neutral_count": 11,
+    "negative_count": 30,
+    "neutral_count": 12,
     "representative_opinions": [
-      "Ace Winner: Ace algorithm buy call here, target 108.2k",
+      "Biem sur: @Jemerson Paulo im long now, BTC and SOL just like Rick",
+      "Ace Winner: Ace algorithm buy call here, tp 108.3k",
       "Unlimited Printsð¤: Itâs buy soon will fly",
-      "FreshEditZone: sir btc 109k up jaya ga",
-      "SYKO GAMERZ: smc kehta hai market bulish he",
       "Manggala Yatra: this now go buy ,, ",
       "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
-      "Mar Vaey 2.2: it looks to be recovering",
-      "Michael Montesano: btc is the little engine that could today geesss",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Edvardas Volosinas: well. We got pump up because of the news - usually BTC goes back to \"original price\" after some time",
-      "oscartg638: might be bouncing! hold",
       "PHIL HSIEH: buy the dip",
-      "Manggala Yatra: I think yes"
+      "FreshEditZone: sir btc 109k up jaya ga",
+      "oscartg638: might be bouncing! hold"
     ]
   }
 ]
