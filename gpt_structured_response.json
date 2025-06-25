@@ -4,24 +4,28 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "There is an overwhelming number of positive and bullish opinions regarding BTC, including calls for scalping long, expectations of a pump in the next few hours, and several mentions of strong supports and buy signals. Many users reference bullish chart patterns (e.g., falling wedge, inverse head and shoulders), positive momentum, and algorithmic buy calls with targets above current prices. Despite some remarks about manipulation and short-term volatility, the consensus is to buy or hold BTC. Sentiment is reinforced by direct questions about holding for profit, multiple requests for buying advice, and users reporting profits on long trades. Leverage discussions and risk appetite also align with a high-confidence buy recommendation.",
-    "positive_count": 24,
+    "explanation": "A significant number of participants are discussing bullish structures (inverse head and shoulders, bullish wedge, higher lows), algorithmic buy calls to 108k, and consistent references to support holding above 105k and targets up to 110k. Multiple users express intent to buy or are holding long, with only sporadic short-term selling opinions quickly countered by renewed buying sentiment. Sentiment is further reinforced by trading groups recommending long entries and retail traders asking for buy setups. Despite some volatility and stop-loss hits, the overall tone is constructive for a further push higher.",
+    "positive_count": 16,
     "safe_leverage_isolate_future_perpetual": 20,
     "negative_count": 7,
-    "neutral_count": 6,
+    "neutral_count": 9,
     "representative_opinions": [
       "Ayush Gupta: good trade to scalp long",
-      "Ayush Gupta: i think we'll see a pump in next 4 hrs",
       "Ace Winner: Ace algorithm buy call here. Tp 108k",
-      "Godson Trades: falling wedge is bullish chill guys",
       "Chemo-n-Crypto: Painting a perfect inverse head and shoulder on BTC daily",
+      "Jemerson Paulo: 106500 possible support can hold lets Go Pump more 105k",
       "Manggala Yatra: this now go buy ,,",
+      "Ayush Gupta: i think we'll see a pump in next 4 hrs",
+      "Big Pump: $50,000,000 BTC Liquidated this morning",
+      "Dove Here: Buy land, build property on it, rent out and use the earned money to buy more BTC.",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
       "Unlimited Printsð¤: Itâs buy soon will fly",
-      "RAHUL KUMAR CHOUDHARY: buying bcz liquidation tell 108970 level according to me",
-      "z a: Btc mai abhi selling nahi hai buying ka trend hai kiya ?",
       "Shibam Sarkar: Sir ji mt 1hrs main 145.150 price se buy hold kar raha hoon swing pe hold karu kya ???",
-      "Ankit Jain: Har koi retailer short ki taraf soch raha hai market sabke sl le raha hai",
-      "Big Pump: $50,000,000 BTC Liquidated this morning"
+      "Gabe Buffet: Buy the DIP!!",
+      "Mayuresh Mhatre: Bullish news as well",
+      "Shubham Bajaj: logey aap ye??",
+      "Ash âAshâ: Choose your destiny, flawless victory.",
+      "og_comedyman: btc swing"
     ]
   }
 ]
