@@ -1,36 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There is a mixed sentiment in the chat, but several messages suggest potential for upward momentum (e.g., 'BTC 108500 tak jaega', 'BTC only testing support, as long trading above 50 ma, it's still bullish'). However, there are also significant concerns about volatility and possible downside risk, with mentions of 'big fluctuations', 'be alert in the next 12 weeks', and 'BTC me ajkal koibhi strategy follow nhi ho rhi'. This results in a medium confidence buy signal, but caution is advised.",
+    "explanation": "The majority of opinions express concern about BTC's downside risk, with several participants asking whether to sell, reporting selling, or describing heavy selling pressure. Some mention technical signals such as 'bear flag', failed support, and lack of strategic consistency in BTC. A few voices note sideways or choppy price action and warn of possible big fluctuations ahead. There are also opposing opinions suggesting possible buys or that BTC is holding support, but these are fewer and less strongly worded. Thus, the overall sentiment leans slightly bearish, but with medium confidence due to the presence of mixed and neutral inputs.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 10,
-    "negative_count": 6,
-    "neutral_count": 6,
+    "positive_count": 7,
+    "negative_count": 17,
+    "neutral_count": 16,
     "representative_opinions": [
-      "BTC 108500 tak jaega",
-      "BTC only testing support, as long trading above 50 ma, it's still bullish",
-      "this now go buy ,,",
-      "I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
-      "buy signal",
-      "btc breakeven ?",
-      "btc ko uper mat bhejo",
-      "mast raho: ahega niche",
-      "mast raho: bhai btc 93000 tak zayga",
-      "Daniel Ho: btc only testing support, as long trading above 50 ma, it's still bullish",
+      "Mohit Srivastava: 30 se sell lga hai",
+      "Manpreet singh: btc sell krluu kyaa",
       "beast is back: seller heavy haa btc maii",
-      "btc ma buying kaha se?",
-      "btc neeche ni ja rahah",
-      "btc short or ka tp bta do",
-      "BTC ME AJKAL KOIBHI STRATEGY FOLLOW NHI HO RHI",
-      "When btc down bro",
-      "btc re entry hai kya ?",
-      "btc sell krluu kyaa",
-      "Freedumb for Joel: you finally get some BTC?",
-      "Divakar Sharma: Agar US mei banks fail honge toh bitcoin ko fayda milega jaise ki last time 2024 January mei US mei kuch bank fail huae toh bitcoin ATH gaya",
-      "Neborion: 106917.8 se buy kor liya...... bro"
+      "taredar com ww: selling strong hai",
+      "AydÄ±n AkkuÅ : bear flag... Go go gooooo",
+      "Daniel Ho: btc only testing support, as long trading above 50 ma, it's still bullish",
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed"
     ]
   }
 ]
