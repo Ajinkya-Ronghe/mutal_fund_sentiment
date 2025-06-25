@@ -4,22 +4,25 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "BTC opinions are mixed but have slightly more negative sentiment. There are mentions of trendline support being tested, warnings about price plunges if large entities stop supporting, suggestions to short at certain levels (e.g., 108600), and comments on market liquidity and volatility. The 1-minute candlestick signals are described as flat and ugly with low volume. Some expect a bounce at lower levels, but overall, short-term traders express caution and a potential for downward moves. While some mention buying at trendline touches, the consensus leans toward defensive or short positions, especially for scalping, with a few participants warning about bull traps and incoming dumps.",
+    "explanation": "Sentiment is mixed but leans bearish for BTC in the very short term, with multiple users discussing trendline breaks, market dumps, and shorting around the 108k-109k levels. Some mention valid support around 107200-107400 and suggest potential for a bounce, but the immediate tone is skewed toward scalp shorts and negative funding. There is also mention of flat/ugly 1-minute candles and negative volume context, with some users expressing expectations of further downside. However, a few opinions note oversold conditions and possible bounce, so confidence is medium rather than high.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 6,
-    "negative_count": 10,
-    "neutral_count": 5,
+    "positive_count": 7,
+    "negative_count": 13,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Eriya Creative girlð©·ð: bhai abhi sell kar sakte hai",
-      "Rodolfo: btc dominance has been consolidating all day and looking to go up now, any scalp longs should be closed, try and hold swing longs if you bought near the beginning of the move",
-      "Tjeerd Phaff: the moment that entity stops placing the orders to support price we could fall hard",
-      "Tjeerd Phaff: i short around 109 or break of trendline",
       "crozxz: 108600 good area for short",
+      "Bear Bull: 107400 and go long",
+      "Tjeerd Phaff: funding negative",
       "Jorge smacks: dump",
       "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
+      "Neev: the 1 min chart candles are looking flat and ugly with this vol",
+      "Trade Like Operator: abhi upar hi rahega",
+      "MVRSO: no volume",
+      "Butthead: asia gonna dump this B",
+      "Adarsh Jaiswal: because ab liquidity niche hai to market ko to lena chahiye abhi eak spike ayega sell me",
+      "Dennis Bell: Massively oversold.",
       "Ryan Smith: Good buy thank me later",
-      "Neev: the 1 min chart candles are looking flat and ugly witht his vol",
-      "Butthead: asia gonna dump this B"
+      "Neev: uk is short central for me"
     ]
   }
 ]
