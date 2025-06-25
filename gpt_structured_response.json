@@ -4,27 +4,24 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "BTC opinions are highly mixed but skewed toward bullish structure on higher timeframes, strong price recoveries, and significant retail shorting (which often leads to squeezes). There are many calls for both short and long, but several voices note that large investors are active, price is holding above 106,500, and retail is heavily shorting. This suggests a potential for an upside squeeze. Even with short-term dump fears and volatility, the prevailing technical and sentiment signals point toward a high-confidence buy with a potential for sharp upward movement, especially on short timeframes. Risk management is advised, but high leverage is considered safe for isolated futures/perpetuals given the strong liquidity and volatility.",
-    "positive_count": 15,
+    "explanation": "Despite a high volume of mixed opinions, the aggregate sentiment on BTC points to an ongoing bullish structure in higher time frames and notable resilience above key support levels. Several participants mention recent breakouts, large investor interest, and a lack of significant liquidity above, which could signal further upside. While many traders are actively shorting or calling for a dump, there is strong evidence of short squeezes, retail shorts increasing, and larger players accumulating. Notably, some comments point out that long positions are underrepresented compared to shorts, which can create a ripe environment for a reversal and continued rally as shorts get squeezed. The presence of major resistance and high volatility (2k up/down) is acknowledged, but risk management and momentum favor cautious, leveraged long entries.",
+    "positive_count": 12,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 12,
-    "neutral_count": 8,
+    "negative_count": 20,
+    "neutral_count": 12,
     "representative_opinions": [
       "EazyGaming: higher time frames still looks so bullish",
+      "2 Sticky Fingers: we're grinding ever higher",
       "Stranger Prince: 111000.987 BULLISH ....... !!!",
       "Target Hit: big investors know something",
-      "2 Sticky Fingers: we're grinding ever higher",
+      "Retail is opening more and more shorts",
+      "Giano182: that's why when i read in this chat 'open a short' i laugh. like, are they really aware how much umproportion there is right now? Compared the long positions opened are Zero",
+      "ekin kÄ±ran: going 110k after dump",
       "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Giano182: that's why when i read in this chat 'open a short' i laugh. like, are they realyl aware how much umproportion there is right now? Compared the long positions opened are Zero",
-      "SANDESH SUMAN: btc entry lele sir",
-      "Super carâs high on life ð°: Btc bro",
-      "Stars Link: hello sister BTC upper jaey ga?",
-      "Saurav Das: What would be target for BTC long?",
-      "THE STAG - Rameez Shaikh: @Saurav Target and SL trailing are given to members only",
-      "Trading Crusader: We need to get above $106,500. If it doesnât break above and hold soon down.",
       "MO: also R2 pivot here, so some consolidation at least in this and may push higher, never can be sure",
       "BlockChainBandit: i am happy with my long tp so i give crypto my 73dollar back if short stop at 107313 lol",
-      "RelaxSlee: theres 90% chance it will dump"
+      "OneWiseKing: i only buy bitcoin",
+      "THE STAG - Rameez Shaikh: @Saurav Target and SL trailing are given to members only"
     ]
   }
 ]
