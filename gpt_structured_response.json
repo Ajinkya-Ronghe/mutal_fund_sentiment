@@ -4,23 +4,18 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple participants noted recent rejection at trend lines and resistance, with opinions mentioning a trap for longs and warnings against longing before a retracement. Candlestick signals on the 1-minute timeframe were described as showing rejection and potential traps, and several traders advocate waiting for a drop or shorting. However, there is some bullish sentiment about higher timeframes and possible upside targets, so confidence is only medium.",
+    "explanation": "Several opinions highlight a rejection at a key trendline and double top formation on the 1-hour chart, with traders warning against longing BTC until a decent retracement occurs. Some mention possible traps for long positions and shifting sentiment as recent price action looks bearish on short timeframes. Although some traders discuss targets above 108k, the majority of technical commentary is cautious or bearish in the immediate term.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 9,
-    "neutral_count": 6,
+    "positive_count": 6,
+    "negative_count": 10,
+    "neutral_count": 8,
     "representative_opinions": [
-      "oscartg638: it's looking like a trap",
       "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
       "oscartg638: it was rejected at the 1min for sure",
-      "Mar: They want to trap lot of shorts",
-      "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
+      "TraderX: To be careful here for those thinking of longing or who did. I felt trapping more likely than not.",
       "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
       "Tjeerd Phaff: I would not long until we get a decent retracement",
-      "Limitless1618: I gave Gemini chart screenshots and its telling me to enter long at 107.5k, SL:107.1, TP: 108.2/108.7k",
-      "SETH MANDHAN: will btc comedown to 106000 first or go up to 109000 wht u say??",
-      "H S000: Niiiice , I already said I have a feeling that it will drop under 105k",
-      "Christian LA: that buy was totally BAD"
+      "Ferhaan Schmidt: wait for short"
     ]
   }
 ]
