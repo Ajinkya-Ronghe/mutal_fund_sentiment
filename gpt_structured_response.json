@@ -4,25 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The sentiment in the live chat is mixed but tilts bearish in the short term. Several users discuss the possibility of a retracement or short opportunity, referencing double tops, rejection at high weekly ranges, and warnings about trapping longs. Some mention the recent significant move up and expect a pullback, while a minority remain bullish. No consensus on a strong uptrend continuation in the immediate term; rather, more caution and short signals are present.",
-    "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 3,
+    "explanation": "Several participants expressed concerns about a potential retracement, double top pattern on higher timeframes, and the risk of a bull trap. While a few opinions remain bullish or neutral, the prevailing mood is caution due to recent strong moves up and signals of exhaustion. There is a notable call to wait for a better long entry and suggestions that the current uptrend may pause or reverse soon.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 4,
     "negative_count": 7,
-    "neutral_count": 5,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Hamdan Chuhdry: kia ab Bitcoin $108k touch kry ga",
       "NEMESIS: Bitcoin or girega kya",
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
       "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
       "TraderX: To be careful here for those thinking of longing or who did. I felt trapping more likely than not.",
-      "Tjeerd Phaff: I would not long until we get a decent retracement",
       "Ferhaan Schmidt: wait for short",
-      "oscartg638: 15 looking bad again",
-      "Olu Folarin: Yup, it still looks like an uptrend to me",
-      "Ferhaan Schmidt: im on long still",
-      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
       "Amo Menottant: will retrace after locally bouncing on LSOBs",
-      "aV1rus: I think we range tonight between 106.7 and 108 just based on volume. Couple more failed attempts up"
+      "oscartg638: 15 looking bad again"
     ]
   }
 ]
