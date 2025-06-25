@@ -35,7 +35,7 @@ def load_json(path):
 # Main UI loop
 def main():
     # Use absolute path to gpt_structured_response.json in the LiveChatFetcher folder
-    json_path = "D:/Sentiment_Engine/Engine_Crypto/ai_structured_response.json"
+    json_path = os.path.join(os.path.dirname(__file__), "gpt_structured_response.json")
     last_data = None
     placeholder = st.empty()
     while True:
