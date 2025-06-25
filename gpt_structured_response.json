@@ -4,23 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mixture of short and long opinions, but several comments highlight bullish technical signals: references to a potential bounce at 107,750, targets as high as 111,400-114,000, and a breakout after a 1min retest. Some warn of traps or sideways movement, but the consensus leans toward upside potential after sweeping liquidity. Recent breakouts above key levels (e.g., 101,600) are also seen as bullish confirmations. However, the presence of shorting sentiment and calls for caution reduce the confidence level.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 7,
-    "negative_count": 5,
-    "neutral_count": 9,
+    "explanation": "BTC sentiment is mixed but leans positive: multiple users mention bullish chart structures (FVG, retest, breakout, higher high), and Marticlues AI explicitly calls a BTC/USDT long at 107700.01 with 'Bull Blast' technical analysis. There is discussion of both long and short possibilities, but more users warn that shorting is risky, and recent price action suggests upward liquidity targets (e.g., 111,400, 112k, 114k). Some warnings about traps and sideways movement, but the dominant actionable signal is for a cautious long, especially on the 1-minute timeframe.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 10,
+    "negative_count": 6,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Florent Raes: need bounce up on 107 750",
+      "Marticlues AI: Long BTC/USDT:ENTRY=107700.01,TP1=107915.41,TP2=108023.11,TP3=108238.51,SL=106946.1,TA=Bull Blast!",
       "Super Trader : change of carrector karke higher high bana ke jayega",
-      "andrei lucian varvaruc: when the price break 101600, longs position was clear open",
-      "Lumisch: 1min hatte gerade retest und sieht aus als wenn sie ausbricht ja",
       "Florent Raes: we are going to take that liquidity at 112k",
-      "Fauxanism: Down side, kyuki rejection clear h",
+      "Lumisch: 1min hatte gerade retest und sieht aus als wenn sie ausbricht ja",
       "Acke: short here is risky",
-      "Amit Anand: abhi exit nahin marna brother aapka profit mein close hoga",
-      "Ayush Gupta: I'm thinking to short and sleep...lol",
-      "Y00LKA: might be a trap to accumulate bulls liquidation and then drop",
-      "Acke: we need sweep man and then short"
+      "Gyan Singh: sir break kar dega aisa lag ra h",
+      "Fauxanism: Down side, kyuki rejection clear h",
+      "Mohit Kumar: Selling ka hi chance hai bhai 95% kyunki 2 din we lagatar gap down hi khulra hai",
+      "Florent Raes: like a say there is always opportunity to long or short",
+      "el Vegano ð: BTC needs to go vegan ... not enough strong"
     ]
   }
 ]
