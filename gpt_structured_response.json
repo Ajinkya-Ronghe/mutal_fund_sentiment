@@ -4,27 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite mixed and volatile sentiment in the chat (mentions of both shorting and longing at various levels), the dominant narrative is that BTC is at or near a major level where new entries are being considered, with several traders advocating for holding or buying at dips. There is repeated discussion of price action, anticipated sharp moves, and strong interest in future/perpetual trading with leverage. Many comments expect a bounce or upside after current bearishness, and some explicitly call for 'buy' or 'long' at current or slightly lower levels. The candlestick signal and general sentiment indicate upside potential in the immediate term, favoring a high-confidence long/buy recommendation. Leverage suggestions and frequent references to risk management also support a 20x safe leverage figure.",
+    "explanation": "Despite some bearish and neutral short-term sentiment, there is significant evidence of bullish bias and entry recommendations for BTC from various participants. Multiple users are discussing buying opportunities, price targets above current levels (e.g., 108328, 108500, 137500), and holding through volatility. Several mention leveraging or going long after retracements. Some express caution around local dips, but the consensus is that the next move is upward after a possible shakeout or stop hunt. Advice is repeatedly given to 'buy BTC,' 'BTC long karo,' or 'BTC uper jayega.' The aggregate of positive and 'wait for dip then buy' comments outweighs the few negative or uncertain takes. The technical pattern chatter (head and shoulders, wedge, trend lines) also supports the idea of an imminent upward breakout.",
     "positive_count": 15,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 9,
-    "neutral_count": 14,
+    "negative_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Afzal Shaikh: Bhai I think Btc 107200 pe aake waha se Again upside jaa sakta hai baaki Let's see",
-      "C-130: BUY TIME APPROACHING",
       "FreshEditZone: sir btc up jaya ga now this level",
       "Parikh Mayur: BTC uper jayega",
+      "Rohit Desai: btc long karo .target 108328",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
       "Unlimited Printsð¤: Itâs buy soon will fly",
-      "Pankaj kumar Vij: new entry banegi kya ab btc",
-      "jhon: ok we will take trade in btc",
-      "Sajid deaf: btc buy gold sell",
-      "Dheeraj Rajput: Sir meri BTC BUY side trade open hai Kal se",
+      "Afzal Shaikh: Bhai I think Btc 107200 pe aake waha se Again upside jaa sakta hai baaki Let's see",
+      "C-130: BUY TIME APPROACHING",
+      "Attitude ka khajana: phle niche aayega uske baad tabhi jayega",
       "Baba: bhai 104300 se long h hold kru ya close 40$ loss chal rha h",
-      "Chandra Dahal: descending head and shoulder bana Raha hay btc hold",
-      "Gyan Singh: btc long jayega",
-      "Vipul Chohala: abhi sir 15 minutes pe supply pr ja raha hei.. or niche order book he.. I think 107700 se short side plane kar shakte hei....",
-      "Amit Anand: BTC thoda niche Aakar upar jaega FIR niche aaega",
-      "Moonshot : $137500-$138500"
+      "Amit Anand: BTC thoda niche Aakar upar jaega FIR niche aaega"
     ]
   }
 ]
