@@ -4,27 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants referenced BTC's bullish structure, with discussion of breaking key resistance levels (e.g., $106,500, $107,000, $108,000), a strong uptrend on 15m/4h timeframes, and confirmation from technical indicators such as the 4h moneyflow flipping green and stochastic RSI turning up. Despite some short-term traders expressing caution or taking shorts for scalps, the prevailing sentiment is that BTC is in a bullish phase, supported by positive correlation with tech stocks and expectations for new highs. Many community members are holding longs or looking for entries on dips.",
-    "positive_count": 15,
+    "explanation": "Multiple participants discussed BTC's strong uptrend, breaking above key resistance at 106,500 and heading toward 108,000-108,500. There is significant mention of bullish signals including positive 4h and daily stochastics, strong support from underlying tech stock performance, and repeated confirmations of higher highs and long entries. Some short-term traders are cautious about possible retracements, but the consensus and momentum remain bullish. Technical analysis, order flow, and sentiment strongly favor further upside, supported by calls for new highs (114,000/120,000/150,000) and holding or adding to long positions.",
+    "positive_count": 18,
     "safe_leverage_isolate_future_perpetual": 20,
     "negative_count": 5,
-    "neutral_count": 12,
+    "neutral_count": 8,
     "representative_opinions": [
-      "MO: that is the reason btc is bullish too because the tech stocks in green pre us open",
-      "Sinlos: 13/50 ema is key on the 15 mins now still in a strong uptrend",
-      "sampel: these are easy longs for scalps imo",
       "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "SlickShoes: if we break upwards we are likely heading towards 108982 area which is the .786 and also the downtrending line of resistance which should be difficult to break through",
-      "BlockChainBandit: full tp my long",
-      "Sumit mantri: btc up gaya reason chart me trend line niche se upar ki or hai simple",
+      "MO: that is the reason btc is bullish too because the tech stocks in green pre us open",
+      "sampel: these are easy longs for scalps imo",
+      "Sinlos: 13/50 ema is key on the 15 mins now still in a strong uptrend",
+      "SlickShoes: 4h moneyflow crossed into the green which is also a bullish sign",
+      "Sharan: mam yeh up side jye ga 110000",
       "Chirag Doshi: madam btc reach new high 114000 & 121000 in coming period",
-      "sanjukta panigrahi: btc upside target mam 107000 se buy hai",
-      "divya pali: Short ya long btc trade",
-      "Victoria: a buy!",
-      "Panchani Jagnesh: BTC 108500 tak jaega",
-      "Freedumb for Joel: Thats some cheap BTC",
-      "KiloCharley: Giddy=up BTC",
-      "MO: 4h stochastic came back up and pushing into bullish daily stoch zone"
+      "pankaj sharma: higher high banaa rha hai is baar BTC 150000 120000 tak jyga july m",
+      "Sumit mantri: btc up gaya reason chart me trend line niche se upar ki or hai simple",
+      "sanjukta panigrahi: btc upside target mam 107000 se buy hai"
     ]
   }
 ]
