@@ -4,25 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite some concerns raised about hashrate drops and possible vulnerability, the overall sentiment in the live chat leans bullish. Multiple participants highlight bullish technical patterns (bullish flag, price compression, potential for explosive moves), expectations of higher targets (109k, 111k, 113k, 150k), and the difficulty shorts are facing as the price grinds upward. Concerns about network security are largely countered by others pointing out the still-strong hashrate. Several traders are actively looking for long entries or are already holding profitable long positions, and spot buying is being suggested. The prevailing trading momentum and crowd sentiment suggest a high-confidence long bias, with a safe leverage recommendation for experienced traders.",
-    "positive_count": 13,
+    "explanation": "Overall, the sentiment for BTC is bullish. There are repeated references to strong resistance levels (107.5k, 109k, 111k) and expectations for explosive upward movement if shorts are liquidated. While some comments express concern over hashrate drops and possible vulnerability, others correct this with data showing hashrate remains strong, and the main trading sentiment is bullish due to price compression, slow climb, and market structure. The market is seen as choppy, with many expecting a breakout, and multiple users report successful long trades or are seeking optimal long entries. The environment appears volatile, but upward momentum and positive news (e.g., Powell's dovish tone, rate cut hints) support a long bias. There are some negative and neutral opinions (e.g., risk of pullbacks, network concerns), but the bullish case is stronger in both count and conviction.",
+    "positive_count": 15,
     "safe_leverage_isolate_future_perpetual": 20,
     "negative_count": 6,
     "neutral_count": 8,
     "representative_opinions": [
-      "Josema: This non-stop slow climb is eating shorts alive, once short stop opening, we explode, a price compression while climbing is just bullish as fok, we can just have a mssive explotion any time soon.",
-      "Chief Bijj Gaming : looks like 109k-111k still a probablility before pullback",
+      "Josema: This non-stop slow climb is eating shorts alive, once short stop opening, we explode, a price compresion while climbing is just bullish as fok, we can just have a mssive explotion any time soon.",
+      "Chief Bijj Gaming: looks like 109k-111k still a probability before pullback",
       "mae chin: bullish flag on daily",
-      "BTCBILL : whats the old saying, \"bitcoin will never go below 100k again, ever\"",
       "Trade Around The World: 107.5k might be strong resistance but if we break thats bears liquidations baby",
+      "BTCBILL: whats the old saying, \"bitcoin will never go below 100k again, ever\"",
       "Crono: nice long setup is in the making if ny open don't shake we could see 111k",
+      "Don G. Dangler $0.1M BTC: FINALLY POWELL SAID WE WILL BE CUTTING RATES POSSIBLY NEXT MEETING",
+      "2 Sticky Fingers: @Dany Grudzinski you have to be kidding? the hash rate is over 700 Million Terahash/s This is still a phenomenal amount of computing power",
+      "cynio: Maybe an SFP up to liquidate high lev shorts, and retracement to 102k?",
+      "EVERYTHING: short from 108200 to 100500",
       "Shaheen: sir btc me bhut fluctuation raha hy Kal Sy long ki bhut trades Mili hyn myny demo pe practice ki. abhi bhi bhut fluctuation hy apny trade kion ni li",
       "Saurav Das: What would be target for BTC long?",
-      "Yuvraj: spot buying krna start krde kya bhai???",
-      "SNEHSHISH 06: small capital me ...btc me kitne leverage rakhu aur lots vagera",
-      "Ramu Gokak: Sir what is a best lot size for trade in BTC",
-      "Sing a song: mam btc mae rentry lae skte hae",
-      "Travel with Nik: Btc ka batado"
+      "PROVE SOMETHING: i was long frm morning still sl trail",
+      "PROVE SOMETHING: i was expect up to 109000",
+      "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !"
     ]
   }
 ]
