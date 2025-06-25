@@ -1,30 +1,27 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of recent comments discuss bearish momentum, confirmations of short signals, warnings about a possible dump, and profit-taking behavior. While there are some positive remarks about long-term potential and bullish news (e.g., ETF inflows, regulatory acceptance for mortgages), short-term sentiment and technicals point toward downside risk. Some users mention key levels (e.g., $106,500) and hesitancy to long, and several warn that the market is over-hyped or inflated, suggesting caution or even short positions in the immediate term.",
+    "explanation": "There is a mixed but generally positive sentiment toward BTC in the chat, with several users referencing BTC's resilience, potential for a bullish move, and positive news like the US Housing Finance Agency allowing BTC as mortgage collateral and large ETF inflows. However, there are also concerns about short-term volatility, bearish momentum on lower timeframes, and potential drops to support levels. The overall count of positive opinions outweighs negatives, but there is enough caution and hesitation in the short-term for only a medium confidence rating. Representative opinions include references to BTC being the 'little engine that could', discussion of bear traps, and encouragement not to miss BTC, as well as caution about current market absorption and short-term hesitancy.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 15,
-    "neutral_count": 10,
+    "positive_count": 12,
+    "negative_count": 6,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Learn Trading Analysis | Crypto Forex Updates: no long only short",
-      "Ricardo Sala: Rsi is almost in oversold... there will be a rebound.. to continue falling",
-      "FitZoneX: it's going to dump",
-      "MVRSO: THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN",
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Bear Bull: I was gonna long now and just saw the short signal hahaha",
-      "oscartg638: the hesitation is dangerous for longs",
       "Freedumb for Joel: Nice time to buy some BTC",
-      "KiloCharley: LFG BTC n stuff",
       "Adsy: News just in!!!! US Housing finance agency has just issued an order to allow BTC and CRYPTO as an asset to a mortgage..",
       "Adsy: Mean while BTC ETF's stack 3.3 billion in the last 4 days",
-      "Unlimited Printsð¤: We going to fly soon ",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Michael Montesano: btc is the little engine that could today geesss",
+      "DigitalOrgy: Btc C leg completed. Rockets incoming",
       "Caquaino: btc pump",
-      "oscartg638: rebound will retest new resistance",
-      "Ahmad Khalid: no no not yet momentum still bearish on 5 and we just lost the 15 have faith  "
+      "Unlimited Printsð¤: We going to fly soon",
+      "Y00LKA: i think its prep for upside to > 108",
+      "Ahmad Khalid: no no not yet momentum still bearish on 5 and we just lost the 15 have faith",
+      "FitZoneX: it's going to dump",
+      "MVRSO: THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN"
     ]
   }
 ]
