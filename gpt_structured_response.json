@@ -1,24 +1,34 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There are several bearish and profit-booking sentiments in the chat, including calls to 'book profits', warnings about manipulation and traps for buyers, and mentions of an impending dump or big short. However, a few bullish or holding opinions exist, so confidence is only medium.",
+    "explanation": "BTC sentiment is mixed but leans bullish. Multiple participants reference holding long positions, not selling, or booking profits after trendline breaks. Some mention a strong level holding, and others highlight patience waiting for moves. There are also mentions of manipulation and warnings to book profits, but no clear large-scale bearish calls. Overall, the attitude is to ride the bullish trend or wait for further confirmation, with several users referencing trendline breakouts and profit-taking after gains.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 10,
-    "neutral_count": 9,
+    "positive_count": 10,
+    "negative_count": 5,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Market abhi trendline pe buyer ko trap karega fir spike me sell ayega",
-      "book kr lo",
-      "THIS IS GONNA BE THE BIGGEST SHORT YOUVE EVER SEEN",
-      "HD Entrprajsis: Dump it !!!",
-      "RaberTrades: Bears are trying to pill this down to 104-106k",
-      "henrique aoyagui: no buyin pressure",
+      "Eriya Creative girlð©·ð: bhai trend line break hone ke baad bhi li ja sakti hai trade",
+      "RaberTrades: I wonât be selling any of my longs nor took any profits today.",
       "Goldy Singh: Bohot bada manipulation chalra h 2 dinse",
-      "Goldy Singh: Niche girega dhadam se",
-      "Learn Trading Analysis | Crypto Forex Updates: wait kro"
+      "Goldy Singh: Ab green me aya trade 3.5 dollar profit running brother",
+      "Surbo: US federal housing agency issues order to count bitcoin and crypto as an asset for mortgages",
+      "Immigrant Diaries: 107289 holding up strong",
+      "TheBigE32: The Macd says otherwise. It's about to turn bullish",
+      "Tjeerd Phaff: breaking trendline",
+      "Goldy Singh: Bs todte Trendline mazza a jayega krega confirm",
+      "ChippedToothZabal AndCo.: This has been bullish since the April 21st weekly close",
+      "Learn Trading Analysis | Crypto Forex Updates: wait kro",
+      "Compounding king: book kr lo",
+      "henrique aoyagui: no buyin pressure",
+      "HD Entrprajsis: Dump it !!!",
+      "Caquaino: stupid btc",
+      "Eriya Creative girlð©·ð: ye book kar lo ab meine heavy lot se iss trade mei 25000 book kar liye",
+      "Twelve: BTC ke Nakhre to larkiyo se b jyada hai. 3 dino se bachaye hi jarae",
+      "Sajib Rahman: 107200 par Jayega Bhai",
+      "Solidity Monster: close to busting through the trend line."
     ]
   }
 ]
