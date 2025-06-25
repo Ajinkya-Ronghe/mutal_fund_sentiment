@@ -4,25 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite mixed short-term opinions (with both short and long calls), overall sentiment in the live chat and signals leans bullish for BTC. Multiple traders and bots provided active long signals with defined entry and targets (e.g., Marticlues AI: Long BTC/USDT:ENTRY=107035.38,TP1=107249.45...), and several participants highlighted bullish setups, breakout levels, and potential for higher moves. Notably, some warned about high volatility and the importance of stop loss management, but the recurring recommendation is to buy or hold, especially above key levels like 106,500. Market momentum and buy signals are noted even as short-term corrections are discussed, with the consensus expecting higher BTC prices in the near term.",
-    "positive_count": 13,
+    "explanation": "Despite a highly mixed sentiment with frequent references to both shorting and long trades, several representative opinions and technical call-outs indicate bullish structure on higher timeframes and specific long trade signals. Notable mentions include direct long entries with targets, bullishness above key resistance levels, and comments about institutional activity. The market appears to be volatile with some advocating for shorts due to rejections or recent dumps; however, the overall trend, as indicated by multiple sources, and the breaking and holding above critical resistance, supports a high-confidence long signal. Safe leverage is set at 20x isolated futures perpetual due to market volatility and mixed retail sentiment, but overall institutional and technical cues favor a long bias.",
+    "positive_count": 14,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 7,
-    "neutral_count": 17,
+    "negative_count": 12,
+    "neutral_count": 14,
     "representative_opinions": [
+      "EazyGaming: higher time frames still looks so bullish",
+      "Stranger Prince: 111000.987 BULLISH ....... !!!",
       "Marticlues AI: Long BTC/USDT:ENTRY=107035.38,TP1=107249.45,TP2=107356.48,TP3=107570.55,SL=106286.13,TA=Buy Storm!",
       "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Giano182: that's why when i read in this chat \"open a short\" i laugh. like, are they realyl aware how much umproportion there is right now? Compared the long positions opened are Zero",
+      "2 Sticky Fingers: we're grinding ever higher",
+      "Dee Cee ð§ : Exactly, couldnt stress enough about HOLD HOLD HOLD",
+      "Kanu Special: ye up kaha tak ja skta hai",
       "new version: mam btc me hammer cadle bn rhi, upr jane ki possibility h kya",
       "Stars Link : hello sister BTC upper jaey ga?",
-      "Super carâs high on life ð°: Bhai btc bata di",
-      "Marticlues AI: Long BTC/USDT: ... TA=Buy Storm!",
-      "Trading Crusader: We need to get above $106,500. If it doesnât break above and hold soon down.",
-      "pramod singh: mam btc 117000 tak ja sakta hai kya mai averaging kar lunga capital issue ni hai mam 120000 cross hoga then mujhe fark pad sakta hai",
       "Saurav Das: What would be target for BTC long?",
-      "FiRE Type aming: can I buy btcusd",
-      "RB Boys Vlog: Btc girega kya ya upar chala jayega",
-      "divya pali: Are btc long kre ys short",
-      "BlockChainBandit: i am happy with my long tp so i give crypto my 73dollar back if short stop at 107313 lol"
+      "PRADEEP RAJA: can I buy btcusd",
+      "FiRE Type aming: hello",
+      "Stock Inspired: https://youtube.com/live/WlV-wOR24mM?... (Live BTC focus)"
     ]
   }
 ]
