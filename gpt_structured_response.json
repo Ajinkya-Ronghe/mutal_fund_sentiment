@@ -1,30 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "BTC market sentiment is mixed but leans bullish on lower timeframes. Multiple users highlight price holding above 107k, mentions of trendline support on 4H, and expectations of higher targets (108500/109000). Some warn of bearish patterns (bear flag, inverted hammer), but many anticipate upward moves, with calls for buying on dips and scalping opportunities. Strong support is suggested at 106500. Daily close above 106500 is seen as bullish. A few suggest waiting for further confirmation, but short-term traders are actively taking long positions.",
+    "explanation": "The majority of recent live opinions highlight downside risk for BTC, with multiple mentions of bearish patterns (e.g., bearish flag, channel breakdown, trendline breaks, and liquidity hunts). Many traders report stop-losses being hit on long positions, calls to short, and warnings of further downside, with some seeing support only at lower levels. However, there are a few scattered bullish comments and neutral stances, reflecting market indecision and volatility, hence the confidence is medium.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 15,
-    "negative_count": 8,
-    "neutral_count": 12,
+    "negative_count": 36,
+    "neutral_count": 21,
     "representative_opinions": [
-      "Awais Saleem: Bhai can you cheak 4hour trand line Btc follow that line for up trand",
-      "Mr x: in 5m berish flag ban Raha he",
-      "priyanka soni: ab yhi se girega",
       "ALEJANDRO VARGAS: inverted hammer will from and it will fall as well pliz sell this asset",
-      "Viren Soni: btc up",
-      "Akanksha Kulkarni: Sir 4 hrs mein buying ja skta hai",
-      "Mix videos: i think entry is good now",
-      "bhupendra kunvar: ek bada candal chahey... green...",
-      "Sandy Candy: ek badi green candle de break out to aapko bada target mil jayega",
-      "Christian Dohm: lower highs auf 4h chart BTC ist bÃ¤risch oder claudius",
-      "Viral22: btc buy 105.700.",
-      "oscartg638: buy and hold for average person. For us it's generational wealth.",
+      "Return on Investment: short it",
+      "priyanka soni: ab yhi se girega",
+      "Mr x: in 5m berish flag ban Raha he",
+      "James Quick (Business): this feels like a bearish version of June 9th. maybe one more squeeze. I get that we have large liquidity above but we also have large liquidity deeper. to me this dip to 98k felt way too friendly.",
       "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Matt S: dont think were gonna know til daily close. id wanna see a daily close around 106.5k + to remain bullish",
-      "Panchani Jagnesh: BTC 108500 tak jaega"
+      "tametheark: ...entered a BTC short near this local top. I'm a beast!",
+      "Matt S: i shorted before the dip and closed half as soon as i saw it landed into consolidation"
     ]
   }
 ]
