@@ -4,26 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite ongoing volatility and mixed short-term calls, the overall sentiment from multiple experienced traders and community members leans bullish for BTC. There are repeated recommendations to enter long positions on BTC, particularly around key support levels and after observing liquidity sweeps and potential traps for shorts. Technical discussions reference resistance at 4.87%, anticipated bounces from 104k-106k, and expectations of a breakout after retests. The community highlights the potential for significant upward movement, with cautions regarding high volatility and the need for strategic entries. Requests for BTC-specific analysis and direct buy/long inquiries are frequent, while confirmations of profit-taking on dips suggest confidence in upward reversals.",
-    "positive_count": 14,
+    "explanation": "Despite mixed short-term sentiment and volatility, there is strong support for a bullish outlook on BTC, especially on retests of key levels (e.g., USDT dominance at 5.0%). Several experienced traders indicate a preference to enter long positions at these points. Multiple users discourage shorting BTC now and suggest waiting for ideal long setups. The 1-minute candlestick and recent price action analysis support a buy signal with high leverage for experienced traders. Representative opinions mention expectations of a major move within 24-48 hours, and strong buying activity on dips, suggesting high confidence in a bounce or continuation upward. While there are some short calls and caution due to volatility, the net sentiment among influential opinions is bullish for tactical long entries.",
+    "positive_count": 9,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 7,
+    "negative_count": 6,
     "neutral_count": 5,
     "representative_opinions": [
-      "Biem sur: @Jemerson Paulo im long now, BTC and SOL just like Rick",
-      "KryptoSquad: @Jemerson Paulo normal scenario, retest 5.0% and then dump to 4.4%! (So its market pump time). or usdt.d goes to 5.4-5.6% and its game over :D",
       "Jemerson Paulo: but if usdtdom touch 5.0 i will enter long in BTC",
-      "KryptoSquad: should happen in the next 24-48h i think",
+      "KryptoSquad: all in in btc, eth and sol :D",
+      "KryptoSquad: @Ilias Gaddur wait for the perfect long entry :)",
       "Hugo Adam: btc still need to clase below at around 106200, for now it could just be a breakout and a retest to go higher",
-      "Donald: NEVER SELL",
-      "Rishi Kesh: Today profit booked btc ye ja aur wo ja",
-      "Khokan Das: bhai btc buy korlo btc upore jayga",
-      "Deadlight3k: mere hisaab se 15 mins candle uper jaane wali hai",
-      "Yash Goyal: 1 hour pe btc trend line ko follow karra Hai pls check",
-      "Shristi shivam vlogs: niche se trandline he",
-      "Shristi shivam vlogs: 1 hours me trandline khiso",
-      "Shristi shivam vlogs: ohi trandline ka bare bataya",
-      "FreshEditZone: sir btc 109k up jaya ga"
+      "Robert Parham: I donât know where the bottom is but Iâm just buying every level. I want to see 120k by the weekend",
+      "Travel with Nik: Btc ka batado",
+      "Manggala Yatra: this now go buy ,,",
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "DigitalOrgy: Btc C leg completed. Rockets incoming"
     ]
   }
 ]
