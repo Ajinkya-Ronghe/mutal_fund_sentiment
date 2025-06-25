@@ -1,22 +1,28 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There is mixed sentiment in the chat, but several opinions reference entering long positions or expecting BTC to move up, with specific short-term trade setups (entry around 107.5k, TP at 108.2k-108.8k). However, some users warn about potential traps and retracements, and a recent price rejection at a key technical level is noted. The overall sentiment is cautiously optimistic for a short-term buy on 1-minute candles, but with reservations due to conflicting signals and potential volatility.",
+    "explanation": "Multiple participants noted recent rejections on short timeframes (1min, 5min), warnings about possible bull traps, and concerns over double tops and hitting the high end of the weekly range. More opinions leaned toward caution or shorting after a recent rally, with several mentioning a need for retracement and warnings not to long at current levels. A few traders did note possible bounce targets or minor long signals, but the dominant sentiment is to avoid longing until the market corrects.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 6,
-    "neutral_count": 6,
+    "positive_count": 6,
+    "negative_count": 13,
+    "neutral_count": 8,
     "representative_opinions": [
       "PeaPopz: Btc 105k se long pe set h chances of new all time high?",
-      "Limitless1618: I gave Gemini chart screenshots and its telling me to enter long at 107.5k, SL:107.1, TP: 108.2/108.7k",
-      "Neev: maan i have my tp at 108.8 too, should have just taken at 108.0",
       "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
-      "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
       "oscartg638: it was rejected at the 1min for sure",
-      "Tjeerd Phaff: I would not long until we get a decent retracement"
+      "Mar: They want to trap lot of shorts",
+      "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
+      "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
+      "TraderX: To be careful here for those thinking of longing or who did. I felt trapping more likely than not.",
+      "Tjeerd Phaff: I would not long until we get a decent retracement",
+      "Ferhaan Schmidt: wait for short",
+      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
+      "H S000: I already said I have a feeling that it will drop under 105k ",
+      "Limitless1618: Gemini chart screenshots and its telling me to enter long at 107.5k, SL:107.1, TP:108.2/108.7k",
+      "Christian LA: that buy was totally BAD"
     ]
   }
 ]
