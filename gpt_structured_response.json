@@ -1,18 +1,29 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
-    "confidence": "medium",
-    "explanation": "Multiple opinions suggest holding short positions or indecision, with some users mentioning 'short hai' and 'hold kiya h'. There is no clear strong bullish momentum. No direct signals for buying BTC, and the sentiment appears cautious.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 1,
-    "negative_count": 2,
-    "neutral_count": 6,
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
+    "confidence": "High",
+    "explanation": "Multiple participants express strong bullish sentiment towards BTC, referencing news of ETF inflows, regulatory acceptance for mortgages, and technical patterns such as key level holding and C leg completion. There is also FOMO (fear of missing out) and encouragement to buy, with little direct opposition. While some mention short-term volatility, the overall narrative is positive and supported by recent institutional and regulatory developments.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 10,
+    "negative_count": 3,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Learn Trading Analysis | Crypto Forex Updates: bhai jany do short hai",
-      "Learn Trading Analysis | Crypto Forex Updates: mai bi hold kiya h",
-      "Freebtc: arbitrage in crypto which coin is best"
+      "Adsy: News just in!!!! US Housing finance agency has just issued an order to allow BTC and CRYPTO as an asset to a mortgage.. Thats right.. U can now loan against your mortgage with BTC kids",
+      "Adsy: Mean while BTC ETF's stack 3.3 billion in the last 4 days",
+      "Freedumb for Joel: Nice time to buy some BTC",
+      "DigitalOrgy: Btc C leg completed",
+      "DigitalOrgy: Rockets incoming",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Trading Crusader: When BTC dominance falls. Which could happen soon. Btc is moving and alts not doing much right now.",
+      "KiloCharley: LFG BTC n stuff",
+      "Freedumb for Joel: BTC dont miss it",
+      "Michael Montesano: btc is the little engine that could today geesss",
+      "tametheark: wow that was the biggest value drop of the week right there!",
+      "Mar Vaey 2.2: it looks to be recovering",
+      "Denis D: What are we waiting for now? Falling further?",
+      "globel Ameer: down"
     ]
   }
 ]
