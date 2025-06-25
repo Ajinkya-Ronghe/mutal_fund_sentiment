@@ -1,28 +1,21 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "BTC sentiment in the chat is mixed but skews positive based on several mentions of key support/resistance being watched, calls to take trades, and references to BTC as holding stronger than alts. There are references to bullish chart patterns (RSI breakout, fireworks expected in July, rockets incoming, 'BTC is the little engine that could'), although there is also caution about manipulation, short-term volatility, and some anticipations of possible dips. The 1-minute candlestick signals (from chat links and references to 'NEW BTC M1 CHART') are mostly associated with long/buying actions. However, negative or neutral opinions about current sideways action, potential dumps, and manipulation mean confidence is not high.",
+    "explanation": "Opinions are divided with some calling for potential key support bounces (e.g., 106,400 and 104,400), but overall sentiment in the recent comments leans bearish: mentions of sharp drops, 'the crash,' 'downtrend starting,' and a lack of bullish conviction. There is also talk of major resistance at 108k, and several users discuss heavy sell volume and key levels to watch for further downside. However, a few comments note possible rebounds and the demand zone, so confidence is medium and not high.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 13,
-    "negative_count": 7,
-    "neutral_count": 17,
+    "positive_count": 6,
+    "negative_count": 13,
+    "neutral_count": 7,
     "representative_opinions": [
+      "Abell: The Crash Soon!!",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "lil porky: we have daily rsi breakout if we close here on btc",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "Michael Montesano: btc is the little engine that could today geesss",
-      "DigitalOrgy: Btc C leg completed. Rockets incoming",
-      "Gourav stock market: I think dip is to buy",
-      "lil porky: prob on new monthly, july fireworks",
-      "Trading React: uhh we going down again",
-      "oscartg638: The way the price is supported by the trend line looks supernatural. It is being manipulated.",
-      "TheBigE32: Chart is pure manipulation",
-      "Akshay Mehra: Bhai btc move hi ni kr rhi",
-      "Solidity Monster: what a stand still. this is wild",
-      "Target Hit: All bullishness left my body"
+      "StiD: huge sell volume when it hits",
+      "SeÃ±or Joce: Looks like a downtrend is actually starting now, not enough volume yet though",
+      "Noob Trader: 106k max target for short as it might bounce strong like a raber band",
+      "andrei lucian varvaruc: key target is 109000 and 106400, let's see where is going"
     ]
   }
 ]
