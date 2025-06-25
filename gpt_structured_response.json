@@ -4,22 +4,29 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite a mix of bearish and sideways short-term opinions, the overall sentiment is shifting positive for BTC. Multiple users reference BTC being propped up even as alts dump, and there is discussion of large moves and uptrend continuation (e.g., 'Parabolic: Weâre definitely in an uptrend', 'Unlimited Printsð¤: Itâs buy soon will fly', 'Manggala Yatra: this now go buy'). There is clear interest in entering or holding BTC positions, and many are awaiting or actively trading for a move higher, citing technical support, uptrends, and healthy demand zones. Negative comments are balanced by technical optimism and calls for buys at key support levels. The presence of high-volume shakeouts and wicks also points to institutional accumulation. Most short-term volatility is seen as an opportunity for disciplined entries rather than a reason to panic.",
-    "positive_count": 15,
+    "explanation": "Despite a mix of bullish and bearish short-term opinions, there is a strong cluster of signals suggesting to buy or hold BTC. Several users mention support for buying on dips, expecting a pump after a possible pullback, and highlight BTC's relative strength compared to altcoins. There is also significant discussion about using USDT dominance as an indicator for BTC entry and an increased frequency of requests for BTC trade setups. Some concern over near-term volatility and possible pullbacks exists, but the majority sentiment is to buy or enter BTC, with high leverage trading considered by some. The market is seen as choppy, but BTC is viewed as the asset being propped up while alts are dumped. Multiple users report ongoing or planned BTC buys, and the sentiment leans towards a bounce or uptrend after consolidation.",
+    "positive_count": 17,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 10,
-    "neutral_count": 10,
+    "negative_count": 9,
+    "neutral_count": 14,
     "representative_opinions": [
+      "Jemerson Paulo: btc i think its will pullback first to 104k then pump",
       "Y00LKA: nahh people selling alts to put on BTC",
       "Mutahir Dar: btc uper hi jaye ga",
-      "Unlimited Printsð¤: Itâs buy soon will fly",
-      "Parabolic: Weâre definitely in an uptrend. But we can dump to 86k and still be in an uptrend.",
-      "Manggala Yatra: this now go buy ,, ",
+      "Manggala Yatra: this now go buy ,,",
+      "ramo pandit : btc me entry active hai kya?",
+      "ramo pandit : BTC me enter kr skte hai kya abhi?",
+      "chintan Thakkar: bhai btc wapis short kar sakte hai kya",
       "Pushpak Jain: ye jayega upar 2 din pehle yahi trap kiya tha is chatak btc ne",
-      "Vipul Chohala: abhi sir 15 minutes pe supply pr ja raha hei.. or niche order book he.. I think 107700 se short side plane kar shakte hei....",
       "PRO TUBE: Btc Bhut tez Down marega Nikalo usko abhi",
+      "jhon: ok we will take trade in btc",
+      "Slick Store: spx is down btc is up",
       "Pankaj kumar Vij: strong buy zone he ye break huva to btc fall karega aesha lag raha he",
-      "ramo pandit : BTC me enter kr skte hai kya abhi?"
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "Dheeraj Rajput: Sir meri BTC BUY side trade open hai Kal se",
+      "Mitesh Parekh: BTC short kare kya ??",
+      "GameKida: mam btc pe kya asar padega war ka",
+      "Kshitij Kumar: btc daikho please"
     ]
   }
 ]
