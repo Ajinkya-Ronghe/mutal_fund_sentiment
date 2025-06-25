@@ -4,29 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "A significant number of opinions indicate anticipation of upward movement in BTC, with references to liquidity grabs above, spot buying, macro bullish factors (like bond yields dropping and DXY weakening), and traders holding long positions or recommending buys near 109k-110k. Although there is some caution about possible pullbacks and traps, the overall sentiment points to an upside move before any major reversal. Multiple comments mention confidence in retesting or surpassing recent highs, and the macro environment is described as supportive for another push up. The 1-minute chart is also referenced with buy signals, and there are mentions of capturing large point moves to the upside.",
-    "positive_count": 17,
+    "explanation": "Despite mixed short-term opinions, the overall sentiment and technical context show strong buy interest for BTC. Many traders discuss liquidity sweeps, upside targets, and holding longs. Thereâs mention of spot buying fueling the rally, macro shifts favoring risk assets (like dropping bond yields, increasing liquidity, and DXY falling), and few clear negative catalysts. Several traders call out upside targets (110k, 115k), and others highlight bullish setups, strong price management, and active long holds from lower positions. While some short-term traders express caution or call for small pullbacks, the consensus skews toward continued upside, supported by both technicals and macro factors. Leverage questions appear, and multiple participants confirm use of high leverage, suggesting confidence in direction.",
+    "positive_count": 15,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 8,
+    "negative_count": 7,
     "neutral_count": 12,
     "representative_opinions": [
-      "WHouZe: bookmap showing lots of liquidity up there",
-      "Jemerson Paulo: @Itcheee 105k i think pullback then new ath",
-      "Game changer: btc will take upper liquidity before moving down",
       "Hugo Adam: swapped long on the retest of the fvg target 110k",
-      "Ashis Lama: btc abhi upar jayga",
-      "Aamir: BTC may go to 109k..Daily resistance line hai waha.",
       "Kshitiz Obb: BTC me long hold hai bhai 99k se abhi tak mene 110k target lgaya hai kya lgata hai jayega waha tak",
-      "Unlimited Printsð¤: Itâs buy soon will fly",
+      "RaberTrades: The rally is fueled by spot buying, not much long leverage to unwind. Macro bullish and signs of QE + rate cuts.",
+      "Rodolfo: man this drop is scaring me but I hold my longs",
+      "Solidity Monster: a really bullish outlook is two parts, 1: we hit the zone around 108.7k then 2: we have a huge down trend from 109.5k.",
       "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "Manggala Yatra: this now go buy ,, ",
-      "RaberTrades: The rally is fueled by spot buying, not much long leverage to unwind. Macro bullish and signs of QE + rate cuts",
-      "RaberTrades: Bond yields dropping, m2 liquidity increasing, DXY dropping. Macro bullish",
-      "Solidity Monster: I think, a really bullish outlook is two parts, 1: we hit the zone around 108.7k then 2: we have a huge down trend from 109.5k.",
-      "Ashish Lama: btc abhi upar jayga",
-      "TroublemakerTaji: 108800 tak to jayega",
-      "Vikram studio : 108500 Tak jaega",
-      "Ashis Lama: btc abhi upar jayga"
+      "B 4: Looking good"
     ]
   }
 ]
