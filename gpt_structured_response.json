@@ -4,25 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite volatility and mixed opinions, there is strong evidence of profit-taking on successful BTC longs, frequent requests for BTC strategies, and discussions about scalping and leverage. Many traders report positive profits and successful targets. There is also continued demand for new BTC entries and a significant community interest in bullish setups. While some mention shorting and price corrections, the majority of actionable trade signals and profit reports are long-oriented, and there is a notable emphasis on respecting stop losses, using high leverage, and capitalizing on rebounds and bounces after dips. The presence of algorithmic buy calls and many traders holding or entering long positions further increases confidence.",
+    "explanation": "Despite significant short-term volatility and some negative sentiment due to recent drops and bearish volume divergence, there is clear evidence of bullish conviction and active buying interest at current levels. Many participants are looking for long entries, holding positions, or seeking buy signals based on candlestick psychology and liquidity levels. There is active discussion about appropriate leverage, isolated margin, and intraday techniques, which supports a disciplined, high-confidence approach for a long trade with managed risk. Representative opinions highlight real-time buying, profit booking, and expectations of a bounce from current or lower levels, while acknowledgement of recent losses and stop-loss hits further supports prudent risk management. The overall tone is mixed but leans bullish on the next move, especially for quick, managed trades.",
     "positive_count": 13,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 5,
-    "neutral_count": 9,
+    "negative_count": 9,
+    "neutral_count": 8,
     "representative_opinions": [
-      "HARSHAL: BTC 2nd target done and dusted",
+      "SANATANI GAMING KASHI ð©: btc uthau",
+      "Amit Pal: yaha sei buy le sakte hai kya",
+      "FlowFlex: big green let's go",
+      "ScottoLotto: buy here",
+      "Jewellery view ð: BTC dekhiye bhaiya please",
       "Henil Parekh: 6$ booked in btc",
       "KULDEEP BHAIRAM: btc 112$ running",
-      "Manab Sarkar: $130 Booked",
+      "Gaurav Bhatia: sir btc ka target 106700 ka dikh raha h",
+      "Aman sharma: Bhai ek baar stream pe beedi pike dikhana na mja aayega",
       "Emon Nath: bhai mana btc pa buy ka taraf hold kar ka rakha hu",
-      "Ace Winner: Go long here Official Ace algorithm buy call",
-      "Gaurav Kumar: Maine kha tha 9 bje tak btc 107600",
-      "sumit sonaye: BTC ka Target kya soch rahe ho",
-      "Amit_Infotech: 400 Loss le kar book kar diya",
-      "Travel with Nik: Btc ka batado",
-      "Abhilash Chetry: bro tst 1st Target?",
-      "Ashif Mohammad: top se sell me hu",
-      "Musafa Trading: 107730 short 2btc"
+      "Deep Seek Hindi : Inspect element karta h sari trade loss karwata h",
+      "ASH: BTC 2nd target done and dusted",
+      "Crypto's Kingdom: High Conviction Trade !! One rule is Respect the SL and wait for TP"
     ]
   }
 ]
