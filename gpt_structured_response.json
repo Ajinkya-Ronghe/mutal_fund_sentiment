@@ -4,19 +4,26 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Mixed sentiment: Multiple users discuss recent big drops, consolidation, and failed support, with some calling for a further fall to 104k and others noting high leverage shorts above and exhausted longs below. Several opinions express caution, frustration, or call for shorting at local tops. Sideways and choppy action is a repeated theme, and some are waiting for confirmation before entering new longs. There are also references to market manipulation and liquidity sweeps, adding to caution for aggressive long positions. No strong bullish catalyst emerges, and short-term technicals favor more downside or at least a lack of clear upside momentum.",
+    "explanation": "The overall sentiment in the live chat suggests continued uncertainty and short-term bearishness for BTC. Multiple users highlight sideways or slowly downward price action, high leverage shorts above current levels, and exhausted upward momentum. While some are bullish or looking for buys on dips, more representative comments focus on sideways movement, lack of bullish fuel, and risk of further downside after recent failed rallies. A few opinions note the need for patience and confirmation from daily closes before taking long trades, implying no immediate bullish conviction. Some mention lack of volume and possible manipulation, which also dampens short-term optimism.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 16,
-    "neutral_count": 14,
+    "positive_count": 8,
+    "negative_count": 14,
+    "neutral_count": 10,
     "representative_opinions": [
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "oscartg638: the pull back from here could be real, guys",
+      "MVRSO: We go short from here",
+      "PostZila: short hi aayega jab bhi aayega",
+      "mpepin1905: the shorts are too early longs gonna get em",
+      "oscartg638: showing minimum fib level of 105729 from here",
       "Matt S: i shorted before the dip and closed half as soon as i saw it landed into consolidation",
-      "Matt S: dont think were gonna know til daily close",
-      "Risky trade : chalye btc buying karte hai upside",
-      "Noob Trader: i am bullish 30m big Rocket launched to the moon",
-      "Matt S: 1hr and 4hr trend slowly creeping up tho, so bear need to move this in the next 1 hr or there screwed"
+      "Matt S: for now looks like bears baited again tbh",
+      "Matt S: 1hr and 4hr trend slowly creeping up tho, so bear need to move this in the next 1 hr or there screwed",
+      "Matt S: as expected sideways to piss everyone off",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Abdul Malek: Thora upar Jate hi sell karunga....... volume acha hua to",
+      "@tokthailand: No fuel for upside need downside for recharging",
+      "Adi: maam aaj dimag kharab karke. rakhe hain btc ne",
+      "Matt S: but not making any more trades til i see daily close",
+      "Renz: Shorts sind halt einfacher  Ich finde der Kurs fÃ¤llt leichter als er Steigt :D"
     ]
   }
 ]
