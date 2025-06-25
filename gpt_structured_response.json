@@ -4,20 +4,18 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple voices suggest BTC is in a selling area and recent price action has shown rejection at key short-term technical levels, such as the 1-minute trendline and moving averages. There is also a sense of caution about longing the recent uptick, with some traders perceiving a potential bull trap. Sentiment is cautious or negative, with little support for immediate upside.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Several participants mention BTC entering a selling area, failed retests, and a possible trap for long positions. There is reference to rejection on low timeframes, concerns about market manipulation, and technical resistance. While a few users discuss losses and market moves, the majority sentiment around 1-minute candlestick action is cautious or negative.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 2,
     "negative_count": 7,
-    "neutral_count": 9,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Real Krantikari: sir BTC selling area me ghusa hai na",
-      "oscartg638: it's looking like a trap",
+      "Real Krantikari : sir BTC selling area me ghusa hai na",
       "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
-      "TraderX: Told you guys be careful longing on that little uptick. More like trapping.",
+      "oscartg638: it's looking like a trap",
       "oscartg638: it was rejected at the 1min for sure",
-      "Ahmad Khalid: 50 crossin 800 on 1m",
+      "TraderX: Told you guys be careful longing on that little uptick. More like trapping.",
       "The Occasional Gambler: Was that the first technical candle close below?",
-      "BTCBoss: you have to go to TA",
       "venommyotis1: btc above psy hi means it's expensive, under psy low it's conciderate cheap"
     ]
   }
