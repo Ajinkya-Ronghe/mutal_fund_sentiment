@@ -1,26 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The sentiment for BTC is mixed but with a slight positive leaning. Several users mention price levels where BTC could bounce or accelerate upwards (e.g., 'need bounce up on 107750', 'if dayli close above 107k tomorrow will a great day', 'BTC still pushing â¦ I see a sweeping of the lows coming', 'nice time to buy some BTC', 'BTC dont miss it'), and discussion of possible higher targets (e.g., 'Maybe 115k guys'). There is also mention of manipulation, sideways action, and some users shorting or expressing caution. Overall, more users are looking for bounces, potential upside, or suggesting buys at dips than are aggressively calling for shorts. The presence of new highs, bounce targets, and 'buy' calls pushes the candlestick signal and trade suggestion to 'long/Buy', but the confidence is 'medium' due to conflicting short-term opinions and references to volatility and manipulation.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 11,
-    "negative_count": 7,
-    "neutral_count": 8,
+    "explanation": "There is a notable cluster of opinions about BTC being manipulated, attempts to 'take liquidity,' and a sense of market exhaustion or absorption. Several users mention recent drops, calls for selling or shorting at local highs, and a cautious sentiment about upcoming volatility. Some users have entered short positions in anticipation of further downside or consolidating moves. Although a few bullish comments exist, the dominant actionable theme from retail and trader comments is to short or stay cautious.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 7,
+    "negative_count": 18,
+    "neutral_count": 10,
     "representative_opinions": [
-      "Florent Raes: if dayli close above 107k tomorrow will a great day",
-      "KiloCharley: Nice time to buy some BTC",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Gourav stock market: I think dip is to buy",
-      "Manggala Yatra: this now go buy ,,",
-      "Immigrant Diaries: Iâm short nowâ¦ sl is 109kâ¦ looking towards 105.8-106.2",
-      "FitZoneX: it's going to dump",
       "Super Trader : btc fully manipulating the retailer",
-      "Mustafijur Rahman: BTC Nikal jane ka kasis karta hai .",
-      "DigitalOrgy: Btc C leg completed; Rockets incoming",
-      "Ruben van Eek: It looks like it wants to go higher"
+      "Vatsal: Bhiya 0.5 lot sell kar diya btc stoploss kya rakhu",
+      "Florent Raes: need bounce up on 107 750",
+      "Lucrisiah: There is a buy signal but its going down lol",
+      "Immigrant Diaries: Iâm short nowâ¦ sl is 109kâ¦ looking towards 105.8-106.2",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "art slandered1: Market buyers got absorbed by limit sellers"
     ]
   }
 ]
