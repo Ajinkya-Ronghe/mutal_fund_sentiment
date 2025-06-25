@@ -1,28 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple participants are expressing bearishness or caution regarding BTC, citing levels such as 107,500 and 108,000 as resistance and expecting a potential crash or big drop. Some state the odds are with more downside, and there is a lack of bullish momentum. However, a few opinions remain neutral or discuss possible future upside, so confidence is medium.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 10,
+    "explanation": "Several participants anticipate a move upward for BTC, referencing levels such as 120,000 and 130,000, and mentioning continued bullish money flow. However, there are also opinions warning of near-term drops or bearish momentum, with some traders shorting at 107,700 and 106,800. The mix of both bullish targets and bearish caution suggests a moderate confidence in a buy/long signal, likely with volatility and the need for tight risk management.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 8,
+    "negative_count": 7,
     "neutral_count": 8,
     "representative_opinions": [
-      "Abell: break again 107,500 The Crash",
-      "Target Hit: the odds are with more down",
-      "Dd: Bulls are out of steam",
-      "SeÃ±or Joce: I think we're going to see a big BTC drop again pretty soon",
-      "Target Hit: Not able to be macro bullish here also",
-      "GoldenChild: This money flow is still thick in the green and no good bear divs, except the 2 hr. If we get one more push up we could for some better bear divs. Thereâs really not many at all without another high",
       "Noob Trader: tomorrow more up today little down next up and up and up until 130k",
       "Alina Bogdan: 104k incoming .. 102200 next .. if we fake to the upside 109k entry point",
+      "Bitcoin GTR: $1m soon",
       "Pradeep Gupta: 107700 se maine short kiya hai",
-      "Wide shorts: m2 Global liquidity offset is now off cause of war",
-      "Preparing 4War: longing the trend to hedge",
-      "Unlimited Printsð¤: We going to fly soon",
-      "moons..: buy?"
+      "ÐÐ¾ÑÐ¸Ñ ÐÑÐ¸ÑÐ²Ð°: 106800 next 4 hours",
+      "SeÃ±or Joce: I think we're going to see a big BTC drop again pretty soon",
+      "GoldenChild: This money flow is still thick in the green and no good bear divs, except the 2 hr. If we get one more push up we could for some better bear divs. Thereâs really not many at all without another high",
+      "Target Hit: while BTC goes to $120 000"
     ]
   }
 ]
