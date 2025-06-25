@@ -1,23 +1,26 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There are mixed opinions, but positive momentum exists with several calls to buy or take trades in BTC. Some users expect an upward move to liquidity at 109k or attempts at 110k, while others are more cautious, noting resistance levels and the possibility of a dump. The 1-minute chart is referenced, and the crowd sentiment leans more towards buying or holding for a move higher, but significant resistance and some negative sentiment (calls for sell/dump) lower the overall confidence.",
+    "explanation": "Multiple chat participants highlight resistance at high levels (180k, 109k, 108k, 106k, 95k) and expect a price dump soon. There is mention of sellers having control, shorting having a better chance, and RSI/EMA signals suggesting caution or further decline. However, some hold out for liquidity grabs higher, showing some mixed views. The prevailing sentiment in immediate messages is bearish for the short-term.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 6,
-    "neutral_count": 7,
+    "positive_count": 4,
+    "negative_count": 11,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Joyjit Fun: Sar BTC mein abhi trade le le",
-      "GoldenChild: Btc should go up and take out this liquidity at 109k i would think",
       "Dd: Selll",
-      "GoldenChild: What about btc liq levels above? Do you think sheâll take em before dropping. Seems like sheâs already dumping. Iâm holding out for that 109k. Hopefully I donât miss it",
+      "Dd: We gonna dump",
+      "Sandro Martins: keep calm and dump it",
       "Sandro Martins: 86k next month",
-      "RocaPong: holding above at 50 ema so maybe attemps 110k or just fakes out and dump from here lol",
+      "Fake Buy Wall: 80k gauranteed next month",
+      "oscartg638: going lower. 15 looks bad",
       "Noob Trader: short has better chance now",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
+      "TIVERSON PUBG: shorttt",
+      "Ahmad Khalid: sfp + stopping volume just need to lose that 50 and we droppin more",
+      "GoldenChild: What about btc liq levels above? Do you think sheâll take em before dropping. Seems like sheâs already dumping. Iâm holding out for that 109k. Hopefully I donât miss it",
+      "Joyjit Fun: Sar BTC mein abhi trade le le"
     ]
   }
 ]
