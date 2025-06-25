@@ -4,17 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The live chat shows a mix of bearish and uncertain sentiment for BTC. Multiple users mention 'downtrend', 'dump', or suggest closing positions, while a few note key support levels (around 106,400 and 104,400) and some remark on potential manipulation. There is one call for a 4x short, and repeated comments about 'red candles', 'massacre', and the market being 'over'. However, there are also some who hope for a bounce or mention consolidation. Overall, the prevailing tone indicates increased downside risk in the short term, but not with extreme conviction due to some opposing views.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 5,
-    "negative_count": 17,
+    "explanation": "Live chat opinions are mixed but skew negative for BTC in the short term. Multiple users mention recent large red candles, price drops, and a downtrend starting. Some mention a possible bounce, but more expect further declines or sideways movement. Specific mentions of shorting, warnings about falling to $104k, and comments about market manipulation and lack of volume support a short/neutral bias. However, some positive sentiment and mentions of key support levels holding prevent a high-confidence call.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 7,
+    "negative_count": 13,
     "neutral_count": 8,
     "representative_opinions": [
-      "Abell: The Crash is here",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "Target Hit: Short BTC 4X (3.5% risk)",
-      "Trading React: uhh we going down again",
-      "SeÃ±or Joce: Looks like a downtrend is actually starting now, not enough volume yet though"
+      "ÐÐ¾ÑÐ¸Ñ ÐÑÐ¸ÑÐ²Ð°: Red candaaaaals",
+      "Tjeerd Phaff: the moment that entity stops placing the orders to support price we could fall hard",
+      "SeÃ±or Joce: Looks like a downtrend is actually starting now, not enough volume yet though",
+      "Molyn Brefon: maybe 106.630 good long maybe",
+      "Ryan Teng: I think it hit the bottom structure there and is gonna go up now"
     ]
   }
 ]
