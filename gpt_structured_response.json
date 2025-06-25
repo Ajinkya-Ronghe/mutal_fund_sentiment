@@ -4,15 +4,33 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite recent volatility, most active and experienced participants are either still holding or expressing confidence in long positions for BTC. Several users report holding from lower levels and waiting for higher targets (e.g., 107000+), and multiple mentions suggest buying or longing on dips, referencing bounces from support and bullish candlestick patterns (e.g., morning star, bullish crossovers). There is some short-term bearishness and confusion, but the dominant voices are either holding, looking for buy signals, or confirming profits on long trades. The market sentiment overall favors further upside, especially for intraday or short-term swing trades.",
-    "positive_count": 14,
+    "explanation": "Despite short-term volatility and mixed retail sentiment, the majority of opinions and influential voices signal confidence in Bitcoin's long-term upward trend. Multiple users discussed holding through retracements, past profitable long positions, and resilience at key support levels. Institutional dominance, strong uptrend in BTC.D (Bitcoin dominance), and several mentions of waiting for bounce or reversal at major support zones point to an overall bullish bias. While there are a few calls for shorting or caution due to market whipsaws and news events, the positive convictions, especially from experienced traders, outweigh the negatives. Many seek re-entry or confirmation to go long, and there is active interest in leveraging up to 20x safely in perpetual futures. The market expects volatility but sees opportunity for further gains after retracements.",
+    "positive_count": 21,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 6,
-    "neutral_count": 10,
+    "negative_count": 9,
+    "neutral_count": 7,
     "representative_opinions": [
+      "CryptoDan: Rick is so confident about new ATH",
+      "Marcoco: Btc is the king",
       "CFLYNN STUDIOS: Iâm still long from buying bitcoin at 8,000",
+      "FlowFlex: big big bounce coming",
+      "Sigma Works: Main Bro Subhe 12:30 Buy ki the BTC and sham 6 Baje Tak Profits book karle the 500$",
       "Afzal Shaikh: 107k ke paas buying zone ho sakta hai Agar bullish pattern bane to",
-      "Sigma Works: Main Bro Subhe 12:30 Buy ki the BTC and sham 6 Baje Tak Profits book karle the 500$"
+      "Ricardo Sala: Wait... short entrance 108k... now it's sangerous",
+      "Manggala Yatra: this now go buy ,,",
+      "Immigrant Diaries: your trendline looks incorrect in tradingview of mine... i think we broke our trendline of btc... bounced from the first order block a little",
+      "Noob Trader: 100$ was all left now 400$ for this month but i need to turn that into 3k a month",
+      "Dragon editz: sir Aaj btc long pe mera sl uda kar target chala gaya. anyways is month abhi tak 14 percent return hai.",
+      "Pramod Kulkarni:  i am still in the trade sir with you. waitng for 107000",
+      "Pramod Kulkarni: sir at 107050, there is moving average for teh day which it has not touched since yesterday. so holding on with the trade",
+      "Marcoco: @Robert who said it should go down, it should go up back to 95% like before",
+      "MaInIaC: Its essentially its dominance across the market...it..most of the money flows into BTC..and not other assets",
+      "Chandan Sah: Shivam Bhai btc sell hai 107500 se plz batao Kya karu",
+      "z a: Btc mai abhi selling nahi hai buying ka trend hai kiya ?",
+      "Vikas S: 15m bullish done crossover",
+      "Ricardo Sala: watch out... price at EMA10 1hr chart",
+      "Ricardo Sala: it can bounce",
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed"
     ]
   }
 ]
