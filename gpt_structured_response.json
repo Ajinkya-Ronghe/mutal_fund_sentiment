@@ -4,23 +4,27 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of actionable BTC-related opinions are tilted negative, referencing lack of volume, bearish chart setups (double top, no volume), anticipated liquidity sweeps lower, and mentions of shorting at key levels. However, there are also several opinions noting a possible bounce at support or an upward move, creating mixed but overall bearish short-term sentiment. The positive opinions are not strong enough to outweigh the negative, but the presence of some bullish traders tempers the confidence level.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The majority of direct BTC-related opinions are bearish or expect short-term downward moves, citing lack of volume, bear indicators, negative funding, and expectations of liquidity sweeps to the downside. Some see potential for a bounce, but the consensus leans toward further downside or at best, choppy/neutral behavior with a bearish bias. There are scattered bullish or neutral voices, but they are fewer, less confident, or focus on longer timeframes.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 7,
-    "negative_count": 13,
+    "negative_count": 15,
     "neutral_count": 8,
     "representative_opinions": [
       "Adarsh Jaiswal: because ab liquidity niche hai to market ko to lena chahiye abhi eak spike ayega sell me",
-      "rufi ashfaq: 10850 touch krnay ky bad proper down karay ga may be",
-      "MVRSO: double top, no volume.. sais enough",
+      "MVRSO: small up retrace but after we go down",
       "Aljaz Rokavec: NO VOLUME bear indicator",
+      "crozxz: 108600 good area for short",
       "Bear Bull: 107400 and go long",
       "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
-      "crozxz: 108600 good area for short",
-      "Tjeerd Phaff: i short around 109 or break of trendline",
-      "Immigrant Diaries: I still see some sweeps in the 5â¦ maybe the algo just making the chart look neutral and confusing so more bears can pop in",
-      "globel Ameer: down",
-      "Trade Like Operator: abhi upar hi rahega"
+      "Trade Like Operator: abhi upar hi rahega",
+      "Immigrant Diaries: We can still bounce around 106",
+      "Ruben van Eek: Measured move from that cup and handle on dominance is around 66.4",
+      "Tjeerd Phaff: funding negative",
+      "Goldy Singh: Me to short leke betha huun mnn kr rha h 1lakh tk hold kru",
+      "MVRSO: asia will short",
+      "Dennis Bell: Massively oversold.",
+      "Immigrant Diaries: Yeah Dblocâ¦ true at some point they should look to sweep the lows too",
+      "SeÃ±or Joce: Just a scalp short for me, not expecting a 2x lol"
     ]
   }
 ]
