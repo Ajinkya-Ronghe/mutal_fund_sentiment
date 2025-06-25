@@ -4,23 +4,28 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "A significant number of comments suggest bullish sentiment, with multiple mentions of support holding, expectations of moves towards 108,300-108,500, and calls for re-entry or holding long positions. Some users discuss bullish chart patterns like W formation, and thereâs reference to multiple green candles and price holding above moving averages. However, there is also notable caution around resistance zones, liquidation clusters, and potential for down moves after resistance, which tempers the overall confidence. The consensus leans towards a buy/long bias, especially if price stays above key supports or moving averages.",
+    "explanation": "Numerous participants reference BTC forming bullish patterns (W pattern, bullish candle, above EMA 9 on daily), re-entry suggestions, and targets above 107600-108500. Some mention continued green candles on higher timeframes and a bullish channel. However, there are also a few expressing caution about resistance, potential for short-term pullbacks, and low volume, which tempers confidence to medium.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 23,
-    "negative_count": 10,
-    "neutral_count": 7,
+    "positive_count": 16,
+    "negative_count": 4,
+    "neutral_count": 9,
     "representative_opinions": [
       "Moon Staars Light: OH BTC NOW DECIDE TO GO UP",
-      "Daniel Ho: btc only testing support, as long trading above 50 ma, it's still bullish",
       "BITCOIN EXPERT: Aaj btc ne 4h me continue green candel banai",
       "Wiesz Co nie: Good to have it pumping, Im long from 107600 xd",
-      "Panchani Jagnesh: BTC 108500 tak jaega",
+      "Daniel Ho: btc only testing support, as long trading above 50 ma, it's still bullish",
       "D Capital Market: deva bhai i have short gold and long in BTC",
-      "kashyap cloud: w pattern form kia hai, uper jane ki kosis kar raha hai",
       "Aadarsh Jha: gold** or btc uper hai Ema 9 ke daily candle toh aaj sirf buy aa raha hai",
+      "Compounding king: 107k se long h sl entry h tp kya lgaau guru ji",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
+      "taredar com ww: buy chanses hai",
+      "taredar com ww: kyo ki buyrs strong lag rha hai",
       "Moon Staars Light: IF CLOSE ABOVE 107,600 THEN UP ON RETEST",
       "Rohit Desai: btc target 108300 confirmed",
-      "Rizvan Afzal: market apparently short targets hit NAHI ker Rahi long k ker Rahi hai"
+      "taredar com ww: bullesh cendall bnai hai",
+      "Aadarsh Jha: gold** or btc uper hai Ema 9 ke daily candle toh aaj sirf buy aa raha hai",
+      "kashyap cloud: w pattern form kia hai, uper jane ki kosis kar raha hai",
+      "Ayush Gupta: weekly deko and monthly uske hisab se ye 80k jana chahea"
     ]
   }
 ]
