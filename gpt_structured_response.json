@@ -4,25 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Across the large volume of opinions, BTC is frequently discussed in both trading and investment contexts. Several users recommend buying or holding BTC, and there are repeated calls for long positions and expected upward movement (e.g., 'btc long karo target 108328', 'BTC 108500 tak jaega', 'FreshEditZone: sir btc up jaya ga now this level', 'Rohit Desai: btc long karo target 108328', 'Unlimited Printsð¤: Itâs buy soon will fly'). While there are short-term fears and volatility (some mention stop-losses or losses), overall sentiment is more positive with multiple calls for entry and upward targets. BTC dominance and its key influence on the crypto market is discussed, indicating a focus shift back to BTC. The majority of actionable trading advice is buy/long, with some suggesting to wait for candle confirmation or use leverage. The few negative or fearful comments are outweighed by strong buy/hold advocacy and target calls.",
+    "explanation": "Analysis of the live chat reveals a generally positive sentiment for BTC with several messages discussing ongoing buy trades, targets towards 108328 and 108500, and confirmations of bullish candle formations. There is acknowledgment of volatility and mixed short-term moves, but the majority sentiment and representative opinions show traders are inclined to hold or buy BTC at current levels, expecting upward movement. A few messages mention risk and stop-losses, but these are outweighed by the volume of 'hold', 'target', and 'long' discussions. There are also several requests for BTC analysis and strong engagement with BTC-specific commentary, further supporting a high-confidence buy recommendation.",
     "positive_count": 13,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 6,
-    "neutral_count": 7,
+    "negative_count": 5,
+    "neutral_count": 11,
     "representative_opinions": [
-      "Rohit Desai: btc long karo target 108328",
       "FreshEditZone: sir btc up jaya ga now this level",
-      "Panchani Jagnesh: BTC 108500 tak jaega",
-      "Unlimited Printsð¤: Itâs buy soon will fly",
-      "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !",
-      "jhon: ok we will take trade in btc",
-      "Swaraj Thoke: btc buy kiy ahai",
+      "Dheeraj Rajput: Sir meri BTC BUY side trade open hai Kal se",
       "Parikh Mayur: BTC uper jayega",
-      "Kshitij Kumar: btc me trade laga hai",
+      "Rohit Desai: btc long karo target 108328",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
+      "NihalJaTT: sir BTC me 15 minites me dekhoo black box wale strategy kar ke uper gya hai ek baar dekh lo",
+      "AMAR SINGH: à¤®à¥ ctc à¤à¤° du",
+      "FreshEditZone: sir btc",
       "ramo pandit : BTC me enter kr skte hai kya abhi?",
-      "Akbar khan: btc ??",
-      "Moonshadow :  That is give me profit",
-      "Rohit Desai: btc long karo .target 108328"
+      "Pradeep Tomar: loss hi hoga",
+      "Shreejesh Rathod: bhaiya BTC me investment kiya hu 24% ka profit chal raha hai aagar me bechu to kitna % katega please reply",
+      "Rohit Desai: btc long karo target 108328",
+      "Panchani Jagnesh: BTC 108500 tak jaega"
     ]
   }
 ]
