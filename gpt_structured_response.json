@@ -4,24 +4,24 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple participants noted downtrend signals and red candles, with some recommending shorting BTC at certain levels (e.g., 108600). There is mention of a key level at $106,500, and brief recovery was noted but sentiment overall leans bearish or cautious. Some suggest short-term shorts, while others recommend swing longs only if bought lower, reflecting mixed but mostly negative short-term sentiment.",
-    "safe_leverage_isolate_future_perpetual": 4,
-    "positive_count": 6,
-    "negative_count": 12,
-    "neutral_count": 15,
+    "explanation": "Multiple participants discuss potential downside, shorting opportunities, and key levels for BTC. There is mention of trendline support, possible price drops, and warnings to close scalp longs. Some expect recovery or bullish action, but the prevailing sentiment leans toward caution or short-term downside due to volatility and the risk of manipulation.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 8,
+    "negative_count": 13,
+    "neutral_count": 12,
     "representative_opinions": [
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Target Hit: Short BTC 4X (3.5% risk)",
-      "ÐÐ¾ÑÐ¸Ñ ÐÑÐ¸ÑÐ²Ð°: Red candles",
-      "Denis D: What are we waiting for now? Falling further?",
-      "Trading Crusader: Watch $106500 key level",
+      "Tjeerd Phaff: the moment that entity stops placing the orders to support price we could fall hard",
       "Rodolfo: btc dominance has been consolidating all day and looking to go up now, any scalp longs should be closed, try and hold swing longs if you bought near the beginning of the move",
-      "Molyn Brefon: maybe 106.630 good long maybe",
+      "Target Hit: Short BTC 4X (3.5% risk)",
+      "crozxz: 108600 good area for short",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Trading Crusader: Watch $106500 key level",
+      "Bear Bull: 107400 and go long",
       "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
-      "Tjeerd Phaff: trendline holds price",
-      "Tjeerd Phaff: someone wants btc somewhere... highly manipulated",
       "Molyn Brefon: should up from here but babababa",
-      "The moment that entity stops placing the orders to support price we could fall hard"
+      "Red Saman: tbh on a much larger scale it looks like we are in a bull flag and that bull flag is a continuation/finalization of an IHS",
+      "DigitalOrgy: Btc C leg completed. Rockets incoming",
+      "Michael Montesano: btc is the little engine that could today geesss"
     ]
   }
 ]
