@@ -4,29 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Across hundreds of live chat opinions, traders are expressing ongoing bullishness on BTC. Many report holding long positions, successful profits from recent upward moves, and confidence in further upside. Repeated mentions of support holds, breakouts, and strong uptrend signals are present. Some traders discuss the 1-hour and 15-minute timeframes, noting that BTC has broken through resistance and suggesting further upside potential. While there are scattered calls for shorting and mentions of volatility, the overwhelming sentiment is to hold or add on dips, with many citing their ongoing profits and successful strategies. A few traders also reference institutional activity and macro catalysts as bullish drivers. Leverage discussions suggest up to 20x is considered safe in isolated perpetuals by active traders. Negative opinions are minimal compared to positive and neutral, and the neutral comments generally concern timing or technical setups rather than sentiment shifts.",
-    "positive_count": 17,
+    "explanation": "There is a strong consensus in the chat regarding current bullish momentum in BTC, with users mentioning breaking resistance, several successful long trades, and positive recent returns. Many discuss support holding, anticipation for moves towards 107k-115k, and profitable long setups. While some mention shorting or recent volatility, the majority of actionable trades, including recent profits and strategies, skew bullish. There are also multiple requests for buy advice and confirmations that the trend is up, including technical references to candlestick and EMA bullish crossovers.",
+    "positive_count": 18,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 5,
-    "neutral_count": 7,
+    "negative_count": 6,
+    "neutral_count": 9,
     "representative_opinions": [
-      "CFLYNN STUDIOS: Iâm still long from buying bitcoin at 8,000",
-      "General Knowledge: btc hold",
-      "Dragon editz: sir Aaj btc long pe mera sl uda kar target chala gaya. anyways is month abhi tak 14 percent return hai.",
       "Sigma Works: Main Bro Subhe 12:30 Buy ki the BTC and sham 6 Baje Tak Profits book karle the 500$",
       "Saturnsmiles: BTC me 5ema at top. trade liya he for 1:3 15min time frame",
-      "z a: Btc mai abhi selling nahi hai buying ka trend hai kiya ?",
-      "Shanu Khan: sir btc ne one hour resistance break out diya tha",
       "ANIL KUMAR ROUT: BTC upper circuit",
-      "Immigrant Diaries: your trendline looks incorrect in tradingview of mine... i think we broke our trendline of btc... bounced from the first order block a little",
       "Pramod Kulkarni: i am still in the trade sir with you. waitng for 107000",
-      "Pramod Kulkarni: sir at 107050, there is moving average for teh day which it has not touched since yesterday. so holding on with the trade",
-      "Afzal Shaikh: Bhai Zara 106800 ka area bhi dekh lo Waha Shayad Retrace kare",
       "Shanu Khan: sir btc ne one hour resistance break out diya tha",
-      "General Knowledge: btc hold",
-      "Travel with Nik: Btc ka batado",
-      "Sigma Works: Main Bro Subhe 12:30 Buy ki the BTC and sham 6 Baje Tak Profits book karle the 500$",
-      "Dragon editz: sir Aaj btc long pe mera sl uda kar target chala gaya. anyways is month abhi tak 14 percent return hai."
+      "Shibam Sarkar: btc me candle low pe psy level he",
+      "Vikas S: 15m bullish done crossover",
+      "Manggala Yatra: this now go buy ,,",
+      "z a: Btc mai abhi selling nahi hai buying ka trend hai kiya ?"
     ]
   }
 ]
