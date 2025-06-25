@@ -1,23 +1,25 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The opinions are mixed, but there is a significant short-term bearish sentiment for BTC based on multiple comments about heavy sell walls, market absorption by limit sellers, and short entries around the 108,000-109,000 levels. Sideways and indecisive market movements, along with mentions of bearish candlestick setups, add to the short bias. However, some users anticipate upside in the long run or bullish reversals, preventing a high confidence rating.",
+    "explanation": "Despite mixed short-term signals, there is strong sentiment for long-term bullishness on BTC, with expectations for new all-time highs, significant buying pressure at resistance, and several users mentioning opportunities for buying after dips or at support. However, heavy sell walls and some short-term bearish or uncertain comments reduce confidence. The overall market is choppy with both short and long suggestions, but the balance and some key opinions suggest a 'Buy' with medium confidence and recommended caution.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 15,
-    "neutral_count": 10,
+    "positive_count": 17,
+    "negative_count": 11,
+    "neutral_count": 8,
     "representative_opinions": [
-      "framesbyayannn: aagr ae candle red close ho jaye to selling aa sakta hai",
-      "Ahmad Khalid: the amount of walls above us is crazy... we got like 10+ 200btc walls",
-      "Josema: Once This gets rejected at this levels again, bears will become much more confident, and we will drop much harder than 108 to 106, this is 100% a short IMO",
-      "art slandered1: Market buyers got absorbed by limit sellers",
-      "Tempus Fugit: btc will go to 93k before it goes to 120k",
-      "Amit Anand: market gir sakta hai",
-      "Abdul Malek: 107890 pe sell kya",
-      "FitZoneX: it's going to dump"
+      "Gyan Singh: sir btc ath jayega in upcoming months",
+      "Dragon editz: sir agar resistance pe higher low banta hai toh buyers are willing to buy at higher price despite price being at resistance which means significant buying pressure.",
+      "Abdul Malek: buy me market kamjor hai selling me pressure nahi hai",
+      "Freedumb for Joel: Nice time to buy some BTC",
+      "Freedumb for Joel: BTC dont miss it",
+      "KiloCharley: LFG BTC n stuff",
+      "Ahmad Khalid: gotta squeeze through 108600 tho very quick or else nope",
+      "Paul Tose: kitna achha trade hai sir btc ka...ap khud kuin nehi lia sir...",
+      "Saandip Bhise: 108172 target rahega 70 %exit 30 % holding kar sakte",
+      "DOOM NEMESIS: auf Polymarket lÃ¤uft ne Wette, ob Bitcoin ein All Time High noch vor Oktober haben wird :D"
     ]
   }
 ]
