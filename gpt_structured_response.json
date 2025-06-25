@@ -4,8 +4,8 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of opinions highlight a rejection at key resistance levels, concerns about a bull trap, warnings against longing, and anticipation of a retracement. Several contributors mention a failed breakout and recommend patience rather than aggressive buying. While some see BTC in an uptrend, the prevailing sentiment is caution with a short-term bearish bias on low timeframes.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "There are several opinions suggesting caution, with many referencing failed trendline retests, double tops on higher timeframes, and a possible bull trap. Multiple users mention the risk of longing and the need for a retracement before considering a long position. While some still see an overall uptrend, the immediate sentiment for the 1-minute candlestick is bearish.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 4,
     "negative_count": 9,
     "neutral_count": 5,
@@ -14,13 +14,14 @@
       "oscartg638: it was rejected at the 1min for sure",
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
       "Tjeerd Phaff: I would not long until we get a decent retracement",
+      "oscartg638: 15 looking bad again",
       "Ferhaan Schmidt: wait for short",
-      "oscartg638: before the new retest at 5min. Now it's definitely looking like a trap.",
-      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
       "Amo Menottant: will retrace after locally bouncing on LSOBs",
-      "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
+      "NEMESIS: Bitcoin or girega kya",
+      "Mar: They want to trap lot of shorts",
       "Olu Folarin: Yup, it still looks like an uptrend to me",
-      "Asi Landes: we are on the up trend line"
+      "Asi Landes: we are on the up trend line",
+      "Architec(MattyB!!!): all signs say its a dump cake"
     ]
   }
 ]
