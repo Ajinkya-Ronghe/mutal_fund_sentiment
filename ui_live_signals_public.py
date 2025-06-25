@@ -75,7 +75,6 @@ def main():
                                 f"<span style='color:{conf_color};font-weight:bold'>Confidence: {confidence}</span><br>" +
                                 f"<span style='font-size:13px'>{explanation}</span><br>" +
                                 f"<b>Positive:</b> {pos} &nbsp;&nbsp; <b>Negative:</b> {neg} &nbsp;&nbsp; <b>Neutral:</b> {neu}<br> <b>1 minuite:</b> {minute_candle} &nbsp;&nbsp; <b>safe_leverage:</b> {safe_leverage} &nbsp;&nbsp;" +
-                                "<b>Comments:</b><ul style='padding-left:18px'>" + ''.join([f"<li style='color:#555'>{c}</li>" for c in comments]) + "</ul>" +
                                 "</div>", unsafe_allow_html=True)
                 # Show Medium Confidence in a horizontal row
                 if med_conf:
@@ -98,7 +97,6 @@ def main():
                                 f"<span style='color:{conf_color};font-weight:bold'>Confidence: {confidence}</span><br>" +
                                 f"<span style='font-size:13px'>{explanation}</span><br>" +
                                 f"<b>Positive:</b> {pos} &nbsp;&nbsp; <b>Negative:</b> {neg} &nbsp;&nbsp; <b>Neutral:</b> {neu}<br>" +
-                                "<b>Comments:</b><ul style='padding-left:18px'>" + ''.join([f"<li style='color:#555'>{c}</li>" for c in comments]) + "</ul>" +
                                 "</div>", unsafe_allow_html=True)
                 # Show Low Confidence in a horizontal row
                 if low_conf:
@@ -121,7 +119,6 @@ def main():
                                 f"<span style='color:{conf_color};font-weight:bold'>Confidence: {confidence}</span><br>" +
                                 f"<span style='font-size:13px'>{explanation}</span><br>" +
                                 f"<b>Positive:</b> {pos} &nbsp;&nbsp; <b>Negative:</b> {neg} &nbsp;&nbsp; <b>Neutral:</b> {neu}<br>" +
-                                "<b>Comments:</b><ul style='padding-left:18px'>" + ''.join([f"<li style='color:#555'>{c}</li>" for c in comments]) + "</ul>" +
                                 "</div>", unsafe_allow_html=True)
         time.sleep(5)
 
