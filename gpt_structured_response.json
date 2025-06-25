@@ -1,27 +1,33 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple participants mention strong resistance around 108,600-109,000 and trendline manipulation, with several indicating short positions or warnings of a bulltrap. There is also mention of negative funding and a lack of significant buy pressure, suggesting short-term downside bias. However, some uncertainty remains as a few participants note trendline support holding and are not confident about a strong move down, thus the confidence is medium.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 11,
+    "explanation": "Most opinions and market comments indicate a mixed but generally positive sentiment toward BTC. Some are referencing significant price levels for shorting (e.g., 108600, 107200), while others mention trendline supports and possible short-term pumps. Notably, there are calls to sell altcoins and buy BTC, and BTC is described as more reliable. The BTC/USDT 1-minute candlestick signal is reported as 'Long Score TP1' by Marticlues AI, supporting a short-term bullish perspective. However, some mention manipulation and caution about short-term volatility, so confidence is not high.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 8,
+    "negative_count": 4,
     "neutral_count": 7,
     "representative_opinions": [
-      "Aljaz Rokavec: 107200 fibanachi is hit bears",
-      "Goldy Singh: Me to short leke betha huun mnn kr rha h 1lakh tk hold kru",
+      "JUDAS THE TRAITOR: sell all xrp and buy bitcoin, pepe and shiba inu",
+      "Leo Cagape: bitcoin is more realiable",
+      "Marticlues AI: BTC/USDT Long Score TP1!: P=105560,+0.2%",
+      "oscartg638: just know there is a valid trendline support level.",
+      "Goldy Singh: 1 day ki candle dekhona Trendlines uparse",
+      "Molyn Brefon: may little pump maybe",
+      "Ryan Teng: to go up further",
+      "Neev: ive got my tp at 108,8 waiting patiently",
       "crozxz: 108600 good area for short",
       "Tjeerd Phaff: funding negative",
-      "ÐÐ¾ÑÐ¸Ñ ÐÑÐ¸ÑÐ²Ð°: Bulltrap",
       "Noob Trader: i think it will go down to the top of first leg up",
-      "Ryan Teng: idk if its a good time to short",
-      "HNterritory: why short now?",
-      "SeÃ±or Joce: Just a scalp short for me, not expecting a 2x lol",
+      "Goldy Singh: Bohot bada manipulation chalra h 2 dinse",
+      "Ryan Teng: not enough sell pressure",
+      "Immigrant Diaries: Oh yes this channel is the only reason Iâm still trading futures otherwise I would never come out of spot",
       "DUTCH BEAR: i shorted for the first time in 3 weeks... small position tho. i'm going to build to position up if we continue to pump.",
-      "Immigrant Diaries: 2 dojis on 5mins but this candle looking to sweep",
-      "Immigrant Diaries: 5min charts holding well"
+      "Butthead: and THAT is why you need to press the like !",
+      "Bitcoin Radio : I am declaring alts season dead, singletons could do well but as a general season naw, it's total crap",
+      "Joey: red candle burning out"
     ]
   }
 ]
