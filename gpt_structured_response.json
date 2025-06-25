@@ -4,25 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions are mixed with several users discussing potential for both up and down moves, but notable bullish sentiment is present: targets above 107,000-109,000 are mentioned, discussions of 'rocket fueling' and 'bull flag daily', and encouragements to buy now or miss out. Some caution about sweeping lows and boring/choppy price action also appears. Overall, the community leans bullish but not with unanimous or high conviction.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 13,
-    "negative_count": 7,
-    "neutral_count": 11,
+    "explanation": "There is a mix of bullish and bearish opinions about BTC in the live chat. Some suggest BTC is 'fueling up for the next moon mission' and refer to a 'bull flag daily', while others warn of a 'sweeping of the lows' or a possible short-term drop. However, several participants mention that BTC is still pushing upwards, refer to price targets above current levels, and highlight that holding above daily key levels would keep bulls in control. Market behavior is choppy, but the broader sentiment leans slightly bullish for short timeframes with possible dips being bought quickly. The 1-minute chart is referenced as bullish ('NEW BTC M1 CHART'), and there are calls to 'buy now or cry later', supported by mentions of ongoing pushes and imminent liquidity sweeps. Leverage should be used cautiously due to volatility and mixed opinions.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 9,
+    "negative_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Franzbert ð¨: BTC Ziel 107193.4",
-      "nutmaster69: 108700 soon",
-      "Mix videos: abhi hi dekha lo us oil down gya or btc upp",
       "AmviciousRav: Btc rocket is fueling up for the next moon mission",
       "el Vegano ð: bull flag daily...",
-      "Kane: Soon, buy now or cry later",
-      "Thunder: Buy time",
       "Matt: btc daily close above 106680 and bears in big poop",
-      "Noob Trader: ema should hold if not you the rest",
-      "CryptoStarterNow: pump it",
-      "mrnzr: gold already break the resistance, hope btc also break it",
+      "Mix videos: abhi hi dekha lo us oil down gya or btc upp",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "Thunder: Buy time",
+      "Kane: Soon, buy now or cry later",
       "Axel: BTC still pushing â¦. I see a sweeping of the lows comingâ¦â¦",
-      "Y00LKA: 109 400 possible still ?"
+      "Arkadiusz Kaminski: BTC goes soon in Keller, Bier holen.... Short >.<"
     ]
   }
 ]
