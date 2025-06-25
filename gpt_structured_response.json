@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants discussed possible bounce levels and upside targets for BTC, such as $106.8k and $108k. There are mentions of buying, long positions, and waiting for a bounce from support. However, some warn to wait for a retracement or more confirmation, and there are references to shorting or caution as well. Overall, sentiment leans slightly bullish for a near-term bounce, but there is notable hesitation and calls for patience.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The sentiment is mixed but slightly bullish overall for BTC. Several users are discussing possible retracements and bounce plays at key support levels (e.g., 106.8k), with some expressing willingness to go long after a retrace, while others signal to wait or are cautious about a potential drop. A few users note strong buying activity and mention large future buy volumes ($14B). Positive momentum is reinforced by comments expecting a price climb, mentions of buying only, and bullish exclamations like 'PUMP IT UP' and 'weeeee go to top'. Short-term uncertainty is present, but intraday sentiment leans towards a bounce and continuation upwards.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 7,
-    "negative_count": 5,
-    "neutral_count": 10,
+    "negative_count": 4,
+    "neutral_count": 9,
     "representative_opinions": [
       "Hamdan Chuhdry: kia ab Bitcoin $108k touch kry ga",
-      "Solidity Monster: 106.8k looks like a bounce play. But lets see if the LONG picks up",
-      "Travis Alford: stay above vwap btc!",
-      "Ferhaan Schmidt: im on long still",
+      "Real Krantikari : $14B ka BTC by hoga",
+      "Riazul Islam: mai niche ka support se liya for long",
+      "NEMESIS: Bitcoin or girega kya",
       "Tjeerd Phaff: I would not long until we get a decent retracement",
-      "TraderX: We head down could be a chance for a bounce play either 1068 or 106.2. 106.2 is the big support of the 15min 200.",
-      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed."
+      "Solidity Monster: 106.8k looks like a bounce play. But lets see if the LONG picks up",
+      "Travis Alford: stay above vwap btc!"
     ]
   }
 ]
