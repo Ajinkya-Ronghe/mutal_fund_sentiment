@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment from the live chat is mixed, but there are several strong voices calling for a significant short, referencing trendline breaks, resistance holds, and a lack of bullish news. Some participants mention waiting for a retest, observing support levels (e.g., ichimoku cloud), and anticipating a potential dump. Although a few remain neutral or optimistic, the majority of actionable comments lean bearish for BTC in the very short-term.",
+    "explanation": "There are several strong opinions indicating bearish sentiment and calls to short BTC, such as 'short it, bet your house on it', 'THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN', and comments about trendline breaks and waiting for price to come back up. However, there are also some neutral and bullish comments, like 'alts don't move as much as BTC and BTC hasn't moved much today', 'because ppl selling alts to get BTC', and 'I SEE A BULL FLAG', which suggest mixed market views. The overall tone slightly favors a short-term bearish outlook.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 13,
-    "neutral_count": 8,
+    "positive_count": 4,
+    "negative_count": 7,
+    "neutral_count": 4,
     "representative_opinions": [
-      "MVRSO: THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN",
       "BTCBILL : short it, bet your house on it",
-      "oscartg638: touching ichimoku cloud support",
-      "oscartg638: aligns with trend line",
+      "MVRSO: THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN",
+      "XRPLparadise: I SEE A BULL FLAG",
+      "oscartg638: holding (trendline/ichimoku support)",
+      "TraderX: 107.2 is the 200 on the 5 min need to hold that or we're going lower",
       "Matt S: long as we close above 106.8k its technically successful, everything else is dead tho",
-      "Samado: iâm in short 2442",
-      "Samado: i feel we might get bad news before weekend"
+      "Y00LKA: because ppl selling alts to get BTC"
     ]
   }
 ]
