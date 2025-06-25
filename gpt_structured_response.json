@@ -4,19 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mix of opinions with some calling for BTC recovery, others mentioning potential dips or volatility, but the majority of direct BTC comments lean positive or bullish. Several mention buying dips, ongoing long positions, and the idea that shorts will get liquidated. Signals from live chat and references to new M1 BTC chart releases support a moderately bullish short-term view, but with caution due to expected volatility.",
+    "explanation": "Several participants discussed bullish signals for BTC, with opinions referencing a buy signal, bullish market structure, and suggestions to take long positions. However, some contradictory signals (e.g., talks of shorting, market absorption by sellers, and uptrend exhaustion) along with references to upcoming corrections and liquidity risks temper the overall confidence. The chat favored buying dips and highlighted ongoing interest in BTC despite some short-term risk, leading to a medium confidence buy recommendation.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 3,
-    "neutral_count": 7,
+    "positive_count": 10,
+    "negative_count": 6,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Mar Vaey 2.2: it looks to be recovering",
-      "DigitalOrgy: Btc C leg completed. Rockets incoming",
+      "Lucrisiah: There is a buy signal but its going down lol",
+      "chuamishael - Audio Library: we're still bullish",
+      "ä¸åå¾: ill leave tps at 110k-111k then go workout",
+      "Gourav stock market: I think dip is to buy",
+      "Axel: BTC still pushing â¦. I see a sweeping of the lows comingâ¦â¦",
       "ChaudharySB: Shorts walon ki band bajy gi",
-      "Manggala Yatra: this now go buy ,,",
-      "FitZoneX: it's going to dump; short it now (contrarian view noted, but outweighed by buy calls)",
-      "ChaudharySB: MATLAB BTC ki jidhar zyadah liquidity ho udhar ki trade laga lo"
+      "Farooq Zaheer: MATLAB BTC ki jidhar zyadah liquidity ho udhar ki trade laga lo",
+      "Joyjit Fun: sir BTC me trade le keya demo me",
+      "FitZoneX: it's going to dump",
+      "Target Hit: Bears are still in control"
     ]
   }
 ]
