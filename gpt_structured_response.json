@@ -4,23 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mixed but slightly bullish sentiment on BTC. Some users are discussing taking profit at levels like 110k-111k, and others are commenting on uptrends and absorption, while a few are noting corrections or market absorption at highs. Liquidity and macro timeframes are mentioned as turning green, with some chat indicating ongoing bullishness. There are also opinions warning about possible corrections due to high open interest, but the majority of direct BTC comments lean toward holding or buying, with shorts expected to be squeezed. Notably, repeated references to new BTC charts and buying on dips support a moderate bullish bias.",
+    "explanation": "Opinions in the chat indicate mixed short-term sentiment, but overall momentum is bullish with calls for 'buy time,' upward trend observations, and suggestions that shorts will be squeezed. There is also mention of high liquidity zones as potential trade triggers and references to the BTC M1 (1-minute) chart, with viewers discussing strategies based on liquidity sweeps and limit order absorption. Some are closing longs or partially taking profit, but the consensus is that the trend is still up for now.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 9,
-    "negative_count": 4,
-    "neutral_count": 7,
+    "positive_count": 11,
+    "negative_count": 7,
+    "neutral_count": 8,
     "representative_opinions": [
+      "Aztec ð²ð½ : I think we will see 109k",
+      "V20: Breakout111k-115k",
       "chuamishael - Audio Library: we're still bullish",
-      "ä¸åå¾: ill leave tps at 110k-111k then go workout",
-      "Frederic: 107.7 high so far",
+      "Frederic: someone guaranteed it would go down today and it when up to new local high",
+      "ChaudharySB: Shorts walon ki band bajy gi",
+      "Thunder: Buy time",
+      "Kane: Soon, buy now or cry later ",
       "Target Hit: I'm trying to close 75% of BTC and SOL now",
       "andrei lucian varvaruc: aggregated open interest - spike very high in the last 36 hours, that's mean we can see soon correction",
       "FitZoneX: it's going to dump",
-      "ChaudharySB: Shorts walon ki band bajy gi",
-      "ChaudharySB: MATLAB BTC ki jidhar zyadah liquidity ho udhar ki trade laga lo",
-      "HighkeyRBz: that uptrend tho",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "Gourav stock market: I think dip is to buy"
+      "Buzz Lightyear: GET CAUGHT UP WITH THE PLAN!!: June 24th! Jerome Powell Speaks!"
     ]
   }
 ]
