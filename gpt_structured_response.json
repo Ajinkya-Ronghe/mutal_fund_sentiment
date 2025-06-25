@@ -4,22 +4,24 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants mention bullish factors for BTC: predictions of a move toward 109k-115k, some expecting a blow-off top to 150k, and sentiment around liquidity pointing to large upward moves. However, there is also concern about high open interest and potential corrections, and a few traders are closing or reducing positions near current highs. The overall sentiment leans bullish, but with caution due to mixed technical signals and profit-taking behaviors.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 10,
-    "negative_count": 4,
-    "neutral_count": 6,
+    "explanation": "There is a mix of short-term bullishness supported by opinions mentioning uptrends, 'blow off top' calls (150k), breakout expectations (109k-115k, 110k-111k), and liquidity-driven trade logic. Some warn of correction due to high open interest and closing positions. More mentions favor upward momentum for now, but there is notable caution about possible corrections.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 12,
+    "negative_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
       "Aztec ð²ð½ : I think we will see 109k",
+      "Ruben van Eek: This is it guys, blow off top - 150k",
       "V20: Breakout111k-115k",
+      "ä¸åå¾: ill leave tps at 110k-111k then go workout",
       "chuamishael - Audio Library: we're still bullish",
       "Crypto Algorithm: damn btc.d is exploding again. we should forget altseason for a few more months",
-      "Ruben van Eek: This is it guys, blow off top - 150k",
-      "Target Hit: I'm trying to close 75% of BTC and SOL now",
-      "andrei lucian varvaruc: aggregated open interest - spike very high in the last 36 hours, that's mean we can see soon correction",
-      "FitZoneX: it's going to dump / short it now",
       "Guitar 2.0: Bhai neechy to tofan hona btc m",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
+      "FitZoneX: it's going to dump",
+      "FitZoneX: short it now",
+      "andrei lucian varvaruc: aggregated open interest - spike very high in the last 36 hours, that's mean we can see soon correction",
+      "Target Hit: I'm trying to close 75% of BTC and SOL now",
+      "ChaudharySB: MATLAB BTC ki jidhar zyadah liquidity ho udhar ki trade laga lo"
     ]
   }
 ]
