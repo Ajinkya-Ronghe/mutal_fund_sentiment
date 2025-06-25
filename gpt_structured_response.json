@@ -4,25 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There are varied opinions on BTC's near-term direction, but the majority indicate strong interest in buying at key support levels, anticipation of bullish moves if certain resistances are broken, and even government accumulation. Some participants report holding through volatility and waiting for confirmation, while others highlight sideways action, suggesting caution. However, the presence of positive news (e.g., White House accumulation plan) and market participants discussing buy signals at critical levels tilts the bias towards a medium confidence buy recommendation. The market does display mixed short-term signals (ranging from consolidation, absorption, and shorting at resistance), but buyer sentiment is slightly dominant.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 13,
-    "negative_count": 8,
-    "neutral_count": 21,
+    "explanation": "Opinions are mixed but lean bullish: several users note strong support at 107500 and 106500, some mention government accumulation rumors, and others observe uptrend signals and calls to 'buy'. However, there are also warnings about possible dumps and resistance at higher levels (109-110k). Market is consolidating, but 1m/4h trends show slow creep up, and many expect a pump or further accumulation.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 11,
+    "negative_count": 7,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Pramod Bhoite: Agar market 107179 ki liquidity lekar ek bullish candle 107425 ke upar close krti hai to buying aa sakti hai.",
       "K P: JUST IN: White House official says the US government has an 'accumulation plan' to buy Bitcoin.",
-      "Lucky Gupta: btc 20 aur 50 ema se suport le raha hai didi",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Noob Trader: i am bullish 30m big Rocket launched to the moon",
+      "Lucky Gupta: btc 20 aur 50 ema se suport le raha hai didi",
+      "Mike S: id love to put in a fat hedge short around 109-110",
       "Matt S: 1hr and 4hr trend slowly creeping up tho, so bear need to move this in the next 1 hr or there screwed",
-      "mpepin1905: get mover 108 and if cant break106 comes quick",
-      "Matt S: id wanna see a daily close around 106.5k + to remain bullish",
-      "Dogworld: btc i bought at 20-30-40-50-60-90k then stopped.. sold just after slight profits.. mainly here to see the price not selling my last btc ever just wanna see price for these stupid meme coins to x5",
-      "@tokthailand: In order to upside u need close the downside this is the game for long time ago",
+      "Lundara: huge pump in progress",
+      "jussee85: BUY baby BUY",
+      "FitZoneX: it's going to dump",
+      "Matt S: dont think were gonna know til daily close",
       "nutmaster69: 107500 is gonna be a strong support after we break through these longs",
-      "Veen: The pump will be respected!",
-      "Lundara: huge pump in progress"
+      "art slandered1: Market buyers got absorbed by limit sellers"
     ]
   }
 ]
