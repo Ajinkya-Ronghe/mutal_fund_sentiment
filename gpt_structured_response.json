@@ -1,23 +1,27 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment in the live chat is mixed but leans bearish for BTC in the short term. Many traders mention resistance at levels like 109k-110k and suggest shorting at those levels. There is discussion of price consolidation, low volume, and absorption by sellers, with some waiting for confirmation before entering new longs. A few comments highlight potential support at 107500, but more comments are concerned about downside risk, failed breakouts, and market manipulation. While there are bullish voices referencing government accumulation rumors and calls for patience, the dominant actionable opinions suggest caution or shorting, especially if BTC fails to break above resistance or loses key pivots.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 16,
-    "neutral_count": 10,
+    "explanation": "There are mixed opinions but several comments suggest strong supports being formed (107500, 106500), bullish signals on higher timeframes, and potential for government accumulation. Short-term signals suggest buying if bullish candles close above key liquidity points, while others mention uptrend absorption and daily support holding. However, some warn of low volume and possible manipulations. The overall consensus leans bullish, but with some caution due to volatility and lack of unanimous sentiment.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 12,
+    "negative_count": 7,
+    "neutral_count": 19,
     "representative_opinions": [
-      "If lose 107 pivot next is 104 pivot last close is 106 @",
-      "thinking to short 109.6-110.3 but Dru says 111 then dump",
-      "at least start scaling in there soil it hits 110 or a lil higher be a sweet short possibly",
-      "i only short if 109.6+ or we lose that 15m 50",
-      "btc day high day low mein hi khelta hai",
-      "breakout and breakdown are manipulations only",
-      "Market buyers got absorbed by limit sellers",
-      "Volume way too low"
+      "Pramod Bhoite: Agar market 107179 ki liquidity lekar ek bullish candle 107425 ke upar close krti hai to buying aa sakti hai.",
+      "K P: JUST IN: White House official says the US government has an 'accumulation plan' to buy Bitcoin.",
+      "Lucky Gupta: btc 20 aur 50 ema se suport le raha hai didi",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "@tokthailand: Strategy is manipulated the BTC market after the last purchase",
+      "IamBitcoin: kesa kaha tha ke aik lac break kare ga kara tha manta hai na",
+      "Matt S: id wanna see a daily close around 106.5k + to remain bullish",
+      "nutmaster69: 107500 is gonna be a strong support after we break through these longs",
+      "Noob Trader: i am bullish 30m big Rocket launched to the moon",
+      "Matt S: 1hr and 4hr trend slowly creeping up tho, so bear need to move this in the next 1 hr or there screwed",
+      "Matt S: for now looks like bears baited again tbh",
+      "jussee85: lets GO\njussee85: BUY baby BUY"
     ]
   }
 ]
