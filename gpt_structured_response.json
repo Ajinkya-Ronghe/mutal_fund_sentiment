@@ -4,25 +4,25 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The sentiment in the live chat is leaning bearish for BTC, with several participants mentioning possible drops to the 106k-104k region, concerns about liquidations below 107k, and warnings about market manipulation. There are a few voices expecting a minor pump or indecision, but the overall tone is cautious, with more suggesting downside risk in the immediate term. However, there are also some who indicate holding long positions or waiting for confirmation, which tempers the confidence to medium.",
+    "explanation": "A majority of comments suggest bearish sentiment for BTC, with many warning of downside risk near the 107k level, mentioning potential liquidations below 107k, and expectations of further drops to 106k or even as low as 104-106k. Some traders mention market manipulation and a possible buyer trap at trendlines, indicating a near-term selling environment. However, there are a few mentions of possible small pumps and retests, and a minority of traders still holding longs or waiting for a reversal, lowering overall confidence to medium.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
+    "positive_count": 7,
     "negative_count": 13,
-    "neutral_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
+      "Compounding king: up jayega btc bro",
       "henrique aoyagui: below 107k we start seeing liquidations",
-      "henrique aoyagui: if it goes anywhere near 106900 its a bloodbath",
       "RaberTrades: Bears are trying to pill this down to 104-106k",
-      "RaberTrades: 103.9k liquidity is their  I wonât be selling any of my longs nor took any profits today.",
       "Noob Trader: i think it will go down to the top of first leg up",
       "Goldy Singh: Niche girega dhadam se",
+      "Adarsh Jaiswal: Market abhi trendline pe buyer ko trap karega fir spike me sell ayega",
       "Immigrant Diaries: I think we about to drop",
-      "Lily Lily: short it...",
-      "Ryan Teng: idk if its a good time to short",
+      "R C Couriers: 107K",
+      "Sajib Rahman: Bhai 107200 se niche nehi Jayega",
+      "Ryan Teng: retesting this level to go up further",
+      "Leo Cagape: I long so pump",
       "Molyn Brefon: may little pump maybe",
-      "Ryan Teng: re are retesting this level",
-      "Ryan Teng: to go up further",
-      "RaberTrades: Well Iâm fluent in the data because Iâm a Macroeconomist. TA can kill ya so I love to ride the waves up"
+      "RaberTrades: I wonât be selling any of my longs nor took any profits today."
     ]
   }
 ]
