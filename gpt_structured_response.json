@@ -4,22 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Mixed but leaning bearish: several participants mention holding shorts from 108K+, expecting correction due to high open interest, low volume, and liquidity grabs below. Some call for a blow-off top or correction soon, while a few mention longing or bullish structure, but the negative/neutral mentions dominate the current sentiment.",
+    "explanation": "The majority of public sentiment points to bearish movement for BTC in the immediate term. Multiple users like Multigang, Corey, and Target Hit mention short positions, targets below current price (tp 1 106200), and a desire for limit shorts to hit. Some mention low volume and bear divergence as reasons for weakness. However, a few users (MOON CAT, Kane, Thunder, Ruben van Eek) reference bullish potential or strong hands, but these are fewer and more speculative. Liquidity comments are mixed, but the short-side conviction is clearer in this time frame.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 5,
-    "negative_count": 10,
+    "positive_count": 6,
+    "negative_count": 13,
     "neutral_count": 7,
     "representative_opinions": [
-      "andrei lucian varvaruc: aggregated open interest - spike very high in the last 36 hours, that's mean we can see soon correction",
       "Multigang: im als in the short from 108050",
-      "Bruce Wayne: they killing shorts again and again nothing changed months non stop of massacres",
+      "Florent Raes: diivergence bears",
       "Patch Daddy: im selling all mine",
       "Corey: I want my btc 108,880 limit short to hit so bad",
-      "Target Hit: I'm trying to close 75% of BTC and SOL now",
+      "Ruben van Eek: This is it guys, blow off top - 150k",
+      "MOON CAT: HUGEGREENCANDLE HUGEGREENCANDLE HUGEGREENCANDLE HUGEGREENCANDLE HUGEGREENCANDLE HUGEGREENCANDLE",
       "ChaudharySB: MATLAB BTC ki jidhar zyadah liquidity ho udhar ki trade laga lo",
-      "Otaku WeebTV: will btc grab the 1M liquid $11k or will go down ??",
-      "Guitar 2.0: Bhai neechy to tofan hona btc m",
-      "Multigang: we dont go much abve 10800"
+      "Guitar 2.0: Bhai neechy to tofan hona btc m"
     ]
   }
 ]
