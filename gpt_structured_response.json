@@ -4,25 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Sentiment is mixed but leans bearish for BTC in the very short term, with multiple users discussing trendline breaks, market dumps, and shorting around the 108k-109k levels. Some mention valid support around 107200-107400 and suggest potential for a bounce, but the immediate tone is skewed toward scalp shorts and negative funding. There is also mention of flat/ugly 1-minute candles and negative volume context, with some users expressing expectations of further downside. However, a few opinions note oversold conditions and possible bounce, so confidence is medium rather than high.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 7,
-    "negative_count": 13,
-    "neutral_count": 9,
+    "explanation": "The majority of BTC-related opinions suggest bearishness or caution. There is mention of trendline breaks, lack of volume, funding being negative, and expectation of further downside moves (targets like 105k, 107200 called out as shorting zones). Multiple users mention shorting or expecting a downward move, with only a handful of conflicting or neutral comments. The 1-minute chart is described as flat and ugly, indicating indecision or impending volatility. There are also references to bulltraps and market manipulation. However, there are some neutral and a few bullish/scalping long opinions, so the confidence is not high.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 4,
+    "negative_count": 12,
+    "neutral_count": 8,
     "representative_opinions": [
+      "Eriya Creative girlð©·ð: bhai abhi sell kar sakte hai",
+      "Aljaz Rokavec: NO VOLUME bear indicator",
+      "MVRSO: asia will short",
+      "Trade Like Operator: funding negative",
       "crozxz: 108600 good area for short",
       "Bear Bull: 107400 and go long",
-      "Tjeerd Phaff: funding negative",
-      "Jorge smacks: dump",
       "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
-      "Neev: the 1 min chart candles are looking flat and ugly with this vol",
-      "Trade Like Operator: abhi upar hi rahega",
-      "MVRSO: no volume",
-      "Butthead: asia gonna dump this B",
-      "Adarsh Jaiswal: because ab liquidity niche hai to market ko to lena chahiye abhi eak spike ayega sell me",
-      "Dennis Bell: Massively oversold.",
-      "Ryan Smith: Good buy thank me later",
-      "Neev: uk is short central for me"
+      "Neev: the 1 min chart candles are looking flat and ugly witht his vol"
     ]
   }
 ]
