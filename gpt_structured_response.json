@@ -4,23 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite mixed short-term opinions and volatility, the majority of actionable BTC-related comments reference strong support zones, trendline bounces, and anticipation of a reversal or parabolic move. Several traders discuss double bottoms, bounce potential, and consolidation above key moving averages (especially 50MA/EMA). Liquidation and order flow analysis suggests downside exhaustion with new long orders anticipated. While some warn of possible brief dumps or retests (e.g., to 104k), the presence of aggressive shorters and high leverage shorts, combined with calls for 'big parabolic move to ATH' and all trend timeframes being green, indicate favorable risk-reward for a long position at current levels with a 1-minute signal. Caution is warranted on high leverage, but the overall sentiment is constructive for a buy, especially for those managing risk on pullbacks.",
-    "positive_count": 11,
+    "explanation": "Despite a mix of short-term volatility opinions and some bearish comments, the overwhelming sentiment from the live chat suggests strong interest in upward movement for BTC, including targets above 103k, 106k, and even 108.5k. Many users discuss buying, holding, and leveraged trades on BTC. Opinions highlight consolidation, a solid support line, and multiple references to trend continuation or reversal to the upside. Several participants mention buying BTC after selling alts, and a few note the bullish momentum is not yet dead. The presence of both short and long opinions combined with more positive and neutral remarks, plus the technical references to support, resistance, and trend lines, indicate a high-confidence buy signal for BTC with a focus on capitalizing on expected price surges.",
+    "positive_count": 25,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 7,
-    "neutral_count": 12,
+    "negative_count": 10,
+    "neutral_count": 18,
     "representative_opinions": [
-      "btc i think its will pullback first to 104k then pump",
-      "all trend TF are green is difficult",
-      "there will be a big parabolic move to ATH",
-      "support line is solid",
-      "btc 108500 tak jaega",
-      "btc double bottom bnayega probably",
-      "price bounced off of the trend line",
-      "ye uptrend momentum aint dead yet but its about to be if bulls dont push",
-      "btc ka overview bta dain again thanks",
-      "double bottom signal trend reversal",
-      "btc analysis downside view k liye"
+      "Joshua Kaye: Reversal incoming",
+      "Lala Anira: 106 coming",
+      "Mehmet Demir: 95next target",
+      "Block Ranger: price bounced off of the trend line",
+      "DragonSoul1492: Going up from here",
+      "Eddy X: touch down ..demand zone",
+      "hellion1193: YES! perfecto to go long here",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
+      "ofkone: all trend TF are green is difficult",
+      "kobramix: it's insane If i go for green candles at bottom of them"
     ]
   }
 ]
