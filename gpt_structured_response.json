@@ -1,29 +1,28 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "BTC sentiment is very mixed but skews positive short-term. Multiple users mention breakouts, bullish operator activity, and successful resistance breaks. However, there is ongoing volatility and confusion, with some traders warning of possible dumps and others calling for new highs. Several opinions note the market is ranging or boring, but bullish comments such as 'BTC toh upside jaaega as per operator', 'Broke $106500 nice! Itâs BTC time', and 'BTC Ziel 107193.4' suggest a bias to the upside. The 1-minute chart is referenced as bullish by Nightbot. Still, caution is warranted due to some prominent bearish warnings and visible choppiness.",
+    "explanation": "Mixed opinions on BTC's immediate direction. Several users note potential for further downside, mentioning failed higher lows on 4h, expectations of a drop after recent green days, and warnings of uptrend exhaustion and absorption by sellers. However, there is still some bullish sentiment, but current candlestick and price action commentary leans slightly bearish for the very short term.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 14,
-    "negative_count": 8,
-    "neutral_count": 15,
+    "positive_count": 8,
+    "negative_count": 13,
+    "neutral_count": 9,
     "representative_opinions": [
-      "AllMarketView: BTC toh upside jaaega as per operator",
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Franzbert ð¨: BTC Ziel 107193.4",
-      "Matt: btc daily close above 106680 and bears in big poop",
-      "Manggala Yatra: this now go buy ,,",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "Mr.Bean00: 7,440 pr up ki entry sahi rahegi 400-450 point capture honge",
-      "Mr.Bean00: 108,000 pr sell side fresh entry he broo bss wait kro",
-      "Naveen: btc down ka trade bn skta hai",
-      "Arkadiusz Kaminski: BTC geht bald in Keller, Bier holen.... Short >.<",
       "Gyan Singh: sir short tread btc ka risky lag raha h thoda..",
-      "tametheark: I earned over 25X my money on an Ethereum long, and then entered a BTC short near this local top. I'm a beast!",
+      "Arkadiusz Kaminski: BTC geht bald in Keller, Bier holen.... Short >.<",
+      "KingAlbert: Tp Now!!!! close Longs!!!",
+      "Naveen: btc down ka trade bn skta hai",
+      "chuamishael - Audio Library: but I already shorted both on 107k and 108k just in case.",
+      "tametheark: ...then entered a BTC short near this local top.",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Matt: May not even do much now til new daily, all bull gotta do is hold it",
+      "FitZoneX: it's going to dump",
+      "FitZoneX: short it now",
+      "art slandered1: Market buyers got absorbed by limit sellers",
       "Axel: BTC still pushing â¦. I see a sweeping of the lows comingâ¦â¦",
-      "Risky trade : 4h candle open bullish"
+      "Robert Mihai: boring moves , btc from 98k to 108k in 3 days .. cmon btc why so boring"
     ]
   }
 ]
