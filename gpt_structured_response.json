@@ -1,26 +1,31 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Opinions are mixed but overall sentiment leans slightly bullish for BTC. There are bullish comments about ATH (all-time-high) in upcoming months, significant buying pressure at resistance, and expectations for upward moves. However, there is also visible caution regarding heavy sell walls, possible short-term volatility, and some short signals from the community. The market seems to be in a consolidation zone with both buyers and sellers active, but with a modest edge to the bulls given the larger trend and community optimism.",
+    "explanation": "There is a significant split in sentiment with many users mentioning heavy sell walls, recent profit booking, and closing of longs at resistance levels like 108kâ109k, as well as mentions of sell orders being executed. Several comments indicate traders are expecting a drop or advocating for exits at current levels, despite some bullish macro opinions for the long term. The 1-minute sentiment leans cautiously short due to immediate resistance and profit-taking, even though some users mention longer-term bullishness.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 17,
-    "negative_count": 13,
-    "neutral_count": 13,
+    "positive_count": 15,
+    "negative_count": 23,
+    "neutral_count": 18,
     "representative_opinions": [
-      "Gyan Singh: sir btc ath jayega in upcoming months",
-      "Dragon editz: sir agar resistance pe higher low banta hai toh buyers are willing to buy at higher price despite price being at resistance which means significant buying pressure.",
-      "Amit Anand: pullback per add karo Buy side",
       "Saandip Bhise: 108172 target rahega 70 %exit 30 % holding kar sakte",
-      "Freedumb for Joel: Nice time to buy some BTC",
+      "A njr: btc exit krr lo abb",
+      "Ahmad Khalid: up to 108.2 we have 600btc sells",
+      "mpepin1905: closedmostlongs with small runner",
+      "mpepin1905: closed all my longs heavy short",
+      "Josema: Im shorting from 108K, might close it , should have take profits, but it might not pass this levcel will hold a bit more.",
+      "Matt S: wont be resistance for long if bears dont act lol",
+      "MO: yeah, kind of last chance for bears to reject below 109k",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Paradigm Shift: there will be no dump just look in stochrsi 1hr",
-      "Matt S: 1hr and 4hr trend slowly creeping up tho, so bear need to move this in the next 1 hr or there screwed",
-      "Abdul Malek: buy me market kamjor hai selling me pressure nahi hai",
-      "Manggala Yatra: this now go buy ,, ",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
+      "Adarsh Jaiswal: sellers ka sl hunt krke market reverse ho jayega bhaiya",
+      "framesbyayannn: aagr ae candle red close ho jaye to selling aa sakta hai",
+      "Ahmad Khalid: 108.8-109 heavy walls area",
+      "Mix videos: 108120 pr buy kiya tha",
+      "Mix videos: no chance of going upp",
+      "JOSEMA: Once This gets rejected at this levels again, bears will become much more confident, and we will drop much harder than 108 to 106, this is 100% a short IMO",
+      "Abdul Malek: 107890 pe sell kya"
     ]
   }
 ]
