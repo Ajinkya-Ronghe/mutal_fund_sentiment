@@ -4,26 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple participants discuss recent BTC breakouts on the 1-minute, 5-minute, and 4-hour charts, with scalping and breakout strategies being highlighted. There is mention of resistance at 108000-108500, but also several confirmations of bullish momentum and breakouts, with signals from trading bots and live traders suggesting entry long positions. However, concerns about resistance, market manipulation, and the need for confirmation on higher timeframes temper overall conviction. Representative opinions reflect a leaning toward short-term upside with caution.",
+    "explanation": "Several participants mention breakout, trending up on higher timeframes, and scalping opportunities in BTC. There is discussion about BTC holding support levels (106.5k, 98k), a recent breakout, and long trade setups. Some traders are actively long from around 107,700â98k, and sentiment is positive on further upside if resistance is broken. However, there are mixed short-term views (some mention resistance at 108kâ109k, and potential for a short at those levels), and a recent drop created caution among some. The overall tone is cautiously optimistic with continued volatility expected, but risk of a pullback remains near resistance. Leverage recommendations are low or moderate, with an emphasis on using stop losses and careful risk management.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 14,
+    "positive_count": 13,
     "negative_count": 7,
-    "neutral_count": 12,
+    "neutral_count": 9,
     "representative_opinions": [
       "Marticlues AI: Long BTC/USDT:ENTRY=107714.99,TP1=107930.42,TP2=108038.14,TP3=108253.57,SL=106960.99,TA=Breakout Jam!",
-      "Hardik Trivedi: Weekly mein agar upar ka break out Ho Gaya to all time high ke upar jaane Ki vajah se à¤¬à¤¡à¤¼à¥-à¤¬à¤¡à¤¼à¥ candle ban sakti hai",
+      "Gyan Singh: 98k se long h btc",
       "rahul singhania: btc bhi bhaga",
-      "Shivam b: btc me volume nhi h bhi",
+      "Hardik Trivedi: Weekly mein agar upar ka break out Ho Gaya to all time high ke upar jaane Ki vajah se à¤¬à¤¡à¤¼à¥-à¤¬à¤¡à¤¼à¥ candle ban sakti hai",
+      "Dr Abhishek Goyal: satyam bhai 4 hr pe btc breakout maar rha h trend line se, dekho na ek baar",
       "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "DigitalOrgy: Btc C leg completed. Rockets incoming",
-      "Matt S: dont think were gonna know til daily close. id wanna see a daily close around 106.5k + to remain bullish",
-      "vinod k.v: last 108500 se resistance lega pata nai kis breakout ka intezar krre ho tabish bhai",
+      "Matt S: 1hr and 4hr trend slowly creeping up tho, so bear need to move this in the next 1 hr or there screwed",
+      "vinod k.v: 108000 bi ek resistance",
+      "MO: daily resistance zone",
       "Alina Bogdan: can we break 108k and hold this time? I have a big market order on a short around 108k",
-      "tametheark: entered a BTC short near this local top. I'm a beast!",
-      "oscartg638: anyone else see the upwards trending wedge on the weekly?",
-      "rahul singhania: 1 hr cross me hone wala 200 ema",
-      "Matt S: for now looks like bears baited again tbh. consolidated, over bounced, and crawling up",
-      "Matt S: bears in trouble"
+      "tametheark: ...entered a BTC short near this local top.",
+      "Fake Buy Wall: 98k not gonna hold on second test",
+      "Matt S: for now looks like bears baited again tbh"
     ]
   }
 ]
