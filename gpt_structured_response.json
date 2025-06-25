@@ -1,31 +1,28 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "neutral",
+    "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mix of opinions and little direct BTC-specific technical analysis in the chat. Some participants mention market chaos, indecision, and caution around shorting and longing, while others refer to waiting for dips or loading up before the stock market opens. There is no strong consensus for an immediate long or short, but the majority of the few BTC-related comments lean toward waiting for a buy opportunity on dips, suggesting a neutral-to-bullish sentiment. No direct candlestick call was made. The confidence is medium due to a lack of clear technical signals but slight bias towards buying dips.",
+    "explanation": "Opinions in the chat are mixed but there are hints of bullish sentiment, especially from users noting volume hammers and buy zones approaching. Some discuss waiting for a dip and buying opportunities around weekends, and a few mention preparation for upside. However, there is also notable indecision and caution from others, with mentions of being stopped out on shorts, chaotic Fridays, and the importance of stop losses. No direct strong consensus exists, but the aggregate leans slightly bullish in the very short term.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 4,
-    "negative_count": 3,
-    "neutral_count": 9,
+    "positive_count": 6,
+    "negative_count": 5,
+    "neutral_count": 12,
     "representative_opinions": [
-      "TraderX: Sunday will be a Good time to load up on the dips as the stock market will open green Monday",
       "oscartg638: we love the trail of red candles reaching our buy level, lol",
       "Ferhaan Schmidt: its not hard long ,, Tp as you need",
-      "BIGREDAPE: indecision",
-      "Molyn Brefon: will align to dump more haha",
       "Mar: Hammer is bullish",
-      "oscartg638: just saw 15min hammer!!!!",
-      "Raudhan Yuriansyah: bro will it dump?",
-      "Raudhan Yuriansyah: where should i put my tp, im on short now",
-      "TraderX: be careful here trapping we need to hold that 1068 or we testing the demand zone.",
-      "oscartg638: 5min low volume",
-      "TraderX: Not sure no one can answer that things happen to change things.",
+      "TraderX: Sunday will be a Good time to load up on the dips as the stock market will open green Monday",
+      "Caquaino: is going up guys",
+      "Y00LKA: i think its prep for upside to > 108",
+      "BIGREDAPE: indecision",
+      "Travis Alford: so will the dip into Sunday start tomorrow or sat.",
       "oscartg638: yes, friday will be chaotic",
-      "BIGREDAPE: I've been shorting close to break out 50ma and been getting stomped out ans loosing on fees",
       "BIGREDAPE: waiting for full confirmation now",
-      "herr_lippi: rip long"
+      "herr_lippi: rip long",
+      "FightThePower: Sell ?",
+      "BESTINTHEWORLD: yes sell @FightThePower"
     ]
   }
 ]
