@@ -4,17 +4,28 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mix of neutral and slightly positive sentiment about BTC, with some users referring to BTC 'doing something cool,' a respectful pump, and a 10k pump in a few days. There are no strong negative opinions or explicit short calls for BTC. Several comments focus on watching for breakouts or waiting for a bullish move, and rate cut discussions are considered bullish. However, the confidence is not high due to the presence of indecision and lack of strong consensus.",
+    "explanation": "There are several comments reflecting bullish sentiment, including references to BTC doing 'very cool stuff', mentions of a bull flag, and excitement about potential bullish developments such as rate cuts. There is also a mix of short-term indecision and longer-term optimism, especially with references to potential macroeconomic catalysts (like rate cuts). However, there is also caution and some bearish or neutral opinions, so confidence is not high.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 0,
-    "neutral_count": 8,
+    "positive_count": 6,
+    "negative_count": 3,
+    "neutral_count": 7,
     "representative_opinions": [
       "JUDAS THE TRAITOR: THIS IS VERY COOL STUFF BTC IS DOING RIGHT NOW!",
-      "The Code: OK guess Iâll come back when BTC is doing something cool",
+      "Nillionaire: If this *is* a giant bull flag, I think now is the time, yes.",
       "Joey: it's going up",
-      "JR: 10k pump in just a few days",
-      "Ricardo Sala: *remember on Friday CME close big 3rd qtr. long-term contracts. max pain in 102k. this not always happens but keep the info over the desk"
+      "Ricardo Sala: remember on Friday CME close big 3rd qtr. long-term contracts. max pain in 102k. this not always happens but keep the info over the desk",
+      "Butthead: rate cuts coming next month !",
+      "Butthead: rate cuts will definitely be very very bullish",
+      "B.A.M: apparently according to Tino when fed pivots there a big dump",
+      "B.A.M: i think that would be the final dip before the pump",
+      "MVRSO: THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN",
+      "Solidity Monster: I'm going to short and long this now",
+      "Rishad plays: whays going on up down",
+      "Rowbot: oh no.... its over",
+      "oscartg638: bullish 5 min",
+      "Solidity Monster: 4 minutes for the new hourly candle, then it will decide.",
+      "Ricardo Sala: Just move SL to BE and you will sleep in peace",
+      "oscartg638: if you are unable to see profits evaporate instead of closing position, you either way will not sleep well."
     ]
   }
 ]
