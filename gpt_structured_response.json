@@ -1,50 +1,39 @@
 [
   {
-    "mutual_fund": "IDFC Sterling Value Fund",
-    "signal": "Buy",
-    "confidence": "Low",
-    "positive_count": 13,
-    "negative_count": 41,
-    "neutral_count": 64
-  },
-  {
-    "mutual_fund": "HDFC Gold Fund",
+    "crypto": "BTC",
+    "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "positive_count": 55,
-    "negative_count": 14,
-    "neutral_count": 28
-  },
-  {
-    "mutual_fund": "ICICI Prudential Banking and Financial Services Fund",
-    "signal": "Buy",
-    "confidence": "Medium",
-    "positive_count": 27,
-    "negative_count": 24,
-    "neutral_count": 34
-  },
-  {
-    "mutual_fund": "Kotak Emerging Equity Scheme",
-    "signal": "Buy",
-    "confidence": "Medium",
-    "positive_count": 12,
-    "negative_count": 3,
-    "neutral_count": 42
-  },
-  {
-    "mutual_fund": "Nippon India Silver ETF Fund of Fund",
-    "signal": "Buy",
-    "confidence": "Low",
-    "positive_count": 0,
-    "negative_count": 0,
-    "neutral_count": 12
-  },
-  {
-    "mutual_fund": "Axis Technology Fund",
-    "signal": "Buy",
-    "confidence": "Medium",
-    "positive_count": 18,
-    "negative_count": 4,
-    "neutral_count": 25
+    "explanation": "BTC is showing strong upward sentiment with frequent mentions of new highs (107k, 108k, 110k), breakouts, and bullish price targets (even 130k mentioned as a positional target). Multiple users report closing shorts and opening longs, and there is optimism about surpassing key resistance levels. Some volatility and shorting opinions exist, but the majority sentiment is bullish. The presence of high leverage discussions (up to x500, though not recommended) and talks about large profits further signal strong trader confidence in upward movement. Discussion of macro events (Fed, war impact, option max pain) also suggests traders are watching for big moves, but the prevailing view is bullish. No clear technical reversal consensus is visible in the majority of opinions.",
+    "positive_count": 17,
+    "safe_leverage_isolate_future_perpetual": 20,
+    "negative_count": 6,
+    "neutral_count": 8,
+    "representative_opinions": [
+      "AdriÃ¡n Bailey: I closed my shorts and opened the longs half asleep",
+      "Jemerson Paulo: if btc breaks 107200 it will pump 109k @Adrian you can sleep with harmony",
+      "BIPLAB BISWAS (Dr. B Biswas): lagtahe btc all time high lagaega",
+      "Tilawat vlogs144: bataye sir btc entry hogi kya",
+      "Vicky: Sir aaj Delta me fees kitna lakta he wo dekhne keliye btc me do bar entry kiya wo bhi .03 lot aur fees lagta rs. 558.37 sir kya ye shahi he",
+      "Sandip Shete: Sirji you should not have traded btc aginst the 20",
+      "WaveyyyyDogeeee: BTC high 108/112k",
+      "Nightbot:  BTC Live: https://youtube.com/live/jkP1Sw7M2iU?...",
+      "WaveyyyyDogeeee: Low 105/103k BTC",
+      "THE STAG - Rameez Shaikh: Bullish hai view positionally",
+      "Harshit Patel: Hello rameez sir vo 130k ka positional target intact hai? ya kuch change hai?",
+      "Manggala Yatra: 88k-110k",
+      "Matt S: we can also see market maker desperate right now so could see a big wick up still",
+      "THE STAG - Rameez Shaikh: @Harshit Good job",
+      "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !",
+      "Victoria: a buy!",
+      "THE STAG - Rameez Shaikh: @Harshit Patel wow so proud of you",
+      "Akbar khan: loss in btc sell $125 should I hedge??",
+      "Manggala Yatra: going down",
+      "Manggala Yatra: buy signal",
+      "RED RRR: Btc sell kar sakte h kya",
+      "Daphine N.: is it a sell on BTC???",
+      "Moonshadow : Good morning everyone",
+      "Chrissy K: did i call out a btc pump last night???"
+    ]
   }
 ]
