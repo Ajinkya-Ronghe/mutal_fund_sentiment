@@ -4,25 +4,28 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment in the chat suggests more negative outlook for BTC in the short term. Several participants mention selling, dumping, or shorting, referencing resistance at higher levels (e.g., 180k), and expectations for upcoming price drops (references to 'dump', 'bloodbath', and price targets like 86k or 80k). Some users discuss high RSI and sellers' control, indicating that the market may be overbought and due for correction. There are a few positive/neutral comments, but the majority of actionable trade opinions for BTC are bearish.",
+    "explanation": "Multiple participants express bearish sentiment with repeated calls to 'sell', 'dump', and targets for lower BTC prices (e.g., 86k, 80k, 106k). Technical remarks highlight sellers in control, RSI overbought conditions, and possible fakeouts or drops from current levels. There are few bullish voices, and even those are cautious or long-term. The 1-minute chart discussion and references to dumping support a short-term short bias.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 16,
-    "neutral_count": 8,
+    "positive_count": 4,
+    "negative_count": 13,
+    "neutral_count": 11,
     "representative_opinions": [
       "Dd: Selll",
       "Dd: We gonna dump",
       "Sandro Martins: keep calm and dump it",
       "Fake Buy Wall: 80k gauranteed next month",
+      "Sandro Martins: 86k next month",
+      "Sandro Martins: imagine buying this top",
       "henrique aoyagui: bloodbath incoming",
       "Noob Trader: short has better chance now",
-      "TIVERSON PUBG: shorttt",
+      "Florent Raes: sellers still control but buyers step so lets se what happen",
+      "oscartg638: going lower. 15 looks bad",
       "GoldenChild: What about btc liq levels above? Do you think sheâll take em before dropping. Seems like sheâs already dumping. Iâm holding out for that 109k. Hopefully I donât miss it",
-      "Ahmad Khalid: sfp + stopping volume just need to lose that 50 and we droppin more",
       "RocaPong: attemps 110k or just fakes out and dump from here lol",
-      "Joyjit Fun: sir BTC me trade le keya demo me",
-      "Nilesh Prajapati: btc me trade le kya abhi",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
+      "Ahmad Khalid: sfp + stopping volume just need to lose that 50 and we droppin more",
+      "TIVERSON PUBG: shorttt",
+      "Joyjit Fun: Sar BTC mein abhi trade le le",
+      "Nilesh Prajapati: btc me trade le kya abhi"
     ]
   }
 ]
