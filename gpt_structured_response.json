@@ -4,22 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The overall sentiment for BTC in the live chat is bullish, with multiple participants indicating buy or long positions, expectations of higher prices, and references to new all-time highs. Some concerns and short-term bearish comments exist, but the majority of opinions highlight upward momentum, buy entries, and swing trades to the upside. Notably, there is talk of BTC dominance, imminent bull runs, and strong interest in re-entries and holding positions. Several users discuss Fibonacci levels and support zones, but the prevailing actionable advice is to buy or long BTC, especially on short timeframes. Leverage usage as high as 20x is commonly discussed as safe among experienced traders. This recommendation is based on the high frequency of positive and neutral-to-bullish technical observations, outweighing negative sentiment.",
-    "positive_count": 15,
+    "explanation": "BTC remains the focal point in the live discussions, with multiple participants indicating active buy trades, expectations of higher highs (ATH), and general bullish sentiment. Several users discuss BTC dominance over altcoins, potential for supply shocks if price holds above 108k, and a positive technical outlook based on trendlines, Fibonacci retracement, and recent price action. While some mention short-term volatility and possible corrections, the prevailing tone is optimistic, with calls for long entries, holding positions, and anticipation of further upward movement.",
+    "positive_count": 12,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 7,
-    "neutral_count": 9,
+    "negative_count": 4,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Ayush Gupta: In the next 12 days I think this will surely hit ATH.",
-      "Afzal Shaikh: btc upside hai bhai.",
-      "R.S.: BTC ME 0.05 Buy kiye hai...!",
-      "jhon: btc long? scalp",
-      "Pravin Patil: avnish bhai BTC 104000, ja sakata hai kya",
+      "Ayush Gupta: In the next 12 days i think this will surely hit ATH",
+      "Wesley Marsh: above 108k and hold will possibly create supply shock",
+      "Afzal Shaikh: btc upside hai bhai",
+      "R.S.: MAI BUY KIYA---0.05 Btc BUY(300 point bas chahiye mujhe)...!",
+      "oscartg638: the line of support could prove significant and will be retested again. we go to golden pocket, drop to retest and then go higher. very possible",
       "Krishna khana: BTC LONG ENTRY NOW",
-      "World best companies& interview questions: bhai app major liquadation zone mai btc mai trade kijyai jada profit hoga",
-      "Music adda: my entry 107250... sir target chota rhkta hu then 107600? is ok",
-      "Kunal: Sir i personally believe it's the last dip, we are very very near to bull run, btc all time high banara, btc dom top me hai, kabhi bhi alt season shuru ho skta hai",
-      "oscartg638: the line of support could prove significant and will be retested again. we go to golden pocket, drop to retest and then go higher. very possible"
+      "World best companies& interview questions : bhai app major liquadation zone mai btc mai trade kijyai jada profit hoga",
+      "jhon: btc long? scalp",
+      "zuhaib Khan: sir btc ki long conditions batadain",
+      "Dheeraj Rajput: Sir meri BTC BUY side trade open hai Kal se",
+      "Afzal Shaikh: Bhai I think Btc 107200 pe aake waha se Again upside jaa sakta hai baaki Let's see",
+      "Mark Crew: As the BTC opportuntiy cost becomes apparent to even the dumbest ALT investors, they will bleed.",
+      "Lokesh Gupta: bhai ab btc nhi follow krra btc ko"
     ]
   }
 ]
