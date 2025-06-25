@@ -4,20 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of opinions suggest profit-taking and caution due to possible volatility, but several users mention support zones, trendline breaks for new entries, and bullish chart formations such as a bull flag. Positive crowd sentiment includes calls for a new all-time high, high BTC dominance, and expectations for a price pump after a potential pullback. There are some warnings about manipulation and possible short-term pullbacks, but the general tone indicates more positivity than negativity. Buy signals are considered, but with medium confidence due to notable caution and mixed short-term opinions.",
+    "explanation": "A majority of opinions show traders recommending booking profits but also considering re-entries on dips or after trendline breaks, with several expecting higher targets (107200, 109k, even 111900/122k). There is strong discussion of bullish structures (bull flag, new ATH, BTC dominance), and multiple mentions of buying support or after retracements. However, there are also warnings of manipulation, possible pullbacks, and some bearish commentary (liquidations above 108.7k, manipulation, 'down' sentiments). The overall consensus leans toward buying on dips, with a moderately bullish outlook, but not without caution and short-term volatility.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 18,
-    "negative_count": 11,
-    "neutral_count": 13,
+    "negative_count": 10,
+    "neutral_count": 8,
     "representative_opinions": [
       "Eriya Creative girlð©·ð: bhai trend line break hone ke baad bhi li ja sakti hai trade",
-      "Sammy: huge BULL FLAG",
+      "Sajib Rahman: 107200 par Jayega Bhai",
       "Bear Bull: The time has come for me to open a new long!",
+      "Freedumb for Joel: Nice time to buy some BTC",
+      "Deer: why is alt coin going down and btc up",
       "Y00LKA: or long it shows possibility to 111900",
-      "Ricardo Sala: review BTC.d (dominance of btc)",
+      "KiloCharley: LFG BTC n stuff",
       "Nillionaire: btc looks likely to have one more pull back toward 102, I reckon. but likely then up",
-      "eesa rk: abhi buy kar sakte hai ? btc",
-      "claus knudsen: Wanna see if BTC can hold 106 k here"
+      "Ricardo Sala: I see liquidations above 108.7k",
+      "HD Entrprajsis: Bullshit Its manipulated",
+      "MVRSO: no volume means down"
     ]
   }
 ]
