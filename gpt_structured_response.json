@@ -4,29 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment has a mild bullish tilt with several calls for booking profits after pumps, a âbull flagâ mention, speculation of a new all-time high, and technicals suggesting support-level bounces. However, there is also notable caution about manipulation, possible short-term pullbacks, and liquidation risks above certain levels. Many are trading around trendline breaks and key levels (107k, 108k), with some expecting a move up after short-term dips. The crowd has not reached a strong consensus, but short-term long setups are favored if risk-managed.",
+    "explanation": "The majority of opinions suggest profit-taking and caution due to possible volatility, but several users mention support zones, trendline breaks for new entries, and bullish chart formations such as a bull flag. Positive crowd sentiment includes calls for a new all-time high, high BTC dominance, and expectations for a price pump after a potential pullback. There are some warnings about manipulation and possible short-term pullbacks, but the general tone indicates more positivity than negativity. Buy signals are considered, but with medium confidence due to notable caution and mixed short-term opinions.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 17,
+    "positive_count": 18,
     "negative_count": 11,
-    "neutral_count": 12,
+    "neutral_count": 13,
     "representative_opinions": [
+      "Eriya Creative girlð©·ð: bhai trend line break hone ke baad bhi li ja sakti hai trade",
       "Sammy: huge BULL FLAG",
       "Bear Bull: The time has come for me to open a new long!",
       "Y00LKA: or long it shows possibility to 111900",
+      "Ricardo Sala: review BTC.d (dominance of btc)",
       "Nillionaire: btc looks likely to have one more pull back toward 102, I reckon. but likely then up",
-      "ChippedToothZabal AndCo.: Btc 140k by November",
       "eesa rk: abhi buy kar sakte hai ? btc",
-      "Eriya Creative girlð©·ð: bhai trend line break hone ke baad bhi li ja sakti hai trade",
-      "Ricardo Sala: I see liquidations above 108.7k",
-      "Goldy Singh: Niche girega dhadam se",
-      "Compounding king: 80% book kr k sl entry kro",
-      "Dogald Trump: Bitcoin will revitalize optimism in a way you will never believe until you live it. It will be the end to war",
-      "Deer: why is alt coin going down and btc up",
-      "claus knudsen: Wanna see if BTC can hold 106 k here",
-      "Eriya Creative girlð©·ð: le lega support atleast kal tak ke liye",
-      "Ricardo Sala: price go upstairs and get down in elevator",
-      "MVRSO: no volume means down",
-      "henrique aoyagui: jump ship guys, spot is fine but manipulation will come in"
+      "claus knudsen: Wanna see if BTC can hold 106 k here"
     ]
   }
 ]
