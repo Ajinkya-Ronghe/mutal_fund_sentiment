@@ -4,26 +4,24 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants discussed recent rejections at both micro (1m, 5m) and macro (1h) timeframes, with specific mention of failed retests, double tops, and the risk of bull traps. Multiple traders caution against longing until a retracement, and some suggest the market is primed to trap late buyers. There are also mixed but notable calls for waiting or shorting, especially after recent rapid gains. However, some bullish views remain, and certain traders mention trading ranges and possible bounces, tempering overall conviction.",
+    "explanation": "Opinions are mixed but lean slightly bearish in the very short term. Several users note 1-minute and 5-minute chart rejections, mention of potential 'trap' setups, and warnings against longing before a retracement. There are also mentions of a double top on the 1-hour chart and skepticism about immediate upward movement. However, some users are still looking for higher targets (e.g., above 107.5k), but the majority of actionable 1-minute sentiment is cautious to bearish.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
-    "negative_count": 14,
+    "negative_count": 12,
     "neutral_count": 10,
     "representative_opinions": [
-      "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
+      "PeaPopz: Btc 105k se long pe set h chances of new all time high?",
       "oscartg638: it was rejected at the 1min for sure",
-      "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
+      "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
-      "Tjeerd Phaff: I would not long until we get a decent retracement",
       "Ferhaan Schmidt: wait for short",
+      "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
+      "Limitless1618: Gemini chart screenshots and its telling me to enter long at 107.5k, SL:107.1, TP: 108.2/108.7k",
       "oscartg638: before the new retest at 5min. Now it's definitely looking like a trap.",
+      "Tjeerd Phaff: I would not long until we get a decent retracement",
       "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
-      "Limitless1618: I gave Gemini chart screenshots and its telling me to enter long at 107.5k, SL:107.1, TP: 108.2/108.7k",
-      "H S000: I already said I have a feeling that it will drop under 105k",
       "Neev: maan i have my tp at 108.8 too, should have just taken at 108.0",
-      "Asi Landes: I TP 108 in the morning",
-      "Evgeniy Poznyak: and we got an M on 15, right",
-      "Christian LA: that buy was totally BAD"
+      "H S000: I already said I have a feeling that it will drop under 105k"
     ]
   }
 ]
