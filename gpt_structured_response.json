@@ -4,25 +4,24 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite some mixed opinions and warnings of volatility, the majority of direct BTC commentary and crowd sentiment support bullish action. Several users note buy signals, anticipation of a pump to higher targets such as 110k and 123k, and the view that institutional and retail interest remains strong. Some traders are holding long positions, referencing support zones and stating that current dips are buying opportunities, while a few mention using USDT dominance as an inverse indicator for BTC entries. Dips are widely regarded as opportunities to accumulate, and even bearish voices discuss only temporary pullbacks before further upside. The overall consensus is to buy on dips, with high leverage being called out by some for experienced traders.",
-    "positive_count": 13,
+    "explanation": "Despite significant noise and some bearish sentiment in the chat, the overall direction for BTC shows strong buy support at key levels (e.g., 104k, 106k, 107k, 108.5k mentioned as potential bounce or buy zones). There is a notable willingness among traders to enter long on dips, and several references to demand zones, scalping with low leverage, and anticipation of a bullish move after a potential pullback. Some negative and short opinions exist, but the representative opinions and most active trader discussion focus on buying dips, support holding, and anticipation of a new upward move. The majority of technical-focused comments are watching for bullish reversal or accumulation zones, and there is ongoing interest in entering or holding BTC longs. There is also a clear mention that alts are being sold to rotate into BTC, signaling institutional and retail focus on BTC accumulation.",
+    "positive_count": 12,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 5,
-    "neutral_count": 8,
+    "negative_count": 8,
+    "neutral_count": 10,
     "representative_opinions": [
       "Jemerson Paulo: btc i think its will pullback first to 104k then pump",
-      "Budman and Throbbin DINGDONG: we finna peump up to 123k, bools",
+      "Budman and Throbbin DINGDONG: alright, lemme take an early lunch. and then, and theeeeeeeeeeeeeeeeeeen, we finna peump up to 123k, bools",
       "Pankaj kumar Vij: strong buy zone he ye break huva to btc fall karega aesha lag raha he",
-      "Dheeraj Rajput: Sir meri BTC BUY side trade open hai Kal se",
-      "Y00LKA: people selling alts to put on BTC",
-      "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !",
-      "Manggala Yatra: this now go buy ,,",
-      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "World best companies& interview questions : 114 kai bad bada down fall aiiga bhai",
+      "chintan Thakkar: bhai btc wapis short kar sakte hai kya",
+      "Mutahir Dar: btc uper hi jaye ga",
+      "ramo pandit : btc me entry active hai kya?",
+      "ramo pandit : BTC me enter kr skte hai kya abhi?",
       "GameKida: mam btc pe kya asar padega war ka",
-      "Prathmesh Mandhare: Mera target 106734 kahe mam",
-      "Vipul Chohala: I think 107700 se short side plane kar shakte hei...."
+      "Divakar Sharma: BTC down aur Gold up",
+      "Shreejesh Rathod: bhaiya BTC me investment kiya hu 24% ka profit chal raha hai aagar me bechu to kitna % katega please reply",
+      "Prathmesh Mandhare: Mera target 106734 kahe mam ",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
     ]
   }
 ]
