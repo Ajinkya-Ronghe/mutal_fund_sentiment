@@ -4,22 +4,28 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment is mixed, but short-term comments reflect expectations of a downward move or increased volatility in BTC. Several users mention potential for sharp drops, manipulation, or suggest taking profits and being cautious. There are also calls to 'book profits,' 'wait,' or that buyers will be trapped before a spike down. Some participants mention price levels like 107200 and 104-106k as key, but the tone leans toward caution and shorting for the immediate term. Despite a few bullish remarks, there is no strong consensus for an immediate long, and the presence of traders mentioning manipulation, lack of buy pressure, and expectations of a fall suggest a cautious, short-biased approach in the 1-minute timeframe.",
+    "explanation": "Sentiment skewed bearish with multiple calls for booking profits and warnings about trendline manipulation and a potential dump. Some mention strong resistance and lack of buying pressure, while a few bullish voices are present, suggesting a possible pump or support holding. However, the majority sentiment leans toward caution or shorting, with notable emphasis on manipulation and impending downward moves.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 9,
-    "neutral_count": 6,
+    "positive_count": 7,
+    "negative_count": 13,
+    "neutral_count": 8,
     "representative_opinions": [
       "Adarsh Jaiswal: Market abhi trendline pe buyer ko trap karega fir spike me sell ayega",
+      "MVRSO: THIS IS GONNA BE THE BIGGEST SHORT YOUVE EVER SEEN",
       "henrique aoyagui: no buyin pressure",
       "Goldy Singh: Niche girega dhadam se",
-      "RaberTrades: Bears are trying to pill this down to 104-106k",
-      "Immigrant Diaries: 107289 holding up strong",
-      "Goldy Singh: 1 day ki candle dekhona Trendlines uparse",
-      "Compounding king: 80% book kr k sl entry kro",
       "Learn Trading Analysis | Crypto Forex Updates: wait kro",
-      "SeÃ±or Joce: Just a scalp short for me, not expecting a 2x lol",
-      "oscartg638: bears about to get rekt"
+      "RaberTrades: Bears are trying to pill this down to 104-106k",
+      "Goldy Singh: Bohot bada manipulation chalra h 2 dinse",
+      "HD Entrprajsis: Dump it !!!",
+      "Eriya Creative girlð©·ð: ye book kar lo ab meine heavy lot se iss trade mei 25000 book kar liye",
+      "oscartg638: bears about to get rekt",
+      "Immigrant Diaries: 107289 holding up strong",
+      "Sajib Rahman: 107200 par Jayega Bhai",
+      "Bitcoin Radio : BTC up like 10% this year, some ai stocks 100 to 400%",
+      "RaberTrades: 103.9k liquidity is their  I wonât be selling any of my longs nor took any profits today.",
+      "oscartg638: conviction is good",
+      "Eriya Creative girlð©·ð: bhai trend line break hone ke baad bhi li ja sakti hai trade"
     ]
   }
 ]
