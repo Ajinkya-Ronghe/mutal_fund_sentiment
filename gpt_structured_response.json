@@ -4,20 +4,29 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mix of bullish and bearish sentiment, but the overall volume of positive opinions around buying, holding, and BTC dominance shifting from alts suggests a buy bias. Several users mention key levels holding (106,500â107,200), 'BTC time', and interest in buying/holding. Some warnings about trendline breaks, liquidations, and short calls exist, but net sentiment is slightly bullish for near-term scalps or short-term trades.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 18,
-    "negative_count": 9,
-    "neutral_count": 12,
+    "explanation": "There is a mix of bullish and bearish sentiment, but overall, many users are leaning bullish due to trendline breaks, anticipated pumps, and institutional interest. Several participants mention key support levels being held (e.g., 107200, 106500), and a few anticipate new all-time highs soon. Some short-term volatility and liquidations are mentioned, but the crowd sentiment is more positive than negative for BTC, especially compared to alts. There is also explicit encouragement from multiple users to buy or hold BTC, as well as references to BTC dominance and capital flowing from alts to BTC.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 16,
+    "negative_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
+      "Eriya Creative girlð©·ð: le lega support atleast kal tak ke liye",
+      "Deer: why is alt coin going down and btc up",
+      "Y00LKA: because ppl selling alts to get BTC",
       "Bear Bull: The time has come for me to open a new long!",
       "KiloCharley: LFG BTC n stuff",
       "Freedumb for Joel: Nice time to buy some BTC",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Michael Montesano: btc is the little engine that could today geesss",
+      "Freedumb for Joel: BTC dont miss it",
+      "Trading Crusader: Watch $106500 key level",
+      "Nilesh Prajapati: btc me trade le kya abhi",
+      "Joyjit Fun: sir BTC me trade le keya demo me",
       "Joyjit Fun: Sar BTC mein abhi trade le le",
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Deer: why is alt coin going down and btc up",
-      "Y00LKA: because ppl selling alts to get BTC",
-      "Matt S: ya after under performing, so for me no need to look at them again, ill stick to scalping btc"
+      "Joyjit Fun: Sar aapane Jo trade dete Ho loss Kabhi Nahin hota hai Sharab badhiya trade Dete Hain",
+      "Trading Crusader: When BTC dominance falls. Which could happen soon. Btc is moving and alts not doing much right now.",
+      "Matt S: ya after under performing, so for me no need to look at them again, ill stick to scalping btc",
+      "Matt S: still have a few small alt spot bags from the lows but really no care for them at all now"
     ]
   }
 ]
