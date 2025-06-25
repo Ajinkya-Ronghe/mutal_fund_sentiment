@@ -4,20 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mix of opinions but several users expect BTC to move up from the 106,600-106,800 zone, referencing support levels and possible reversals. A few express caution about shorting and note high liquidation near 105k, suggesting downside risk, but the positive sentiment toward a bounce is more frequent. Some users mention sideways or choppy market with possible retest of support, so confidence is not high.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 8,
-    "negative_count": 5,
-    "neutral_count": 6,
+    "explanation": "There is a significant number of positive intraday opinions suggesting BTC is likely to move up from 106,600â106,800 and potentially reach higher targets like 108,500. Multiple users are expressing intent to take long entries or regret missing long entries, and some technical remarks support the potential for an upside bounce. However, there are also several neutral and negative opinions mentioning sideways action, risk of fake breakouts, and concerns about low volume or sudden dumps. Overall, the sentiment leans slightly bullish but is not overwhelmingly strong.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 12,
+    "negative_count": 8,
+    "neutral_count": 18,
     "representative_opinions": [
       "Moon Staars Light: BRO BTC WILL MOVE UP FROM NEAR 106,800 OR MAYBE FROM 106,600",
+      "taredar com ww: buy hona chahiye 90% chans hai",
       "Daniel Ho: btc only testing support, as long trading above 50 ma, it's still bullish",
+      "LazyNINJA: btc going up\\",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
       "BITCOIN EXPERT: btc sudden dump karega short ka moka nhi dega",
       "hk haryanvi technical: btc sell side target fast 105800",
-      "Manish Aggarwal: btc short kiya hua h",
-      "D Capital Market: i have short gold and long in BTCC",
-      "Panchani Jagnesh: BTC 108500 tak jaega",
-      "kashyap cloud: fib level 108500 ka level untouch kia hai, retest karne ja sakta hai niche jane ke pahele, aap suggest kar sakte hai,"
+      "Kumar Anand: btc side ways ho gaya",
+      "Fantastic gamer: fake breakout bhi toh ho sakta hai",
+      "Everything About Hookah: bhai btc me volume kyu nhi aa rha hai?????",
+      "Harish Singh: Bhai BTC short kiya hai 104700 se kya hua paas aayega is level par"
     ]
   }
 ]
