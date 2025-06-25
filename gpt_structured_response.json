@@ -4,20 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants highlight recent rejections on the 1-minute and 5-minute BTC charts, mention a double top on the 1-hour, and caution against longing due to possible bull traps and the need for a retracement. There is consensus that while BTC has seen strong upside in recent days, current price action shows signs of exhaustion and potential for downside or sideways movement in the very short-term. No strong bullish calls are present for immediate action.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Multiple experienced traders in the live chat warn against longing BTC after a recent uptick, citing broken trend lines, double top on higher timeframes, rejection at key resistance, and concerns about a bull trap. There's consensus to wait for a decent retracement before considering longs. No strong bullish sentiment identified; the technical mood is cautious or bearish for the immediate term.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 2,
-    "negative_count": 8,
-    "neutral_count": 5,
+    "negative_count": 7,
+    "neutral_count": 2,
     "representative_opinions": [
       "TraderX: Told you guys be careful longing on that little uptick. More like trapping. We need to hold that 1072 it is the 200 on the 5min. Next stop is that 1068 area if not.",
       "oscartg638: it's looking like a trap",
       "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
-      "oscartg638: it was rejected at the 1min for sure",
+      "Tjeerd Phaff: I would not long until we get a decent retracement",
       "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
-      "Tjeerd Phaff: I would not long until we get a decent retracement",
-      "Christian LA: that buy was totally BAD"
+      "oscartg638: but that's too small of a time frame",
+      "Mar: They want to trap lot of shorts",
+      "Ahmad Khalid: 50 crossin 800 on 1m"
     ]
   }
 ]
