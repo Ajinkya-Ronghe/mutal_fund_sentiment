@@ -4,28 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment is mixed but leans bullish due to opinions such as 'BTC Ziel 107193.4', 'bull flag daily...', 'Buy time', and comments about stable or upward price targets. There is caution and boredom noted about sideways action, and some mention of possible down moves or shorting at the top, but the majority are looking for buy/hold opportunities or breakout confirmation. No strong consensus for 'short' except isolated opinions. Many are waiting for a breakout or new daily close to confirm direction, but short-term bullishness is visible. Safe leverage is advised due to mixed signals and mentions of manipulation, slow volume, and range-bound trading.",
+    "explanation": "The sentiment around BTC is mixed with some bullish signals: mentions of possible 'blast off,' targets above 107k and 108k, and bullish technical patterns like 'bull flag daily.' However, there are also references to possible short trades at high levels (108k, 108300), concerns about losing momentum, and comments about the market being slow or ranging. Overall, the bullish opinions outweigh the bearish, but uncertainty and range-trade sentiment reduce confidence. Notably, the 1-minute candlestick signal is considered 'long' due to several mentions of upward trends and support at current levels.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 11,
-    "negative_count": 6,
-    "neutral_count": 10,
+    "positive_count": 10,
+    "negative_count": 5,
+    "neutral_count": 8,
     "representative_opinions": [
-      "BTC Ziel 107193.4",
-      "bull flag daily...",
-      "Buy time",
+      "Franzbert ð¨: BTC Ziel 107193.4",
+      "el Vegano ð: bull flag daily...",
       "Matt: btc daily close above 106680 and bears in big poop",
-      "el Vegano ð: 4hs more",
-      "maxbimmer111: symetrical triangle on 15min btc?",
-      "Matt: May not even do much now til new daily, all bull gotta do is hold it",
-      "Mix videos: yaha pr sell le skte hai",
-      "Arkadiusz Kaminski: BTC geht bald in Keller, Bier holen.... Short >.<",
       "Bahman: i want give shorte in 108k or 108300",
-      "Dizzy Gang: A bunch of liquidity down to 100K as well",
-      "Kane: Soon, buy now or cry later",
-      "Thunder: Buy time",
-      "Noah 'S: btc/euro and btc/gbp look very differnt",
-      "Naveen: btc down ka trade bn skta hai",
-      "Robert Mihai: boring moves , btc from 98k to 108k in 3 days .. cmon btc why so boring"
+      "Arkadiusz Kaminski: BTC geht bald in Keller, Bier holen.... Short >.<",
+      "CryptoStarterNow: lets goooooooo",
+      "mrnzr: gold already break the resistance, hope btc also break it",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
     ]
   }
 ]
