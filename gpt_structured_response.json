@@ -1,23 +1,34 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions show a mixed and uncertain BTC market with heavy resistance in the 108k-110k zone, multiple mentions of large sell walls, concerns of absorption and uptrend exhaustion, and traders closing longs or shifting short. However, some bullish opinions exist about upcoming ATHs and longer-term buys, but the immediate momentum and short-term sentiment lean toward a cautious short. No clear unified direction, but short setups and warnings dominate the current minute-by-minute sentiment.",
+    "explanation": "There is a mix of opinions, but bullish signals dominate: some expect new all-time highs, targets above 108k/109k/114k/120k/122k, and recommend buying or holding. Several mention strong resistance and liquidity walls above, with some caution due to possible short-term volatility and liquidity grabs. The market appears choppy and indecisive in the very short term, but the overall sentiment leans towards upside, especially for longer timeframes.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 14,
-    "neutral_count": 11,
+    "positive_count": 19,
+    "negative_count": 12,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Ahmad Khalid: the amouunt of walls above us is craaaaaaaaaaaaaaaaaaaazy",
+      "Gyan Singh: sir btc ath jayega in upcoming months",
+      "Sony: 114k before 93k",
+      "KiloCharley: LFG BTC n stuff",
+      "Freedumb for Joel: Nice time to buy some BTC",
+      "Tempus Fugit: btc will go to 93k before it goes to 120k",
+      "Aira: I hope it will going up first till Friday, then dump during weekend",
+      "Adarsh Jaiswal: sellers ka sl hunt krke market reverse ho jayega bhaiya",
+      "Saandip Bhise: 1 target 108172 hai",
+      "Manggala Yatra: this now go buy ,, ",
+      "Paul Tose: kitna achha trade hai sir btc ka...ap khud kuin nehi lia sir...",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "Abdul Malek: buy me market kamjor hai selling me pressure nahi hai",
+      "A njr: how i can download this live vedio",
+      "Ahmad Khalid: gotta squeeze through 108600 tho very quick or else nope",
+      "Abdul Malek: 107890 pe sell kya",
+      "Josema: Im shorting from 108K, might close it , should have take profits, but it might not pass this level will hold a bit more.",
       "Josema: Once This gets rejected at this levels again, bears will become much more confident, and we will drop much harder than 108 to 106, this is 100% a short IMO",
       "FitZoneX: it's going to dump",
-      "art slandered1: Market buyers got absorbed by limit sellers",
-      "Tempus Fugit: btc will go to 93k before it goes to 120k",
-      "KiloCharley: Nice time to buy some BTC",
-      "Gyan Singh: sir btc ath jayega in upcoming months",
-      "Abdul Malek: buy me market kamjor hai selling me pressure nahi hai"
+      "FitZoneX: short it now"
     ]
   }
 ]
