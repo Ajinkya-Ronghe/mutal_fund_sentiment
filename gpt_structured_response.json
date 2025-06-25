@@ -4,24 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mixed but generally positive sentiment toward BTC in the chat, with several users referencing BTC's resilience, potential for a bullish move, and positive news like the US Housing Finance Agency allowing BTC as mortgage collateral and large ETF inflows. However, there are also concerns about short-term volatility, bearish momentum on lower timeframes, and potential drops to support levels. The overall count of positive opinions outweighs negatives, but there is enough caution and hesitation in the short-term for only a medium confidence rating. Representative opinions include references to BTC being the 'little engine that could', discussion of bear traps, and encouragement not to miss BTC, as well as caution about current market absorption and short-term hesitancy.",
+    "explanation": "There is a visible split in opinion, but recent chat momentum leans bullish on BTC with many users suggesting to buy or hold after the recent drop, referencing ETF inflows, institutional adoption (US housing finance agency allowing BTC as an asset), and technicals suggesting possible recovery. Some caution about short-term bearish momentum, but more representative opinions in this selection favor a bounce or an upside move coming soon.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 12,
-    "negative_count": 6,
-    "neutral_count": 9,
+    "positive_count": 11,
+    "negative_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
       "Freedumb for Joel: Nice time to buy some BTC",
-      "Adsy: News just in!!!! US Housing finance agency has just issued an order to allow BTC and CRYPTO as an asset to a mortgage..",
-      "Adsy: Mean while BTC ETF's stack 3.3 billion in the last 4 days",
+      "Adsy: US Housing finance agency has just issued an order to allow BTC and CRYPTO as an asset to a mortgage..",
+      "Adsy: BTC ETF's stack 3.3 billion in the last 4 days",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Michael Montesano: btc is the little engine that could today geesss",
-      "DigitalOrgy: Btc C leg completed. Rockets incoming",
-      "Caquaino: btc pump",
       "Unlimited Printsð¤: We going to fly soon",
+      "Caquaino: btc pump",
+      "Joyjit Fun: Sar BTC mein abhi trade le le",
       "Y00LKA: i think its prep for upside to > 108",
-      "Ahmad Khalid: no no not yet momentum still bearish on 5 and we just lost the 15 have faith",
-      "FitZoneX: it's going to dump",
-      "MVRSO: THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN"
+      "oscartg638: If you are in a long be happy this might pull back up to give you a chance to get out or stay.",
+      "Ferhaan Schmidt: see the long now ,,, i think its confirmed",
+      "oscartg638: here come the bulls"
     ]
   }
 ]
