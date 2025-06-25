@@ -4,26 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite significant volatility and some bearish sentiment, the overall consensus among traders is preparing for a bounce and a potential rally. Multiple users discuss holding or entering long positions, expecting a turnaround, and reference algorithmic buy signals and price targets up to 108k and 108500. There is also discussion of strong support zones, scalping opportunities, and requests for long entries. Short-term selling is present, but the majority of actionable advice is to look for buying opportunities on dips, evidenced by callouts for 'buy the dip', 'pump in next 4 hrs', and 'BTC 108500 tak jaega'. High engagement with leverage and isolated future perpetual setups suggests confidence in upward movement after the recent drop.",
-    "positive_count": 14,
+    "explanation": "Despite volatility and significant mixed short-term opinions (many traders mentioning drops or short positions), there are strong bullish signals from several sources. Notably, 'Ace algorithm buy call here, tp 108k', 'Ayush Gupta: good trade to scalp long', 'Ayush Gupta: i think we'll see a pump in next 4 hrs', 'Unlimited Printsð¤: Itâs buy soon will fly', 'Manggala Yatra: this now go buy', and 'Panchani Jagnesh: BTC 108500 tak jaega'. There is evidence of market support around 103k-105k with anticipation of a bounce. Multiple users indicate preparing for bullish moves, mentioning higher lows, support zones, and algorithmic buy signals. Short-term pressure and manipulation talk is notable, but the dominant actionable sentiment is a buy/long on BTC, with a safe leverage recommendation from user discussion around 20x for isolated futures. The overall count of positive actionable buy/long opinions outnumbers the negative, with neutral/observation comments prevalent but not dominant.",
+    "positive_count": 8,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 10,
-    "neutral_count": 8,
+    "negative_count": 5,
+    "neutral_count": 11,
     "representative_opinions": [
-      "Ayush Gupta: good trade to scalp long",
-      "Ayush Gupta: i think we'll see a pump in next 4 hrs",
       "Ace Winner: Ace algorithm buy call here. Tp 108k",
-      "Alotta Fagina: 1btc is the obvious answer.",
-      "Diana X: It has to turn around soon",
-      "Shoaib Shah: btc 107526 se long ha",
+      "Ayush Gupta: good trade to scalp long",
+      "Unlimited Printsð¤: Itâs buy soon will fly",
       "Panchani Jagnesh: BTC 108500 tak jaega",
-      "RAVI DABHI: contiune 4 hour candle not low brek in btc",
-      "Gabe Buffet: Buy the DIP!!",
-      "Emon Nath: bhai mana btc pa buy ka taraf hold kar ka rakha hu",
-      "Ankit Jain: Har koi retailer short ki taraf soch raha hai market sabke sl le raha hai",
-      "Pabitra Chaki : 108000 level sehii market gira hai bhiaya",
-      "Nath Bhai: kab recover hoga",
-      "Dark Devil: bhai $100 account mein Kitna leverage rakhen"
+      "Chemo-n-Crypto: Painting a perfect inverse head and shoulder on BTC daily",
+      "Ayush Gupta: i think we'll see a pump in next 4 hrs",
+      "Tek Burgh: back to 105 the we'll see if buyers come back in",
+      "Manggala Yatra: this now go buy ,, "
     ]
   }
 ]
