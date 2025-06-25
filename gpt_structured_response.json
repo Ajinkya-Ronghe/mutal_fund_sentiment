@@ -4,26 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple comments suggest caution or waiting before taking a long position in BTC, with mentions of trendline rejection, double top formation on the 1-hour, and potential for a retracement. Traders discussed possible short traps and advised patience, while others noted a lack of strong upside in the immediate term. The 1-minute and 15-minute time frames were mentioned as looking weak, with signs of rejection and failed bounces. There is also some recognition of an overall uptrend, but short-term signals lean bearish.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Multiple participants noted recent rejections at key resistance levels across various timeframes (1min, 5min, 15min, 1h), and expressed caution or bearishness in the short term. Discussions included views on a potential 'trap' for long traders, warnings to avoid longing until a decent retracement, and concern about overextension after recent price increases. However, a minority highlighted the broader uptrend and patience for confirmation, so there's no high conviction for a strong move either way at this moment.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 4,
-    "negative_count": 12,
-    "neutral_count": 7,
+    "negative_count": 11,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Hamdan Chuhdry: kia ab Bitcoin $108k touch kry ga",
+      "Hamdan Chuhdry: wait krlo",
+      "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
       "oscartg638: it was rejected at the 1min for sure",
       "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
-      "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
-      "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
-      "oscartg638: before the new retest at 5min. Now it's definitely looking like a trap.",
       "Tjeerd Phaff: I would not long until we get a decent retracement",
       "Ferhaan Schmidt: wait for short",
       "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
-      "Amo Menottant: will retrace after locally bouncing on LSOBs",
-      "oscartg638: 15 looking bad again",
-      "Neev: the vector candles ahmad, mm steps in on those",
-      "Asi Landes: we are on the up trend line",
-      "Olu Folarin: Yup, it still looks like an uptrend to me"
+      "Olu Folarin: Yup, it still looks like an uptrend to me",
+      "Asi Landes: we are on the up trend line"
     ]
   }
 ]
