@@ -1,26 +1,32 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of recent opinions and trade calls for BTC indicate short positions or caution, with several users mentioning expected retests to lower support zones (e.g., 105k, 103k, 101k), short entries, and warnings about a possible downside or correction. Some bullish opinions exist, but negative/neutral sentiment outweighs the positive. There is also a focus on waiting for daily closes before making bullish trades, suggesting indecision and risk of further downside. The immediate short-term trend appears weak or sideways with a bias for further retracement.",
+    "explanation": "Multiple participants discuss BTC showing uptrend, breakouts, and possible bullish patterns (e.g., MSS on 5-min chart, uptrend signals from Lux Algo, and breakouts mentioned). There are calls for entries (e.g., 'Entry hogi Btc ma', 'buy btc', 'btc break out honewala hai'), advice to hold, and mentions of bullish order block taps. However, there is also notable discussion about potential dumps, heavy liquidity to the downside, and warnings of a possible retest, so overall confidence is set to medium. The market appears choppy with both bullish and bearish short-term voices, but positive opinions are more frequent and supported by technical references.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 11,
-    "negative_count": 25,
-    "neutral_count": 14,
+    "positive_count": 17,
+    "negative_count": 10,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Return on Investment: short it",
-      "LAM BO: btc gos first 101k",
-      "A. G.M: If I were you, I wouldn't buy at this time. Let's retest the averages.",
-      "Sohan ghorpade: heavy liquidity downside in 24-48 hrs... 1,03,000 range most likly",
-      "Makaveli: Yes I think itâs coming down",
-      "Einstein : This is going down hard soon",
-      "Matt S: id wanna see a daily close around 106.5k + to remain bullish",
+      "Entry hogi Btc ma",
+      "buy btc",
+      "btc break out honewala hai",
+      "BTC SHORT ENTRY OR waiting SOMETIMES ??",
+      "btc m entry kar sakte hain sir",
+      "bitcoin uptrend dikha raha hai..",
+      "aap ki lux algo v uptrend dikha raha hai",
+      "break out diya hai..",
+      "Sandy Candy: bitcoin chart 4hr me dekhiye sir",
+      "Sandy Candy: mujhe lag raha hai 1lakh 7k ko niche break karega aur upar jayega",
+      "Rahul modanwal : btc m entry kar sakte hain sir",
+      "EDUCATION CHANNEL: 15 min mai OB Hai bhai BTC Mai",
+      "RUDRA: hold rkho bda milega",
       "Weddingvideo: #Upstar12 BTC ko uper se Retestment karne do",
-      "Abuzer: abhi BTC me short lu ya nhi",
-      "new version: sir btc m neche demand h",
-      "plentygolden: as long as 106 holds bitty should be fine i feel"
+      "Panchani Jagnesh: BTC 108500 tak jaega",
+      "Hady Gamal: buy now",
+      "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !"
     ]
   }
 ]
