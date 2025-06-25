@@ -4,25 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mix of bullish and bearish opinions, but the overall sentiment is cautiously positive for BTC. Several users mention breakouts, uptrends, and targets above current levels. There are explicit calls to 'buy' and predictions for price increases up to 108,500, as well as mentions of supply zone and trendline support. However, some users express caution about volatility and potential for a short-term dip, so confidence is medium.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "There are mixed opinions about BTC, with some users indicating uptrend, breakout, and buy signals, while others suggest caution or shorting in certain ranges. Notably, phrases like 'btc break out honewala hai', 'BTC uptrend dikha raha hai', and 'Buy BTC' support a bullish short-term move, especially around the current levels. However, there are also warnings about heavy liquidity downside and some comments about shorting at higher levels. The buy recommendation is with medium confidence due to both positive and negative signals, but the immediate 1-minute candlestick sentiment slants bullish.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 13,
     "negative_count": 8,
-    "neutral_count": 6,
+    "neutral_count": 11,
     "representative_opinions": [
       "one minutes 4u: buy btc",
       "one minutes 4u: btc break out honewala hai",
       "bhupendra kunvar: btc up ka signal de rha hai bro...",
       "Mr Tanmay: bitcoin uptrend dikha raha hai..",
+      "Sandy Candy: mujhe lag raha hai 1lakh 7k ko niche break karega aur upar jayega",
       "bhupendra kunvar: break out diya hai..",
-      "Panchani Jagnesh: BTC 108500 tak jaega",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
       "Manggala Yatra: this now go buy ,,",
-      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations.",
-      "Matt S: id wanna see a daily close around 106.5k + to remain bullish",
-      "Parvez Sindhi: bhai btc me buy kar le 10 ka slot pakka rocket jayega",
-      "hk haryanvi technical: btc sell side target 106100 profit book",
-      "Sanjuð¤Verma: btc downnnnnnnnnnnn",
-      "Return on Investment: short it"
+      "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
+      "Mr Tanmay: aap ki lux algo v uptrend dikha raha hai",
+      "bhupendra kunvar: meliga...",
+      "Saurabh Kushwaha: selling wali big bar candle ko overpower krne wali aik achi si green candle chahie bs usk bd upr nkl jaega mjhe aisa lgta hai"
     ]
   }
 ]
