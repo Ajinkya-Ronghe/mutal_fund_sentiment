@@ -4,26 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The discussion shows a mix of opinions, with some traders highlighting bullish technical signals (bullflags, buyers taking control, Bollinger bands suggesting upward move), others noting risk-management and potential for downside. However, the overall sentiment slightly favors an upward move on low timeframes, supported by recent news (US gov allowing crypto as house down payment), and some participants actively looking to enter long positions. Volume concerns and warnings about volatility temper the confidence, but more posts lean bullish or neutral than bearish.",
+    "explanation": "Based on the majority of opinions, sentiment around BTC is slightly bullish to neutral, with several participants noting positive technical chart patterns (bullflag, retest complete, buyers in control), discussions of upward targets, and mention of institutional/bullish news. However, there is ongoing caution regarding low volume, risk management, and potential for downward moves, with some users advocating to wait or highlighting market volatility. The candlestick signal is 'long' as multiple users mention bullish setups and buying opportunities, but confidence is 'medium' due to mixed opinions and warnings.",
     "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 14,
-    "negative_count": 10,
-    "neutral_count": 17,
+    "negative_count": 8,
+    "neutral_count": 11,
     "representative_opinions": [
       "Amit Anand: bhai BTC upar jaane ke liye taiyar hai",
       "Renz: 1Min TF auf Bullflag bei BTC",
       "Florent Raes: buyers take control",
-      "Ever Last: Juhu sehen die BollingerbÃ¤nder nicht so aus als ob ne groÃe Bewegung nach oben kommt ?",
-      "oscartg638: we might go higher to 110k",
-      "Freedumb for Joel: Nice time to buy some BTC",
       "Akshay kumar: Btc ka retest complete now going up bhai",
       "claus knudsen: My BTC TP is not clear right now, bu tI will for sure add to position if we pass 110 K",
-      "Crypto Isaacdeeks: Lifer says book map says more liquidity up",
+      "trading whale: bhai btc dekho",
       "Noob Trader: i put long",
-      "Amal: btc ka tp lena hai",
-      "KiloCharley: LFG BTC n stuff",
-      "Freedumb for Joel: BTC  dont miss it",
-      "trading whale: btc ka plan hai ki sl 3 bar lunga uske baad bada target dunga Jiska patience hain usiko dunga"
+      "Freedumb for Joel: Nice time to buy some BTC",
+      "Purefire: the longer it takes the higher is the possibility to go down",
+      "Bahman: i say wait for long",
+      "Daniel walker: Bin short bis 85. im 1J chat hat er sein hoch erreicht. long geh ich bei 84",
+      "Acke: short here is risky",
+      "SÃÃÃY MÃHÃÃN: nai market Sel mein hi hai",
+      "SlickShoes: the volume has been waning this entire move up as well"
     ]
   }
 ]
