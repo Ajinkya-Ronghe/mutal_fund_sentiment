@@ -4,24 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants noted BTC's strong dominance, recent overperformance, large ETF inflows, and resilience amid macro news. There is recognition of high resistance and some 50/50 short-term sentiment, but the majority of actionable opinions point to bullish continuation, especially after a potential sideways or minor retracement. Traders are discussing long entries above certain levels, targets as high as $112k and $130k, and institutional interest. Despite isolated short trades and suggestions for caution, the overall tone is that BTC remains the leader with strong upward potential, and buying is favored on breakouts or after minor pullbacks.",
-    "positive_count": 12,
+    "explanation": "BTC shows strong dominance and has recently outperformed other assets. Multiple opinions highlight bullish sentiment, expectations of breakouts, and positive ETF inflow news. Some concerns about resistance and liquidity sweeps exist, but the overall direction remains upward, especially with talk of potential new highs ($110K, $112K, and $130K targets mentioned) and market relief from geopolitical events. There is also notable buying interest on key levels (e.g., 106900, 107250).",
+    "positive_count": 14,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 4,
-    "neutral_count": 7,
+    "negative_count": 7,
+    "neutral_count": 8,
     "representative_opinions": [
       "BTC D is very high, this actually might breakout lol",
-      "BTC overperforming everything in the last 24hours: insane",
       "KeranaMU: Bitcoin ETF Inflow Hits $588MâIs a $112K Rally Next?",
+      "C Plaza: BTC overperforming everything in the last 24hours: insane",
       "KeranaMU: Bitcoin retakes $107,000 amid market relief over apparent Iran-Israel ceasefire",
-      "Annu jii: btc will side way i think .. then take off",
-      "Kavrenac: idk if it's ever going to be the foundation for global money but I see 1mil before I see 1 so I long",
+      "Sainath bhame: as a swing trade liya hai buying me",
+      "Kurella Mani: btc long le ya short â Kurella Mani: long",
+      "vivek11166: MAM 107250 CROSS kiya toh LONG KAR SKTE HAI KYA BOLO , PLEASE DO THE PROPER ANALYSIS FOR ME .... I BEG",
+      "Sainath bhame: Bhai group pe bola tha na 1 bande ne 99800 se buy pkda hai till now tak",
       "Ayush Kumar: mujhe to best BTC lagta hai slow hai but its okay",
-      "THE STAG - Rameez Shaikh: Target and SL trailing are given to members only",
-      "Saurav Das: What would be target for BTC long?",
-      "Manggala Yatra: buy signal",
-      "Pralhad Sabale: bhai abhi to trade profit me chl rha hai",
-      "vivek11166: MAM 107250 CROSS kiya toh LONG KAR SKTE HAI KYA BOLO , PLEASE DO THE PROPER ANALYSIS FOR ME .... I BEG"
+      "PROVE SOMETHING: i was long frm morning still sl trail",
+      "PROVE SOMETHING: i was expect up to 109000",
+      "Manggala Yatra: 88k-110k",
+      "Manggala Yatra: 110k yess",
+      "Manggala Yatra: buy signal"
     ]
   }
 ]
