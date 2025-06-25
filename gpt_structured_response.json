@@ -1,24 +1,26 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is significant short-term bearish sentiment due to recent large wicks down, mentions of major resistance around 108,000, and calls for BTC to fall to 104k or 105k. Traders are noting absorption by limit sellers, exhaustion at resistance, and warnings of a possible dump. However, some comments also highlight possible rebounds and long-term accumulation, so the conviction is not high.",
+    "explanation": "Opinions are mixed, but several positive signals and community sentiment suggest opportunities for buying BTC, especially after dips or at support levels. Some users mention holding BTC, expecting recoveries, or dollar-cost averaging. There are also cautions about volatility and resistance levels, but the majority lean towards buying or holding, supported by the new BTC M1 chart and discussions about upcoming market moves.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 13,
-    "neutral_count": 6,
+    "positive_count": 11,
+    "negative_count": 6,
+    "neutral_count": 9,
     "representative_opinions": [
-      "andrei lucian varvaruc: for short: 104280, we can go there or more lower",
-      "FitZoneX: it's going to dump; short it now",
-      "StiD: huge sell volume when it hits",
-      "Bunse Chart Volatility Rider abc abc abc: haveeeeee patience",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Badri Nasri: now it is 3K",
-      "art slandered1: Market buyers got absorbed by limit sellers",
-      "FightThePower: Big dump now ?",
-      "Ahmad Khalid: we need 107.8 to hold as strong resistance with no candle closes above or else its goin for that top"
+      "Long WBTC/USDT:ENTRY=107476.2,TP1=107691.15,TP2=107798.62,TP3=108013.58,SL=106723.86,TA=Dip Grab!",
+      "Freedumb for Joel: Nice time to buy some BTC",
+      "KiloCharley: LFG BTC n stuff",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Mar: it will explode up as always",
+      "Gourav stock market: I think dip is to buy",
+      "Y00LKA: i think good thing is to regularly buy no matter price a bit btc even for 10 or 50 dollar a day aside trading",
+      "Manggala Yatra: this now go buy ,,",
+      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
+      "Guitar 2.0: Hold is Gold very soon",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
     ]
   }
 ]
