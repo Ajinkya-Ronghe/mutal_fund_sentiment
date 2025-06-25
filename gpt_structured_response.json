@@ -4,27 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several traders express concerns about a possible bull trap on low timeframes, with technical analysis showing rejection at key levels (trendline, double top, high of weekly range). Multiple opinions warn against longing BTC at the current moment due to overextension in recent days and a likely need for retracement. There are also mentions of manipulation and the need for BTC dominance to cool down. However, a few individuals express hope for upward moves, but the majority sentiment is cautious/negative.",
+    "explanation": "There are multiple opinions suggesting caution on longing BTC at current levels, with several comments indicating a trap for long positions, a rejection at the 1-minute and 5-minute timeframes, and warnings about a needed retracement. Only a few isolated bullish voices were present (e.g., 'bro kia me Bitcoin pr long/buy kruu', 'HD Entrprajsis: I am long from 101K'), but the majority of recent technical analysis and trader sentiment leans toward an imminent correction or short-term downside. The positive momentum seen in recent days is mentioned as potentially overextended, with warnings that 'nothing goes up forever' and references to double tops and dominance spikes suggest further caution.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
+    "positive_count": 4,
     "negative_count": 9,
-    "neutral_count": 4,
+    "neutral_count": 12,
     "representative_opinions": [
+      "Tranquilo.: whoever wants to make some money on btc Go short",
+      "MVRSO: GOGOGO SHORT",
       "TraderX: Told you guys be careful longing on that little uptick. More like trapping. We need to hold that 1072 it is the 200 on the 5min. Next stop is that 1068 area if not.",
       "oscartg638: it's looking like a trap",
       "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
+      "oscartg638: it was rejected at the 1min for sure",
       "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
-      "Tjeerd Phaff: I would not long until we get a decent retracement",
-      "Christian LA: that buy was totally BAD",
-      "Mar: They want to trap lot of shorts",
-      "Siren Stardust: my kid syes it will go up and then down ...im just looking down ...",
-      "SETH MANDHAN: will btc comedown to 106000 first or go up to 109000 wht u say??",
-      "Neev: it'd be nice if we're making the last leg of a w here lol",
-      "PolySopher: Bitcoin canât be manipulated by banksters right?",
-      "Butthead: dominance needs to calm tf down",
-      "binksy134: I can sleep nd not get liquidated ",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
+      "Tjeerd Phaff: I would not long until we get a decent retracement"
     ]
   }
 ]
