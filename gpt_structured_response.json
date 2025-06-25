@@ -4,28 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The live chat shows a generally bullish sentiment towards BTC, with multiple participants discussing entries, long positions, and buy opportunities. Some users mention bullish momentum, anticipated recoveries, and key levels for upward movement. However, there are also mentions of dumps and short-term uncertainty, which tempers the overall confidence level.",
+    "explanation": "A significant number of chat participants express bullish sentiment for BTC, referencing price targets above 108k, positive momentum, and multiple suggestions to buy or go long. However, some voices also mention recent dumps and caution, indicating not full consensus. There are also mentions of key levels and the potential for a short-term dip before a bounce, but overall, the majority sentiment, including references to 'BTC time', 'bullish', and 'going to fly soon', supports a medium confidence Buy signal for BTC on a short-term basis.",
     "safe_leverage_isolate_future_perpetual": 5,
     "positive_count": 16,
     "negative_count": 5,
-    "neutral_count": 7,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Ankit Jain: btc bullish hai shayad ath liquidity hi lega",
       "Freedumb for Joel: Nice time to buy some BTC",
-      "KiloCharley: LFG BTC n stuff",
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Mar Vaey 2.2: it looks to be recovering",
-      "DigitalOrgy: Btc C leg completed. Rockets incoming",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "oscartg638: in long at 107315. Stop loss at 107150",
-      "Ferhaan Schmidt: its not hard long ,, Tp as you need",
       "Y00LKA: i think its prep for upside to > 108",
-      "JR: bearrrrrrr trapppppeedddddd",
-      "Joyjit Fun: Sar BTC mein abhi trade le le",
-      "Nilesh Prajapati: btc me trade le kya abhi",
-      "Joyjit Fun: Sar aapane Jo trade dete Ho loss Kabhi Nahin hota hai Sharab badhiya trade Dete Hain",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "Trading Crusader: When BTC dominance falls. Which could happen soon. Btc is moving and alts not doing much right now.",
-      "Michael Montesano: btc is the little engine that could today geesss"
+      "Joyjit Fun: sir BTC me trade le keya demo me",
+      "Unlimited Printsð¤: We going to fly soon",
+      "Deepak: Bhai 4k loss ho gaiya hai aeia 4din ma thora profit karna do BTC ma",
+      "KiloCharley: LFG BTC n stuff",
+      "FightThePower: Sell ? (but then later: market seems over hyped or inflated feels like to me could it dip back under 100k)",
+      "FitZoneX: it's going to dump",
+      "FitZoneX: short it now"
     ]
   }
 ]
