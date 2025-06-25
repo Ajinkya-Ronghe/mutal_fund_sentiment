@@ -4,27 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Opinions are mixed, but several comments highlight failed attempts to break all-time highs, frequent traps, and a need for downside to recharge for larger upside. Many traders are expressing frustration with choppy, sideways action and traps, with suggestions that a pullback or further drop to 104k-105k is likely before any bullish move. There is also a sentiment that manipulation and market-making are more likely to induce a downside move in the near term.",
+    "explanation": "Mixed sentiment: Multiple users discuss recent big drops, consolidation, and failed support, with some calling for a further fall to 104k and others noting high leverage shorts above and exhausted longs below. Several opinions express caution, frustration, or call for shorting at local tops. Sideways and choppy action is a repeated theme, and some are waiting for confirmation before entering new longs. There are also references to market manipulation and liquidity sweeps, adding to caution for aggressive long positions. No strong bullish catalyst emerges, and short-term technicals favor more downside or at least a lack of clear upside momentum.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 9,
-    "negative_count": 14,
-    "neutral_count": 8,
+    "positive_count": 7,
+    "negative_count": 16,
+    "neutral_count": 14,
     "representative_opinions": [
-      "Dogworld: you know this wont go down until it hits 120 150k then itll just go back down to 105k lol",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "@tokthailand: If is hit 120k the volatility increase to-50% this is mean BTC to 60k-70k",
-      "oscartg638: that's significant ... the pull back from here could be real, guys",
-      "Risky trade : chalye btc buying karte hai upside",
+      "oscartg638: the pull back from here could be real, guys",
       "Matt S: i shorted before the dip and closed half as soon as i saw it landed into consolidation",
-      "Matt S: for now looks like bears baited again tbh",
-      "Matt S: but not making any more trades til i see daily close",
-      "Matt S: 1hr and 4hr trend slowly creeping up tho, so bear need to move this in the next 1 hr or there screwed",
-      "Adi: maam aaj dimag kharab karke. rakhe hain btc ne",
-      "Ravi Tripathi: à¤¸à¤° à¤¯à¤¹à¥ à¤¸à¥ à¤¸à¥à¤²à¤¿à¤à¤ à¤¸à¥à¤à¤¾à¤°à¥à¤ à¤¹à¥à¤à¥ à¤µà¥à¤ à¤à¤°à¤¨à¤¾ à¤à¤¾à¤¹à¤¿à¤",
-      "FitZoneX: it's going to dump",
-      "FitZoneX: short it now",
-      "oscartg638: no bull mask for me, no bear mask at all. Just a clown mask for now.",
-      "PostZila: high high low low kuch mat lo"
+      "Matt S: dont think were gonna know til daily close",
+      "Risky trade : chalye btc buying karte hai upside",
+      "Noob Trader: i am bullish 30m big Rocket launched to the moon",
+      "Matt S: 1hr and 4hr trend slowly creeping up tho, so bear need to move this in the next 1 hr or there screwed"
     ]
   }
 ]
