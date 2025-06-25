@@ -4,18 +4,24 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "While some users discuss large potential upside targets (e.g., $108k, $14B buy), the majority of comments reflect caution, expectation of a retracement, or uncertainty about immediate upside. Multiple participants mention waiting, not longing, or seeing signs of a potential trap or double top, and suggest being careful about entering new longs. Only a few opinions express bullishness or active buying, while the bulk of sentiment is cautious or short-term bearish.",
+    "explanation": "The prevailing sentiment among the BTC-related comments is cautious or bearish. Multiple commenters suggest waiting, expecting a retracement, or note that BTC could fall further. There are explicit warnings against longing until a retracement, and several mentions of price traps and resistance. Only a minority of comments mention possible bounce plays, but even those are caveated with uncertainty. The overall tone leans toward short-term caution or short bias.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 8,
-    "neutral_count": 6,
+    "positive_count": 2,
+    "negative_count": 7,
+    "neutral_count": 5,
     "representative_opinions": [
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
       "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
-      "oscartg638: before the new retest at 5min. Now it's definitely looking like a trap.",
+      "Tjeerd Phaff: I would not long until we get a decent retracement",
       "Ferhaan Schmidt: wait for short",
-      "oscartg638: i remember you saying that. No big deal. Time to change thesis.",
-      "TraderX: I would not long until we get a decent retracement"
+      "oscartg638: before the new retest at 5min. Now it's definitely looking like a trap.",
+      "Amo Menottant: will retrace after locally bouncing on LSOBs",
+      "Solidity Monster: 106.8k looks like a bounce play. But lets see if the LONG picks up",
+      "aV1rus: I think we range tonight between 106.7 and 108 just based on volume. Couple more failed attempts up",
+      "Hamdan Chuhdry: kia ab Bitcoin $108k touch kry ga",
+      "Molyn Brefon: 107.5/6 may help",
+      "TraderX: oscart as I said when it was all green and before the decline. To be careful here for those thinking of longing or who did. I felt trapping more likely than not.",
+      "ferhaan Schmidt: im on long still"
     ]
   }
 ]
