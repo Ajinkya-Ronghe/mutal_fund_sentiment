@@ -4,22 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite a mix of short-term volatility opinions and some bearish comments, the overwhelming sentiment from the live chat suggests strong interest in upward movement for BTC, including targets above 103k, 106k, and even 108.5k. Many users discuss buying, holding, and leveraged trades on BTC. Opinions highlight consolidation, a solid support line, and multiple references to trend continuation or reversal to the upside. Several participants mention buying BTC after selling alts, and a few note the bullish momentum is not yet dead. The presence of both short and long opinions combined with more positive and neutral remarks, plus the technical references to support, resistance, and trend lines, indicate a high-confidence buy signal for BTC with a focus on capitalizing on expected price surges.",
-    "positive_count": 25,
+    "explanation": "The sentiment on BTC is highly mixed in the short term, with both sharp calls for downside and upside, but significant opinions highlight consolidation, support at current levels, and a potential move towards higher targets (e.g., 108500, 103k). Notably, several participants report booking profits, trailing stops, and waiting for a reversal, indicating active buying interest. Some mention a double bottom and trend reversal signals, while the presence of heavy liquidations and sideways action suggests a potential base for a bullish move. The prevalence of high leverage shorts (e.g., 125x, 10x) being rekt, and the expectation that alts are being sold to buy BTC, supports a 'long' signal with high confidence. Multiple technical signals (consolidation, support holding, failed breakdowns) add conviction. However, traders should still use risk management due to volatility and liquidations.",
+    "positive_count": 10,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 10,
-    "neutral_count": 18,
+    "negative_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
       "Joshua Kaye: Reversal incoming",
-      "Lala Anira: 106 coming",
-      "Mehmet Demir: 95next target",
-      "Block Ranger: price bounced off of the trend line",
       "DragonSoul1492: Going up from here",
       "Eddy X: touch down ..demand zone",
-      "hellion1193: YES! perfecto to go long here",
+      "Eddy X: green candle incoming",
+      "hellion1193: @FlattenNow! YES! perfecto to go long here",
       "Panchani Jagnesh: BTC 108500 tak jaega",
+      "Ahmad Khalid: ye uptrend momentum aint dead yet but its about to be if bulls dont push",
       "ofkone: all trend TF are green is difficult",
-      "kobramix: it's insane If i go for green candles at bottom of them"
+      "Matt S: ya near perfect consolidation and over bounce, not feeling the short tbh lol",
+      "Tek Burgh: lol , all alts dumped, just wall street proping up BTC"
     ]
   }
 ]
