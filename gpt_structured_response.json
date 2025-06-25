@@ -4,28 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a notable mix of opinions, but a slight majority of participants are expressing bullishness or actively holding BTC, and some are seeking to enter trades. Some technical references (liquidity above, 50 EMA, price at 108-110k) suggest potential for an upward move, but notable voices also express caution about dumping or resistance. No strong consensus, but there is enough positive sentiment to warrant a medium-confidence buy signal on the 1-minute chart.",
+    "explanation": "There are mixed signals from the chat: some are holding or suggesting to buy (e.g., holding from lower levels and waiting for 109k/110k targets), while others mention fast moves and stiff resistance at higher levels. Technical opinions reference bullish macro indicators (DXY down), price holding above EMA, and liquidity above 109k, but also mention resistance and potential for dump if support is lost. Buy is recommended for short-term scalps with caution due to resistance and volatility. Safe leverage is suggested because of uncertainty.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 9,
+    "positive_count": 7,
     "negative_count": 6,
     "neutral_count": 7,
     "representative_opinions": [
       "Rishabh Jaiswal: 7347 se buy Kiya hu hold Kiya hu",
+      "Jay Douglas: Tom, dxy down is another macro indicator for btc upside. I canât find any negatives for a 95 to 85 haircut.",
       "GoldenChild: Btc should go up and take out this liquidity at 109k i would think",
-      "Joyjit Fun: Sar BTC mein abhi trade le le",
-      "Joyjit Fun: Sar aapane Jo trade dete Ho loss Kabhi Nahin hota hai Sharab badhiya trade Dete Hain",
-      "Jay Douglas: dxy down is another macro indicator for btc upside",
-      "Dd: BTC can be dumped seperatly",
+      "Joyjit Fun: sir BTC me trade le keya demo me",
       "Dd: Selll",
-      "Sandro Martins: keep calm and dump it",
-      "Glenn Davis: price chart",
-      "RocaPong: holding above at 50 ema so maybe attemps 110k or just fakes out and dump from here lol",
-      "GoldenChild: What about btc liq levels above? Do you think sheâll take em before dropping. Seems like sheâs already dumping. Iâm holding out for that 109k. Hopefully I donât miss it",
+      "Molyn Brefon: nice drop heavy",
       "Florent Raes: buyers start step in x) but sellers have control",
-      "Florent Raes: @Y00LKA when the rsi is high in range u can sell at 80 but if we are in bull trend its another thing",
-      "oscartg638: going lower. 15 looks bad",
-      "RocaPong: market is so confusing lol",
-      "RocaPong: holding above at 50 ema so maybe"
+      "RocaPong: holding above at 50 ema so maybe attemps 110k or just fakes out and dump from here lol",
+      "Ahmad Khalid: sfp + stopping volume just need to lose that 50 and we droppin more"
     ]
   }
 ]
