@@ -4,28 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "BTC received a mix of opinions but current sentiment leans bullish with many traders discussing potential long entries, support holding, and upside targets (108500, 109k, retests for bounce, and new ATH). Some noted short-term pullbacks or volatility, yet the general outlook is for further upward movement after retests, with several users actively holding or entering long trades. Positive signals include buy-side liquidity, breakout discussions, and multiple requests for BTC analysis and long signals. Negative or short opinions are present but less prevalent and countered by strong bullish calls and active trades. High leverage is considered safe by experienced traders.",
-    "positive_count": 16,
+    "explanation": "Across the live chat, multiple users expressed optimism about BTC's price movement, with calls for long entries, mentions of uptrend continuation, and support at key levels (e.g., 106600, 107200, 108500). Several commented on BTC being at or approaching all-time highs, and there is a notable bullish sentiment regarding retest entries and the next major move. Although a few users discussed short-term pullbacks or holding stops, the majority of actionable opinions, especially those referencing 1-minute and higher timeframes, favor long/buy setups. Representative opinions include explicit calls to 'long now', 'BTC LONG ENTRY NOW', and expectations of higher targets (e.g., 108500, 109k, 115k). Support for leverage trading and safe leverage practices was also mentioned. Overall, the positive sentiment and technical focus on breakouts, retests, and uptrends outweigh the few negative or neutral comments.",
+    "positive_count": 17,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 7,
-    "neutral_count": 8,
+    "negative_count": 5,
+    "neutral_count": 7,
     "representative_opinions": [
       "Eskender : I'm in long now, new entry low leverage, cause market still thinking in moves",
-      "it's me...,: bahii 1 day time frame mehhh long buy kaa haiii",
       "Krishna khana: BTC LONG ENTRY NOW",
-      "Sumeet Mhasurnekar: buy side liquidity present hai uske bad hi gitega",
-      "Pradeep Gupta: Dhol Ki Tarah Bajaa raha hu Bhaiiii",
-      "Shivansh Yaduvanshi : bhai BTC Short tha AVG entry hai 106800 hold kru ? or tp kaha book kru jo hit ho jaye",
-      "GT the Roaster: btc will go down looks like",
-      "Rameshwar Saini: btc jayega to etherum bhi jayega up side",
+      "it's me...,: bahii 1 day time frame mehh long buy kaa banra haa haii",
+      "S4ske : Market retest kar raha ha bro.. 107200 go for long",
       "Panchani Jagnesh: BTC 108500 tak jaega",
-      "kobramix: good evening ! ready for 120k?",
-      "Chris Dinero: Macro bullish micros bearish",
-      "oscartg638: the line of support could prove significant and will be retested again. we go to golden pocket, drop to retest and then go higher. very possible",
-      "Sachin Gupta: sir BTC hold karein",
-      "One Crypto Trader: retest entry buy",
-      "Moonshadow :  That is give me profit",
-      "GaMinG SoHeL: btc up ja raha he dekho sir"
+      "Vipul Chohala: I think uper jayega..",
+      "Amar Sonawane: Uptrend me hi hai BTC",
+      "Prateek Goyal: bhai BTC me trendline ke niche nahin gya...liquidity grab nahin hui....upar chala gya...to long kar sakte hain ..ya wait karen"
     ]
   }
 ]
