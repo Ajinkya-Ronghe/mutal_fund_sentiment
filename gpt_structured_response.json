@@ -4,23 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Sentiment is mixed but more participants are favoring short positions or expecting further downside in the short term. Multiple users mention sell signals, support breaks, and lower targets (e.g., 106000, 105450, 103000), while some remain bullish or mention possible bounces. The market is described as 'choppy', with several opinions noting heavy liquidity to the downside, bear flags, and a preference for waiting for confirmation. There are also repeated warnings to use stop-losses and trade with caution.",
+    "explanation": "The live chat reflects a dominant bearish sentiment for BTC in the short term, with repeated calls for shorting, targets to the downside, and caution against buying at this time. Multiple users mention targets below current levels (e.g., 106000, 105450, 101k, even 99999), confirmation of bear patterns (bear flag, double top, supply zone at resistance), and warnings of further correction. Although there are intermittent bullish opinions and some mention of possible bounces or uptrends, the immediate sentiment and candlestick commentary favor a short/hedged strategy until clear bullish confirmation appears. The candlestick context (bearish engulfing, heavy red candles, big short calls at resistance) supports a short-term short bias.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 13,
-    "negative_count": 25,
-    "neutral_count": 12,
+    "positive_count": 8,
+    "negative_count": 21,
+    "neutral_count": 11,
     "representative_opinions": [
-      "Return on Investment: short it; dip movement; 106000 next target",
+      "Return on Investment: short it",
       "hk haryanvi technical: btc sell side target 106100 profit book",
-      "A. G.M: Don't get excited guys, BTC will go back to 105 at least",
-      "Tek Burgh: that's it, double top, lower high, right shoulder, dump incoming",
-      "Sohan ghorpade: heavy liquidity downside in 24-48 hrs... 1,03,000 range most likly",
-      "Matt S: i shorted before the dip and closed half as soon as i saw it landed into consolidation",
-      "Kokiseng Sih: Short use big lot; 4h chart. Big Sell",
-      "Weddingvideo: BTC sab ko bula rahahe Buyer and seller then sab ko pele ga ak sath",
       "Abuzer: abhi BTC me short lu ya nhi",
-      "bhupendra kumar: kaha tha na Top pr short karna hi theek hai",
-      "Disha Survanshi: muje short psnd hau btc me"
+      "AydÄ±n AkkuÅ : bear flag... Go go gooooo",
+      "Sohan ghorpade: heavy liquidity downside in 24-48 hrs... 1,03,000 range most likly",
+      "A. G.M: Don't get excited guys, BTC will go back to 105 at least",
+      "Mark R.: 4 hrs looks nasty",
+      "Tek Burgh: that's it, double top, lower high, right shoulder, dump incoming",
+      "Seb_81: alts ki subh se halat khrab thi aur btc shayd kal aur down hua to alts gye phir to",
+      "LAM BO: btc gos first 101k"
     ]
   }
 ]
