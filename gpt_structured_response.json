@@ -4,21 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "A significant number of participants express a bearish or sideways view for BTC in the immediate term. There are repeated calls for shorting, mentions of the price heading down to 100k, references to triple tops, and general uncertainty or SL hunting. While a few voices mention upside potential, the majority are concerned about further downside or market traps. The 1-minute candlestick signal leans short due to this negative sentiment, but overall confidence is medium as a few opinions still expect bounces or mixed volatility.",
-    "safe_leverage_isolate_future_perpetual": 1,
+    "explanation": "A significant number of opinions indicate bearish sentiment, with mentions of bearish flags, selling pressure, and expectations of further downside. There are also repeated references to sideways or choppy price action, suggesting indecision or lack of strong bullish momentum. While a few users mention upside potential or possible breakouts, the prevailing mood is cautious, with many expressing frustration over losses, sideways movement, and SL (stop-loss) hunting. Some technical references (bearish flag, triple top, downtrend, selling trend) reinforce the short-term bearish tone. However, scattered calls for buying or a potential big green candle temper the confidence level to medium.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 10,
-    "negative_count": 24,
-    "neutral_count": 9,
+    "negative_count": 23,
+    "neutral_count": 21,
     "representative_opinions": [
-      "INFECTION YT 26: SELL JAYEGA BRO",
+      "Avinash Jejurkar: bearish Flag bana hai 5 min mai sir",
+      "INFECTION YT 26: BHAI SELL HOGA",
       "ALEJANDRO VARGAS: fall will continue till 100k",
-      "Sudan Gaire: BTC SHORT KARU KYA ??",
-      "ASHISH MISHRA: DOWN",
-      "zulfikar ali: down trende",
+      "Ashish Mishra: DOWN",
+      "Sandy Candy: fir reverse ho raha hai",
       "Esther G Gadre: downtrend",
+      "Vladislav: 5m lsob short btc",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "Doccrypot%: triple top",
-      "Matt S: i shorted before the dip and closed half as soon as i saw it landed into consolidation",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!"
+      "Matt S: i shorted before the dip and closed half as soon as i saw it landed into consolidation"
     ]
   }
 ]
