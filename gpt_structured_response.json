@@ -1,22 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "neutral",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Sentiment is mixed but leans bullish: some traders mention consolidation and waiting for breakouts, while a few express frustration with sideways or unpredictable action. Notably, participants mention bullish 5-min signals, ongoing accumulation, and anticipation of a major move if rate cuts occur (which would be bullish for BTC). However, there is also caution due to market indecision and references to possible dips before a pump. The lack of strong, coordinated bullish or bearish consensus keeps confidence at medium.",
+    "explanation": "Most opinions in the discussion are cautious or negative regarding upcoming BTC price action, referencing a lack of good news and the potential for bad news before the weekend. Some participants mention uncertainty or a sideways market, and there is notable hesitation about taking long positions. There is no strong consensus for a bullish move, and several participants express concern over market conditions.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 5,
-    "neutral_count": 9,
+    "positive_count": 1,
+    "negative_count": 3,
+    "neutral_count": 3,
     "representative_opinions": [
-      "mae chin: btc likes to consolidate",
-      "oscartg638: bullish 5 min",
-      "C-130: ...I have just been adding to my position faithfully",
-      "Butthead: rate cuts will definitely be very very bullish",
-      "B.A.M: i think that would be the final dip before the pump",
-      "Tjeerd Phaff: break down",
-      "Solidity Monster: new hourly candle. Let's see which way it wants to go."
+      "Samado: if there any big news tomorrow it may pump but i feel itâs quite now it either stays or go down",
+      "Samado: i feel we might get bad news before weekend",
+      "cryptoben: why short?",
+      "Kuku21: only HL , I do not know why the short",
+      "cryptoben: good news is we pumping",
+      "Rowbot: oh no.... its over",
+      "claus knudsen: Nice catch"
     ]
   }
 ]
