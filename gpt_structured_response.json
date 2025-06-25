@@ -1,32 +1,24 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of recent live chat opinions suggest a cautiously bullish sentiment on BTC, with several traders noting upside potential, discussions of consolidation and support at current levels, and calls to buy. However, there is significant mention of choppy/sideways action, and some caution about possible downside or further consolidation. No strong unified signal is present, but short-term momentum and community sentiment lean slightly positive.",
+    "explanation": "Sentiment on BTC is mixed to negative, with repeated references to sideways movement, recent value drops, and a lack of bullish momentum. Some traders expect further pullbacks or consolidation rather than immediate upside, and several note market absorption and failed breakouts. There are also calls for caution and patience until daily closes confirm direction, and more participants appear to favor short-term downside or waiting for a better entry.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 17,
-    "negative_count": 12,
-    "neutral_count": 20,
+    "positive_count": 9,
+    "negative_count": 19,
+    "neutral_count": 26,
     "representative_opinions": [
-      "Risky trade : btc buy kar sakte hai",
-      "Risky trade : chalye btc buying karte hai upside",
+      "Dennis H: Btc ist zum kotzen heute",
+      "emazu: bitcoin so tot letzten 2 tage",
+      "oscartg638: the pull back from here could be real, guys",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Kk Nawabi: no bro khod kyo nahi kama te ho",
-      "Kk Nawabi: bro BTC me kya view h up side ya down",
-      "Kk Nawabi: haahahahaha mene up side view h",
-      "Teresa Hunt: This is going to get boring if we just gradually creep up 500-1k a day for the rest of the year. It might just crawl it's way up.",
-      "Dogworld: that makes it 200k in 200 100 days",
-      "Dogworld: go up 1k a day ill be so happy",
-      "Dogworld: even 500",
-      "DigitalOrgy: Btc C leg completed",
-      "DigitalOrgy: Rockets incoming",
-      "Veen: The pump will be respected!",
-      "jussee85: BUY baby BUY",
-      "Lundara: huge pump in progress",
-      "Lundara: TO THE MOON",
-      "Matt S: id wanna see a daily close around 106.5k + to remain bullish"
+      "Matt S: i shorted before the dip and closed half as soon as i saw it landed into consolidation",
+      "Matt S: but not making any more trades til i see daily close",
+      "Matt S: as expected sideways to piss everyone off",
+      "art slandered1: Market buyers got absorbed by limit sellers",
+      "FitZoneX: it's going to dump"
     ]
   }
 ]
