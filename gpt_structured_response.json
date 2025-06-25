@@ -4,25 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions are mixed but slightly favor a buy or hold stance. Multiple users note strong support levels, possible imminent upward movement, and resilience above key moving averages. Some caution that market is sideways and warn of major resistance and volatility ahead. A few express concerns over seller control and potential dumps, but recent comments highlight ongoing bullish momentum and upcoming catalysts (e.g., rate cuts, Fed news). The presence of both buy and short recommendations, plus warnings about liquidation risk and overleveraging, suggest moderate confidence for a long (buy) with tight risk management.",
+    "explanation": "Opinions are mixed but lean positive for BTC. Some users note strong support levels and suggest potential for upward movement, while others highlight seller dominance and risk of sharp drops. There is advice to buy dips, avoid liquidation, and some direct signals to buy BTC. Volatility and rapid price swings are emphasized, and the presence of both bullish and bearish views lowers overall confidence.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 13,
-    "negative_count": 8,
-    "neutral_count": 10,
+    "positive_count": 8,
+    "negative_count": 6,
+    "neutral_count": 9,
     "representative_opinions": [
       "Freedumb for Joel: Nice time to buy some BTC",
-      "KiloCharley: LFG BTC n stuff",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Rishabh Jaiswal: niche bi trap krega btc 7000 level pe ur agr vha pe bullish candle bne trap krne k bad to entry kr lena q ki upr k lavel 8000 breckout krega btc upr lene se achha niche baitho q sl tumra profit. me",
-      "Florent Raes: sellers still control but buyers step so lets se what happen",
-      "BESTINTHEWORLD: tp 3310",
-      "Manggala Yatra: this now go buy ,,",
-      "Bookmap4u: @Bookmap4u",
-      "art slandered1: Market buyers got absorbed by limit sellers",
       "FitZoneX: it's going to dump",
-      "FitZoneX: short it now",
-      "DigitalOrgy: Btc C leg completed",
-      "DigitalOrgy: Rockets incoming"
+      "Florent Raes: sellers still control but buyers step so lets se what happen",
+      "oscartg638: the way the price is held up by support is supernatural. lol",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "RocaPong: holding above at 50 ema so maybe",
+      "Manggala Yatra: this now go buy ,, I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
+      "Gourav stock market: I think dip is to buy"
     ]
   }
 ]
