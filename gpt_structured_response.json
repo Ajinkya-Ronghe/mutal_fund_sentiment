@@ -4,20 +4,24 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mix of bullish and bearish sentiment, but the most recent actionable opinions and some technical mentions (bull flag, triangle, operator buying) suggest upward momentum or at least a hold. Some users mention upside moves and holding positions, while others warn about possible corrections at higher levels. The overall mood is slightly more bullish with risk of volatility.",
+    "explanation": "Most opinions indicate a cautious or bullish sentiment, with comments about BTC moving up, holding, and daily closes above key levels being bullish. There are some warnings about shorting and calls to wait for higher levels before shorting, suggesting immediate downside is not favored. There are also a few bearish and neutral takes, but overall, the short-term momentum is skewed towards the upside. The 1-minute chart is referenced as bullish by a bot in the chat, and several comments mention not to short and to stay with the trend.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 5,
+    "positive_count": 11,
+    "negative_count": 6,
     "neutral_count": 7,
     "representative_opinions": [
+      "EMO EXTREME: bhai market uprrr hi jayega mat lo sell side trade",
       "AllMarketView: BTC toh upside jaaega as per operator",
-      "el Vegano ð: bull flag daily...",
+      "FRED POZIL: I yesterday told here not to Short from now.",
       "Matt: btc daily close above 106680 and bears in big poop",
-      "Gyan Singh: sir short tread btc ka risky lag raha h thoda..",
+      "el Vegano ð: bull flag daily...",
+      "maxbimmer111: symetrical triangle on 15min btc?",
+      "Noob Trader: ok dump it then",
+      "Arkadiusz Kaminski: BTC geht bald in Keller, Bier holen.... Short >.<",
       "Bahman: i want give shorte in 108k or 108300",
+      "KingAlbert: Tp Now!!!! close Longs!!!",
       "Mr.Bean00: 108,000 pr sell side fresh entry he broo bss wait kro",
-      "Robert Mihai: boring moves , btc from 98k to 108k in 3 days .. cmon btc why so boring",
-      "maxbimmer111: symetrical triangle on 15min btc?"
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
     ]
   }
 ]
