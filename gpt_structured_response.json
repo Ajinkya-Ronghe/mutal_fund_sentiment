@@ -4,26 +4,24 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants noted BTC's overperformance in the last 24 hours, strong ETF inflows, and a potential breakout above key resistance. Despite some short-term traders expressing caution or discussing shorts, the overall sentiment is bullish, with several calls to buy or hold long positions, expectations of a new rally, and technical signals of strength (liquidity sweeps, resistance tests, breakout potential). The current environment favors a buy/long approach on BTC, with confidence supported by both fundamental (ETF inflows, macro relief) and technical (liquidity, resistance tests, upside targets) factors.",
-    "positive_count": 13,
+    "explanation": "Multiple participants noted BTC's strong dominance, recent overperformance, large ETF inflows, and resilience amid macro news. There is recognition of high resistance and some 50/50 short-term sentiment, but the majority of actionable opinions point to bullish continuation, especially after a potential sideways or minor retracement. Traders are discussing long entries above certain levels, targets as high as $112k and $130k, and institutional interest. Despite isolated short trades and suggestions for caution, the overall tone is that BTC remains the leader with strong upward potential, and buying is favored on breakouts or after minor pullbacks.",
+    "positive_count": 12,
     "safe_leverage_isolate_future_perpetual": 20,
     "negative_count": 4,
-    "neutral_count": 9,
+    "neutral_count": 7,
     "representative_opinions": [
+      "BTC D is very high, this actually might breakout lol",
+      "BTC overperforming everything in the last 24hours: insane",
       "KeranaMU: Bitcoin ETF Inflow Hits $588MâIs a $112K Rally Next?",
-      "C Plaza: BTC overperforming everything in the last 24hours: insane",
-      "Kagrenac: idk if it's ever going to be the foundation for global money but I see 1mil before I see 1 so I long",
       "KeranaMU: Bitcoin retakes $107,000 amid market relief over apparent Iran-Israel ceasefire",
-      "Anuj Misra: 106900 se Long",
-      "5 Stars: BUYYYYYYYY HHH",
+      "Annu jii: btc will side way i think .. then take off",
+      "Kavrenac: idk if it's ever going to be the foundation for global money but I see 1mil before I see 1 so I long",
       "Ayush Kumar: mujhe to best BTC lagta hai slow hai but its okay",
-      "PROVE SOMETHING: i was long frm morning still sl trail",
-      "PROVE SOMETHING: i was expect up to 109000",
-      "Sainath bhame: as a swing trade liya hai buying me",
-      "MamRaj Sharma: 900 se short hai btc batao pls",
-      "Rajan: btc ek baar buyer ko bahar karna chaiye all time high tak jaane se pehle",
-      "Manggala Yatra: 88k-110k",
-      "Manggala Yatra: buy signal"
+      "THE STAG - Rameez Shaikh: Target and SL trailing are given to members only",
+      "Saurav Das: What would be target for BTC long?",
+      "Manggala Yatra: buy signal",
+      "Pralhad Sabale: bhai abhi to trade profit me chl rha hai",
+      "vivek11166: MAM 107250 CROSS kiya toh LONG KAR SKTE HAI KYA BOLO , PLEASE DO THE PROPER ANALYSIS FOR ME .... I BEG"
     ]
   }
 ]
