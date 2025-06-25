@@ -4,21 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "There is broad positive sentiment for BTC in the chat, with multiple users discussing long entries, targets above 108k, and optimism about price movement after recent volatility. Several users referenced closing shorts and opening longs, and there is discussion around the potential for new highs and a bullish position. Some caution is noted about trading against the 20-level, but the majority of opinions are either bullish or seeking to buy dips. The representative opinions indicate expectation of a pump if BTC breaks through resistance, and there are very few negative signals compared to positive and neutral ones. This suggests high confidence in a short-term buy with 20x isolated futures leverage being discussed as safe by some participants.",
-    "positive_count": 9,
+    "explanation": "BTC is seeing strongly mixed but overall bullish sentiment in live chat. Several users are discussing taking longs, expecting a pump if BTC breaks 107200, and targeting 108300 and above. There is active discussion about recent shorts being closed and new longs being opened, plus bullish price targets like 130k positional. Despite some calls for shorts, the majority of actionable chat signals are for upside movement and buying dips. Multiple users report profit-taking and positive moves in BTC. Technical mentions (order blocks, trend shifts, price consolidations, and high leverage usage) reinforce a high-confidence buy signal, with risk managed via isolated leverage.",
+    "positive_count": 15,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 3,
+    "negative_count": 7,
     "neutral_count": 8,
     "representative_opinions": [
       "AdriÃ¡n Bailey: I closed my shorts and opened the longs half asleep",
-      "Jemerson Paulo: if btc breaks 107200 it will pump 109k @Adrian you can sleep with harmony",
-      "Nature5640: Good morning 107k!!!! Yeah!!!!",
+      "Jemerson Paulo: if btc breaks 107200 it will pump 109k",
       "Akshay Dantal: 108300 tk jayega",
+      "THE STAG - Rameez Shaikh: Bullish hai view positionally",
       "WaveyyyyDogeeee: BTC high 108/112k",
-      "Sandip Shete: Sirji you should not have traded btc aginst the 20",
-      "Afzal amrat: btc bro",
+      "Victoria: a buy!",
+      "Nightbot: BTC Live: https://youtube.com/live/jkP1Sw7M2iU?...",
+      "Divya pali: Btc batao",
+      "Suresh Xettri: btc tred ley sakte hy kyaa sir",
+      "Vicky: Sir aaj Delta me fees kitna lakta he wo dekhne keliye btc me do bar entry kiya",
       "Ambrosia Cakes bakes and snacks: BTC",
-      "THE STAG - Rameez Shaikh: Bullish hai view positionally"
+      "Kuldeep Dangi: hanji mam. morning me 1200 point captured in btc",
+      "Chrissy K: did i call out a btc pump last night???",
+      "Matt S: we can also see market maker desperate right now so could see a big wick up still",
+      "Matt S: i still dunno if our ath is in tbh"
     ]
   }
 ]
