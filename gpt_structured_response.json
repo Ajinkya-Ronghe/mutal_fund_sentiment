@@ -4,18 +4,17 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several chat participants referenced BTC being in a selling area, with mentions of rejection at the 1-minute chart and warnings about potential bull traps. Some technical analysis points to trendline rejection and risk of short-term downward movement. However, there are also neutral or general market caution statements, and no strong bullish momentum was identified. No clear, unified strong sentiment, but the short-term consensus leans bearish.",
+    "explanation": "Several participants mention BTC entering a selling area and being rejected at trend lines on the 1-minute time frame. There is a sense of caution around longing, with concerns of bull traps and quick reversals. Technical signals like rejections at resistance, the 200MA, and bearish candlestick formations on low timeframes are highlighted. However, there is no strongly unified bearish sentiment or panic, so confidence is medium.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 2,
     "negative_count": 5,
     "neutral_count": 6,
     "representative_opinions": [
       "Real Krantikari : sir BTC selling area me ghusa hai na",
-      "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
-      "oscartg638: it was rejected at the 1min for sure",
-      "TraderX: Told you guys be careful longing on that little uptick. More like trapping.",
+      "TraderX: Told you guys be careful longing on that little uptick. More like trapping. We need to hold that 1072 it is the 200 on the 5min. Next stop is that 1068 area if not.",
       "oscartg638: it's looking like a trap",
-      "venommyotis1: btc above psy hi means it's expensive, under psy low it's conciderate cheap"
+      "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
+      "oscartg638: it was rejected at the 1min for sure"
     ]
   }
 ]
