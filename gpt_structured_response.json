@@ -4,27 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mixture of opinions, but the majority of real-time comments suggest a bullish bias for BTC near current levels, especially around 106,600â106,800. Several users mention support at these levels and a likely move up, referencing trendline support, bullish candlestick behavior, and strong buyer presence. However, there are also a few warnings about possible downside and liquidation zones around 105k, and calls for profit booking or caution, indicating some uncertainty and short-term volatility.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 15,
+    "explanation": "Multiple users indicate buy signals around 106,600â106,800 levels, mention of upward moves, and comments about BTC being bullish above key moving averages. There is notable mention of strong buyers, and suggestions that BTC will move up from support levels. However, a few opinions also mention choppy/sideways action, order blocks on the sell side near 108,000, and some short trades around 104,700. The consensus leans toward a medium confidence buy signal for scalping or short-term trades, but with caution due to some mixed signals and resistance.",
+    "safe_leverage_isolate_future_perpetual": 5,
+    "positive_count": 16,
     "negative_count": 7,
-    "neutral_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
       "Moon Staars Light: BRO BTC WILL MOVE UP FROM NEAR 106,800 OR MAYBE FROM 106,600",
       "taredar com ww: buy hona chahiye 90% chans hai",
       "Daniel Ho: btc only testing support, as long trading above 50 ma, it's still bullish",
       "LazyNINJA: btc going up\\",
       "D Capital Market: deva bhai i have short gold and long in BTC",
-      "Abuzer: BTC uper gaya entry lu kya",
+      "Prathmesh Mandhare: Mera target 106734 kahe mam",
+      "Panchani Jagnesh: BTC 108500 tak jaega",
       "hk haryanvi technical: btc sell side target fast 105800",
-      "Rohan Rokade: bhaiya niche bahut liquidation hai 105k pass",
-      "Aadarsh Jha: gold** or btc uper hai Ema 9 ke daily candle toh aaj sirf buy aa raha hai",
-      "Mr Tanmay: kya bitcoin 1010000 firse touch karega",
-      "Manpreet singh: bai abhi entry lele kya",
-      "Maharaja Chauhan: good morning sir ji",
-      "Sahil Imam: Don't Long Don't Long Don't Long",
+      "Harish Singh: Bhai BTC short kiya hai 104700 se kya hua paas aayega is level par",
+      "Kashyap cloud: fib level 108500 ka level untouch kia hai, retest karne ja sakta hai niche jane ke pahele, aap suggest kar sakte hai",
       "MarkBugatti: closed long at 107900 and waiting for downtrend or sideways to end",
-      "Kumar Anand: btc side ways ho gaya"
+      "Kumar Anand: btc side ways ho gaya",
+      "Everything About Hookah: bhai btc me volume kyu nhi aa rha hai?????",
+      "Dragon editz: sir I have a neutral view so far just waiting for confirmation of a strong trend in either direction."
     ]
   }
 ]
