@@ -4,30 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Numerous chat participants discussed recent BTC price action and trading strategies, with repeated calls for long/buy entries. Observations include closing shorts and opening longs, anticipation of a move above 107200 and as high as 109k or 112k, and sentiment about breaking through resistance levels. Some mentioned that the war's end contributed to BTC's upward movement. There are positive opinions about all-time highs and high targets (130k positional target mentioned). The general consensus is bullish with active engagement in buying, holding, or waiting for a breakout, and warnings against trading against the trend (20-level). The presence of questions about BTC entry, order blocks, and positive price action further strengthens the upward bias.",
-    "positive_count": 18,
+    "explanation": "There is broad positive sentiment for BTC in the chat, with multiple users discussing long entries, targets above 108k, and optimism about price movement after recent volatility. Several users referenced closing shorts and opening longs, and there is discussion around the potential for new highs and a bullish position. Some caution is noted about trading against the 20-level, but the majority of opinions are either bullish or seeking to buy dips. The representative opinions indicate expectation of a pump if BTC breaks through resistance, and there are very few negative signals compared to positive and neutral ones. This suggests high confidence in a short-term buy with 20x isolated futures leverage being discussed as safe by some participants.",
+    "positive_count": 9,
     "safe_leverage_isolate_future_perpetual": 20,
     "negative_count": 3,
     "neutral_count": 8,
     "representative_opinions": [
-      "AdriÃ¡n Bailey: hello, everyone. I closed my shorts and opened the longs half asleep",
+      "AdriÃ¡n Bailey: I closed my shorts and opened the longs half asleep",
       "Jemerson Paulo: if btc breaks 107200 it will pump 109k @Adrian you can sleep with harmony",
       "Nature5640: Good morning 107k!!!! Yeah!!!!",
-      "BIPLAB BISWAS (Dr. B Biswas): lagtahe btc all time high lagaega",
-      "Tilawat vlogs144: bataye sir btc entry hogi kya",
-      "Abhinandan Furniture : war stop ho gaya isliya btc upar gaya",
+      "Akshay Dantal: 108300 tk jayega",
       "WaveyyyyDogeeee: BTC high 108/112k",
-      "THE STAG - Rameez Shaikh: Bullish hai view positionally",
-      "Harshit Patel: Hello rameez sir vo 130k ka positional target intact hai? ya kuch change hai?",
       "Sandip Shete: Sirji you should not have traded btc aginst the 20",
-      "Sandip Shete: Bcoz it is my experience whenever i trade against 20 i have got stopped out",
-      "Akbar khan: loss in btc sell $125 should I hedge??",
-      "RED RRR: Btc sell kar sakte h kya",
-      "Victoria: a buy!",
-      "Ambrosia Cakes bakes and snacks: btc",
-      "Ambrosia Cakes bakes and snacks: BTC4",
-      "divya pali: Focus on btc trade please",
-      "Vicky: Sir aaj Delta me fees kitna lakta he wo dekhne keliye btc me do bar entry kiya wo bhi .03 lot aur fees lagta rs. 558.37 sir kya ye shahi he"
+      "Afzal amrat: btc bro",
+      "Ambrosia Cakes bakes and snacks: BTC",
+      "THE STAG - Rameez Shaikh: Bullish hai view positionally"
     ]
   }
 ]
