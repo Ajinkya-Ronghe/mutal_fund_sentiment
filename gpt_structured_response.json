@@ -1,31 +1,29 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
+    "1_minute_candlestick_signal": "mixed",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions are mixed but slightly favor a bullish bias with frequent mentions of pumps, new highs, and upward targets (110k+, 120k, 122k, etc). Some participants discuss resistance levels being tested or broken, long entries, and anticipation of possible sharp upward moves. However, there is a significant presence of caution (mentions of possible dumps, shorting, and absorption by sellers), so confidence is medium rather than high. The consensus leans toward an upward move in the near term, especially with references to 1-minute chart activity and live chart signals.",
+    "explanation": "Opinions are highly mixed but tilt slightly bullish. Several users mention new highs, pumps, and buy suggestions, while others warn of strong resistance, market absorption, and possible reversals. There is notable discussion of large walls and both bullish and bearish pressure, reflecting a volatile and indecisive short-term sentiment. The 1-minute candlestick signal cannot be strongly determined as 'long' or 'short' due to this split; however, the prevailing mood from key voices is to watch for upward moves and not miss out on potential rallies.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 16,
+    "positive_count": 14,
     "negative_count": 10,
-    "neutral_count": 7,
+    "neutral_count": 11,
     "representative_opinions": [
-      "Dragon editz: sir mera long ka plan ban raha hai but agar resistance breakout karta hai toh.",
-      "Kau: Big pump to 110?",
-      "Zana Aliassi: New all time high next week. Guaranteed. Trust me bro",
+      "Lundara: huge pump in progress",
+      "KiloCharley: Nice time to buy some BTC",
+      "Freedumb for Joel: BTC dont miss it",
       "Tempus Fugit: btc will go to 93k before it goes to 120k",
-      "Sony: $106,750 is Fridaya target",
-      "Ahmad Khalid: 110100 even more confluence",
-      "mpepin1905: bout to start adding some short a lil higher and taking more long profits",
-      "KiloCharley: LFG BTC n stuff",
-      "Freedumb for Joel: Nice time to buy some BTC",
-      "Manggala Yatra: this now go buy ,,",
-      "Amal: going to new n; New highs",
-      "Risky trade : 4 h aur 1 h candle bullish ho raha bhai",
-      "KARTIK PRODUCTIONS: us 64.85 par buy ha.. your view",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "Lundara: huge pump in progress; TO THE MOON",
-      "art slandered1: 107100 uptrend absorption?"
+      "Zana Aliassi: New all time high next week. Guaranteed. Trust me bro",
+      "FitZoneX: it's going to dump",
+      "FitZoneX: short it now",
+      "Amir khan: btc main sell tred hi ache milta hai kiu ki bahot gira huwa hai btc",
+      "Ahmad Khalid: the amouunt of walls above us is craaaaaaaaaaaaaaaaaaaazy",
+      "Framesbyayannn: selling aa sakta hai aab",
+      "Abdul Malek: buy me market kamjor hai selling me pressure nahi hai",
+      "Sailesh Deviah: SIRJI, KUCH BADA HONE WALA HAI, MERE USS EXCHANGE PARR, BTC DOMINANCE KA TRADE \"ONLY EXIT\" OPTION PE AA GAYA HAI, NO NEW ENTRY, LONG OR SHORT...",
+      "art slandered1: Market buyers got absorbed by limit sellers",
+      "Amal: going to new n; New highs"
     ]
   }
 ]
