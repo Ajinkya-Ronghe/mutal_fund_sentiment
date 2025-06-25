@@ -1,23 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Opinions are mixed with both bullish and bearish views present. There are notable bullish signals, such as Marticlues AI's 'Bull Blast' call for BTC/USDT long and several users mentioning buy or long entries near current levels (e.g., 'buy karo bai time hota', 'Agar apko pata hai 108500 tak jaega toh buy karo na', 'Long BTC/USDT:ENTRY=107700.01...'). However, there is also significant caution and some bearish or neutral sentiment, with users discussing resistance, shorting at higher levels or after bounces, and uncertainty due to low volume and macroeconomic risks. The candlestick signal leans long due to algorithmic and community bullish calls, but confidence is only medium due to a significant number of short/neutral opinions and volatility.",
+    "explanation": "Multiple participants expressed intentions to short BTC near current high levels (108k, 109k, 110k), with some noting that shorting here could be risky but that a downward move is possible if liquidity is taken at higher levels (e.g., 112k, 114k). Some opinions also mentioned a lack of volume and sideways market action, suggesting caution. There is mention of key support and resistance levels (107750, 108400, 111400) and a watch for pullbacks for long entries, but short sentiment is stronger in the immediate term based on the most recent opinions.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 7,
-    "neutral_count": 8,
+    "positive_count": 4,
+    "negative_count": 8,
+    "neutral_count": 6,
     "representative_opinions": [
-      "santosh tammi: buy karo bai time hota",
-      "Learn Trading Analysis | Crypto Forex Updates: 108400 tk jye ga",
-      "Marticlues AI: Long BTC/USDT:ENTRY=107700.01,TP1=107915.41,TP2=108023.11,TP3=108238.51,SL=106946.1,TA=Bull Blast!",
-      "Tom Hill: every time frame is at resistance. there simply is nowhere to go but down",
-      "chuamishael - Audio Library: I shorted at 108k and 107k...",
-      "Florent Raes: short rn not a good plan xD",
+      "chuamishael - Audio Library: I shorted at 108k and 107k... I will short again if go up to 109 or 110",
+      "Florent Raes: like I say there is always opportunity to long or short. Short rn not a good plan xD... but we are going to take that liquidity at 112k, need bounce up on 107750",
+      "Alina Bogdan: short boys .. who longs the top? no profit .. u sell the top and buy the bottom",
+      "Acke: short here is risky",
       "oscartg638: so tempted to long but must maintain discipline, the system, and patience.",
-      "andrei lucian varvaruc: when the price break 101600, longs position was clear open"
+      "andrei lucian varvaruc: when the price break 101600, longs position was clear open",
+      "trading whale: bor hogya bhai btc dekho entry",
+      "Mustafijur Rahman: BTC Nikal jane ka kasis karta hai."
     ]
   }
 ]
