@@ -4,21 +4,15 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "There is a strong consensus in the chat regarding current bullish momentum in BTC, with users mentioning breaking resistance, several successful long trades, and positive recent returns. Many discuss support holding, anticipation for moves towards 107k-115k, and profitable long setups. While some mention shorting or recent volatility, the majority of actionable trades, including recent profits and strategies, skew bullish. There are also multiple requests for buy advice and confirmations that the trend is up, including technical references to candlestick and EMA bullish crossovers.",
-    "positive_count": 18,
+    "explanation": "Despite recent volatility, most active and experienced participants are either still holding or expressing confidence in long positions for BTC. Several users report holding from lower levels and waiting for higher targets (e.g., 107000+), and multiple mentions suggest buying or longing on dips, referencing bounces from support and bullish candlestick patterns (e.g., morning star, bullish crossovers). There is some short-term bearishness and confusion, but the dominant voices are either holding, looking for buy signals, or confirming profits on long trades. The market sentiment overall favors further upside, especially for intraday or short-term swing trades.",
+    "positive_count": 14,
     "safe_leverage_isolate_future_perpetual": 20,
     "negative_count": 6,
-    "neutral_count": 9,
+    "neutral_count": 10,
     "representative_opinions": [
-      "Sigma Works: Main Bro Subhe 12:30 Buy ki the BTC and sham 6 Baje Tak Profits book karle the 500$",
-      "Saturnsmiles: BTC me 5ema at top. trade liya he for 1:3 15min time frame",
-      "ANIL KUMAR ROUT: BTC upper circuit",
-      "Pramod Kulkarni: i am still in the trade sir with you. waitng for 107000",
-      "Shanu Khan: sir btc ne one hour resistance break out diya tha",
-      "Shibam Sarkar: btc me candle low pe psy level he",
-      "Vikas S: 15m bullish done crossover",
-      "Manggala Yatra: this now go buy ,,",
-      "z a: Btc mai abhi selling nahi hai buying ka trend hai kiya ?"
+      "CFLYNN STUDIOS: Iâm still long from buying bitcoin at 8,000",
+      "Afzal Shaikh: 107k ke paas buying zone ho sakta hai Agar bullish pattern bane to",
+      "Sigma Works: Main Bro Subhe 12:30 Buy ki the BTC and sham 6 Baje Tak Profits book karle the 500$"
     ]
   }
 ]
