@@ -4,30 +4,17 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple participants noted a downtrend starting for BTC, with key support levels being broken (notably $106,500) and discussions of a further fall to $104,000. Several referenced heavy red candles and a recent value drop, with warnings to close longs and some users mentioning large losses from long positions. There is also significant uncertainty and volatility, with some expecting a temporary recovery but most short-term sentiment bearish.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The live chat shows a mix of bearish and uncertain sentiment for BTC. Multiple users mention 'downtrend', 'dump', or suggest closing positions, while a few note key support levels (around 106,400 and 104,400) and some remark on potential manipulation. There is one call for a 4x short, and repeated comments about 'red candles', 'massacre', and the market being 'over'. However, there are also some who hope for a bounce or mention consolidation. Overall, the prevailing tone indicates increased downside risk in the short term, but not with extreme conviction due to some opposing views.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 5,
-    "negative_count": 11,
+    "negative_count": 17,
     "neutral_count": 8,
     "representative_opinions": [
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "SeÃ±or Joce: Looks like a downtrend is actually starting now, not enough volume yet though",
-      "Rob Zzzeed: yes we sad in long..;(",
-      "Target Hit: Short BTC 4X (3.5% risk)",
-      "tametheark: wow that was the biggest value drop of the week right there!",
-      "Molyn Brefon: should up from here but babababa",
-      "Rodolfo: btc dominance has been consolidating all day and looking to go up now, any scalp longs should be closed, try and hold swing longs if you bought near the beginning of the move",
-      "DigitalOrgy: Btc C leg completed. Rockets incoming",
-      "andrei lucian varvaruc: key target is 109000 and 106400, let's se where is going",
-      "andrei lucian varvaruc: below 106400 is 104400",
-      "Denis D: What are we waiting for now? Falling further?",
-      "Mar Vaey 2.2: it looks to be recovering",
-      "Trading React: uhh we going down again",
-      "Abell: The crash",
       "Abell: The Crash is here",
-      "Abell: Massacre Soon",
-      "Immigrant Diaries: Maybe this time we actually go into a correct hahaha but weâve seen it happen so many times last few days this looks temporary and fake",
-      "Trading Crusader: Watch $106500 key level"
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Target Hit: Short BTC 4X (3.5% risk)",
+      "Trading React: uhh we going down again",
+      "SeÃ±or Joce: Looks like a downtrend is actually starting now, not enough volume yet though"
     ]
   }
 ]
