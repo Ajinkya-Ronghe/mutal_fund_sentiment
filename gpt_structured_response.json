@@ -4,18 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The overall sentiment from the live chat opinions is leaning bullish for BTC, particularly on short time frames. Multiple comments reference bullish price action, expectations of BTC taking upper liquidity before moving down, and suggestions that it will touch all-time highs. There are repeated calls for buying, holding, and going long, including specific entries around recent price levels. While some participants mention possible pullbacks or bear traps, the majority of actionable commentary is oriented toward buying dips or holding for higher prices. Additionally, there is mention of a large transaction by a big investor, indicating institutional interest, and references to bullish macro conditions (spot buying, limited long leverage, and positive regulatory news from the Fed). A minority cautions about manipulation and possible seller traps, but the consensus direction is upward with high confidence for buys on the current candlestick setup.",
-    "positive_count": 34,
+    "explanation": "Sentiment across multiple participants leans bullish for BTC, with many referencing liquidity grabs, long-term bullishness, and potential all-time highs. Several are waiting for buy signals or advocating to 'buy soon' and expect a bounce or bullish movement after liquidity sweeps. While there are some mentions of short-term volatility and stop losses being hit, the overall expectation is for BTC to continue upward after minor pullbacks. Macro factors, such as Powell's testimony and large spot buying, are also seen as supportive. Shorting is mostly discouraged at these levels, with advice to only short above 110,000. The 1-minute chart is referenced by multiple users as forming higher highs.",
+    "positive_count": 11,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 7,
-    "neutral_count": 11,
+    "negative_count": 4,
+    "neutral_count": 7,
     "representative_opinions": [
       "Smart Money: mene bola tha ye btc fasayega.. btc is bullish.. it will touch all time high today",
       "Unlimited Printsð¤: Itâs buy soon will fly",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "RaberTrades: The rally is fueled by spot buying, not much long leverage to unwind. Also, you guys are too TA happy- not taking into account the Macro shifts.",
+      "Video gallery: btc 107709 aaya",
+      "Manggala Yatra: this now go buy ,,",
+      "Flash Golden: I'm taking longs now",
+      "Dizzy Gang: Everything else dumping but BTC",
+      "ROHIT KT: 1 minute pe hire hi bana raha he",
+      "InnerCircleGansta: Everyone on sidelines is just waiting to scoop up under 100K anymore",
+      "No: Itâs up. Nice",
+      "Solidity Monster: The initial touching of that zone happened around 108.2k which is why we did a sudden move down. It will bounce back to the zone/supply.",
+      "Ashis Lama: btc abhi upar jayga",
+      "Kapil Varshney: no booking waiting for the channel breakdown",
       "Smart Money: there is no point of shorting btc from this level... it is good to short btc from 110000 above level",
-      "RaberTrades: We've seen messier setups before. The rally is fueled by spot buying, not much long leverage to unwind. Also, you guys are too TA happy- not taking into account the Macro shifts.",
-      "ANUPTHERMOYT: ABHI ABHI KISI BIG INVESTER à¤¦à¥à¤µà¤¾à¤°à¤¾ 111749921 USD BINANCE ME sand kiya gya h ,,,,,, Matlab market bull ke à¤¤à¤°à¤« ja shakta h ,,,,"
+      "Chandu asura: mam I was thinking that price will go up and it may go upto 108,927 grab liquidity and may come down"
     ]
   }
 ]
