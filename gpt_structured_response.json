@@ -4,19 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The opinions reveal mixed sentiment but several participants are discussing quick upward moves (e.g., 'btc 108k was super fast', 'Bitty is waking up', 'Btc should go up and take out this liquidity at 109k'), and some are considering new trades or asking if it's time to enter. Technical discussion around RSI is present, but no strong consensus for a short. There are some cautions about market confusion and potential fakeouts, but overall, the weight of discussion is towards renewed interest in long entries or holding existing longs.",
+    "explanation": "Sentiment in the chat leans towards buying BTC, with multiple users asking whether to enter a BTC trade now, and positive comments about trading signals and the reliability of the host's BTC calls. Some users cite the need to take out liquidity at higher levels (109k-110k), and others mention holding or making money in BTC. However, there are also warnings about market confusion and mixed technical signals (RSI, EMA, potential for both up and down moves), so overall confidence is medium. No clear large consensus on aggressive action, but enough positivity and trade interest to support a cautious buy.",
     "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 7,
-    "negative_count": 3,
-    "neutral_count": 8,
+    "negative_count": 2,
+    "neutral_count": 9,
     "representative_opinions": [
       "GoldenChild: Btc should go up and take out this liquidity at 109k i would think",
-      "The Dusty Hunt: Bitty is waking up",
       "Joyjit Fun: Sar BTC mein abhi trade le le",
-      "H S000: btc 108k was super fast like a blink",
-      "oscartg638: the longer the price hangs out below local high and creeps up with rsi, the likelier we go higher",
-      "RocaPong: holding above at 50 ema so maybe attemps 110k or just fakes out and dump from here lol",
-      "Nilesh Prajapati: btc me trade le kya abhi"
+      "Dean Sherwin: So either way if btc goes up or down it probably wonât go either way that much. Probably not the best conditions for btc but I will still hold mine.",
+      "Sai Kumar: Bro iam making money in Btc but iam losing in gold can u say why",
+      "Nilesh Prajapati: btc me trade le kya abhi",
+      "Joyjit Fun: Sar aapane Jo trade dete Ho loss Kabhi Nahin hota hai Sharab badhiya trade Dete Hain",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "oscartg638: possibly back down to support to recoup",
+      "RocaPong: attemps 110k or just fakes out and dump from here lol"
     ]
   }
 ]
