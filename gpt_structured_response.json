@@ -1,19 +1,32 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
-    "confidence": "High",
-    "explanation": "Despite a high number of bearish and indecisive comments (many participants discussing shorting, sell zones, and heavy volatility), there is mounting evidence of trapped sellers and a liquidity grab, which often precedes a strong upward move. Large buy orders and bullish liquidity events are being reported (e.g., $111M USD sent to Binance suggesting whale interest), and multiple voices indicate moves to 'trap' both buyers and sellers before a reversal. There are also repeated calls for entries on pullbacks, mentions of retail being shaken out, and fresh buy signals emerging from both technical and sentiment perspectives. The presence of news events (e.g., Powell comments, macro shifts) have created volatility but not reversed the overall bullish undercurrent, especially with spot buying highlighted and leverage not yet overheated. The recommended leverage is set to 20x isolated to balance risk and opportunity, as volatility is high but directional conviction is strong for a bounce or upward move from current levels.",
-    "positive_count": 15,
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
+    "confidence": "Moderate",
+    "explanation": "The majority of opinions in the live chat lean bearish on BTC, with many participants explicitly calling for shorts, mentioning rejection at key levels (108.2k-109k), and expecting a downtrend after recent bounces. Some users warn of bull traps and heavy sell zones, while there are only a few scattered calls for 'buy' or 'hold'. The sentiment is reinforced by multiple users observing trapped longs, order blocks for selling, and a lack of strong bullish momentum. There are a few neutral and cautious 'wait for signal' comments. Although some users mention spot buying and macro shifts possibly supporting a bounce, the weight of real-time retail and trader sentiment is short-term bearish.",
+    "positive_count": 11,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 25,
-    "neutral_count": 12,
+    "negative_count": 29,
+    "neutral_count": 13,
     "representative_opinions": [
-      "BTC WOKE ME UP BEFORE MY ALERT",
-      "The rally is fueled by spot buying, not much long leverage to unwind. Also, you guys are too TA happy- not taking into account the Macro shifts.",
-      "JUST IN: Federal Reserve Chair Jerome Powell says 'banks are free to conduct crypto activities.'",
-      "ABHI ABHI KISI BIG INVESTER à¤¦à¥à¤µà¤¾à¤°à¤¾ 111749921 USD BINANCE ME sand kiya gya h ,,,,,, Matlab market bull ke à¤¤à¤°à¤« ja shakta h ,,,,"
+      "Bag Sniper: Short it like never before",
+      "KKK: 109k and short tp104800",
+      "Pegasus SkylineRFS: 108.200 it's rejection",
+      "patel ji: 108700lacks ke pass order block hai likh ke le lo who se heavy selling ayegi",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Ashis Lama: btc abhi upar jayga",
+      "Chandu asura: I was thinking that price will go up and it may go upto 108,927 grab liquidity and may come down",
+      "Space Time Trader(STT): short for now",
+      "Unlimited Printsð¤: Itâs buy soon will fly",
+      "Crypto Gamers BITCOIN: Guys we r at the top of the cycle for btc",
+      "Solidity Monster: The initial touching of that zone happened around 108.2k which is why we did a sudden move down. It will bounce back to the zone/supply.",
+      "RaberTrades: The rally is fueled by spot buying, not much long leverage to unwind. Also, you guys are too TA happy- not taking into account the Macro shifts.",
+      "Chandu asura: i think it was just trapping sellers right now",
+      "Rana Pahadi Entertainment: mam bdi selling aa sakti hai FVG ki liquidity lene ke liye",
+      "Arise: --> Expecting Nice Dump .. after couple of cycles...I may be wrong ...!!!",
+      "Shezmu Ptah Amon: BE CAREFUL ",
+      "STORY IS REAL : bhai 1h me BTC trendline ke upar tred kar raha hai"
     ]
   }
 ]
