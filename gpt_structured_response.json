@@ -4,17 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Comments indicate a mix of short-term bearishness, with several participants mentioning a crash, waterfall, and key levels for a drop (e.g., 106500, 104400). There is also mention of high sell volume at resistance and calls for a downtrend, but some reference to sideways movement and potential for a reversal or bounce. Sentiment is skewed to the negative for the immediate term.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 14,
+    "explanation": "The overall sentiment in the live chat is leaning bearish for BTC. Multiple users mentioned a 'crash', 'dump', 'downtrend', and key levels such as $106,500 and $104,400 as potential support levels. Some participants noted highly manipulated price action and a lack of bullish momentum, with others suggesting to close long positions or expecting further downside. However, there are a few neutral and slightly bullish remarks about potential rebounds and key trendline holds, so the confidence is medium rather than high.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 8,
+    "negative_count": 17,
     "neutral_count": 7,
     "representative_opinions": [
-      "Abell: The Crash Soon!!",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Noob Trader: 106k max target for short as it might bounce strong like a raber band",
-      "StiD: huge sell volume when it hits",
-      "Immigrant Diaries: Big sells coming in"
+      "\"The Crash Soon!!\"",
+      "\"The massacre is here\"",
+      "\"The crash is here\"",
+      "\"The big short\"",
+      "\"Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!\"",
+      "\"Immigrant Diaries: Big sells coming in\"",
+      "\"SeÃ±or Joce: Looks like a downtrend is actually starting now, not enough volume yet though\""
     ]
   }
 ]
