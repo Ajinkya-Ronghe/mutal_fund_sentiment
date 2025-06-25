@@ -4,28 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants noted bullish momentum, support levels holding, and positive sentiment around macroeconomic rate cuts potentially pumping BTC. Comments consistently mention buyers stepping in, potential for price increases, and positive technical signals like low RSI and price recovery from support. Several users mentioned that it was a good time to buy and not to miss BTC.",
+    "explanation": "Several participants mentioned rate cuts as bullish for BTC, with references to buyer panic and dip buying. Multiple comments suggest upward movement (e.g., 'BTC 109.2 becomes support we rippin', 'the longer the price hangs out below local high and creeps up with rsi, the likelier we go higher', 'RSI is too low', 'Nice time to buy some BTC', 'BTC donât miss it'). Despite minor mentions of confusion and possible short-term support retests, overall sentiment is positive and expects higher prices.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 14,
+    "positive_count": 10,
     "negative_count": 2,
-    "neutral_count": 9,
+    "neutral_count": 5,
     "representative_opinions": [
+      "Jay Douglas: Yes, rate cuts pump risk-on assets. BTC in particular.",
       "BTCBILL : 109.2 becomes support we rippin to get the juice ay 111",
-      "Jay Douglas: Mae. Yes, rate cuts pump risk-on assets. Btc in particular.",
-      "Freedumb for Joel: Nice time to buy some BTC",
-      "oscartg638: the longer the price hangs out below local high and creeps up with rsi, the likelier we go higher",
       "Florent Raes: buyers have panic and step out ... buy the dips like @Frederic say",
-      "KiloCharley: LFG BTC n stuff",
-      "Freedumb for Joel: BTC  dont miss it",
+      "oscartg638: the longer the price hangs out below local high and creeps up with rsi, the likelier we go higher",
+      "Freedumb for Joel: Nice time to buy some BTC",
+      "KiloCharley: 122k it?",
+      "Freedumb for Joel: BTC donât miss it",
       "H S000: btc 108k was super fast like a blink",
-      "oscartg638: rsi is too low",
-      "Mr Moon: Rocket ship is the alternative I guess",
-      "The Dusty Hunt: Bitty is waking up",
-      "KiloCharley: 122k it? Freedumb for Joel: seems reasonable",
-      "KiloCharley: My Buy order at 10k didn't execute",
-      "Florent Raes: i thinks we just trap bear guy",
-      "oscartg638: possibly back down to support to recoup",
-      "TIVERSON PUBG: shorttt"
+      "RocaPong: holding above at 50 ema so maybe",
+      "oscartg638: rsi is too low"
     ]
   }
 ]
