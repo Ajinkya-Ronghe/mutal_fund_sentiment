@@ -1,28 +1,25 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Mixed sentiment with a slight bearish consensus: several participants suggest shorting or expecting BTC to move down soon (e.g., 'down 107,500', 'short around 109 or break of trendline', '108600 good area for short', 'trend line kal break hu jaye gi'), while some express bullish long-term opinions (e.g., 'it will go very high up', '280K this year'). Short-term technicals (trendline, funding negative, support levels) and multiple comments about resistance levels indicate a higher risk of near-term downside or volatility.",
+    "explanation": "The overall sentiment is mixed with some bullish calls for very high targets (e.g., 280K), short-term bullishness (e.g., 'abhi upar hi rahega', 'breaking uptrend pressure rn'), and references to price discovery. There is also skepticism and short/neutral opinions, but the balance of opinions leans slightly bullish with several participants suggesting trendline support and potential upward moves. However, some caution due to bearish voices and volatility, so confidence is only medium.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 10,
-    "neutral_count": 8,
+    "positive_count": 8,
+    "negative_count": 6,
+    "neutral_count": 10,
     "representative_opinions": [
-      "rufi ashfaq: 10850 touch krnay ky bad proper down karay ga may be",
-      "Trade Like Operator: abhi upar hi rahega",
-      "Asjad Hussain Bhutta: trend line kal break hu jaye gi",
-      "MVRSO: its breaking uptrend pressure rn",
-      "Sammy: dumpster nuke incoming",
-      "Bear Bull: 107400 and go long",
-      "Tjeerd Phaff: i short around 109 or break of trendline",
-      "Aljaz Rokavec: 107200 fibanachi is hit bears",
-      "crozxz: 108600 good area for short",
-      "Ryan Teng: idk if its a good time to short",
-      "Neev: ive got my tp at 108,8 waiting patiently",
-      "JUDAS THE TRAITOR: YES LEO. IT WILL GO VERY HIGH UP. 280K THIS YEAR",
-      "Ryan Smith: Lark Davis calling for 444k bitcoin by June 2026"
+      "abhi upar hi rahega",
+      "trend line kal break hu jaye gi",
+      "its breaking uptrend pressure rn",
+      "YES LEO. IT WILL GO VERY HIGH UP. 280K THIS YEAR",
+      "BTC starting to look like a real fiat no moon",
+      "Bulltrap",
+      "funding negative",
+      "i short around 109 or break of trendline",
+      "btc doesn't like odd numbers",
+      "2 dojis on 5mins but this candle looking to sweep"
     ]
   }
 ]
