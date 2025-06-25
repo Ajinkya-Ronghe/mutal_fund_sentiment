@@ -4,22 +4,26 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of opinions referencing BTC suggest caution and an expectation of a price drop or short-term weakness. Several users mention shorting from specific levels (e.g., 107700, 108k), expecting significant downside, or observing bearish signals such as descending channels and potential rejection at resistance. There are a few isolated bullish hopes (e.g., aiming for 109k before rejection), but the overall sentiment leans negative with more mentions of shorting, market weakness, and concerns about macro trends.",
+    "explanation": "The majority of the actionable opinions suggest a bearish outlook for BTC in the short term. Multiple users mention expectations of a price drop, with references to large levels being rejected, upcoming dumps, and BTC being at the top of a descending channel. There are also comments about shorting around the 108k level and expecting a dump on contract expiry. While a few opinions mention holding or longing, the prevailing sentiment and actionable trade ideas are skewed toward shorting or expecting lower prices in the near term.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 4,
     "negative_count": 10,
-    "neutral_count": 6,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Pradeep Gupta: 107700 se maine short kiya hai",
+      "Rishabh Jaiswal: q ki 8000 ka leval todne wala hai is liye hold Kiya hu niche bi trap kr chuka hai sir ab dekho upr kya hota hai",
+      "plentygolden: maybe sidewYs down for now tho",
+      "LÃ³gica y MÃ©todos Discretos: Short now",
+      "BTCBILL : have some business at 109.2 to take care of first, have some short gamblers to ruin first then dip",
+      "Ricky Cohen: 107.775 needs rejection to start a decent short",
+      "Ryan Teng: too much long buying power",
+      "Ryan Teng: I think we dumping on friday",
       "SeÃ±or Joce: I think we're going to see a big BTC drop again pretty soon",
       "GoldenChild: Btc is at the top of its descending channel and VAH so it could just reject from here also though. Hoping for that 109k first though",
       "Preparing 4War: I'm short $108k on Blofin",
-      "Brandom Bermudez: Bro, check the correlation between BTC and the S&P 500 for entriesâit becomes a bit easier, but only for entries in lower timeframes",
-      "plentygolden: maybe sidewYs down for now tho",
-      "Ryan Teng: I think we dumping on friday",
-      "BTCBILL : have some business at 109.2 to take care of first, have some short gamblers to ruin first then dip",
+      "Maria Alexandra Becker : This is a Short Squeeze",
+      "Noob Trader: if goes up next short will be harder",
       "Snowman âï¸: Holding",
-      "Rishabh Jaiswal: q ki 8000 ka leval todne wala hai is liye hold Kiya hu niche bi trap kr chuka hai sir ab dekho upr kya hota hai"
+      "Unlimited Printsð¤: We going to fly soon"
     ]
   }
 ]
