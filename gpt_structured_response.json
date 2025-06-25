@@ -4,25 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment on BTC is mixed but leans slightly bullish in the immediate term. There are repeated mentions of BTC holding above key levels (107k+), expectations of upward movement to targets like 108500 and 109000, and several calls to 'buy and hold' for generational wealth. However, there are also warnings about potential liquidity hunts, traps, and market indecision, as well as some bearish technical patterns (rising wedge, bearish flags) and opinions expecting sharp corrections. Immediate bullish signals are supported by recent price recoveries and calls for big green candles, but caution is warranted due to volatility and split trader sentiment.",
+    "explanation": "The overall sentiment is slightly bullish with notable opinions mentioning BTC holding above 107k, potential moves to 108500, and phrases like 'btc up', 'Itâs BTC time', and 'BTC is the little engine that could today'. There are also mentions of daily closes above 106.5k as a bullish signal and several people discussing entering longs or expecting green candles. However, there is some division as a few users express concern over recent stop-loss hits and the possibility of further dips. The market appears to be at a decision point with mixed short-term volatility, but the bias is upward, especially as rate cuts are anticipated and BTC is consolidating above key levels.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 13,
-    "negative_count": 11,
-    "neutral_count": 8,
+    "positive_count": 15,
+    "negative_count": 7,
+    "neutral_count": 10,
     "representative_opinions": [
       "Viren Soni: btc up",
       "Panchani Jagnesh: BTC 108500 tak jaega",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Suraj shinde: dada thodi der pehle 9 pm ko aapke cup and handle pattern se BTC mein selling krke 700 point capture kiye BTC mein",
-      "Budman and Throbbin DINGDONG: there's no peace without 1 million in 90 days, bools.",
       "muhammed fasil: Bro BTC holding above 107k. So go for long ?? retracement hona zaroori hai ?",
-      "LAM BO: 101k first, then 55k then 150k",
-      "ALEJANDRO VARGAS: it will fall so hard",
-      "Return on Investment: short it",
-      "James Quick (Business): this feels like a bearish version of June 9th. maybe one more squeeze. I get that we have large liquidity above but we also have large liquidity deeper.",
+      "BITCOIN EXPERT: aapki long swing chal rhi h",
+      "bhupendra kunvar: ek bada candal chahey... green...",
+      "Jagruti Jambhale: sbhi time frame green dikh rahi hai",
+      "Suraj shinde: BTC mein selling krke 700 point capture kiye BTC mein",
       "Matt S: dont think were gonna know til daily close",
+      "tametheark: entered a BTC short near this local top. I'm a beast!",
       "Matt S: for now looks like bears baited again tbh",
-      "Jagruti Jambhale: sbhi time frame green dikh rahi hai"
+      "Trading Crusader: When BTC dominance falls. Which could happen soon. Btc is moving and alts not doing much right now.",
+      "zulfikar ali: aaj mera bhi 2 baar btc buy kiya aur SL Hit huaa. hai @kiran ji",
+      "Return on Investment: short it",
+      "ALEJANDRO VARGAS: it will fall so hard"
     ]
   }
 ]
