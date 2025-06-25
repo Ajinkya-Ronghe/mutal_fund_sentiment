@@ -4,23 +4,24 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of opinions point towards a bearish outlook for BTC in the immediate term. Multiple participants mention ongoing or planned shorts from the 108K level, low volume on recent pumps, warnings about possible corrections due to high open interest, and expectations of a downward move. However, there is also some bullish sentiment regarding long-term structure and the possibility of a blow-off top, which tempers the overall confidence.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 11,
-    "neutral_count": 8,
+    "explanation": "Multiple participants are discussing entering or holding BTC short positions, citing low volume, recent spike in open interest, and expectations of further price drops. Several mention take-profits below current levels, and there's a general sentiment of bearishness, with only a minority mentioning possible upside or bullish structure. There are also warnings about potential corrections due to high open interest and absorption by limit sellers.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 7,
+    "negative_count": 16,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Target Hit: I'm trying to close 75% of BTC and SOL now",
-      "Josema: Iâm still on my short from 108K and ETH from 2436 but about to close them, slowly climbing back both ETH and BTC",
-      "Multigang: im als in the short from 108050",
+      "Din Djarin: this bull run is pretty much all driven by large and institutional investors. retail is still in bear market fear",
       "Florent Raes: why a get a signal short here XD",
+      "Multigang: im als in the short from 108050",
       "andrei lucian varvaruc: aggregated open interest - spike very high in the last 36 hours, that's mean we can see soon correction",
+      "Target Hit: I'm trying to close 75% of BTC and SOL now",
+      "Josema: IÂ´m still on my short from 108K and ETH from 2436 but about to close them, slowly climbing back both ETH and BTC",
       "FitZoneX: it's going to dump",
       "FitZoneX: short it now",
       "art slandered1: Market buyers got absorbed by limit sellers",
-      "Otaku WeebTV: will btc grab the 1M liquid $11k or will go down ??",
       "Guitar 2.0: Bhai neechy to tofan hona btc m",
-      "Guitar 2.0: Jsy ap bta ry bht liq pri hoi"
+      "Guitar 2.0: Jsy ap bta ry bht liq pri hoi",
+      "ChaudharySB: ab Kuch to samajh hi gay Hain ki liquidity ki taraf Nahi bhagna"
     ]
   }
 ]
