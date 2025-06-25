@@ -4,21 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of recent opinions express caution or bearishness about BTC's immediate prospects. Comments such as 'sell people', 'join waterfall now', and references to potential downward spikes or liquidity grabs suggest imminent pressure on the downside. Several users mention specific short levels (e.g., 108600) and express skepticism about a bullish move, while others note flat or ugly 1-minute candles and low volume, indicating a lack of upward momentum. There are some neutral or mixed signals, including suggestions to close scalp longs and uncertainty about shorting, but the prevailing sentiment leans bearish for the very short-term candlestick outlook.",
+    "explanation": "There is a mix of bearish sentiment and warnings about potential further downside, with several participants mentioning waterfall/big selloffs, red candles, longs being closed, and short opportunities. Some mention possible bounce zones, but the majority of actionable commentary is negative or cautious. The 1-minute candle is described as flat and ugly, with low volume, suggesting indecision but a tilt towards bearish action in the immediate term.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 3,
-    "negative_count": 9,
-    "neutral_count": 6,
+    "negative_count": 7,
+    "neutral_count": 7,
     "representative_opinions": [
-      "MVRSO: sell people",
       "Rodolfo: btc dominance has been consolidating all day and looking to go up now, any scalp longs should be closed, try and hold swing longs if you bought near the beginning of the move",
-      "crozxz: 108600 good area for short",
-      "Ryan Teng: idk if its a good time to short",
+      "Abell: Massacre Soon",
+      "MVRSO: join waterfall now",
+      "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
       "Bear Bull: 107400 and go long",
-      "Rodolfo: this might get ugly",
-      "All Ax: Looks like a volume stopping candle if it closes like that on the 15â¦ a small one but notableâ¦ we still gotta eye the 5 for it",
-      "Neev: the 1 min chart candles are looking flat and ugly witht his vol",
-      "Immigrant Diaries: But arenât they always bearish?"
+      "Tjeerd Phaff: i short around 109 or break of trendline",
+      "crozxz: 108600 good area for short",
+      "Jorge smacks: dump",
+      "Jorge smacks: in coming",
+      "Neev: the 1 min chart candles are looking flat and ugly witht his vol"
     ]
   }
 ]
