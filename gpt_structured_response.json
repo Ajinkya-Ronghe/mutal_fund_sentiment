@@ -4,22 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants discussed critical levels and potential reversal signals for BTC, with references to hammer candles, CHOCH (Change of Character) on the 1hr, strong bullish momentum in the 4h, and patterns such as breakouts being confirmed. There is a consensus from several experienced traders about a bullish move, with many considering entries or holding longs, and some mentioning high volume candles and technical setups supporting upward moves. Although some expressed caution due to previous dumps or short setups, the majority of real-time opinions and technical reads support a long bias.",
-    "positive_count": 10,
+    "explanation": "Despite notable short-term volatility and some participants discussing short trades or possible dips, the majority of direct BTC commentary points to key levels being tested and a bullish reversal, with several mentions of hammer candles, retests, and potential breakouts. There are also multiple requests for long entry confirmations and calls for buy signals. The overall sentimentâespecially in the context of queries about whether to buy, hold, or addâleans bullish in the immediate short term. The discussion of critical zones, retests, and high-volume candles further supports a high-confidence buy signal, suitable for high-leverage isolated perpetual futures trading given the active volatility.",
+    "positive_count": 14,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 5,
-    "neutral_count": 8,
+    "negative_count": 7,
+    "neutral_count": 10,
     "representative_opinions": [
-      "Lokesh Gupta: btc ne 4h TF ka trendline break kiya h retest b le liya lower TF m us open hote hi bhagega ye",
+      "MrKjeb: That 4h close on BTC is it a topping for now?",
+      "Kumar Anand: sir btc me buy kar sakte h kya",
+      "Lokesh Gupta: Bhupi bhai mko lag rha h btc ne 4h TF ka trendline break kiya h retest b le liya lower TF m us open hote hi bhagega ye",
+      "Knowledge sec: sir 29 k break se buy main inter ho saktay hain",
+      "BlockChainBandit: 1 hr btc stoch rsi looking down ... full tp my long ... add for short",
       "Dhruvit Nakrani: 4 hours me pattern breakout he btc me",
+      "sameep Shah: entry toh hogaya ... btc me",
+      "arundhathi pisay: sir kal btc104700 ke pass sell kiya tha, kya karu suggest kariya",
+      "kids_king: can we short Btc",
+      "Get inspired togetherð§¿: mam btc mai loss",
+      "5 Stars: IM IN LOSSSSSSSSS ... BTC NICHY AYE GAA!!!??? In loss yet",
+      "new version: btc target kya hai mam repeat kr do",
       "new version: mam btc me hammer cadle bn rhi, upr jane ki possibility h kya",
-      "Giri: Bitcoin CHOCH 1HR",
-      "MO: 4h stochastic came back up and pushing into bullish daily stoch zone",
-      "sameep Shah: entry toh hogaya btc me",
-      "Stars Link : hello sister BTC upper jaey ga?",
-      "Florent Raes: buyers step out for entry below",
-      "BlockChainBandit: full tp my long",
-      "Matthew Chung: You still in that long??"
+      "Stars Link : hello sister BTC upper jaey ga?"
     ]
   }
 ]
