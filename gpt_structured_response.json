@@ -4,19 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "BTC sentiment is mixed but skewed negative with several comments about imminent dumps, big sell orders, and market manipulation. While a few mention holding or expecting a pump, more participants are warning about a major short and anticipating a drop. Some suggest waiting, but the strongest actionable talk is on the downside. The candlestick sentiment is short-term bearish.",
+    "explanation": "The majority of recent live chat opinions on BTC reflect bearish sentiment, with several users mentioning expected dumps, large incoming sell orders, and manipulation. While a few users mentioned potential for a small pump or holding, the dominant mood is caution and expectation of a downturn. Opinions reference big sell orders, attempts by bears to push BTC down, and 'mega dump' calls. The presence of some bullish or neutral comments tempers the confidence to 'medium' rather than 'high'.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 13,
+    "positive_count": 8,
+    "negative_count": 14,
     "neutral_count": 8,
     "representative_opinions": [
       "Compounding king: up jayega btc bro",
+      "MVRSO: Big sell ordrrs incoming",
       "MVRSO: THIS IS GONNA BE THE BIGGEST SHORT YOUVE EVER SEEN",
       "Goldy Singh: Niche girega dhadam se",
       "RaberTrades: Bears are trying to pill this down to 104-106k",
       "Immigrant Diaries: 1 big sell Comeon bears",
-      "MVRSO: Big sell ordrrs incoming",
-      "Learn Trading Analysis | Crypto Forex Updates: wait kro"
+      "Real Krantikari : ye fuski bomb hai",
+      "Ryan Teng: not enough sell pressure",
+      "Molyn Brefon: may little pump maybe",
+      "Sajib Rahman: Bhai 107200 se niche nehi Jayega"
     ]
   }
 ]
