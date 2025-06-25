@@ -4,15 +4,29 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Mixed but slightly bullish sentiment in the short term with several positive signals from both technical and opinion-based traders. Multiple users mention successful long trades, bullish engulfing patterns, and expectations of further upside (e.g., 'BTC/USDT Long Boom TP3!', 'BTC pusht eh durch, keine Chance', 'BTC still pushing â¦'). However, there are also numerous calls for caution, mentions of resistance, and expectations for short-term corrections or liquidity grabs. The overall consensus tilts toward buying on dips or scalping long, but with risk management due to volatility.",
+    "explanation": "Opinions are mixed, but there is significant evidence of bullish momentum, scalping opportunities, and successful long trades in the very short term. While several participants note caution due to potential corrections or liquidity grabs, many mention heavy buying pressure, bullish candlestick closes, targets above current price, and successful scalping long entries with profit-taking. Automated signals like Marticlues AI also show BTC/USDT hitting multiple long take-profit levels, confirming positive short-term technicals. A subset of voices remain bearish or recommend caution, but the immediate technicals and trading sentiment currently lean long for BTC, with a focus on fast, isolated, and low-leverage trades.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 12,
-    "negative_count": 7,
-    "neutral_count": 13,
+    "positive_count": 17,
+    "negative_count": 13,
+    "neutral_count": 8,
     "representative_opinions": [
+      "Amit Anand: pullback per add karo Buy side",
       "Marticlues AI: BTC/USDT Long Boom TP3!: P=105579.99,+0.5%",
-      "Dragon editz: sir agar resistance pe higher low banta hai toh buyers are willing to buy at higher price despite price being at resistance which means significant buying pressure.",
-      "Noob Trader: money inflow to crypto has risen a lot that why it bullish people want to buy inflation and rate cuts comming"
+      "Dragon editz: if higher low at resistance, buyers willing to buy at higher prices, significant buying pressure.",
+      "David Bousquet: Bitcoin up up up , alts down down down",
+      "Rising Lion: buy a little, thank me in an hour",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Risky trade: 4h aur 1h candle bahut bullish close ho raha hai",
+      "Mix videos: 108120 pr buy kiya tha",
+      "Noob Trader: money inflow to crypto has risen a lot that why it bullish people want to buy inflation and rate cuts comming",
+      "KiloCharley: LFG BTC n stuff",
+      "Freedumb for Joel: Nice time to buy some BTC",
+      "2 Sticky Fingers: if fomo starts... we are not retracing",
+      "Matt: btc daily close above 106680 and bears in big poop",
+      "Paradigm Shift: there will be no dump just look in stochrsi 1hr",
+      "Adarsh Jaiswal: retailer trap creat kr rha hai bhaiya",
+      "Mix videos: buy pr",
+      "Abdulmajeedkhan: rejection"
     ]
   }
 ]
