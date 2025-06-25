@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment from the live chat is mixed but leans bearish for BTC in the very short term. Multiple participants mention downtrends, major resistance at 108k, large sell volumes, and expectations of further drops to 106k or even 104k. A few bullish or neutral comments exist (e.g., possible support, sideways action, or fireworks for July), but the frequency of negative opinions and warnings about resistance and big sells outweighs the positives. The chat also references manipulation and choppy, indecisive price action, leading to mediumânot highâconfidence in a short-term bearish move. No clear high-conviction consensus for a strong trend, so leverage should be minimal.",
-    "safe_leverage_isolate_future_perpetual": 1,
+    "explanation": "The opinions suggest increased volatility and a developing downtrend for BTC. Multiple users mention key resistance levels being broken ($106,500), potential falls to $104k, and imminent sell volume. Some users observe a lack of bullish momentum and express concerns about manipulation and big sell orders. However, there are also references to recent recoveries, reversals, and bullish chart patterns, indicating divided sentiment. The overall tone leans more negative/neutral for the very short term, justifying a medium-confidence short signal.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
-    "negative_count": 16,
-    "neutral_count": 9,
+    "negative_count": 13,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Abell: The Crash Soon!!",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "SeÃ±or Joce: Looks like a downtrend is actually starting now, not enough volume yet though",
-      "StiD: huge sell volume when it hits",
-      "Molyn Brefon: maybe 106.630 good long maybe",
+      "Immigrant Diaries: Big sells coming in",
       "lil porky: we have daily rsi breakout if we close here on btc",
-      "Mar Vaey 2.2: it looks to be recovering"
+      "StiD: huge sell volume when it hits",
+      "herr_lippi: so now 3-4 days reversal?",
+      "Michael Montesano: btc is the little engine that could today geesss"
     ]
   }
 ]
