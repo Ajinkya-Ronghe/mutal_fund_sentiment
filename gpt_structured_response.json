@@ -4,28 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The sentiment is mixed but leaning bearish for BTC in the immediate term. Multiple comments suggest expectation of further downside, with references to failed breakouts, liquidity sweeps triggering stop losses, and traders planning short entries near resistance zones (109-110k). Some highlight that shorts 'are easier,' and others note weak volume and sideways/choppy price action. There are also warnings about manipulative moves and that BTC often plays within its day high/low. However, some bullish or neutral opinions exist, and a few are waiting for confirmation or a daily close to decide, hence the confidence is medium.",
+    "explanation": "The overall sentiment in the live chat is mixed but leans bearish for BTC in the short term. Many traders mention resistance at levels like 109k-110k and suggest shorting at those levels. There is discussion of price consolidation, low volume, and absorption by sellers, with some waiting for confirmation before entering new longs. A few comments highlight potential support at 107500, but more comments are concerned about downside risk, failed breakouts, and market manipulation. While there are bullish voices referencing government accumulation rumors and calls for patience, the dominant actionable opinions suggest caution or shorting, especially if BTC fails to break above resistance or loses key pivots.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
     "negative_count": 16,
     "neutral_count": 10,
     "representative_opinions": [
-      "I am short from this top here but I entered a long as well on the last dip to the 50 MA. the money flow on the 15min and 24min on Market Cipher B is climbing again",
+      "If lose 107 pivot next is 104 pivot last close is 106 @",
+      "thinking to short 109.6-110.3 but Dru says 111 then dump",
+      "at least start scaling in there soil it hits 110 or a lil higher be a sweet short possibly",
       "i only short if 109.6+ or we lose that 15m 50",
-      "everyone and their mother wants to short at 110 so it could get interesting",
-      "trading bhai mera side business hi property ka kaam karta hu sath me LLB bhi kar raha hu",
       "btc day high day low mein hi khelta hai",
       "breakout and breakdown are manipulations only",
-      "asmi itaitu: ALLIN",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Matt S: dont think were gonna know til daily close",
-      "art slandered1: Market buyers got absorbed by limit sellers",
-      "nutmaster69: 107500 is gonna be a strong support after we break through these longs",
-      "Lucky Gupta: btc 20 aur 50 ema se suport le raha hai didi",
-      "Abdul Malek: Thora upar Jate hi sell karunga....... volume acha hua to",
-      "Ravi Tripathi: à¤¸à¤° à¤¯à¤¹à¥ à¤¸à¥ à¤¸à¥à¤²à¤¿à¤à¤ à¤¸à¥à¤à¤¾à¤°à¥à¤ à¤¹à¥à¤à¥ à¤µà¥à¤ à¤à¤°à¤¨à¤¾ à¤à¤¾à¤¹à¤¿à¤",
-      "mpepin1905: get mover 108 and if cant break106 comes quick",
-      "tametheark: I earned over 25X my money on an Ethereum long, and then entered a BTC short near this local top. I'm a beast!"
+      "Market buyers got absorbed by limit sellers",
+      "Volume way too low"
     ]
   }
 ]
