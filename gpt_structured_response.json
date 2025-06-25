@@ -4,22 +4,23 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of opinions expressed caution or bearishness on BTC in the short term. Multiple participants discussed the risk of a further drop, potential retracement, and a lack of buy signals. Opinions like 'wait for short', 'would not long until we get a decent retracement', 'looks like a trap', and 'double top and rejected at high average weekly range' support a cautious or bearish view. There are a few bullish voices, but the consensus leans toward waiting for a better entry or expecting downside.",
+    "explanation": "The overall sentiment for BTC is cautious to bearish, with several participants signaling a need to wait for retracement, expecting a pullback, or warning against longing at current levels. There is mention of strong support zones for potential bounces, but the prevailing advice is to avoid new longs until a clearer retracement or signal emerges. Some bullish comments exist, but they are outnumbered by neutral to bearish caution.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
+    "positive_count": 5,
     "negative_count": 10,
     "neutral_count": 8,
     "representative_opinions": [
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
-      "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
       "Tjeerd Phaff: I would not long until we get a decent retracement",
-      "oscartg638: before the new retest at 5min. Now it's definitely looking like a trap.",
       "Ferhaan Schmidt: wait for short",
-      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
       "Solidity Monster: 106.8k looks like a bounce play. But lets see if the LONG picks up",
+      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
+      "Molyn Brefon: 107.5/6 may help",
+      "NEMESIS: Bitcoin or girega kya",
+      "Amo Menottant: will retrace after locally bouncing on LSOBs",
       "aV1rus: I think we range tonight between 106.7 and 108 just based on volume. Couple more failed attempts up",
-      "NÄo paladin: PUMP IT UP !!!!!!!",
-      "Molyn Brefon: 107.5/6 may help"
+      "TraderX: We head down could be a chance for a bounce play either 1068 or 106.2. 106.2 is the big support of the 15min 200.",
+      "Phonz: Couldnât break through we start the dump to 97k soon"
     ]
   }
 ]
