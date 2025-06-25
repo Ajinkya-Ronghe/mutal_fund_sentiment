@@ -4,22 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The sentiment on BTC is highly mixed in the short term, with both sharp calls for downside and upside, but significant opinions highlight consolidation, support at current levels, and a potential move towards higher targets (e.g., 108500, 103k). Notably, several participants report booking profits, trailing stops, and waiting for a reversal, indicating active buying interest. Some mention a double bottom and trend reversal signals, while the presence of heavy liquidations and sideways action suggests a potential base for a bullish move. The prevalence of high leverage shorts (e.g., 125x, 10x) being rekt, and the expectation that alts are being sold to buy BTC, supports a 'long' signal with high confidence. Multiple technical signals (consolidation, support holding, failed breakdowns) add conviction. However, traders should still use risk management due to volatility and liquidations.",
-    "positive_count": 10,
+    "explanation": "Despite a mix of short and long positions and some bearish comments (e.g., calls for shorting and expectations of a dump), a significant number of messages suggest strong support zones, expectations for higher targets (e.g., 108k, 114k, 117k), and talk of parabolic moves, ATH (all-time high), and buyers preparing for big moves. There is also mention of consolidation and sideways action, which often precedes a breakout. The presence of high leverage shorts being liquidated and references to 'Wall Street propping up BTC' indicate underlying bullishness. The majority of the community appears to be discussing downside risk management or waiting for a move, but representative opinions favor a coming upward move. Volume is consolidating, and multiple users are looking for long entries or holding for higher targets.",
+    "positive_count": 15,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 8,
-    "neutral_count": 7,
+    "negative_count": 11,
+    "neutral_count": 18,
     "representative_opinions": [
-      "Joshua Kaye: Reversal incoming",
+      "Big Pump: 1.9s before big pump",
       "DragonSoul1492: Going up from here",
-      "Eddy X: touch down ..demand zone",
-      "Eddy X: green candle incoming",
-      "hellion1193: @FlattenNow! YES! perfecto to go long here",
+      "××Ö¹× ××××¥: There will be a big parabolic move to ATH",
       "Panchani Jagnesh: BTC 108500 tak jaega",
+      "chanpreet grover: bitcoin will go and settle around 103k",
       "Ahmad Khalid: ye uptrend momentum aint dead yet but its about to be if bulls dont push",
-      "ofkone: all trend TF are green is difficult",
       "Matt S: ya near perfect consolidation and over bounce, not feeling the short tbh lol",
-      "Tek Burgh: lol , all alts dumped, just wall street proping up BTC"
+      "MO: hourly cci moved back up but true strength index not so might be a try to trap more longs higher",
+      "ofkone: all trend TF are green is difficult",
+      "Eddy X: green candle incoming",
+      "Junaid Ali: Long krskte h bhaiv",
+      "hellion1193: @FlattenNow! YES! perfecto to go long here",
+      "FreshEditZone: boss btc ka over view bta dain again thanks",
+      "Matt: Well bog stole my short earlier and I let rip with tp on his ass with longs, shorted 108k when I saw rejecting, using as scalp, ifnsl hits not reshorting",
+      "MO: I mean no scalpes"
     ]
   }
 ]
