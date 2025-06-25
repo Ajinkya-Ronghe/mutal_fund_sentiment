@@ -4,22 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple experienced traders and chat members referenced 1-minute and short-term chart signals as showing rejection and potential traps for longs. There is mention of recent uptrend exhaustion, possible double top on higher timeframes, and warnings against longing until a pullback. While some users suggest long entries at specific price levels, the prevailing sentiment on short-term signals leans cautious, with more traders warning of a trap or retracement before further upside.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Opinions are mixed, but the consensus among several experienced community members is that BTC is currently at or near a local top on the short timeframes. Multiple users reference failed breakouts, double tops, and warnings against longing until a retracement occurs. Some mention possible price traps and advise caution, while a minority still expect upside, most notably in the very short term. Candlestick and technical analysis commentary leans bearish for the 1-minute timeframe.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 6,
     "negative_count": 11,
     "neutral_count": 8,
     "representative_opinions": [
+      "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
       "oscartg638: it was rejected at the 1min for sure",
       "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
       "Tjeerd Phaff: I would not long until we get a decent retracement",
       "Ferhaan Schmidt: wait for short",
-      "oscartg638: before the new retest at 5min. Now it's definitely looking like a trap.",
-      "Amo Menottant: will retrace after locally bouncing on LSOBs",
       "Limitless1618: I gave Gemini chart screenshots and its telling me to enter long at 107.5k, SL:107.1, TP: 108.2/108.7k",
-      "Neev: maan i have my tp at 108.8 too, should have just taken at 108.0",
       "H S000: I already said I have a feeling that it will drop under 105k",
+      "Neev: id like to see asia continue the uptrend to that measured move",
+      "PeaPopz: Btc 105k se long pe set h chances of new all time high?",
       "Christian LA: that buy was totally BAD"
     ]
   }
