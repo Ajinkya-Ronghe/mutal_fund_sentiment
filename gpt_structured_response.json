@@ -4,20 +4,23 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of BTC-specific opinions show a bias toward shorting or expecting downside due to low volume, negative funding, and perceived bearish patterns (double top, no volume, bear indicators, and market targeting stop losses below). However, there is significant disagreement and confusion, with some expecting a bounce or upward move, but the short/negative sentiment is more prevalent.",
+    "explanation": "The majority of actionable BTC-related opinions are tilted negative, referencing lack of volume, bearish chart setups (double top, no volume), anticipated liquidity sweeps lower, and mentions of shorting at key levels. However, there are also several opinions noting a possible bounce at support or an upward move, creating mixed but overall bearish short-term sentiment. The positive opinions are not strong enough to outweigh the negative, but the presence of some bullish traders tempers the confidence level.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 14,
-    "neutral_count": 7,
+    "positive_count": 7,
+    "negative_count": 13,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Eriya Creative girlð©·ð: bhai abhi sell kar sakte hai",
       "Adarsh Jaiswal: because ab liquidity niche hai to market ko to lena chahiye abhi eak spike ayega sell me",
+      "rufi ashfaq: 10850 touch krnay ky bad proper down karay ga may be",
       "MVRSO: double top, no volume.. sais enough",
-      "crozxz: 108600 good area for short",
-      "Tjeerd Phaff: funding negative",
-      "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
+      "Aljaz Rokavec: NO VOLUME bear indicator",
       "Bear Bull: 107400 and go long",
-      "Dennis Bell: Massively oversold."
+      "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
+      "crozxz: 108600 good area for short",
+      "Tjeerd Phaff: i short around 109 or break of trendline",
+      "Immigrant Diaries: I still see some sweeps in the 5â¦ maybe the algo just making the chart look neutral and confusing so more bears can pop in",
+      "globel Ameer: down",
+      "Trade Like Operator: abhi upar hi rahega"
     ]
   }
 ]
