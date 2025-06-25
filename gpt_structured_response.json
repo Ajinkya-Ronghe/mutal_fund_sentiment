@@ -4,26 +4,24 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "BTC sentiment is highly mixed but leans short-term bearish. Multiple users discuss resistance levels (e.g., 107800, 108700), failed pumps, and calls for exit or shorting at local tops. Some expect relief drops, shakeouts, and retests. There is notable confusion and hedging behavior, with a few bullish voices regarding long-term prospects. The immediate order flow and candlestick discussion suggest a bias to the downside, with warnings about liquidity grabs and failed bullish moves. A few opinions point to possible bounces, but the majority of actionable signals relate to short entries or taking profit.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 9,
-    "negative_count": 22,
-    "neutral_count": 12,
+    "explanation": "Opinions are mixed, but bearish sentiment is stronger in the short term with many participants mentioning exit, rejection, short entries, and expectations of further drops. Some are holding shorts, mentioning liquidity below, and expecting BTC to fall to targets around 107k and lower. There are also a number of comments about taking profits and seeing exhaustion after the recent pump. There are a few bullish voices, but the immediate bias is toward a short setup.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 12,
+    "negative_count": 26,
+    "neutral_count": 17,
     "representative_opinions": [
       "Kien Kien: Definitely down jayega bhai",
       "Airdrop Tricks: btc exit krr lo abb",
-      "Sunny Gaming: ankit bhai ye btc 5 mint kay fvg se pump kar rha ha pagal ho gya ha ye",
       "Lehnser: short bei 107.807",
+      "Mix videos: no chance of going upp",
       "Mix videos: sell ki entry",
+      "Franzbert ð¨: btc target 107190.1",
+      "Dr Abhishek Goyal: 30 min ki frame pe proper retest ke baad ki selling dikh rhi h...dekho na ek haar",
+      "Abdul Malek: 107890 pe sell kya",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Josema: This is the lower high it had to build, now price needs to rest the climb was exhausting, people will stop buys, expect a releif drop.",
-      "LEGENDARNY: need to take liqudity on 104k",
-      "Matt: btc daily close above 106680 and bears in big poop",
-      "Paradigm Shift: close ur shorts",
-      "Noob Trader: money inflow to crypto has risen a lot that why it bullish people want to buy inflation and rate cuts comming",
-      "Rizvan Afzal: kidher ja Raha hai yeh btc",
-      "Noah 'S: not sure",
-      "Prashant Soni: yeh to upar jayega trap hai"
+      "Celurz: liquiditÃ¤t liegt wahnsinnig viel bis 96k hoffentlich fallen wir da nicht runter ^^",
+      "Immigrant Diaries: Dump dump dump",
+      "Josema: This is the lower high it had to build, now price needs to rest the climb was exhausting, people will stop buys, expect a releif drop."
     ]
   }
 ]
