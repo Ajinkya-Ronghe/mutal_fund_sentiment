@@ -3,22 +3,26 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "The overall sentiment in the live chat is mixed, but several sources provide bullish reasoning. Marticlues AI issued a BTC/USDT long signal with specific entry and take profit levels, and multiple viewers (Freedumb for Joel, KiloCharley, Joyjit Fun, Nilesh Prajapati, and others) expressed buy interest or positive remarks about entering or holding BTC. However, notable caution and bearish opinions exist, including warnings of manipulation and potential for sharp dumps, as well as some discussion about resistance near 108k and lack of bullish energy. The consensus leans slightly bullish for short-term scalping (as reflected in the 1-minute signal), but confidence is only medium given the active debate, visible resistance, and warnings of volatility.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 15,
-    "negative_count": 9,
+    "confidence": "High",
+    "explanation": "Multiple signals and opinions indicate bullish momentum for BTC. Marticlues AI issued a 'Long' signal for BTC/USDT with clearly defined entry, take profit, and stop loss, which reinforces a strong technical setup. Community sentiment is generally positive, with several users calling for buys or expressing bullishness ('Nice time to buy some BTC', 'BTC donât miss it', 'buy wins mode in on', 'BTC time'). There is also chatter about key levels being broken and upcoming volatility, but the net direction is upward, supported by technical and social signals.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 13,
+    "negative_count": 5,
     "neutral_count": 10,
     "representative_opinions": [
       "Marticlues AI: Long BTC/USDT:ENTRY=107457.68,TP1=107672.6,TP2=107780.06,TP3=107994.97,SL=106705.48,TA=Pump Frenzy!",
       "Freedumb for Joel: Nice time to buy some BTC",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "KiloCharley: LFG BTC n stuff",
+      "DigitalOrgy: Btc C leg completed. Rockets incoming",
       "lil porky: we have daily rsi breakout if we close here on btc",
-      "FitZoneX: it's going to dump",
-      "Ricky Cohen: It may reject 107,775 or it might actually go parabolic",
-      "oscartg638: The way the price is supported by the trend line looks supernatural. It is being manipulated. I'd hate to go against the market makers. Look at the 4hr",
-      "Manggala Yatra: this now go buy ,, I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
-      "Compounding king: 106900 se long h mera kya kru bhai"
+      "Manggala Yatra: this now go buy ,,",
+      "Joyjit Fun: sir BTC me trade le keya demo me",
+      "Nilesh Prajapati: btc me trade le kya abhi",
+      "Gourav stock market: I think dip is to buy",
+      "Bestintheworld: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
+      "TheBigE32: Chart is pure manipulation... Chart is so bullish"
     ]
   }
 ]
