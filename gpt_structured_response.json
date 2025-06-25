@@ -4,20 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Sentiment in the chat is mixed but leans bearish for BTC in the short term. Several users mention trendlines being below price, manipulation, and expectations for BTC to fall towards 104-106k, with some expressing concern about liquidity below 107k. There are also references to red candles, lack of strong buying pressure, and high sell pressure. A few participants remain bullish or are holding longs, but the majority of actionable opinions are cautious or negative for the immediate term.",
+    "explanation": "The overall sentiment for BTC in the live chat is leaning bearish, with several participants mentioning expectations for a drop to the 104-106k region, trendlines pointing down, and references to manipulation and caution. However, there are some conflicting opinions with a few expecting a small pump or holding longs, which reduces the confidence. No strong bullish momentum or consensus was observed.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 8,
+    "positive_count": 7,
+    "negative_count": 11,
     "neutral_count": 10,
     "representative_opinions": [
-      "Eriya Creative girlð©·ð: bhai trend line bhi to niche hai",
-      "Goldy Singh: Me to short leke betha huun mnn kr rha h 1lakh tk hold kru",
-      "RaberTrades: Bears are trying to pill this down to 104-106k",
+      "Compounding king: up jayega btc bro",
       "henrique aoyagui: below 107k we start seeing liquidations",
-      "Molyn Brefon: funding trajectoire short term",
       "Noob Trader: i think it will go down to the top of first leg up",
+      "RaberTrades: Bears are trying to pill this down to 104-106k",
+      "Goldy Singh: Niche girega dhadam se",
       "Ryan Teng: not enough sell pressure",
-      "Goldy Singh: Niche girega dhadam se"
+      "Molyn Brefon: may little pump maybe",
+      "Goldy Singh: 1 day ki candle dekhona Trendlines uparse",
+      "RaberTrades: I wonât be selling any of my longs nor took any profits today.",
+      "Ryan Teng: re are retesting this level to go up further"
     ]
   }
 ]
