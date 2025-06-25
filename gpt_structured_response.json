@@ -4,24 +4,24 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Opinions are mixed but lean slightly bearish in the very short term. Several users note 1-minute and 5-minute chart rejections, mention of potential 'trap' setups, and warnings against longing before a retracement. There are also mentions of a double top on the 1-hour chart and skepticism about immediate upward movement. However, some users are still looking for higher targets (e.g., above 107.5k), but the majority of actionable 1-minute sentiment is cautious to bearish.",
+    "explanation": "The prevailing sentiment is caution after a recent uptrend. Several traders note a rejection at key levels on the 1-minute, 5-minute, and 1-hour charts, with warnings about potential traps for long positions and the need for a retracement before longing. There are concerns about a possible drop below 105k and references to double tops and rejections at high averages. However, some bullish opinions exist regarding long-term upside, but near-term signals and market structure favor a short or at least caution before new buys.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
-    "negative_count": 12,
-    "neutral_count": 10,
+    "negative_count": 15,
+    "neutral_count": 12,
     "representative_opinions": [
       "PeaPopz: Btc 105k se long pe set h chances of new all time high?",
-      "oscartg638: it was rejected at the 1min for sure",
       "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
+      "oscartg638: it was rejected at the 1min for sure",
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
-      "Ferhaan Schmidt: wait for short",
       "Tjeerd Phaff: 1h shows double top and rejected at high average weekly range",
-      "Limitless1618: Gemini chart screenshots and its telling me to enter long at 107.5k, SL:107.1, TP: 108.2/108.7k",
-      "oscartg638: before the new retest at 5min. Now it's definitely looking like a trap.",
+      "TraderX: To be careful here for those thinking of longing or who did. I felt trapping more likely than not.",
       "Tjeerd Phaff: I would not long until we get a decent retracement",
-      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
+      "Ferhaan Schmidt: wait for short",
+      "oscartg638: Now it's definitely looking like a trap.",
+      "H S000: I already said I have a feeling that it will drop under 105k",
       "Neev: maan i have my tp at 108.8 too, should have just taken at 108.0",
-      "H S000: I already said I have a feeling that it will drop under 105k"
+      "Ryan Smith: Lark davis calling for a 444k BTC in June 2026, at a 10T mc that would be 80% dom, alts would get rekt"
     ]
   }
 ]
