@@ -4,26 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The live chat presents a mixed but slightly bearish outlook for BTC. Multiple users mention strong sell signals, high volatility, and expectations of further drops (e.g., mentions of 'bear flag', 'huge sell volume', 'trap', and 'BTC falls to $104k'), while a few see recovery or suggest buying dips. The consensus leans towards caution and short-term downside, with some positive long-term sentiment but uncertainty dominating the immediate outlook. Notably, there are warnings about liquidation, overleveraging, and strong resistance levels failing to break.",
+    "explanation": "The sentiment is mixed, but notable caution is expressed about large sell volumes at resistance, potential for further downside, and a recent significant value drop. Some users mention strong seller control and anticipate further declines (e.g., to 105k or even 104k). There are also many warnings about liquidation risk and overleveraged positions. While some mention possible recoveries and the need for patience, the prevailing short-term sentiment leans bearish with high volatility expected.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 13,
-    "neutral_count": 6,
+    "positive_count": 7,
+    "negative_count": 16,
+    "neutral_count": 14,
     "representative_opinions": [
-      "Rishabh Jaiswal: niche bi trap krega btc 7000 level pe ur agr vha pe bullish candle bne trap krne k bad to entry kr lena q ki upr k lavel 8000 breckout krega btc upr lene se achha niche baitho q sl tumra profit. me",
-      "ÐÐ¾ÑÐ¸Ñ ÐÑÐ¸ÑÐ²Ð°: Strong sell signal",
-      "Florent Raes: i say sellers have control",
-      "oscartg638: first of all, DON'T GET LIQUIDATED. Your funds are distributed to the exchange and those that went against your trade.",
-      "StiD: huge sell volume when it hits",
-      "AydÄ±n AkkuÅ : bear flag... Go go gooooo",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "FitZoneX: it's going to dump",
-      "FitZoneX: short it now",
-      "H S000: Idk i have a feeling that it will drop to 105",
+      "Boris Britva: Strong sell signal",
+      "Florent Raes: I say sellers have control",
       "andrei lucian varvaruc: for short: 104280, we can go there or more lower",
-      "Mar Vaey 2.2: it looks to be recovering",
-      "Freedumb for Joel: Nice time to buy some BTC",
-      "necroGiant: So the plan is up, buy wins mode in on"
+      "oscartg638: first of all, DON'T GET LIQUIDATED. Your funds are distributed to the exchange and those that went against your trade.",
+      "StiD: huge sell volume when it hits (resistance)",
+      "FitZoneX: it's going to dump, short it now",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!"
     ]
   }
 ]
