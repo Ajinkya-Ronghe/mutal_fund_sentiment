@@ -4,26 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite significant short interest and volatility, the majority of opinions highlight critical support around 106,500-107,000, strong bullish sentiment on higher time frames, and positive reactions to price breaking above key levels. Many traders are holding longs, discussing profit, and expressing confidence in further upside, with some targets mentioned up to 117,000-120,000. Perpetual and spot traders are generally in profit, and algorithmic signals support the long case. There are notable short-term dips and warnings about large stop losses, but the overall consensus is to hold or add to long positions, especially above support. The few negative or uncertain opinions are outweighed by bullish momentum and buy signals from automated systems.",
-    "positive_count": 14,
+    "explanation": "Across the opinions, there is strong bullish momentum indicated for BTC with frequent mentions of upward targets (e.g., 111000, 117000, 120000, 130k), calls for holding, and explicit signals by several contributors to buy or long. Marticlues AI gave a clear long signal with specific entry and target levels, and other users discussed the bullish structure on higher timeframes. Some short-term volatility and shorting attempts are noted, but more participants favor buying, holding, or expecting further upward movement. Additional confidence comes from references to institutional activity, trend breaks, and discussion about long position predominance versus shorts.",
+    "positive_count": 15,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 6,
-    "neutral_count": 8,
+    "negative_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
-      "EazyGaming: higher time frames still looks so bullish",
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "Marticlues AI: Long BTC/USDT:ENTRY=107035.38,TP1=107249.45,TP2=107356.48,TP3=107570.55,SL=106286.13,TA=Buy Storm!",
       "Stranger Prince: 111000.987 BULLISH ....... !!!",
       "pramod singh: mam btc 117000 tak ja sakta hai kya mai averaging kar lunga capital issue ni hai mam 120000 cross hoga then mujhe fark pad sakta hai",
-      "kavyamasti: Mam mujhe batao mene btc 106300 se long kiya hai . now tell me what should i do right now 43$ profit chal rha h batao kya karu exit ya hold",
-      "Anand Mohan Dubey: btc hold hain buy mein 99000 se abhi tak hold rakha hun 0.1 lot hold karun ya Exit kar dun",
-      "MO: also R2 pivot here, so some consolidation at least in this and may push higher, never can be sure",
+      "EazyGaming: higher time frames still looks so bullish",
+      "Target Hit: big investors know something",
       "BlockChainBandit: i am happy with my long tp so i give crypto my 73dollar back if short stop at 107313 lol",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Karan Gamer: sir btc main dicy ban rahi h",
+      "MO: I closed another 50% from the last 15% left in long btc",
       "new version: mam btc me hammer cadle bn rhi, upr jane ki possibility h kya",
       "Stars Link : hello sister BTC upper jaey ga?",
-      "Sheikh abdullah: Btc ka kia seen hai",
+      "Brajesh Rai: ma'am btc",
+      "DIVYESH BARAT: thanks..madam profit ho gaya",
       "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !",
-      "Sunil Kumar: mam today market tottaly tricky and diggy?"
+      "THE STAG - Rameez Shaikh: @Harshit Patel wow so proud of you"
     ]
   }
 ]
