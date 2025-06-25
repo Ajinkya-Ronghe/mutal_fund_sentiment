@@ -3,20 +3,29 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "A majority of opinions suggest bullish sentiment on BTC, including calls for long positions, expectations of upward movement, and technical confirmations (e.g., 'BTC upar jaane ke liye taiyar hai', 'we long only', 'BTC retest complete now going up'). However, there are also a few warnings about possible traps, sideways action, and calls for caution, which tempers the overall confidence to medium. The positive momentum is supported by mentions of weak sellers, upward targets, and market structure, while a minority suggest risk management or are undecided.",
+    "confidence": "High",
+    "explanation": "The majority of recent live chat commentary around BTC is bullish, citing technical signals such as breakouts, retests, strong upward volume, and bullish 1-minute chart setups. Multiple participants mention buying dips, anticipating upward movement, or already being in long positions. There are a few warnings about possible traps or liquidity sweeps, but the overall sentiment and recent candlestick activity suggest a favorable long/buy environment for BTC.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 19,
-    "negative_count": 7,
-    "neutral_count": 12,
+    "positive_count": 16,
+    "negative_count": 6,
+    "neutral_count": 6,
     "representative_opinions": [
       "Amit Anand: bhai BTC upar jaane ke liye taiyar hai",
-      "Islandsteve: we long only",
-      "Florent Raes: 107850k first target for me i up my sl i see seller weak no xD",
+      "Islandsteve: ANY SMALL DIP GET BOUGHT UP WATCH YOUR LEVERAGE",
+      "Renz: JA das Volumen drÃ¼ckt auch stark nach oben",
+      "Lumisch: 1min hatte gerade retest und sieht aus als wenn sie ausbricht ja",
+      "Florent Raes: i take the long 107 600 on 107 500 bounce",
+      "Noob Trader: i am and feel pretty safe",
+      "trading whale: btc",
       "Akshay kumar: Btc ka retest complete now going up bhai",
       "Freedumb for Joel: Nice time to buy some BTC",
-      "SlickShoes: the volume has been waning this entire move up as well",
-      "Acke: short here is risky"
+      "KiloCharley: LFG BTC n stuff",
+      "Islandsteve: we long only",
+      "oscartg638: broke out of wedge",
+      "Samwais_Bitcoingee: @Lehnser schlaf gut, bis morgen :)",
+      "Mr Moon: Quite a bit of liq up at 120k +",
+      "Crypto Isaacdeeks: Lifer says book map says more liquidity up",
+      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?..."
     ]
   }
 ]
