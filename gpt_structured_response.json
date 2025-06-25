@@ -4,24 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite a noisy discussion with many short calls and some confusion over current trend, recent sentiment has shifted to cautious optimism. There are mentions of support, hammer candles, and reversals, with users openly questioning if it is time to long until 108k or higher. Some traders report taking profit on longs and see potential for upward movement after recent dips. Technical signals like hammer candles and support retests are being cited for entry, and some users ask about new BTC buy opportunities. The market appears to be at or near a key support zone, with signs of a reversal forming, and experienced traders are openly encouraging long side setups, especially for quick scalps or swing entries. The overall mood is shifting from panic and shorting to considering new longs, reflecting a growing bullish bias for BTC.",
-    "positive_count": 12,
+    "explanation": "The sentiment around BTC is mixed but with a notable shift towards a potential upward move. Multiple chat participants mention holding current buy positions and asking if they should continue to hold, while some discuss their success with long trades. Several users ask if it is a good time to buy or enter, and a few mention hammer candles and possibilities of BTC going up. Although there are warnings about dips or big dumps around certain price levels, others highlight the strength of BTC and the missed opportunities by shorts, as well as calls to not bet against BTC. The presence of both long and short opinions, with several users still holding or considering long/buy positions, and the mention of critical levels and heatmaps with high short liquidity above key levels, suggest a likely short squeeze and a solid buy opportunity for BTC. The overall engagement and queries about buying or holding BTC, along with some technical signals like hammer candles and references to 'upper jaey ga' (will go up), reinforce a high-confidence buy signal with isolated perpetual leverage.",
+    "positive_count": 8,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 7,
-    "neutral_count": 8,
+    "negative_count": 5,
+    "neutral_count": 5,
     "representative_opinions": [
-      "Sab: so can we long now until 108?",
-      "Dhruvit Nakrani: 4 hours me pattern breakout he btc me",
+      "Kumar Anand: sir btc me buy kar sakte h kya",
+      "Anand Mohan Dubey: btc hold hain buy mein 99000 se abhi tak hold rakha hun 0.1 lot hold karun ya Exit kar dun",
+      "peter divine: btc ne dil liya he entry le sakte ho abhi aap log ....",
       "new version: mam btc me hammer cadle bn rhi, upr jane ki possibility h kya",
-      "Lokesh Gupta: muje lag rha h btc ne 4h TF ka trendline break kiya h retest b le liya lower TF m us open hote hi bhagega ye",
       "Stars Link : hello sister BTC upper jaey ga?",
       "BlockChainBandit: full tp my long",
-      "BlockChainBandit: i am happy with my long tp so i give crypto my 73dollar back if short stop at 107313 lol",
-      "MO: I closed another 50% from the last 15% left in long btc",
-      "sameep Shah: entry toh hogaya btc me",
-      "Kumar Anand: sir btc me buy kar sakte h kya",
-      "Muhammad Jehanzeb Khan: Btc buy",
-      "Manggala Yatra: buy signal"
+      "Giano182: @Diana X just type on google 'BTC liquidation heatmap' and zoom out to 1 month timeframe. Look how YELLOW are the bars above 11k. it's insane. there are literaly no longs compared",
+      "Donald: Imagine betting against bitcoin"
     ]
   }
 ]
