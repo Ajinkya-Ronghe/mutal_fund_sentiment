@@ -4,22 +4,29 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of BTC-related opinions indicate anticipation of a strong upward move (pump), with some discussing high price targets (e.g., 120k, 150k), FOMO, and an ongoing trend. However, there are also a few warnings about the regional high, potential corrections, and not buying at the top, which tempers overall confidence. The 1-minute sentiment is skewed bullish due to repeated calls for pumps, 'rocket ship', and 'long' entries, though some participants are waiting for structure confirmation or calling for possible corrections. Net sentiment is moderately positive.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 19,
-    "negative_count": 7,
+    "explanation": "Multiple users express bullish sentiment for BTC, mentioning potential for a breakout, upcoming pump, and rocket ship analogies. Some warn about buying at a regional high or expecting short-term corrections, but the majority of commentary leans towards upward momentum and positive outlook. There is visible FOMO and buy encouragement, offset by a few neutral or cautious takes.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 17,
+    "negative_count": 6,
     "neutral_count": 8,
     "representative_opinions": [
       "Florent Raes: buyers have control x)",
-      "Islandsteve: massive pump it",
-      "Ruben van Eek: This is it guys, blow off top - 150k",
+      "Islandsteve: SOON TO BREAK OUT",
+      "el RandoM: bull",
       "CHAMP: next stop 120k folks",
+      "AmviciousRav: Btc rocket is refueling for next week",
+      "KiloCharley: LFG BTC n stuff",
       "Freedumb for Joel: Nice time to buy some BTC",
-      "HighkeyRBz: cant deny the trend",
+      "Freedumb for Joel: BTC dont miss it",
+      "rs: mene btc me niche se hi tred liye hu",
       "Mr Moon: Rocket ship is the alternative I guess",
+      "HoldXRP ð¤: Oh, the perfect alignment",
+      "Mr Moon: Gotta break the channel first",
+      "Mr Moon: Channel rejection I see",
       "Frederic: this is at a regional high, there is no buy here, u do not buy the high , and there is no short signal",
       "Preparing 4War: BTC just begging for a correction though",
-      "Corey: I want my btc 108,880 limit short to hit so bad"
+      "Corey: I want my btc 108,880 limit short to hit so bad",
+      "Guitar 2.0: Bhai neechy to tofan hona btc m "
     ]
   }
 ]
