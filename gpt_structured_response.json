@@ -4,20 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite a dominant short-term bearish consensus in chat, there are notable counter-signals for a tactical long. Most participants are expecting further downside, citing supply zones around 110k, liquidity grabs, and targets between 102k-106k. However, this strong bearish crowding and references to liquidation sweeps, support levels being defended, and some traders flipping to long after a sharp drop, suggest a high probability for a short-term bounce or reversal (contrarian setup). A few opinions even mention buy signals, algorithmic buy calls, and expectations for rapid upside after the shakeout. Quick reversals after liquidation events and the presence of 'buy the dip' comments alongside algorithmic signals support a high-confidence, high-risk buy for nimble traders, especially with proper risk controls. Use isolated 20x leverage only with strict stops and swift profit booking.",
-    "positive_count": 8,
+    "explanation": "Despite a prevailing short-term bearish sentiment with many traders mentioning shorts at levels like 108k and 107k, there is notable evidence of profit-booking, short covering, and some turning long at current levels. Multiple users report switching to long, referencing algorithmic buy calls, and expecting support zones to hold. There is also talk of a possible bounce and 'buy the dip' sentiment, as well as references to upcoming macroeconomic catalysts (e.g., Fed, China liquidity) that are generally supportive. Short liquidations at 106,700 and below have already occurred, and some traders explicitly mention entering or recommending long positions. The 1-minute candle is showing signs of a reversal, and several opinions suggest the market may have overreacted to the downside, making this an attractive buy opportunity with a strong risk/reward setup.",
+    "positive_count": 11,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 30,
-    "neutral_count": 12,
+    "negative_count": 15,
+    "neutral_count": 8,
     "representative_opinions": [
       "Biem sur: @Jemerson Paulo im long now, BTC and SOL just like Rick",
       "Ace Winner: Ace algorithm buy call here, tp 108.3k",
-      "Unlimited Printsð¤: Itâs buy soon will fly",
-      "Manggala Yatra: this now go buy ,, ",
-      "Manggala Yatra: I think bitcoin needs to be alert in the next 12 weeks. There will be big fluctuations. Play it nice so it doesn't get destroyed",
+      "Ben Heath: If you canât take the heat, buy bitcoin.",
       "PHIL HSIEH: buy the dip",
       "FreshEditZone: sir btc 109k up jaya ga",
-      "oscartg638: might be bouncing! hold"
+      "Matthew: 1.0 lot 500x buy from that bottom",
+      "Unlimited Printsð¤: Itâs buy soon will fly",
+      "SYKO GAMERZ: market ne one day time frame pe order block pe tap kiya ye isliye I think market thoda up jayega",
+      "mike ho: Just opened long",
+      "User34: bhai 4 hour to buy show kar raha",
+      "Panchani Jagnesh: BTC 108500 tak jaega"
     ]
   }
 ]
