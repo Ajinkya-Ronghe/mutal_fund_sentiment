@@ -4,22 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment in the opinions is mixed, but there are a notable number of bullish signals and expectations of upside movement for BTC. Some users mention potential for new highs, daily closes above resistance, and bullish candlestick formations on higher timeframes. However, caution is also present with mentions of risky shorts, waiting for resistance to break, and possible volatility. The consensus leans slightly bullish for an intraday or immediate-term move, but confidence is not high due to conflicting signals.",
+    "explanation": "Opinions indicate mixed but slightly bullish sentiment: some mention risk in shorting, some expect upside moves, and others suggest holding or buying at certain price levels. There are also warnings about market manipulation and choppy action, but the consensus leans toward upward movement or at least caution against shorts.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
     "negative_count": 5,
-    "neutral_count": 11,
+    "neutral_count": 17,
     "representative_opinions": [
       "AllMarketView: BTC toh upside jaaega as per operator",
-      "Franzbert ð¨: BTC Ziel 107193.4",
       "Matt: btc daily close above 106680 and bears in big poop",
-      "el Vegano ð: bull flag daily...",
+      "Mr.Bean00: 7,440 pr up ki entry sahi rahegi 400-450 point capture honge",
       "EMO EXTREME: bhai market uprrr hi jayega mat lo sell side trade",
       "Gyan Singh: sir short tread btc ka risky lag raha h thoda..",
       "Arkadiusz Kaminski: BTC geht bald in Keller, Bier holen.... Short >.<",
+      "Naveen: btc down ka trade bn skta hai",
       "Mr.Bean00: 108,000 pr sell side fresh entry he broo bss wait kro",
-      "maxbimmer111: symetrical triangle on 15min btc?",
-      "Risky trade : 4h candle open bullish"
+      "berRR: bitcoin tem sido bom pra day trade??",
+      "Robert Mihai: boring moves , btc from 98k to 108k in 3 days .. cmon btc why so boring",
+      "el Vegano ð: bull flag daily...",
+      "Risky trade : 4h candle open bullish  kya me sahi hu",
+      "Ravi Tripathi: à¤¸à¤° 4 à¤¹à¤¾à¤µà¤° à¤à¤¾à¤à¤® à¤«à¥à¤°à¥à¤® à¤ªà¤° à¤°à¥à¤¡ à¤à¥à¤à¤¡à¤² à¤¦à¤¿à¤ à¤°à¤¹à¥ à¤¹à¥",
+      "Noob Trader: ok dump it then",
+      "Adarsh Jaiswal: Sala btc ka market retailer ko fasa rha hai"
     ]
   }
 ]
