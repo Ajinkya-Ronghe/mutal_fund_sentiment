@@ -1,24 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There are several bullish opinions on BTC, including suggestions of a bounce from the demand zone, positive anticipation for the weekend and Monday, and references to bullish chart patterns (e.g., hammer, bullish price action). However, some users mention caution, indecision, and possible bull traps. The overall sentiment leans bullish but with some hesitation and mixed short-term signals.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 7,
-    "negative_count": 2,
-    "neutral_count": 10,
+    "explanation": "Opinions about BTC are mixed, with some suggesting a major short opportunity and others discussing plans to sell at specific levels. There is also general uncertainty and talk of a potential dip into the weekend. The presence of short-term bearish sentiment, indecision, and references to possible large dumps outweighs any clear bullish consensus. However, buy zone comments and some bullish technical signals prevent a strong high-confidence call.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 4,
+    "negative_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Ankit Jain: btc bullish hai shayad ath liquidity hi lega",
-      "DANGEROUS. PUBLIC. VLOGER : please buy karo ye sale",
-      "a man Ryan: Chances are it's going to bounce around on the demand zone. And then slowly move up again. few more days big movement... hopefully not down",
-      "Mar: Hammer is bullish",
-      "TraderX: Sunday will be a Good time to load up on the dips as the stock market will open green Monday",
-      "Caquaino: is going up guys",
-      "Y00LKA: i think its prep for upside to > 108",
       "Rocky Dench: It is Frankie Candle planing to sell BTC for 122",
-      "Timboslice: Canât tell if itâs just a bull trap or not"
+      "MVRSO: THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN",
+      "oscartg638: we love the trail of red candles reaching our buy level, lol",
+      "TraderX: Sunday will be a Good time to load up on the dips as the stock market will open green Monday",
+      "Travis Alford: bulls love red",
+      "Ferhaan Schmidt: its not hard long ,, Tp as you need",
+      "Caquaino: is going up guys"
     ]
   }
 ]
