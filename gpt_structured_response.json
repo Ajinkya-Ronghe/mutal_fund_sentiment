@@ -4,23 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The opinions are mixed with a bias toward short-term downside or consolidation, but there are multiple strong bullish signals and calls for new entries. Several users mention buying BTC or holding, and there's strong sentiment that BTC will recover or pump soon, especially around the 110k level. Despite some short-term volatility and traders holding short positions, the overall mood for BTC is optimistic, with many seeking entry points for a long or expressing regret at missing a long entry. The presence of calls for holding and new buy entries, plus technical references to critical support, hammer candles, and potential for an upward move, supports a high-confidence long signal. Leverage should be managed carefully due to volatility.",
-    "positive_count": 11,
+    "explanation": "BTC discussions show mixed short-term sentiment but strong long-term bullish bias. Multiple traders report ongoing shorts or consider shorting at critical levels (e.g., 108k-110k), but there is a persistent narrative about holding, buying, or preparing for bullish moves, especially if current support holds. Some mention hammer candles forming, W patterns, and bullish structure on higher timeframes. Despite some warnings of a dip, several participants seek advice on holding longs, entering new buys, or see 110k as a significant resistance to be broken. The overall opinion count is balanced with more positive and buy-side opinions than outright negative, and the critical level discussion signals a high probability of reversal or a bounce, making a long with tight risk management compelling. The crowd also displays high engagement and willingness to buy dips or hold positions.",
+    "positive_count": 13,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 8,
-    "neutral_count": 15,
+    "negative_count": 9,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Donald: Imagine betting against bitcoin",
+      "Nightbot: Daily BTC analysis done. Please show some love on our profile (follow/share/like/comment) to help us getting the algorithm know we exist!",
+      "EazyGaming: higher time frames still looks so bullish",
       "Diana X: Let all the m2 flow in a great performing BTC please lol",
-      "ekin kÄ±ran: btc turn 110k",
-      "Kumar Anand: sir btc me buy kar sakte h kya",
+      "Giano182: seriously i checked the 1 month timeframe even now. It's umbeliavable the amout of shorts liquidity above 111k",
+      "BlockChainBandit: full tp my long",
+      "MO: I closed another 50% from the last 15% left in long btc",
+      "Lokesh Gupta: Or ab lag rha h badi selling b aayegi toh 108500-108800 se hi aayegi",
+      "Anand Mohan Dubey: btc hold hain buy mein 99000 se abhi tak hold rakha hun 0.1 lot hold karun ya Exit kar dun",
       "peter divine: btc ne dil liya he entry le sakte ho abhi aap log ....",
-      "Khalid Siddiq: sir btc ka bata day",
       "Muhammad Jehanzeb Khan: Btc buy",
-      "eesa rk: btc new entry ?",
-      "Suryakant: btc ek dum liquidity k bich me hai",
-      "new version: mam btc me hammer cadle bn rhi, upr jane ki possibility h kya",
-      "Stars Link : hello sister BTC upper jaey ga?"
+      "jagjit singh: take profit",
+      "Stars Link : hello sister BTC upper jaey ga?",
+      "new version: mam btc me hammer cadle bn rhi, upr jane ki possibility h kya"
     ]
   }
 ]
