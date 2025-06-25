@@ -4,29 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple viewers identified bullish patterns such as W pattern, double bottom, and uptrend signals on higher timeframes (4hr, daily). Algorithmic signal providers (Marticlues AI) recommended long positions with clear entry and targets near 107442â107979, supporting a bullish short-term outlook. However, there are also significant calls for booking profits at resistance near 107900, and some viewers noted market choppiness and slow momentum after recent rallies. Consolidation is mentioned, with some users expressing caution about potential sideways or reversal moves. Overall, the positive sentiment and technical patterns slightly outweigh the negatives, but mixed opinions warrant only medium confidence.",
+    "explanation": "There is a strong presence of bullish chart patterns such as W pattern, double bottom, and uptrend confirmations in BTC. Multiple users mention holding, booking profits, and expecting upside targets (107900, 108500). However, some opinions note slow movement and supply zones, and there is scattered bearish sentiment regarding potential dumps and resistance (e.g., 107700). Overall, positive momentum is slightly favored but mixed with caution and profit-booking.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 17,
-    "negative_count": 10,
+    "negative_count": 7,
     "neutral_count": 12,
     "representative_opinions": [
-      "DS Aims Production: W pattern ban raha h sir..",
-      "TradingWorld: Bottom me W hai sir",
-      "Sahil Divan: pura padhiye na sir  double bottom hai bhai",
-      "Mr Tanmay: bitcoin uptrend dikha raha hai..",
+      "W pattern ban raha hai, double bottom hai, uptrend dikha raha hai.",
+      "btc target 107900 tak confirmed",
       "bhupendra kunvar: btc up ka signal de rha hai bro...",
-      "Marticlues AI: Long WBTC/USDT:ENTRY=107442.7,TP1=107657.59,TP2=107765.03,TP3=107979.91,SL=106690.6,TA=Dip Grab!",
       "Wiesz Co nie: Good to have it pumping, Im long from 107600 xd",
+      "Mr Tanmay: bitcoin uptrend dikha raha hai..",
       "Sandy Candy: 4hr me dekhiye sir",
-      "Aadarsh Jha: btc uper hai Ema 9 ke daily candle toh aaj sirf buy aa raha hai",
-      "Rohit Desai: btc target 107900 vonfirmed",
+      "Everything About Hookah: btc double bottom 15min",
       "Pratima Gupta: ab btc sell kr do",
-      "hk haryanvi technical: btc sell side target fast 105800",
-      "Wiesz Co nie: Sideways choppy",
-      "manas chanda: isjagamey 65% seller and 35% buyer hai",
-      "Tenny trading : red candal ka wig green se Jayda h isliye niche ob ya fvg tak jayegaa",
       "Rishabh Arora: sir btc dump kb kr skta hein 107000 ke level se hein ab",
-      "Freedumb for Joel: bro you finally get some BTC?"
+      "hk haryanvi technical: btc sell side target fast 105800"
     ]
   }
 ]
