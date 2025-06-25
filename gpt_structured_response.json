@@ -4,19 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The sentiment is mixed but slightly bullish overall for BTC. Several users are discussing possible retracements and bounce plays at key support levels (e.g., 106.8k), with some expressing willingness to go long after a retrace, while others signal to wait or are cautious about a potential drop. A few users note strong buying activity and mention large future buy volumes ($14B). Positive momentum is reinforced by comments expecting a price climb, mentions of buying only, and bullish exclamations like 'PUMP IT UP' and 'weeeee go to top'. Short-term uncertainty is present, but intraday sentiment leans towards a bounce and continuation upwards.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 7,
-    "negative_count": 4,
-    "neutral_count": 9,
+    "explanation": "The sentiment in the chat is mixed but slightly leans bullish for BTC. Several users mention potential for BTC to touch higher levels like $108k, and some discuss waiting or longing from support. There are also comments about BTC not wanting to go down, bounces at key levels (106.8k), and positive remarks about a bullish 4h timeframe. However, there are also calls to wait, close stoplosses, and skepticism about immediate upside, indicating caution. The overall consensus is to look for buying opportunities, but with moderate confidence due to ongoing volatility and mixed short-term signals.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 9,
+    "negative_count": 5,
+    "neutral_count": 11,
     "representative_opinions": [
       "Hamdan Chuhdry: kia ab Bitcoin $108k touch kry ga",
-      "Real Krantikari : $14B ka BTC by hoga",
       "Riazul Islam: mai niche ka support se liya for long",
-      "NEMESIS: Bitcoin or girega kya",
-      "Tjeerd Phaff: I would not long until we get a decent retracement",
       "Solidity Monster: 106.8k looks like a bounce play. But lets see if the LONG picks up",
-      "Travis Alford: stay above vwap btc!"
+      "Noob Trader: yes turn around",
+      "Neev: well looks like she doesnt wanna come down",
+      "Molyn Brefon: 107.5/6 may help",
+      "Ferhaan Schmidt: im on long still",
+      "Noob Trader: one more 4h would remain Bullish",
+      "Travis Alford: stay above vwap btc!",
+      "PAThanâs trade labð: nai bhai kuch bada pakad te",
+      "NEMESIS: Bitcoin or girega kya",
+      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
+      "herr_lippi: close stoplosses ftw",
+      "Ferhaan Schmidt: wait for short",
+      "oscartg638: 3rd retest of resistance"
     ]
   }
 ]
