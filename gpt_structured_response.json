@@ -4,19 +4,24 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Live chat opinions are mixed but skew negative for BTC in the short term. Multiple users mention recent large red candles, price drops, and a downtrend starting. Some mention a possible bounce, but more expect further declines or sideways movement. Specific mentions of shorting, warnings about falling to $104k, and comments about market manipulation and lack of volume support a short/neutral bias. However, some positive sentiment and mentions of key support levels holding prevent a high-confidence call.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 13,
-    "neutral_count": 8,
+    "explanation": "Multiple participants noted downtrend signals and red candles, with some recommending shorting BTC at certain levels (e.g., 108600). There is mention of a key level at $106,500, and brief recovery was noted but sentiment overall leans bearish or cautious. Some suggest short-term shorts, while others recommend swing longs only if bought lower, reflecting mixed but mostly negative short-term sentiment.",
+    "safe_leverage_isolate_future_perpetual": 4,
+    "positive_count": 6,
+    "negative_count": 12,
+    "neutral_count": 15,
     "representative_opinions": [
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
       "Target Hit: Short BTC 4X (3.5% risk)",
-      "ÐÐ¾ÑÐ¸Ñ ÐÑÐ¸ÑÐ²Ð°: Red candaaaaals",
-      "Tjeerd Phaff: the moment that entity stops placing the orders to support price we could fall hard",
-      "SeÃ±or Joce: Looks like a downtrend is actually starting now, not enough volume yet though",
+      "ÐÐ¾ÑÐ¸Ñ ÐÑÐ¸ÑÐ²Ð°: Red candles",
+      "Denis D: What are we waiting for now? Falling further?",
+      "Trading Crusader: Watch $106500 key level",
+      "Rodolfo: btc dominance has been consolidating all day and looking to go up now, any scalp longs should be closed, try and hold swing longs if you bought near the beginning of the move",
       "Molyn Brefon: maybe 106.630 good long maybe",
-      "Ryan Teng: I think it hit the bottom structure there and is gonna go up now"
+      "Ryan Teng: I think it hit the bottom structure there and is gonna go up now",
+      "Tjeerd Phaff: trendline holds price",
+      "Tjeerd Phaff: someone wants btc somewhere... highly manipulated",
+      "Molyn Brefon: should up from here but babababa",
+      "The moment that entity stops placing the orders to support price we could fall hard"
     ]
   }
 ]
