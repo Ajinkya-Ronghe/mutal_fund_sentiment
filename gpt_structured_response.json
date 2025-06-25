@@ -4,21 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple chat participants flagged BTC as entering a 'selling area' and being rejected at the 1-minute timeframe. Several warned about a bull trap and suggested the price is at risk if it doesn't hold key short-term moving averages (50EMA, 200MA). While some see potential for a reversal (formation of a W pattern), the dominant short-term sentiment is caution or bearish, with traders expressing concern about manipulation, failed trendline retests, and imminent breakdown of support. There is a minority view for a possible long if a reversal confirms, but it's not the majority.",
+    "explanation": "Multiple users referenced BTC as being in a 'selling area' and described recent price action as a 'trap' for longs, with rejections at key moving averages (1min, 5min, 50EMA, 200MA). There is concern about downside potential and little positive sentiment. However, some mention of a possible 'W' reversal and general uncertainty reduces the confidence from high to medium.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 2,
-    "negative_count": 8,
-    "neutral_count": 5,
+    "positive_count": 1,
+    "negative_count": 6,
+    "neutral_count": 8,
     "representative_opinions": [
       "Real Krantikari : sir BTC selling area me ghusa hai na",
-      "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
-      "oscartg638: it's looking like a trap",
       "TraderX: Told you guys be careful longing on that little uptick. More like trapping. We need to hold that 1072 it is the 200 on the 5min. Next stop is that 1068 area if not.",
+      "oscartg638: it's looking like a trap",
+      "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
       "oscartg638: it was rejected at the 1min for sure",
       "SETH MANDHAN: i think the 50ema is tired of holding btc candles since yesterday now its gonna break isnt??",
-      "Immigrant Diaries: Iâm going long till 108300â¦ I think this is the point where we fake out againâ¦ sl 107k  Minimum risk, maximum profit",
-      "Immigrant Diaries: Maybe we making a W on this chart which hasnât formed yet and then we go up",
-      "Tjeerd Phaff: Wednesday and thursday reversal days"
+      "Immigrant Diaries: Maybe we making a W on this chart which hasnât formed yet and then we go up"
     ]
   }
 ]
