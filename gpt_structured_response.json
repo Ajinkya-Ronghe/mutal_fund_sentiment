@@ -4,27 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a blend of positive sentiment and caution in the chat. Multiple users express interest in buying BTC, referencing dips as buying opportunities, and suggest upward momentum after recent value drops. However, there are also some short-term bearish and risk warnings, and a few calls to short or concerns about a possible sweep of lows. The overall sentiment leans bullish in the short term, with participants referencing uptrends, breakouts, and possible rockets incoming, but the presence of mixed signals and volatility keeps confidence at medium.",
+    "explanation": "There is a mix of opinions with some calling for BTC recovery, others mentioning potential dips or volatility, but the majority of direct BTC comments lean positive or bullish. Several mention buying dips, ongoing long positions, and the idea that shorts will get liquidated. Signals from live chat and references to new M1 BTC chart releases support a moderately bullish short-term view, but with caution due to expected volatility.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 15,
-    "negative_count": 6,
-    "neutral_count": 10,
+    "positive_count": 8,
+    "negative_count": 3,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Freedumb for Joel: Nice time to buy some BTC",
       "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Mar Vaey 2.2: it looks to be recovering",
       "DigitalOrgy: Btc C leg completed. Rockets incoming",
-      "Gourav stock market: I think dip is to buy",
-      "Nightbot: NEW BTC M1 CHART : https://youtube.com/live/_NiE4UZDMZA?...",
-      "KiloCharley: LFG BTC n stuff",
-      "Immigrant Diaries: Iâm short nowâ¦ sl is 109kâ¦ looking towards 105.8-106.2",
-      "Axel: BTC still pushing â¦. I see a sweeping of the lows comingâ¦â¦",
-      "FitZoneX: it's going to dump",
-      "FitZoneX: short it now",
-      "art slandered1: 107100 uptrend absorption?",
-      "art slandered1: Market buyers got absorbed by limit sellers",
-      "Gourav stock market: I am thinking to buy and hold",
+      "ChaudharySB: Shorts walon ki band bajy gi",
       "Manggala Yatra: this now go buy ,,",
-      "Joyjit Fun: sir BTC me trade le kya abhi"
+      "FitZoneX: it's going to dump; short it now (contrarian view noted, but outweighed by buy calls)",
+      "ChaudharySB: MATLAB BTC ki jidhar zyadah liquidity ho udhar ki trade laga lo"
     ]
   }
 ]
