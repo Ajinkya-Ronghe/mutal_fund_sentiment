@@ -4,26 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The live chat reveals a mixed but slightly bullish sentiment for BTC. Several users mention booking profits, trendline breakouts, and a possible upside to levels like 107200 and 111900, while others are cautious or expect a dump. There is evidence of both long and short interests, but recent comments about holding, trendline breaks, and bullish technical signals (MACD, bull flags) outnumber strong short convictions. The consensus is to be cautious but lean toward long/holding positions with safe leverage.",
+    "explanation": "The overall sentiment features mixed but slightly more positive opinions. Many participants discuss taking profit or 'booking' gains, yet several mention bullish technical signals such as trendline breakouts, long setups, and MACD turning bullish. Some reference potential short-term dips, but the prevailing opinion is to buy on dips or after trendline confirmations. There are also repeated references to BTC holding key levels and the expectation of upward movement, including possible targets like 107200, 108700, and 111900. Short-term volatility is expected, but most are favoring long trades with caution.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 14,
+    "positive_count": 13,
     "negative_count": 7,
     "neutral_count": 9,
     "representative_opinions": [
-      "Eriya Creative girlð©·ð: bhai trend line break hone ke baad bhi li ja sakti hai trade",
+      "oscartg638: bears about to get rekt",
       "Bear Bull: The time has come for me to open a new long!",
-      "ChippedToothZabal AndCo.: This has been bullish since the April 21st weekly close",
-      "Dynamic Entry: any dump we get now dont worry though. BTC always goes up",
       "Y00LKA: or long it shows possibility to 111900",
+      "Eriya Creative girlð©·ð: bhai trend line break hone ke baad bhi li ja sakti hai trade",
+      "Dynamic Entry: any dump we get now dont worry though. BTC always goes up",
       "TheBigE32: The Macd says otherwise. It's about to turn bullish",
-      "Immigrant Diaries: Itâs holding",
-      "Ahmad Khalid: its fkn holdin yeah",
+      "ChippedToothZabal AndCo.: This has been bullish since the April 21st weekly close",
       "Sajib Rahman: 107200 par Jayega Bhai",
-      "Learn Trading Analysis | Crypto Forex Updates: wait kro",
-      "MVRSO: THIS IS GONNA BE THE BIGGEST SHORT YOUVE EVER SEEN",
-      "BTCBILL : someone do a $500k short with 1000x leverage right now, it will be glorious!!! Not financial advice though",
-      "Goldy Singh: Niche girega dhadam se",
-      "Farina Ferrari: 102400 noob"
+      "Sajib Rahman: 107200 par Close Karke Rakho",
+      "Eriya Creative girlð©·ð: bhai 0.4 lot book kar lo ek trade trend line tutne ke baad dubara le Lena",
+      "Tjeerd Phaff: breaking trendline",
+      "Solidity Monster: close to busting through the trend line.",
+      "shabaotb: This 50 ema on the 15 min is an infinite money glitch"
     ]
   }
 ]
