@@ -4,19 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple participants express interest in buying or holding BTC, with several asking if now is a good time to enter. There's evidence of bullish sentiment, references to buying dips, and expectation of upside, but also some caution and mention of indecision and losses. No strong, unanimous bullish conviction, but short-term buy signals are present in chat, and the BTC 1-minute chart is being referenced. There is no significant short signal or strong bearish consensus.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "There are several bullish opinions on BTC, including suggestions of a bounce from the demand zone, positive anticipation for the weekend and Monday, and references to bullish chart patterns (e.g., hammer, bullish price action). However, some users mention caution, indecision, and possible bull traps. The overall sentiment leans bullish but with some hesitation and mixed short-term signals.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 7,
     "negative_count": 2,
-    "neutral_count": 11,
+    "neutral_count": 10,
     "representative_opinions": [
       "Ankit Jain: btc bullish hai shayad ath liquidity hi lega",
-      "k k: buy ki Trade ban gyi hai broo",
-      "Deepak: Bhai 4k loss ho gaiya hai aeia 4din ma thora profit karna do BTC ma",
+      "DANGEROUS. PUBLIC. VLOGER : please buy karo ye sale",
+      "a man Ryan: Chances are it's going to bounce around on the demand zone. And then slowly move up again. few more days big movement... hopefully not down",
+      "Mar: Hammer is bullish",
       "TraderX: Sunday will be a Good time to load up on the dips as the stock market will open green Monday",
-      "Joyjit Fun: sir BTC me trade le keya demo me",
-      "Nilesh Prajapati: btc me trade le kya abhi",
-      "Y00LKA: i think its prep for upside to > 108"
+      "Caquaino: is going up guys",
+      "Y00LKA: i think its prep for upside to > 108",
+      "Rocky Dench: It is Frankie Candle planing to sell BTC for 122",
+      "Timboslice: Canât tell if itâs just a bull trap or not"
     ]
   }
 ]
