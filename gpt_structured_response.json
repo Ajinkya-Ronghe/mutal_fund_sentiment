@@ -4,25 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The majority of opinions show strong bullish sentiment for BTC in the short term, with multiple users discussing targets between 108,000 and 110,000, referencing technical levels like 50 Day EMA bounces, and expecting new all-time highs. While several opinions mention shorting and potential pullbacks, these are outweighed by the number and conviction of bullish and buy-side comments, including those using technical analysis (EMA, FIB, resistance bounces) and referencing news events (Powell speech, regulation updates) as catalysts for upward movement. The presence of profit-booking, holding, and positive trade results further reinforce a high-confidence buy signal, suitable for isolated futures with leverage, while remaining aware of the volatility and the need to trail stops.",
-    "positive_count": 13,
+    "explanation": "Despite some short-term bearish calls and volatility, the overall sentiment from multiple users highlights strong bullish momentum, with several traders targeting new highs. Many mention key resistance levels being approached or broken, and there are discussions of buying on dips, scalping upside, and expectations of BTC reaching 108,500 or even all-time highs. Some concerns about short-term dumps and resistance exist, but the positive count is significantly higher, and representative opinions support a continued bullish bias. Technical mentions of strong support at the 50-day EMA and a 'cup and handle' pattern, along with news-driven bullishness (Powell speech, Trump effect), further support a high-confidence buy. Leverage should be managed prudently due to volatility.",
+    "positive_count": 19,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 8,
-    "neutral_count": 5,
+    "negative_count": 10,
+    "neutral_count": 8,
     "representative_opinions": [
+      "Le huu Tien: BTC go ATH",
       "Sumit mantri: btc new high coming soon",
-      "Sameer: Very Imp - Daily chart ka 50 Day EMA say bounce kiya, bahut important level hota hai 50 EMA",
-      "Panchani Jagnesh: BTC 108500 tak jaega",
       "Khuram Memon: 108600 TAK BTC JA SAKTA HAI",
       "Smarty priyank: mera 107000 buy Kiya hain target 107900 hain",
-      "Nitro192: We're back in all time high range again",
-      "Sudan Gaire: bakwas mat karo btc all time high ja raha hai",
-      "kaml verma: btc bullish ha byu karo",
-      "Kingmanu official: sir ye 109 tak jayega",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Trading Crusader: Broke $106500 nice!",
       "Sameer: Is level say bada reversal ho sakta hai",
-      "Rahul m: maybe thats why bullish"
+      "Chirag Goswami: 1mint time frame buy dhika raha ha sir ji",
+      "Kavyamasti: bhai mujhe batao mene btc 106300 se long kiya hai . now tell me what should i do right now 90$ profit chal rha h batao kya karu exit ya hold",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "STACEY: almost at major resistance",
+      "kaml verma: buy"
     ]
   }
 ]
