@@ -4,23 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants discussed bullish technical setups for BTC, including mentions of trendline breaks, flag and pole patterns, and Fibonacci retracements projecting higher targets (e.g., 125-160k). There's strong sentiment around BTC dominance, expectations of new all-time highs, and upcoming supply shocks above 108k. Short-term volatility and range-bound price action are acknowledged, but the majority view is that dips are buying opportunities and the market structure remains bullish. Some mention potential black swan events or brief corrections, but these are outnumbered by optimistic outlooks and active buy-side trades.",
-    "positive_count": 21,
+    "explanation": "The overall sentiment for BTC in the live chat is bullish, with multiple participants indicating buy or long positions, expectations of higher prices, and references to new all-time highs. Some concerns and short-term bearish comments exist, but the majority of opinions highlight upward momentum, buy entries, and swing trades to the upside. Notably, there is talk of BTC dominance, imminent bull runs, and strong interest in re-entries and holding positions. Several users discuss Fibonacci levels and support zones, but the prevailing actionable advice is to buy or long BTC, especially on short timeframes. Leverage usage as high as 20x is commonly discussed as safe among experienced traders. This recommendation is based on the high frequency of positive and neutral-to-bullish technical observations, outweighing negative sentiment.",
+    "positive_count": 15,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 6,
-    "neutral_count": 7,
+    "negative_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
-      "In the next 12 days i think this will surely hit ATH",
-      "BTC halving JUST DOESN'T matter with BTC being so cheap, no flow of BTC wealth to ALTS",
-      "Wesley Marsh: above 108k and hold will possibly create supply shock",
-      "Einstein : Apparently btc has to retest the .382 fib level. If successful the you many see btc hitting 160,000",
-      "Afzal Shaikh: Bhai I think Btc 107200 pe aake waha se Again upside jaa sakta hai baaki Let's see",
-      "R.S.: 0.05 Btc BUY(300 point bas chahiye mujhe)...!",
-      "Chandan Somwanshi: 1D timeframe par Flag an Pole pattern bana hai.. Hopefully ek baar aur flag ke bottom tak ja sakta hai which is approx. 97k aur uske baad jab upar Jakar pattern break Karega to 125-130 tak ja sakta ha",
-      "oscartg638: the line of support could prove significant and will be retested again. we go to golden pocket, drop to retest and then go higher. very possible",
-      "Afzal Shaikh: btc upside hai bhai",
-      "World best companies& interview questions : bhai app major liquadation zone mai btc mai trade kijyai jada profit hoga",
-      "Krishna khana: BTC LONG ENTRY NOW"
+      "Ayush Gupta: In the next 12 days I think this will surely hit ATH.",
+      "Afzal Shaikh: btc upside hai bhai.",
+      "R.S.: BTC ME 0.05 Buy kiye hai...!",
+      "jhon: btc long? scalp",
+      "Pravin Patil: avnish bhai BTC 104000, ja sakata hai kya",
+      "Krishna khana: BTC LONG ENTRY NOW",
+      "World best companies& interview questions: bhai app major liquadation zone mai btc mai trade kijyai jada profit hoga",
+      "Music adda: my entry 107250... sir target chota rhkta hu then 107600? is ok",
+      "Kunal: Sir i personally believe it's the last dip, we are very very near to bull run, btc all time high banara, btc dom top me hai, kabhi bhi alt season shuru ho skta hai",
+      "oscartg638: the line of support could prove significant and will be retested again. we go to golden pocket, drop to retest and then go higher. very possible"
     ]
   }
 ]
