@@ -4,27 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite significant market indecision and mixed short-term sentiment, there is a consistent stream of opinions suggesting interest in long trades, holding, and upward price targets for BTC. Many users ask about BTC buy levels, mention open buy-side trades, and reference anticipated moves towards 108,000-110,000 and even 100,000+. Others confirm profit-taking and recommend holding positions, while some seek confirmation for new entries or discuss risk management strategies for long positions. There are also references to BTC following reliable indicators and signals, and several direct calls for BTC to move up from current levels. Negative or bearish sentiment exists but is less frequent and less confident, and is often countered by others in the discussion. The representative opinions selected show a net positive tilt for immediate BTC direction.",
-    "positive_count": 15,
+    "explanation": "The collective sentiment for BTC is mixed with many calls for both buy and sell, as well as suggestions to hold. However, there are repeated mentions of bullish candles, uptrend patterns, profit booking on long trades, and comments highlighting BTCâs ability to make higher lows. Several users are seeking buy setups, asking for targets, and discussing positive momentum and big moves incoming. Key representative opinions note BTC bullish candles, targets towards 108,500, and suggestions to buy and hold for profit. While there are some warnings about volatility and the need for risk management, the overall flow of opinions leans toward a long/buy setup with high conviction among active traders.",
+    "positive_count": 11,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 7,
-    "neutral_count": 10,
+    "negative_count": 6,
+    "neutral_count": 9,
     "representative_opinions": [
+      "PRIME STORY : Bhai btc vahi se bulish candle bana raha hai",
       "FreshEditZone: sir btc up jaya ga now this level",
-      "Dheeraj Rajput: Sir meri BTC BUY side trade open hai Kal se",
       "Panchani Jagnesh: BTC 108500 tak jaega",
       "Unlimited Printsð¤: Itâs buy soon will fly",
-      "jhon: ok we will take trade in btc",
-      "Rohit Desai: btc target 108328 upqr",
+      "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !",
       "vivek11166: mein toh hold karunga 105500 tak",
       "Stock Market: bro hold karo profit hoga",
-      "CRYPTO BUSINESS: Buy BTC , ETH, ETC, BCH, LTC, KNC, SNX, ZEC, ZEN, DCR, AVAX, LINK and hold !",
-      "jhon: sir ek baar btc ka setup bta do live baad le lunga",
       "FreshEditZone: sir btc",
-      "Kshitij Kumar: btc me trade laga hai",
-      "ramo pandit : BTC me enter kr skte hai kya abhi?",
-      "Moonshadow :  That is give me profit",
-      "Yogesh Yadav: buy"
+      "GameKida: mam btc pe kya asar padega war ka",
+      "Dheeraj Rajput: Sir meri BTC BUY side trade open hai Kal se",
+      "Moonshadow :  Something that is profitable "
     ]
   }
 ]
