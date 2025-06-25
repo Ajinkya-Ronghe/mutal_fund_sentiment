@@ -1,20 +1,24 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The sentiment in the chat is mixed but leans bearish for BTC in the immediate term. Several users advocate for shorting, with some expressing extreme confidence (e.g., 'short it, bet your house on it', 'THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN'), while a few others note bullish technicals or hold positions. There are also mentions of key levels and potential for a dip before a pump, especially with macro events (CME close, Fed rate cut speculation). No clear consensus for a long signal, and candlestick/price action references suggest uncertainty or bearish bias for the next move.",
+    "explanation": "There is a mix of bullish and bearish sentiment, but overall, the majority of BTC-specific opinions hint at bullishness or ongoing volatility with potential for upside. Comments mention BTC retesting support, zooming out to higher price levels, references to bull flags, and technical success above certain levels (e.g., 106.8k). Some users suggest taking profit or shorting, but these are less prevalent than those expressing optimism, holding, or discussing bullish technical setups. No new or dramatic negative catalysts were cited, and references to macro events (like rate cuts) are interpreted as future bullish drivers.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 7,
-    "neutral_count": 5,
+    "positive_count": 8,
+    "negative_count": 5,
+    "neutral_count": 11,
     "representative_opinions": [
-      "BTCBILL : short it, bet your house on it",
-      "MVRSO: THIS WILL BE THE BIGGEST SHORT YOUVE EVER SEEN",
-      "Ricardo Sala: *remember on Friday CME close big 3rd qtr. long-term contracts. max pain in 102k. this not always happens but keep the info over the desk",
+      "Dogald Trump: btc just re tested 99k and now its 107k, zoom out zoom out zoom out zoom out",
+      "XRPLparadise: I SEE A BULL FLAG",
       "Matt S: long as we close above 106.8k its technically successful, everything else is dead tho",
-      "JUDAS THE TRAITOR: THIS IS VERY COOL STUFF BTC IS DOING RIGHT NOW!"
+      "JUDAS THE TRAITOR: THIS IS VERY COOL STUFF BTC IS DOING RIGHT NOW!",
+      "Sajib Rahman: ye To Niche Aye ga Bhai",
+      "BTCBILL : short it, bet your house on it",
+      "Ricardo Sala: *remember on Friday CME close big 3rd qtr. long-term contracts. max pain in 102k. this not always happens but keep the info over the desk",
+      "MVRSO: THIS WILL BE THE BIGGEST SHORT YOU'VE EVER SEEN",
+      "Matt S: i dont think that will happen ever again tbh"
     ]
   }
 ]
