@@ -4,23 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinion is mixed but leans slightly positive. Multiple participants discuss key support levels (106.8k, 107.2k), with several suggesting to buy or hold at these levels if support holds. There is chatter about upcoming rate cuts fueling bullishness, some noting dominance and outflows from alts into BTC. Negative voices warn of dumps and suggest caution, but overall sentiment is slightly more constructive for a buy/hold, especially with technical levels holding and macro positivity. No consensus for high conviction, but enough support for a medium-confidence buy signal.",
+    "explanation": "Multiple users suggest buying or holding BTC, referencing key levels (106.8k, 107.2k, 108k) and the idea that BTC is outperforming alts. There is debate about resistance and support near 106.8k-108k, and some express caution about a potential dump, but overall sentiment leans bullish with several suggesting buying or holding, and that BTC will recover or move higher if it holds above support. The presence of both positive and negative short-term opinions, along with technical discussion around key levels, makes the confidence medium.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 11,
+    "positive_count": 14,
     "negative_count": 8,
-    "neutral_count": 7,
+    "neutral_count": 11,
     "representative_opinions": [
       "Freedumb for Joel: Nice time to buy some BTC",
       "Matt S: long as we close above 106.8k its technically successful, everything else is dead tho",
       "Joyjit Fun: Sar BTC mein abhi trade le le",
-      "Eriya Creative girlð©·ð: le lega support atleast kal tak ke liye",
-      "Twelve: BTC ke Nakhre to larkiyo se b jyada hai. 3 dino se bachaye hi jarae",
-      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
+      "Trading Crusader: Broke $106500 nice! Itâs BTC time.",
+      "Spotbot: BITCOIN: 107356 USD  1.32%",
       "Deer: why is alt coin going down and btc up",
+      "Y00LKA: because ppl selling alts to get BTC",
+      "lil porky: bout positive they goin down where they started from at the start of this bull market",
+      "Matt S: ya after under performing, so for me no need to look at them again, ill stick to scalping btc",
+      "Matt S: looks like we going for the 106.8k retest",
       "FitZoneX: it's going to dump",
       "Sagent: dump to zero",
-      "Ricardo Sala: I see liquidations above 108.7k",
-      "DigitalOrgy: Rockets incoming"
+      "FightThePower: market seems over hyped or inflated feels like to me could it dip back under 100k",
+      "Trading Crusader: Itâs BTC time. Then btc falls to $104k. And holds while alts rally!"
     ]
   }
 ]
