@@ -4,11 +4,11 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Opinions are mixed, but the consensus among several experienced community members is that BTC is currently at or near a local top on the short timeframes. Multiple users reference failed breakouts, double tops, and warnings against longing until a retracement occurs. Some mention possible price traps and advise caution, while a minority still expect upside, most notably in the very short term. Candlestick and technical analysis commentary leans bearish for the 1-minute timeframe.",
-    "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 6,
-    "negative_count": 11,
-    "neutral_count": 8,
+    "explanation": "Several participants discussed recent rejections at both micro (1m, 5m) and macro (1h) timeframes, with specific mention of failed retests, double tops, and the risk of bull traps. Multiple traders caution against longing until a retracement, and some suggest the market is primed to trap late buyers. There are also mixed but notable calls for waiting or shorting, especially after recent rapid gains. However, some bullish views remain, and certain traders mention trading ranges and possible bounces, tempering overall conviction.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 7,
+    "negative_count": 14,
+    "neutral_count": 10,
     "representative_opinions": [
       "Tjeerd Phaff: my simple ta saying we broke trend line tested it and rejected",
       "oscartg638: it was rejected at the 1min for sure",
@@ -16,10 +16,13 @@
       "TraderX: people need to remember we've come up a lot in past few days. Nothing goes up forever.",
       "Tjeerd Phaff: I would not long until we get a decent retracement",
       "Ferhaan Schmidt: wait for short",
+      "oscartg638: before the new retest at 5min. Now it's definitely looking like a trap.",
+      "oscartg638: that 15min hammer looked good, though. Now it looks bad. The rug pull could be for either side. More price action is needed.",
       "Limitless1618: I gave Gemini chart screenshots and its telling me to enter long at 107.5k, SL:107.1, TP: 108.2/108.7k",
       "H S000: I already said I have a feeling that it will drop under 105k",
-      "Neev: id like to see asia continue the uptrend to that measured move",
-      "PeaPopz: Btc 105k se long pe set h chances of new all time high?",
+      "Neev: maan i have my tp at 108.8 too, should have just taken at 108.0",
+      "Asi Landes: I TP 108 in the morning",
+      "Evgeniy Poznyak: and we got an M on 15, right",
       "Christian LA: that buy was totally BAD"
     ]
   }
