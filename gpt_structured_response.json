@@ -4,23 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Despite a large amount of retail shorting and some participants expressing bearishness or short positions, several experienced traders highlight retail being on the wrong side of the trade and the potential for a squeeze higher. Technical analysis references, such as order blocks at 108,642 and bullish RSI signals on higher timeframes, suggest upward momentum. There is consensus that as long as BTC holds above key levels (106,500 and 107,250), a move toward 108,500-109,000 and potentially higher is likely. ETF inflows, long-term holding sentiment, and market structure shifts further support a bullish bias. However, there are also calls for trailing stop losses and taking profits at resistance, so risk management is important. The overall positive-to-negative sentiment ratio is weighted toward bullish continuation.",
-    "positive_count": 11,
+    "explanation": "BTC is showing strong resilience despite retail traders opening more shorts, indicating a potential squeeze upward. Multiple users reported holding long positions from lower levels (e.g., 100k) and are trailing stop losses, with targets in the 108k-109k region. Several technical analyses highlighted order blocks around 108,642 and bullish weekly candle closes, suggesting continuation. While some short-term traders are entering shorts or expressing caution about overbought RSI, the dominant sentiment is for upward momentum, especially given ETF inflows and BTC's outperformance over other assets in the last 24 hours. Safe, isolated leverage is recommended due to volatility and mixed retail behavior.",
+    "positive_count": 14,
     "safe_leverage_isolate_future_perpetual": 20,
-    "negative_count": 7,
-    "neutral_count": 8,
+    "negative_count": 6,
+    "neutral_count": 10,
     "representative_opinions": [
-      "Target Hit: I posted the footprint chart. Look at it to see how retail is opening more and more shorts the last two days",
-      "Bam Bam (Nick Falz): Retial is usually wrong. I'll stick with Rick on this one",
+      "Target Hit: ... Look at it to see how retail is opening more and more shorts the last two days",
       "Kagrenac: that's why just long BTC forever",
-      "Tiger Eye: I am trailing my SL, sitting on a long from 100k",
+      "Tiger Eye: calm before the storm; I am trailing my SL, sitting on a long from 100k",
       "KeranaMU: Bitcoin ETF Inflow Hits $588MâIs a $112K Rally Next?",
+      "C Plaza: BTC overperforming everything in the last 24hours: insane",
       "MO: a 6% on weekly btc candle and is only Tuesday",
-      "Panchani Jagnesh: BTC 108500 tak jaega",
-      "Ifthi: BTC (4hr - 1hr refined) at 108642 - We have an order block also - right?",
-      "Trading Crusader: We need to get above $106,500. If it doesnât break above and hold soon down.",
-      "Trading Crusader: Broke $106500 nice! Itâs BTC time. Then btc falls to $104k. And holds while alts rally!",
-      "Chrissy K: did i call out a btc pump last night???"
+      "Trading Crusader: We need to get above $106,500. If it doesnât break above and hold soon down. ... Broke $106500 nice! Itâs BTC time.",
+      "Chrissy K: did i call out a btc pump last night???",
+      "Ifthi: BTC (4hr - 1hr refined) at 108642 - We have an order block also - right ?",
+      "KiloCharley: BTC looking mucho fina but... ?",
+      "Kagrenac: idk if it's ever going to be the foundation for global money but I see 1mil before I see 1 so I long",
+      "Sainath bhame: as a swing trade liya hai buying me",
+      "MO: if get a weekly close above last weekly candles close on ath near 109k i am ready",
+      "Rajan: btc ek baar buyer ko bahar karna chaiye all time high tak jaane se pehle"
     ]
   }
 ]
