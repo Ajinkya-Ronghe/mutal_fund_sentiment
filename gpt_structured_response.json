@@ -4,21 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants are bullish on BTC, referencing potential price targets above current levels, including all-time highs and further upside by the end of June. There is talk of 'money printers' running, which implies a continued risk-on environment, and several chat members reference buying or holding through the current period. No major negative BTC-specific commentary was observed.",
+    "explanation": "Multiple participants express bullish sentiment, referencing strong upward targets (e.g., 119-125k by end of June), ongoing buying activity, and institutional involvement (Blackrock and Fed). Only a few neutral or slightly cautionary voices appear, with no major negative opinions for BTC. No direct candlestick analysis is given, but the overall consensus and target levels indicate a strong buy bias.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
+    "positive_count": 7,
     "negative_count": 1,
-    "neutral_count": 7,
+    "neutral_count": 3,
     "representative_opinions": [
-      "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
       "OH YEAH!: IF THEYRE STILL BUYING HERE, WHY WOULD THEY EVER STOP",
       "Kudjaks: hodl it lord",
       "OH YEAH!: MONEY PRINTERS ON BRRRRR MODE",
+      "Sfork: fed buy pls",
+      "OH YEAH!: BLACKROCK JUST LINKED THE FED DIRECTLY TO THE BLOCKCHAIN AND GETTING EVERY COIN",
       "RaberTrades: I think we hit 119-125k end of June",
       "RaberTrades: VWAP from $110,550 up to $111,983.",
-      "Sfork: fed buy pls",
-      "BREAKING_NEWS: BER WANT dip ?? Eat UP",
-      "oscartg638: not enough stream. we might go back to bottom of triangle"
+      "oscartg638: not enough stream. we might go back to bottom of triangle",
+      "Ryan Teng: you think we hitting 110?",
+      "Ryan Teng: pump over",
+      "RaberTrades: Yep"
     ]
   }
 ]
