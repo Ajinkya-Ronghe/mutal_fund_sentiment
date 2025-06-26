@@ -4,29 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple chat participants express a bullish outlook for BTC, referencing large investments, expectations of breaking all-time highs, and the market holding strong. Some mention that retail traders are shorting BTC while the market remains resilient, which can be interpreted as a contrarian bullish indicator. There are also mentions of BTC investing activity and profits being made. Although a few users mention shorting or dumping, the majority of representative opinions are in favor of price appreciation.",
+    "explanation": "There are multiple positive sentiments regarding BTC in the opinions, including mentions of significant buying activity ($14B BTC buy), expectations of breaking all-time highs, and general bullishness on BTC's resilience and upward trend. While a few comments mention shorting or a bearish outlook, the prevailing attitude is optimism, with statements encouraging long positions, holding, and citing large investments entering the market. One participant notes retail shorts are piling up, suggesting a possible short squeeze. The technical mentions (EMA support, holding up well, anticipated pump) further reinforce the bullish bias.",
     "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 10,
     "negative_count": 4,
-    "neutral_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
       "Real Krantikari : $14B ka BTC by hoga",
-      "LORD UZI: long btc and sleep",
       "LORD UZI: millions of dollars have been invested into the market to pump this time btc is going to break the all time high",
-      "LORD UZI: 120k",
       "Neev: im impressed by how well btc is holding up here, up and to the right",
-      "Ruslanas Gu: retails shorting btc",
       "Ruslanas Gu: market full of shorts",
+      "LORD UZI: long btc and sleep",
+      "Ruslanas Gu: retails shorting btc",
+      "Neev: looks like mm really wants those liqs above us",
       "Luca Weber: I think itâs goin up noob trader",
       "Noob Trader: one more 4h would remain Bullish",
-      "Noob Trader: turning above 100 and staying above mean we have support down",
-      "Ferhaan Schmidt: you can short now gys",
-      "Shekhar Chikara: bhai dump krwaado",
-      "Shekhar Chikara: bhai eth btc ko dump krwaado saalo ko",
-      "oscartg638: not yet",
-      "oscartg638: the more times price hits it, the likelier it is to break it",
-      "Solidity Monster: why would anyone short right now? Silly comment.",
-      "Neev: looks like mm really wants those liqs above us"
+      "Caquaino: thats good we gonna pump"
     ]
   }
 ]
