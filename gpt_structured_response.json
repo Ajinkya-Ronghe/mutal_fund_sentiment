@@ -3,22 +3,19 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "The overall sentiment from the opinions is optimistic for BTC, with users referencing large future prices (e.g., 108k, 110k), strong asset status, and positive buying experiences. There is a mix of extreme bullishness and some warnings about volatility or dumps, but the majority suggest upward momentum. Several comments mention countries converting wealth to BTC, big bets, and positive past purchases. However, a few opinions mention the possibility of a short if BTC fails to hold key levels, so confidence is medium due to mixed signals but with bullish dominance.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 9,
-    "negative_count": 3,
-    "neutral_count": 7,
+    "confidence": "High",
+    "explanation": "The majority of opinions are positive or bullish on BTC, including comments about significant personal purchases, expectations of price increases, and references to global adoption. Several users anticipate further upward movement, with few negative or neutral comments. There is some caution around key levels (108k/109k), but the overall sentiment is strong and momentum-focused.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 13,
+    "negative_count": 2,
+    "neutral_count": 12,
     "representative_opinions": [
-      "jeff gates: seel your house and bet big see you on moon base 7 or rizia",
-      "Kevin Hamid: STEVE 108K INSIGNIFICANT",
-      "Pete : was a damn good move ",
-      "jeff gates: you have countires coverting all there welath to this",
-      "jeff gates: it goes big ",
-      "Marcos Patrick: sell everything strongest assest so far",
+      "Pete : Good thing i spent 41k on btc this week",
+      "jeff gates: it goes big",
+      "Zeythor: is going up",
+      "I changed My Mind: Iâm gonna be rich",
       "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
-      "Tpol: Wow they dump a ton some one betting their life",
-      "oscartg638: no poly. when dollar goes up btc goes down. when dollar goes down, btc is up."
+      "jeff gates: you have countires coverting all there welath to this"
     ]
   }
 ]
