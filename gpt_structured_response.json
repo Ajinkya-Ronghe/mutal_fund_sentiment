@@ -4,19 +4,18 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The sentiment in the chat leans bullish with multiple participants expressing optimism for BTC's future price (e.g., targets of 90k and 108k), encouragement to hold, and at least one user reporting being 'all in' on BTC. However, there are also notable bearish warnings (e.g., 'massive dump incoming', 'close longs, take profit', and mentions of shorting). The mix of opinions results in a medium confidence buy signal, as the bullish comments are more frequent and enthusiastic but not unanimous.",
+    "explanation": "BTC community sentiment is mixed but slightly leans bullish: some users advocate holding or being 'all in' on BTC, one reports being in a no-leverage long since 73k, and mentions of bullish divergence. However, there are warnings of a potential 'massive dump' and calls to close longs or scalp short, so confidence is not high. Nonetheless, the overall tone shows more positive or neutral long-term conviction than outright bearishness.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 7,
-    "negative_count": 4,
-    "neutral_count": 7,
+    "positive_count": 6,
+    "negative_count": 5,
+    "neutral_count": 4,
     "representative_opinions": [
-      "Pegasus SkylineRFS: see you guys at 90k byeee",
-      "Dd: Hoping btc go to 108k",
       "Rising Lion: hodl moar, talk less",
       "henrique aoyagui: maaassive dump incoming",
-      "JB ðï¸ð: SCAAALP SHORT ",
-      "henrique aoyagui: close longs, take profit....",
-      "matt desroches: no leverage long since 73k"
+      "matt desroches: no leverage long since 73k",
+      "JB ðï¸ð: SCAAALP SHORT",
+      "Islandsteve: In a bullish divergence, the currency pair prices make a new low in the market, but the technical indicators mark a higher price.",
+      "henrique aoyagui: close longs, take profit...."
     ]
   }
 ]
