@@ -3,20 +3,18 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "High",
-    "explanation": "Multiple participants highlight a strong ongoing bull run for BTC, with references to holding above 108k and a whale surge signal for a BTC/USDT long from Marticlues AI. While a few caution about a possible reversal or crash, the positive sentiment and algorithmic signals dominate, suggesting further upside in the immediate term. The 1-minute candlestick (Marticlues AI) aligns with a long/buy signal, and bullish opinions outnumber bearish or neutral ones.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 5,
-    "neutral_count": 3,
+    "confidence": "medium",
+    "explanation": "Several participants express strong bullish sentiment regarding BTC holding above the 108K level, with some automated trading signals (Marticlues AI) recommending long positions and setting targets above current prices. However, a considerable number of participants are skeptical, mentioning potential corrections down to 106K or even 87-93K, and a few explicitly call for shorts or caution. The overall tone is mixed but slightly in favor of a continued pump in the near term, with 1-minute candlestick analysis (Marticlues AI, TioRyo) suggesting volatility but a tilt toward upside momentum.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 8,
+    "negative_count": 7,
+    "neutral_count": 5,
     "representative_opinions": [
-      "Dd: Nice bull run",
-      "Glenn Davis: Alright! 108K and holding!!!",
+      "Glenn Davis: Hello 108K never going below it again!!!!",
       "Marticlues AI: Long BTC/USDT:ENTRY=107971.92,TP1=108187.86,TP2=108295.83,TP3=108511.77,SL=107216.11,TA=Whale Surge!",
-      "Was N 1: 107 to 108k wow",
-      "ð²ððððÌ¶ð£ðð¯ðªð°: Big Beautiful Bull Run",
-      "PolySopher: Yeah this breakout could lead to a big event named crash",
-      "TioRyo: -108000 short"
+      "TioRyo: -108000 short",
+      "Travis Alford: this the dump to 106 we all been predicting? lol it's possible",
+      "matt desroches: its kinda interesting the amount of people saying bitcoin heading to 87-93k"
     ]
   }
 ]
