@@ -1,23 +1,20 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Opinions are mixed, but several users note that current support is holding and upward movement is possible after an initial bearish outlook. While some expect a dump, others observe that the breakdown did not happen as anticipated and the price is showing resilience, suggesting potential for a bounce or range. No strong consensus for a high-confidence buy, but the balance of sentiment and technical mentions (support, triangle, legs up) bias toward a moderate buy opportunity.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Several participants highlighted bearish price patterns such as a double top and lower highs, with some expecting a big dump. There is, however, some disagreement, with others noting support is holding and that the chart could go up, resulting in only medium confidence for the Sell signal.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 5,
-    "negative_count": 4,
-    "neutral_count": 8,
+    "negative_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
+      "Rodolfo: I thought it was down, but it's looking like it can actually have some legs and move up",
       "oscartg638: support is holding. it's real.",
-      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
-      "oscartg638: triangle support",
-      "aV1rus: if it was gonna dump hard right now it would of already... this price action looks more like farming... they're gonna range this throw everyone off",
-      "FRED POZIL: @Caquaino sell you BTC to me. Than",
-      "Caquaino: is over",
+      "shabaotb: idk man a double top and a lower high seems to be prepping for a dump",
       "Caquaino: big dump incoming",
-      "shabaotb: so we got a double top and a lower high"
+      "aV1rus: if it was gonna dump hard right now it would of already... this price action looks more like farming... they're gonna range this throw everyone off"
     ]
   }
 ]
