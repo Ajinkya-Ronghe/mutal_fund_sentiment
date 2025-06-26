@@ -4,23 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants are strongly bullish on BTC, referencing new all-time highs, a strong breakout, and an ongoing long trend. Some mention specific liquidity targets above current price, and sentiment leans heavily to the upside with only minor cautionary notes. The overall consensus is that the BTC rally is historic and ongoing, supported by both technical and sentiment-based opinions.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 11,
-    "negative_count": 4,
-    "neutral_count": 6,
+    "explanation": "The overwhelming sentiment in the live chat is bullish for BTC, with multiple users referencing strong support levels, a potential breakout, and encouraging long positions. There is mention of new all-time highs being close, and comments like 'ONLY PUMP ONLY LONG' and 'It really takes gut to short now' suggest that the crowd expects upward movement. Although a few warn of potential fakeouts and pullbacks, the overall tone remains highly positive and momentum-driven, with little fear of immediate downside.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 10,
+    "negative_count": 3,
+    "neutral_count": 4,
     "representative_opinions": [
       "Islandsteve: ONLY PUMP ONLY LONG",
       "DoubleAboveChaos: $5000.00 away from a New ATH",
-      "Geoff O: bears cooked lmao",
-      "Christopher Harvey: 109071 is the liquidity target",
-      "PolySopher: Everything is trying to breakout this may be a historical moment. Gold, silver, palladium, Spx, BTC, Eth, etc",
-      "JUDAS THE TRAITOR: I FORCED THE HELL OUT OF IT TO TAKE 108K",
-      "oscartg638: long quick",
+      "Christopher Harvey: 108.7k..pullback....then 109.7k",
       "Tpol: It really takes gut to short now. But good luck in sleeping",
-      "Dd: Now moonboys go long we dump",
-      "Candra Saputra: best to sell right now ?",
-      "TioRyo: 108000- sell "
+      "PolySopher: Everything is trying to breakout this may be a historical moment. Gold, silver, palladium, Spx, BTC, Eth, etc",
+      "Was N 1: what a fake out lol. all that volume moved no where",
+      "Dd: Now moonboys go long we dump"
     ]
   }
 ]
