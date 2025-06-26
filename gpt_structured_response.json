@@ -3,16 +3,18 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "Several participants discussed Bitcoin positively, referencing upward targets and a bullish outlook. RaberTrades mentioned Bitcoin looking 'perky' and suggested 'launching' toward all-time highs, while Y00LKA discussed strategies involving both long and short bots, but emphasized risk management and not using high leverage. No strong negative sentiment was expressed, but there was some caution about volatility and risk.",
+    "confidence": "High",
+    "explanation": "BTC/USDT received a clear 'Rally Rush!' long signal from Marticlues AI, targeting higher levels with a specific entry and multiple take-profits. RaberTrades highlighted bullish momentum, referencing a potential move toward all-time highs, and mentioned strong activity by miners and treasuries. Y00LKA provided tactical advice for both long and short setups but emphasized using low leverage and appropriate stop-losses, supporting a cautious but positive sentiment. Oscartg638 noted a possible dip before breakout, but overall the prevailing view is bullish.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
+    "positive_count": 4,
     "negative_count": 1,
-    "neutral_count": 3,
+    "neutral_count": 2,
     "representative_opinions": [
-      "RaberTrades: Bitcoin looks perky here guys",
+      "Marticlues AI: Long BTC/USDT:ENTRY=107629.8,TP1=107845.06,TP2=107952.69,TP3=108167.95,SL=106876.4,TA=Rally Rush!",
       "RaberTrades: Letâs 'launch' off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage"
+      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
+      "RaberTrades: Bitcoin miners and treasuries are the play",
+      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
     ]
   }
 ]
