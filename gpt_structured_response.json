@@ -3,27 +3,22 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "Several participants forecast higher BTC targets (109k, 120k), mention of an ascending triangle (bullish continuation), and calls to 'hodl' and expect momentum to build for a breakout. While there are some bearish/sideways opinions (calls for 90k, 103k, sideways until more momentum), the overall tone from the majority is bullish. No technical short signals or strong sell consensus were present. The consensus is more optimistic than negative, but not unanimous, so confidence is medium.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
+    "confidence": "High",
+    "explanation": "Many participants are discussing a strong upward trend, referencing breakouts, new all-time highs (ATH), and expectations of reaching higher targets such as 109k, 120k, and beyond. Even with mentions of sideways action and short-term dips, the prevailing sentiment is bullish. There is significant discussion of holding (hodl), past successful buys at much lower prices, and a lack of strong bearish consensus. The only clear short suggestion is for a quick move from 108.2k, which is outweighed by the broader positive outlook.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 9,
     "negative_count": 3,
-    "neutral_count": 4,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Kudjaks: breakout of this accending triangle as is rn is 109,3k",
+      "Kudjaks: breakout of this ascending triangle as is rn is 109,3k",
+      "tqpro: Aight see you ladies and gents at $120k. Latah!",
+      "Rising Lion: hodl moar, talk less",
       "packslaya: 109 eassy",
       "JUDAS THE TRAITOR: WE SIDEWAYS HERE UNTIL HE BUILDS UP JUICE AND MOMENTUM TO TAKE 108K",
-      "Rising Lion: hodl moar, talk less",
-      "tqpro: Aight see you ladies and gents at $120k. Latah!",
       "henrique aoyagui: yep. rejected, see you guys in 103k",
       "Pegasus SkylineRFS: see you guys at 90k byeee",
-      "@ndreas: its been here for a month with small dips and pumps",
       "matt desroches: no leverage long since 73k",
-      "Kudjaks: res at previous ath 109,375 basically again",
-      "Dd: Cant stay 108 for a week",
-      "oscartg638: your lives revolve around the triangle for the next couple of hours. lol",
-      "Fish: Thatâs true haha.",
-      "Rising Lion: the moonie name calling rings hallow at 107....we were buying at 16.... this is the moon..... now we move further on"
+      "Qvazor: Want short from 108.2k with short sl"
     ]
   }
 ]
