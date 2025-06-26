@@ -4,20 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The live chat showed mixed to negative sentiment for BTC, with calls to 'dump' BTC, some expressing skepticism about an upward movement, and discussion on short trades and resistance levels. Technical mentions referenced rejection at the 5-minute Ichimoku cloud and a short signal on the chart, while a few users mentioned needing confirmation and not shooting in the dark. Although there are isolated bullish comments about possible rallies, the short-term technical bias and crowd sentiment lean slightly bearish.",
+    "explanation": "Several participants express concerns about BTC's price action, mentioning potential dumps (e.g. 'bhai dump krwaado', 'bhai eth btc ko dump krwaado saalo ko'), expectations of lower prices ('bhai 1102000 jayenga phr sidha 104000'), and the need for support retests. Some mention bearish signals or short strategies, while others are skeptical of upward moves. However, a few bullish or neutral comments are present (targets above current price, market holding), so overall the sentiment is moderately bearish, justifying a 'Sell' recommendation but not with high conviction.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 7,
-    "neutral_count": 8,
+    "positive_count": 5,
+    "negative_count": 9,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Shekhar Chikara: bhai dump krwaado",
       "Shekhar Chikara: bhai eth btc ko dump krwaado saalo ko",
+      "SalmanDÂ£vil: bhai 1102000 jayenga phr sidha 104000",
+      "JUDAS THE TRAITOR: EVERY WAVE STEP FROM 107100 HAD TO DO IT AND WE STILL NOT PUMPING",
       "Ferhaan Schmidt: the chart look short signal",
-      "oscartg638: getting rejected already by 5min ichimoku cloud",
-      "Rodolfo: I feel like this is false up",
+      "oscartg638: i hate to say it but price must retest new support again",
       "Noob Trader: no its real rally",
-      "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
-      "pramod singh: today 220 usd loss ho gya short m"
+      "Molyn Brefon: if greedy a bit i would say 107 720"
     ]
   }
 ]
