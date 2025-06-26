@@ -1,23 +1,24 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The chat shows a mix of bullish and bearish short-term sentiment, but the majority of vocal participants urge for upward movement or express disbelief in a major dump. There are repeated calls for pumping and going long, while pullback and dump opinions are present but less dominant. The 1-minute candlestick signal is inferred as 'long' given the momentum and repeated 'go up' encouragement. However, some caution is warranted due to mentions of potential pullbacks and short calls.",
+    "explanation": "Sentiment in the chat is mixed but has a notable downward bias: several participants mention major pullbacks to the 106kâ108k region, and multiple 'short' or 'sell' calls appear, including some specifying leverage. There are bullish opinions, but they are less frequent and less specific. No strong technical consensus, but crowd emotion leans negative in the short term.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 6,
-    "neutral_count": 5,
+    "positive_count": 5,
+    "negative_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Islandsteve: WE PUMP WE ,ONG ONLY",
       "JUDAS THE TRAITOR: PULLBACK TO 107800",
-      "Islandsteve: GO UP!!!!",
-      "Sagent: dumpet",
-      "Sagent: no dump here",
-      "Bitcoin GTR: They said it had to dump to fill the gap...",
       "Josue Marin: Short , 25x",
-      "Travis Alford: this the dump to 106 we all been predicting? lol it's possible"
+      "TioRyo: -108000 short",
+      "Islandsteve: GO UP!!!!",
+      "Glenn Davis: Yes bulls want 108K but the schmucks wont allow it.",
+      "Travis Alford: this the dump to 106 we all been predicting? lol it's possible",
+      "Sagent: dumpet",
+      "JUDAS THE TRAITOR: WE LOST TRACTION",
+      "TioRyo: sell"
     ]
   }
 ]
