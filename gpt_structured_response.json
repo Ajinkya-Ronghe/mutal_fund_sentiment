@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple participants expressed concerns about BTC reaching resistance levels (110,000-111,000), with suggestions to short near these points. Others highlighted bearish sentiment, noting bears are 'roaming freely' and warning about risk in the current market. Some users suggested a possible retest of support and expectations for downward moves in the short term. However, a few comments referenced the uptrend or pointed to specific support levels (107,300), showing some mixed opinions.",
+    "explanation": "There are mixed but slightly more negative short-term opinions regarding BTC, with some users discussing potential for a price drop, expressing regret over missed profits, and considering short entries near current levels. Technical commentary references a need to retest supports, bearish market context, and warnings about risk management. However, a few users mention possible high targets and an uptrend above certain thresholds, so the conviction is not high.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
+    "positive_count": 4,
     "negative_count": 7,
-    "neutral_count": 7,
+    "neutral_count": 6,
     "representative_opinions": [
-      "SalmanDÂ£vil: bhai 1102000 jayenga phr sidha 104000",
-      "pramod singh: bhai btc kitna High laga sakta hai",
       "SalmanDÂ£vil: Bhai please batao 110000 bhai yanha se short kar sakta hu ???",
+      "Ferhaan Schmidt: the chart look short signal",
       "GRIMMS: bears are roaming freely",
-      "Ferhaan Schmidt: now is good short",
       "Noob Trader: we are back into up trend unless it stays under 107.3",
-      "oscartg638: i hate to say it but price must retest new support again"
+      "oscartg638: it aligns with ichimoku cloud 5min. lot's of confluence to validate vwap play",
+      "Molyn Brefon: 107.86 max i can see",
+      "TIVERSON PUBG: asian down btc in 2 hours"
     ]
   }
 ]
