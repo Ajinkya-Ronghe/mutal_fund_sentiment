@@ -1,20 +1,20 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "BTC sentiment is mixed but leans bullish: Several participants mention holding or longing BTC, referencing targets above current prices (e.g. $120k), while a few expect a correction or dump. Bullish opinions highlight strong hands, previous buy levels, and expectation of further price increase. However, multiple users also mention possible rejection at current levels and even calling for a dump, indicating some market uncertainty.",
+    "explanation": "The opinions about BTC are mixed, with multiple participants expecting a rejection at current price levels and forecasting significant corrections to lower levels like 103k and 90k. Some anticipate a 'massive dump' and express skepticism about BTC holding above 108k for a sustained period. There are a few bullish comments targeting 120k, but the negative and neutral voices are more prevalent in this sample, suggesting caution. No clear, strong momentum for an immediate long position is evident on the 1-minute timeframe.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 5,
-    "neutral_count": 5,
+    "positive_count": 4,
+    "negative_count": 7,
+    "neutral_count": 4,
     "representative_opinions": [
-      "Rising Lion: hodl moar, talk less",
-      "tqpro: Aight see you ladies and gents at $120k. Latah!",
-      "Kudjaks: res at previous ath 109,375 basically again",
-      "henrique aoyagui: maaassive dump incoming",
+      "henrique aoyagui: yep. rejected, see you guys in 103k",
       "Pegasus SkylineRFS: see you guys at 90k byeee",
+      "henrique aoyagui: maaassive dump incoming",
+      "tqpro: Aight see you ladies and gents at $120k. Latah!",
+      "Dd: Hoping btc go to 108k",
       "matt desroches: no leverage long since 73k",
       "Qvazor: Want short from 108.2k with short sl"
     ]
