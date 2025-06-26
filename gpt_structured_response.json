@@ -4,19 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several opinions express confidence in BTC's strength, referencing large price targets (108k, 110k, 1 billion $ BTC) and institutional accumulation. Some are highly bullish (e.g., 'sell your house and bet big', 'countries converting all their wealth to this'), while others are cautious, noting possible short-term downside if resistance at 108k/109k is not broken. Technical discussion about candlestick confirmation (15min), and the relationship with DXY (dollar index) suggests a focus on breakout potential if BTC can hold above certain levels. The overall sentiment is more positive than negative, but there is notable caution regarding short-term volatility.",
+    "explanation": "The overall sentiment from the opinions is optimistic for BTC, with users referencing large future prices (e.g., 108k, 110k), strong asset status, and positive buying experiences. There is a mix of extreme bullishness and some warnings about volatility or dumps, but the majority suggest upward momentum. Several comments mention countries converting wealth to BTC, big bets, and positive past purchases. However, a few opinions mention the possibility of a short if BTC fails to hold key levels, so confidence is medium due to mixed signals but with bullish dominance.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
+    "positive_count": 9,
     "negative_count": 3,
-    "neutral_count": 9,
+    "neutral_count": 7,
     "representative_opinions": [
-      "jeff gates: watch this 110 by morning",
-      "Marcos Patrick: 1 billion $ btc",
-      "Kevin Hamid: 108k IS NOTHING",
-      "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
-      "oscartg638: no poly. when dollar goes up btc goes down. when dollar goes down, btc is up.",
+      "jeff gates: seel your house and bet big see you on moon base 7 or rizia",
+      "Kevin Hamid: STEVE 108K INSIGNIFICANT",
+      "Pete : was a damn good move ",
       "jeff gates: you have countires coverting all there welath to this",
-      "Marcos Patrick: sell everything strongest assest so far"
+      "jeff gates: it goes big ",
+      "Marcos Patrick: sell everything strongest assest so far",
+      "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
+      "Tpol: Wow they dump a ton some one betting their life",
+      "oscartg638: no poly. when dollar goes up btc goes down. when dollar goes down, btc is up."
     ]
   }
 ]
