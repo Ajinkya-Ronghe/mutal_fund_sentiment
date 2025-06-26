@@ -4,24 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple participants are discussing shorting BTC at resistance levels (e.g., 110000), wariness about a potential drop due to news or market slowdowns, and mentions of bearish activity. Some mention support at 107210, with others expecting a hard short incoming. Despite some regular DCA buyers, the short-term sentiment is more cautious to bearish due to potential volatility and uncertainty.",
+    "explanation": "There is a mix of bearish and bullish sentiment, but currently more participants are discussing shorting at key resistance (110000), market slowdowns, and upcoming volatility. Some are mentioning profits not being realized and concerns of war/news drops, which adds to uncertainty. However, some regular buying activity and buy-and-hold comments exist, so the signal isn't high confidence. The near-term candlestick signal leans short due to expected resistance and bearish momentum.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 2,
-    "negative_count": 6,
-    "neutral_count": 4,
+    "positive_count": 5,
+    "negative_count": 8,
+    "neutral_count": 9,
     "representative_opinions": [
-      "SalmanDÂ£vil: bhai ab koi war na shuru hojayeEk News btc chand se zameen par",
       "SalmanDÂ£vil: Bhai please batao 110000 bhai yanha se short kar sakta hu ???",
-      "Ferhaan Schmidt: now is good short",
-      "Ricardo Sala: price moved between 108k and 107 the whole day",
-      "oscartg638: support at 107210. That's my new thesis.",
-      "TIVERSON PUBG: asian down btc in 2 hours",
       "GRIMMS: bears are roaming freely",
-      "CHARLES SEXTON: every friday i buy 50$ btc at 5 pm im in the green",
-      "IcicleTripClips: me im buying all the btc",
-      "pramod singh: slow ho gya hai market bahut",
+      "Ferhaan Schmidt: now is good short",
       "Noob Trader: we are back into up trend unless it stays under 107.3",
-      "oscartg638: TP at about 107650"
+      "oscartg638: breakout in about 4.5 - 6 hours",
+      "CHARLES SEXTON: every friday i buy 50$ btc at 5 pm im in the green",
+      "IcicleTripClips: me im buying all the btc"
     ]
   }
 ]
