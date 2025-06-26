@@ -4,27 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mix of optimism and caution, but several comments suggest bullish momentum for BTC, referencing potential for a rise and mentioning bull flags. However, some bearish signals and uncertainty remain present, so the confidence is medium.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 6,
+    "explanation": "Despite some bearish mentions such as 'Today is dump day' and 'BearFlag', there is a notable presence of bullish sentiment including calls for BTC to rise, moon, and references to a bull flag. The community appears divided, but positive momentum and optimism outweigh negativity based on message volume and enthusiasm.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 7,
     "negative_count": 3,
-    "neutral_count": 6,
+    "neutral_count": 8,
     "representative_opinions": [
       "fun: ok, rise btc. rise i comand you",
       "MOON CAT: it's gonna moon",
-      "eastwest312 paq: bull flag on 10s",
-      "Was N 1: all most there btc",
-      "Kuya G: long now ?",
-      "Dd: Today is dump day be ready",
-      "GARYU ART CRAFT: BearFlag",
-      "Sammy: ber flag",
+      "Kudjaks: it gots to moon",
       "eastwest312 paq: trap dem bears",
-      "fun: we aint done was n 1, you might win this 15 min but the next one is ours",
-      "Was N 1: gg moon boys",
-      "Miguel Angel Herrera Sosa: Oooof",
-      "JonTukaCring3: now they're like 6.99 lol",
-      "Santi Note8: 666",
-      "JonTukaCring3: bring back double digit gas prices"
+      "Was N 1: all most there btc",
+      "Dd: Today is dump day be ready",
+      "GARYU ART CRAFT: BearFlag"
     ]
   }
 ]
