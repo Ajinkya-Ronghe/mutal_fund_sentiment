@@ -3,23 +3,21 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "High",
-    "explanation": "The overall sentiment in the live chat is bullish for BTC, with multiple users expressing excitement about the price going up and predicting higher price targets. There are more strong positive sentiments and calls to buy than negative ones. While a few users express caution or suggest a potential pullback, the majority are optimistic about BTC's trend and future, indicating a high-confidence buy recommendation. However, some mention of 'bull trap' and 'lower low with high wick' suggests monitoring for volatility.",
-    "safe_leverage_isolate_future_perpetual": 3,
+    "confidence": "medium",
+    "explanation": "There are several bullish opinions with some projecting significant long-term growth (e.g., $1M in 5 years, $22M in 20 years, and $119-125k by end of June). Many express optimism ('FOREVER UP TRIPLE CONFIRMED', 'buy buy buy'), while cautionary and bearish comments exist (e.g., 'DOWN DOWN', 'sell sell its making lower low with high wick', 'bull trap?'). The overall sentiment is slightly more positive than negative with a high number of bullish long-term projections; however, short-term uncertainty and volatility are noted, so confidence is not set to 'High'.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 10,
-    "negative_count": 4,
-    "neutral_count": 8,
+    "negative_count": 7,
+    "neutral_count": 7,
     "representative_opinions": [
-      "GOO BULLLLS",
-      "BTC live is the best chat room ever made.",
-      "BTC up",
       "FOREVER UP TRIPLE CONFIRMED",
       "buy buy buy",
       "1 mil BTC in 5 years",
-      "I think we hit 119-125k end of June",
+      "3rd times a charm on the breakout",
       "sell sell its making lower low with high wick",
+      "bull trap?",
       "not enough stream. we might go back to bottom of triangle",
-      "bull trap?"
+      "BTC live is the best chat room ever made."
     ]
   }
 ]
