@@ -3,21 +3,20 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "High",
-    "explanation": "The majority of live chat opinions point to bullish sentiment for BTC, with repeated mentions of a bull run, calls to 'pump it up', and references to BTC and gold reaching new all-time highs. There is excitement and positive momentum, despite a few warnings about possible divergence and short-term caution. The overall sentiment, especially on short timeframes and recent candlesticks, is clearly upward. BTC dominance is noted as dropping, which could indicate rotation to alts, but the explicit BTC commentary is bullish.",
+    "confidence": "medium",
+    "explanation": "There is mixed sentiment with both bullish and bearish opinions present. Bullish comments reference a 'NICE BULL RUN,' predictions of new all-time highs, and absorption of selling. However, there are also warnings about strong resistance, selling pressure, negative divergences on multiple timeframes, and a drop in BTC dominance. Overall, the majority of user sentiment is slightly more positive, anticipating further upside, but with notable caution due to technical warnings and potential for reversal.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 4,
-    "neutral_count": 3,
+    "positive_count": 7,
+    "negative_count": 6,
+    "neutral_count": 4,
     "representative_opinions": [
       "Pete : NICE BULL RUN",
-      "Ian Pryor: Pump it tf up",
       "PolySopher: BTC and gold to new Ath",
-      "Abell: DOWN DOOOOWN",
-      "oscartg638: the 15, 30, and 1hr charts are all diverging. not good",
-      "Rodolfo: btc dominance DROPPING",
-      "BREAKING_NEWS: PARADIGM SHIFT",
-      "Santi Note8: LET IT ROLL BABY, ROLL !!"
+      "Islandsteve: SELLING GETTING BOUGHT UP ITS STAYING WE WIN",
+      "Abell: DOWN DOWWWWN",
+      "oscartg638: if we reverse from here, price will be diverging with rsi. be careful. don't try to catch a shooting rocket.",
+      "Alhamaf: Resistance is so strong",
+      "Rodolfo: btc dominance DROPPING"
     ]
   }
 ]
