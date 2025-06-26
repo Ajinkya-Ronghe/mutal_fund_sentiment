@@ -4,21 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants expressed concerns about a bull trap, low volume pump, and market making lower lows with high wicks for BTC. There are also comments about fake breakouts and intentions to start shorting if certain levels are hit. However, there are a few bullish opinions (e.g., 'Christmas in July Santa rally', 'stack dips'), and some neutral/uncertain opinions about price direction, making overall sentiment mixed but skewed toward caution and short-term bearishness.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 8,
-    "neutral_count": 6,
+    "explanation": "The live chat is mixed but slightly more negative: multiple users mention 'bull trap', 'sell sell', 'lower low with high wick', 'short today', and anticipated fake breakout. However, some mention possible quick rallies and triangles (indecision), with a few bullish comments about stacking dips and a potential Santa rally. The general sentiment is cautious with a lean toward short-term downside. No strong consensus on a major move, but risk of downside is more frequently cited.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 6,
+    "negative_count": 9,
+    "neutral_count": 7,
     "representative_opinions": [
       "henrique aoyagui: bull trapp!!!!!!",
       "BREAKING_NEWS: JAMES WYIMN NEW SHORT TODAY @107.4K . Go sup confirm",
       "Ryan Teng: sell sell its making lower low with high wick",
-      "Qvazor: low volume pump",
-      "Qvazor: If hit 108200 - fake breakout, I'm start short.",
-      "SaRumbo: buy tp 1086500..",
       "Pete : all i wanna do is stack dips",
       "ð²ððððÌ¶ð£ðð¯ðªð°: Christmas in July Santa rally",
-      "Qvazor: TRIANGLE is 50/50, for me, can go fast up and down. idk."
+      "Qvazor: If hit 108200 - fake breakout, I'm start short.",
+      "Junn Guldur: Bulls not backing down today"
     ]
   }
 ]
