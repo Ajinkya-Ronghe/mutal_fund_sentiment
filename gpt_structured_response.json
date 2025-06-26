@@ -4,18 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions are mixed, but recent user comments indicate some participants are taking long positions at current levels (e.g., opening long at 107250, holding no-leverage longs since 73k). However, several express concern over a potential bull trap, market overleverage, and short-term volatility. The positive sentiment for short-term longs is offset by worries of a bull trap and overleveraging, resulting in only medium confidence for a buy signal. Leverage should be kept minimal or avoided due to the risk of rapid reversals.",
+    "explanation": "The overall sentiment for BTC is mixed, with several users expressing uncertainty or short-term bearishness, but notable opinions suggest an uptrend or potential for a bounce from the 107k area. Some describe the recent price action as a 'fake dump' or a 'bear trap,' and there are mentions of opening longs without leverage and expecting a launch from the 107250 level. The lack of strong consensus and the presence of both bullish and bearish remarks lower the confidence, but the number of positive/buy indications slightly outweighs the negative, supporting a medium confidence long signal.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 3,
+    "positive_count": 6,
     "negative_count": 4,
-    "neutral_count": 3,
+    "neutral_count": 5,
     "representative_opinions": [
-      "oscartg638: opening long at 107250, approximately.",
-      "matt desroches: no leverage long since 73k",
-      "henrique aoyagui: bull trap",
-      "henrique aoyagui: market is over leveraged",
       "Dd: Bitcoin short term is perfect long term I dont know",
-      "Knowing Dahwae: still short"
+      "Knowing Dahwae: btc is wild",
+      "Knowing Dahwae: still short",
+      "packslaya: fake dump",
+      "packslaya: steady uptrend",
+      "oscartg638: opening long at 107250, approximately.",
+      "oscartg638: we may launch from there to raber's moon.",
+      "Dd: Small dump",
+      "Dd: 107k or fake",
+      "ð²ððððÌ¶ð£ðð¯ðªð°: Bear trap"
     ]
   }
 ]
