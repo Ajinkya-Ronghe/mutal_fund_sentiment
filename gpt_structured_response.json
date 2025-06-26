@@ -4,25 +4,17 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The majority of live opinions express strong bullish sentiment for BTC, referencing breakouts, pumps, and a potential bull run. Several users anticipate margin calls for bears, with many explicitly calling for longs and predicting prices above 108kâ109k. There are only isolated warnings about possible traps if 108k is not held, but the overall consensus is bullish, further supported by macro commentary about a weakening dollar (DXY) and positive geopolitical news.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 13,
-    "negative_count": 2,
-    "neutral_count": 5,
+    "explanation": "The overall sentiment is bullish on BTC, with repeated references to margin calls for bears, expectations for prices to hit 108k and 109k, and comments suggesting an all-time high is coming. While there are some warnings about potential traps and the need for confirmation above 108k, the majority express a positive outlook, supported by perceived weakness in the dollar and expectations for further price pumps.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 10,
+    "negative_count": 4,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Kudjaks: breakout",
-      "Islandsteve: WE PUMP ONLY",
-      "packslaya: LONGSSSSS",
-      "Islandsteve: WE LONG ONLY",
-      "Legiox: BULL RUN BABY",
-      "Dd: 108k still",
       "Pete : BEARS ABOUT TO EXPERIENCE MARGIN CALLS",
-      "packslaya: good game bears see you at 109j",
-      "Daizzy : do not enter long, it a trap",
+      "Jay Dawg: ATH coming soon!",
+      "Kudjaks: gotta hold 108k and pump 108,1k",
       "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
-      "PolySopher: Dxy crumbling",
-      "PolySopher: That pump was sponsored by the fall of dollar empire",
-      "PolySopher: Dollar crashing for short"
+      "Daizzy : do not enter long, it a trap"
     ]
   }
 ]
