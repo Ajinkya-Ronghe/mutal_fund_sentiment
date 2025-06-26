@@ -4,20 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment on BTC in the opinions is neutral to mildly bearish, with traders discussing shorting, choppy and uncertain price action, lower support levels, and a possible fake-out before a larger dump. A few expect a downward move before a bounce, referencing support zones and miners selling. There is no strong consensus for a bullish move and more participants are cautious or shorting in the near-term.",
+    "explanation": "Sentiment in the live chat is leaning slightly bearish for BTC in the short term. Several participants discuss downside targets (e.g., 105300, 106200), expectation of a range and fakeouts down to 106.8k, and mention increased liquidations above 108k making upward moves possible but followed by a 'real dump.' Although some mention potential bounces and the possibility for a long at lower levels (e.g., 103k), the prevailing mood is cautious with more focus on shorting or expecting more downside, especially in the immediate term.",
     "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 2,
     "negative_count": 8,
-    "neutral_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
       "Ferhaan Schmidt: im on short now",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
-      "oscartg638: a little lower for those drawing their lines using the 5min chart",
       "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
-      "shabaotb: i just dont like that 4hr chart",
+      "oscartg638: a little lower for those drawing their lines using the 5min chart",
+      "Rodolfo: I have 105300",
+      "aV1rus: China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
+      "shabaotb: or could head to that 50 on the 1hr then bounce back up",
       "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
-      "oscartg638: support at 107128",
-      "TIVERSON PUBG: i dont see bull flag"
+      "oscartg638: miners sell"
     ]
   }
 ]
