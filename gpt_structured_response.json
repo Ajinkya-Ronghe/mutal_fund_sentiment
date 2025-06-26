@@ -4,18 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several opinions in the chat discuss support levels, potential short setups, and warnings of an incoming 'hard short.' One participant mentions a support at 107210 and a thesis to take short positions, while another echoes that a hard short is coming. However, there are also bullish opinions about long-term prospects (e.g., 'buy like Saylor'), and some neutral or technical banter, so the overall confidence is medium rather than high.",
+    "explanation": "The current sentiment in the chat is mixed, but there are slightly more negative or cautious opinions toward BTC, including calls to 'dump it', suggestions of an upcoming 'hard short', and comments about short-term resistance and support levels. Short-term technical signals such as mentions of support at 107210, resistance at 107650, and sideways price action reinforce a neutral-to-bearish view. There are positive comments (e.g., 'buy it like Saylor', 'mossad buy btc'), but they are outnumbered by negative or neutral sentiments. No strong bullish technical triggers are present for the immediate 1-minute candlestick signal.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
-    "negative_count": 5,
+    "positive_count": 4,
+    "negative_count": 6,
     "neutral_count": 8,
     "representative_opinions": [
+      "High Def: Dump it",
       "Ferhaan Schmidt: hard short will coming",
       "Raudhan Yuriansyah: now short",
       "oscartg638: support at 107210. That's my new thesis.",
-      "High Def: Dump it",
-      "Kagrenac: hey hey",
-      "IcicleTripClips: id buy it like saylor if i could"
+      "IcicleTripClips: id buy it like saylor if i could",
+      "TIVERSON PUBG: mossad buy btc lol",
+      "Caquaino: look the 1 hour candle",
+      "RaberTrades: Letâs let the bulls flip that 3D rsi over yellow ema while Stoch RSI has big room to run. Then BTC will giga send"
     ]
   }
 ]
