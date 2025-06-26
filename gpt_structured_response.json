@@ -4,21 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of commentary on BTC points to uncertain or bearish price action, with participants discussing support levels being tested, potential for further downside, references to 'big dumps', and lack of bullish chart patterns. While there are occasional bullish hopes, the dominant sentiment is caution and expectation of further decline or choppy sideways movement, especially with references to price targets below current levels and concerns about trend line integrity.",
-    "safe_leverage_isolate_future_perpetual": 1,
+    "explanation": "The overall sentiment on BTC in the opinions is neutral to mildly bearish, with traders discussing shorting, choppy and uncertain price action, lower support levels, and a possible fake-out before a larger dump. A few expect a downward move before a bounce, referencing support zones and miners selling. There is no strong consensus for a bullish move and more participants are cautious or shorting in the near-term.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 2,
-    "negative_count": 7,
-    "neutral_count": 9,
+    "negative_count": 8,
+    "neutral_count": 8,
     "representative_opinions": [
-      "oscartg638: triangle support",
-      "Travis Alford: what's next down target",
+      "Ferhaan Schmidt: im on short now",
       "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
-      "oscartg638: damn bears testing it like it's a picnic basket",
-      "Molyn Brefon: a little bit down then up then dooooown",
-      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
+      "oscartg638: a little lower for those drawing their lines using the 5min chart",
+      "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
+      "shabaotb: i just dont like that 4hr chart",
       "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
-      "shabaotb: no bull falg",
-      "shabaotb: or could head to that 50 on the 1hr"
+      "oscartg638: support at 107128",
+      "TIVERSON PUBG: i dont see bull flag"
     ]
   }
 ]
