@@ -1,24 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of BTC-related live chat opinions are short-term cautious or bearish, noting price closing below resistance on the 1-minute chart, suggestions to take profit, and references to key support levels below current price. However, some bullish sentiment exists regarding future upside after a DC announcement, and general hype. The immediate 1-minute signal is short, but the overall market mood remains mixed.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 5,
-    "negative_count": 8,
-    "neutral_count": 6,
+    "explanation": "Multiple participants express bullish sentiment for BTC, referencing a higher move, bullish rewards, and ETF competition to buy at the top. However, there are also cautions about short-term resistance and triangle patterns, with suggestions to take profit on short-term trades. The overall sentiment leans bullish for the broader move, but there is acknowledgement of volatility and potential for short-term corrections.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 7,
+    "negative_count": 3,
+    "neutral_count": 4,
     "representative_opinions": [
-      "Moon Boy: Moon that",
+      "Moon Boy: Higher",
+      "DREW THE EMPATH: Mooooon it!!",
       "OH YEAH!: instant reward for bulls again",
+      "Moon Boy: Wait for DC announcement, way higher",
       "oscartg638: we are in a triangle. It may slam down",
-      "oscartg638: 1min closed perfectly below resistance",
-      "oscartg638: If you short now, you'll find support at about 107230",
       "oscartg638: take profit if you're in it short term (scalping)",
-      "Joey: should I short this?",
-      "oscartg638: TP, TP, TP!!!!",
-      "Y00LKA: it moves few % per day thats why check big picture daily chart..."
+      "oscartg638: 1min closed perfectly below resistance"
     ]
   }
 ]
