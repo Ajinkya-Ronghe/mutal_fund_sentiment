@@ -4,18 +4,18 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several chat participants express bullishness and anticipation of a breakout for BTC, with phrases like 'we LONG', '107 to 100k is print', and references to recent upward price action (from 105K to higher levels). However, some caution and uncertainty remain, with mentions of possible reversals ('Let the waterfall begin'), waiting for breakout confirmation, and at least one 'sell' comment. The overall sentiment is slightly more positive but not uniformly high-conviction.",
+    "explanation": "Most of the opinions reflect a bullish sentiment on BTC, referencing potential breakouts and a recent steady climb from 105k to 107k. Some participants expect a breakout soon, and others discuss the possibility of a move up to 108k or even 100k. However, there is also caution about a possible liquidity grab and a minor negative sentiment from a single 'sell' comment, making the overall outlook moderately confident.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 6,
     "negative_count": 2,
-    "neutral_count": 8,
+    "neutral_count": 5,
     "representative_opinions": [
-      "packslaya: we LONG",
-      "Dd: 107 to 100k is print",
-      "Islandsteve: 6/23 WE WAS AT 105K DSO ITS BEEN CLIMBING",
-      "Dd: Buy at the top",
-      "Snowman âï¸: sell",
-      "Din Djarin: id give it until about Friday to know if we will break out or down. hopefully sooner"
+      "we LONG",
+      "107 to 100k is print",
+      "6/23 WE WAS AT 105K DSO ITS BEEN CLIMBING",
+      "JUDAS THE TRAITOR: HE IS CAUGHT HERE IN SMALL DIFFERENTIAL, IT CAN GO DOWN FOR LIQUIDITY GRAB TO BOUNCE ABOVE 108K",
+      "Islandsteve: SLOW HORRABLE CLIMB UP",
+      "Snowman âï¸: sell"
     ]
   }
 ]
