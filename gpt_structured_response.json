@@ -4,22 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment from the opinions is mixed but slightly positive for BTC. Some users mention routine buying (e.g., regular Friday buys), and others note accumulation or bullish actions (e.g., 'me im buying all the btc', 'keep buying icicle take us to the measured move'). However, there are also concerns about market slowness, lack of profit, and mentions of a possible hard short coming. The short-term candlestick signal leans long as support and profit-taking targets are being discussed above current price levels, and the uptrend is noted unless price drops under a key level.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "While there is notable uncertainty and mixed sentiment in the chat, direct references to regular buying (e.g., recurring buys on Fridays), community support for buying BTC, and mentions of participants actively accumulating Bitcoin indicate a moderate bullish bias. Some users discuss market slowdowns and lack of profit, but no strong bearish consensus emerges. The presence of a few bearish comments is outweighed by repeated statements about buying and holding BTC. No explicit short signals dominate. Given the cautious optimism, a 'Buy' with medium confidence is warranted.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 4,
-    "negative_count": 3,
-    "neutral_count": 3,
+    "negative_count": 2,
+    "neutral_count": 8,
     "representative_opinions": [
       "CHARLES SEXTON: every friday i buy 50$ btc at 5 pm im in the green",
       "IcicleTripClips: me im buying all the btc",
       "Neev: keep buying icicle take us to the measured move",
-      "Noob Trader: we are back into up trend unless it stays under 107.3",
-      "Ferhaan Schmidt: hard short will coming",
       "pramod singh: slow ho gya hai market bahut",
-      "Rahul 602 20: Bhai profit huwa hi nhi ye bol rha hu",
-      "oscartg638: support at 107210. That's my new thesis.",
+      "faheem sindhi: sir selling hoge shayad",
+      "GRIMMS: bears are roaming freely",
+      "Ferhaan Schmidt: now is good short",
       "Ricardo Sala: price moved between 108k and 107 the whole day",
-      "GRIMMS: bears are roaming freely"
+      "oscartg638: support at 107210. That's my new thesis.",
+      "Noob Trader: we are back into up trend unless it stays under 107.3",
+      "SalmanDÂ£vil: Big maine sirf .long par kamaya hai short par Washout kara hu bht ye saal",
+      "herr_lippi: i started on 1 myself, but it's not on point yet",
+      "Crypto Cypher: s",
+      "High Def: Whatâs holding price up"
     ]
   }
 ]
