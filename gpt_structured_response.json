@@ -4,19 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants note upward momentum and bullish sentiment for BTC, referencing technical indicators like the 1-minute stoch pointing up, MACD daily signals, and repeated mentions of pumps and breakouts at key levels (108k, 107k as support). There is consensus on short-term bullish price action, with recommendations for using stop loss and isolated leverage at critical points for safety. No significant negative or bearish BTC opinions are present, and the discourse supports a high-confidence buy/long signal.",
+    "explanation": "Multiple chat participants express strong bullish sentiment, referencing 1-minute stochastic and overall price action suggesting imminent upward movement. There is consensus around a pump towards 108k-109.7k levels. Trend line support at 107k is holding, and liquidations above 109.7k are targeted. Short-term technicals and community sentiment align for a bullish move.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
+    "positive_count": 8,
     "negative_count": 0,
-    "neutral_count": 4,
+    "neutral_count": 6,
     "representative_opinions": [
       "Was N 1: the 1min stoch is pointing up we gonna pump hard now",
-      "Kudjaks: it did pumped well and touched over top of the channel, 108,4k breakout",
-      "Tiger Eye: Trend line is holding up quite good, if we slip 107 is a strong support",
-      "Alexis Gonzalez: 109700 is the last of liquidations above us and with this price action it looks quite possible.",
       "Kudjaks: same setup gor the pump but now fr",
-      "fun: dam dirty bears are allways messing with my nap time. pump already, we all know you want to.",
-      "TioRyo: In long trade use stop on the daily or weekly candle. In short trade use stop loss on the last daily or weekly candle. Leverage only on TOPS AND BOTTOM."
+      "Alexis Gonzalez: Good evening, 109700 is the last of liquidations above us and with this price action it looks quite possible. I bet we go up at least to liquid levels before we see 103500 again",
+      "Tiger Eye: Trend line is holding up quite good, if we slip 107 is a strong support",
+      "Kudjaks: 108.1k",
+      "Kudjaks: it did pumped well and touched over top of the channel, 108,4k breakout",
+      "fun: so close, i can smell it",
+      "fun: 108 just smells better."
     ]
   }
 ]
