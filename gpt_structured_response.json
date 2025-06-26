@@ -4,19 +4,17 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of recent opinions are cautious or bearish regarding BTC, referencing patterns like double tops, lower highs, and potential for a dump to around 104k. Some mention triangle support and the possibility of a range-bound fake out, but overall sentiment leans toward expecting downside or choppy action. No strong bullish cases or clear signals for a long trade were present.",
+    "explanation": "The collective sentiment in the live chat is mixed to bearish, with several participants discussing potential downside targets, warnings of a 'big dump incoming,' and observations of bearish chart patterns such as double tops and lower highs. Some warn to be cautious of fakeouts and to wait for confirmation, while others mention support holding. The consensus leans toward caution and a possible downward move in the near term, but not a high-confidence crash.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 8,
-    "neutral_count": 7,
+    "positive_count": 5,
+    "negative_count": 9,
+    "neutral_count": 10,
     "representative_opinions": [
-      "shabaotb: so we got a double top and a lower high",
-      "Caquaino: big dump incoming",
-      "shabaotb: and when i say dump im talkin maybe 104k not too low",
+      "MrSubmariner76: Sell the ponzi now",
       "oscartg638: support is holding. it's real.",
-      "aV1rus: this price action looks more like farming... they're gonna range this throw everyone off",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
-      "FRED POZIL: @Caquaino sell you BTC to me. Than"
+      "Caquaino: big dump incoming",
+      "shabaotb: idk man a double top and a lower high seems to be prepping for a dump",
+      "aV1rus: look at previous dumps it doesnt hang out and chop - usually this price action is a range... it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation"
     ]
   }
 ]
