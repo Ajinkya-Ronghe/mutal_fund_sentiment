@@ -4,25 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants express strong bullish sentiment toward BTC, referencing expectations of a sharp upward move (\"moon\"), imminent large price targets (\"117k in 87 hours\"), and a perception that BTC is currently leading the market rise (\"nothing else moving with btc going up\"). Additionally, an automated signal (WBTC/USDT: Whale Surge!) suggests a strong long entry with close targets, further supporting the current bullish momentum.",
+    "explanation": "The majority of opinions express strong bullish sentiment for BTC, with repeated calls that it will 'moon' and references to big upward targets (e.g., 117k in 87 hours). Several users are excited about upward movement, and there is a mention of BTC moving while other coins are not. Trade calls for WBTC (wrapped BTC) also suggest a strong buy/long direction, with technical targets and indications of 'whale surge.' There are very few, if any, negative or neutral opinions about BTC, further increasing confidence in a long/buy signal.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
     "negative_count": 1,
-    "neutral_count": 4,
+    "neutral_count": 2,
     "representative_opinions": [
       "MOON CAT: it's gonna moon",
       "TheChrisamella: 117k in 87 hours",
       "Kudjaks: it gots to moon",
       "Marticlues AI: Long WBTC/USDT:ENTRY=107710.27,TP1=107925.69,TP2=108033.4,TP3=108248.82,SL=106956.3,TA=Whale Surge!",
-      "MOON CAT: GO GO GO",
       "Jora Sidhu: Why is nothing else moving with btc going up",
-      "Kudjaks: intense fight and so early still",
-      "Kudjaks: day is young",
-      "Was N 1: dump it",
+      "MOON CAT: GO GO GO",
       "Dd: Big pump or dump this is it guys",
-      "fun: come on",
-      "fun: thats true, 11 minitus in",
-      "JamTrades: it might blow up well see"
+      "JamTrades: it might blow up well see",
+      "Was N 1: dump it",
+      "Kudjaks: intense fight and so early still",
+      "Kudjaks: day is young"
     ]
   }
 ]
