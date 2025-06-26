@@ -4,18 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "While there is a mix of bullish and bearish sentiment, several opinions suggest bullish technical setups (e.g., 3D RSI with room to run, triangle formation with possible breakout, and references to 'giga send' after technical confirmation). Negative comments focus more on short-term risks and warnings, but the overall crowd leans slightly positive for BTC continuation if technical levels hold.",
+    "explanation": "Several chat participants discuss technical analysis, bullish setups, and key price levels for BTC. There is mention of potential for a breakout, the possibility for BTC to 'giga send' if certain technical indicators flip, and a few calls for buying like Saylor or Mossad. However, there are also some warnings about possible rejection and triangle formation, as well as short-term caution. The general sentiment is slightly more positive than negative, but with mixed opinions, hence medium confidence.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 6,
-    "negative_count": 4,
-    "neutral_count": 5,
+    "negative_count": 3,
+    "neutral_count": 4,
     "representative_opinions": [
       "RaberTrades: Letâs let the bulls flip that 3D rsi over yellow ema while Stoch RSI has big room to run. Then BTC will giga send",
       "IcicleTripClips: id buy it like saylor if i could",
-      "oscartg638: support at 107210. That's my new thesis.",
       "TIVERSON PUBG: mossad buy btc lol",
+      "oscartg638: breakout in about 4.5 - 6 hours",
+      "oscartg638: support at 107210. That's my new thesis.",
+      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
       "Ferhaan Schmidt: hard short will coming",
-      "Raudhan Yuriansyah: now short"
+      "Raudhan Yuriansyah: now short",
+      "oscartg638: if my thesis is correct and we are rejected from 107700 we are officially in a triangle. Be careful.",
+      "Siren Stardust: its a open market soo far soo why not",
+      "Caquaino: look the 1 hour candle",
+      "herr_lippi: chatgpt said 106.7 for me",
+      "oscartg638: TP at about 107650"
     ]
   }
 ]
