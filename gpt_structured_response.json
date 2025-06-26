@@ -4,23 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several AI trading signals (Marticlues AI) suggest a successful sequence of BTC/USDT long trades reaching take profit targets at incremental levels, indicating bullish short-term momentum. However, community sentiment is mixed, with some warnings about price volatility, possible dumps, and the impact of miner selling. While AI signals are positive, some traders express caution due to potential range-bound price action, fakeouts, and downside risk from new supply or liquidation spikes. Thus, a medium confidence buy signal is appropriate, with a focus on quick, low-leverage entries.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 7,
-    "neutral_count": 6,
+    "explanation": "Marticlues AI provided clear long signals for BTC/USDT with positive target points, indicating algorithmic confidence in upward movement. However, various participants in the live chat expressed mixed or uncertain short-term directional opinions, with some suggesting potential for down moves or range-bound action. The overall sentiment leans slightly bullish due to the algorithmic signals, but confidence is tempered by visible skepticism and mention of possible volatility, liquidation risks, and lack of a clear bull flag.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 4,
+    "negative_count": 8,
+    "neutral_count": 10,
     "representative_opinions": [
       "Marticlues AI: BTC/USDT Long Score TP1!: P=105541.83,+0.2%",
       "Marticlues AI: BTC/USDT Long Nail TP2!: P=105541.83,+0.3%",
       "Marticlues AI: BTC/USDT Long Boom TP3!: P=105541.83,+0.5%",
-      "oscartg638: support at 107128",
       "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
-      "aV1rus: China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
+      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
       "Ferhaan Schmidt: im on short now",
+      "shabaotb: or could head to that 50 on the 1hr",
+      "shabaotb: then bounce back up",
       "shabaotb: i just dont like that 4hr chart",
-      "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
-      "oscartg638: miners sell",
-      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long"
+      "Asi Landes: on the trend line again"
     ]
   }
 ]
