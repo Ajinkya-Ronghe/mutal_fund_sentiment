@@ -4,25 +4,18 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "BTC commentary is mixed, with some pointing to trendline rejection and potential bearish fractals, while others highlight support holding, absence of major selling, and a possible move up. Candlestick signals suggest volatility but the consensus leans toward holding or buying for short-term upside, especially after CME gap fills and no major sell pressure.",
+    "explanation": "Despite mixed opinions, the overall sentiment leans slightly bullish for BTC. Support levels are holding according to several traders, and there is commentary on lack of selling pressure. Some anticipate a dump, but there are more mentions of holding, ranging price action, and refusal to sell. One user highlights that 'no one selling their btc,' and another notes that if a dump was imminent, it would have already happened. However, concerns about double tops, lower highs, and potential dumps temper the confidence level.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 6,
-    "neutral_count": 9,
+    "positive_count": 6,
+    "negative_count": 4,
+    "neutral_count": 6,
     "representative_opinions": [
       "oscartg638: support is holding. it's real.",
       "Dude Talk: lots of food at bottom but no one selling thier btc",
-      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
-      "Tjeerd Phaff: we rejected trendline, daily open could not hold",
-      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
+      "aV1rus: if it was gonna dump hard right now it would of already... this price action looks more like farming... they're gonna range this throw everyone off",
+      "Caquaino: its gonna dump",
       "shabaotb: so we got a double top and a lower high",
-      "Caquaino: is over",
-      "Asi Landes: I sold this morning 108",
-      "oscartg638: triangle support",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
-      "Caquaino: big dump incoming",
-      "Siren Stardust: -0.0112% only this makes mee short thime bull now",
-      "Siren Stardust: Im still long after Cme gap ...big shote oute too dlock fore giving awsome week end charts"
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL"
     ]
   }
 ]
