@@ -4,17 +4,17 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple chat participants express bullishness or anticipation for higher BTC prices, such as references to ETF activity driving prices up and algorithmic buy calls with high targets (e.g., Ace algorithm buy call stands. TP 108.4k). However, some neutral and questioning opinions exist (e.g., 'are we going all the way down now', 'short?'), and there is no clear consensus on immediate direction. The overall sentiment is cautiously optimistic, with more positive than negative signals.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "There are mixed sentiments, but some notable bullish signals include references to ETF buying pressure and an explicit algorithmic 'buy call' with a target near 108.4k. Some uncertainty is present (mentions of 'short?' and 'are we going all the way down now'), but positive momentum seems to dominate with references to account growth and bullish market structure.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 5,
     "negative_count": 2,
-    "neutral_count": 5,
+    "neutral_count": 9,
     "representative_opinions": [
-      "the etfs are fighting eachother trying to see who can buy the top more",
-      "Ace algorithm buy call stands. TP 108.4k",
-      "SlicK: Wake me up if it ever gets to 108200",
+      "OH YEAH!: the etfs are fighting eachother trying to see who can buy the top more",
+      "Ace Winner: Ace algorithm buy call stands. TP 108.4k",
+      "oscartg638: 10% account increase was worth it, though",
       "Ryan Teng: are we going all the way down now",
-      "ä¸åå¾: it may keep going"
+      "ä¸åå¾: that guy closed some to raise his liq price to 108.5"
     ]
   }
 ]
