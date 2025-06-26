@@ -4,17 +4,17 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple sources indicate a bullish outlook for BTC: Marticlues AI suggests a 'Rally Rush' long signal, and several chat participants (RaberTrades, Y00LKA) discuss upward movement, support for bullish entries, and targeting new highs. While one participant (oscartg638) mentions potential for a dip, the overall sentiment, including strategy suggestions and technical targets, is positive for BTC in the short term.",
+    "explanation": "Multiple sources expressed bullish sentiment for BTC. Marticlues AI gave a clear long signal with defined entry, take-profit and stop-loss, describing a 'Rally Rush.' RaberTrades repeatedly indicated positive outlook, mentioning miners, treasuries, and a potential launch towards all-time highs. The technical discussion from Y00LKA suggests caution but still proposes setups with both long and short entries and emphasizes risk management, which does not contradict the overall bullish consensus.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 5,
+    "positive_count": 4,
     "negative_count": 1,
-    "neutral_count": 3,
+    "neutral_count": 2,
     "representative_opinions": [
       "Marticlues AI: Long BTC/USDT:ENTRY=107629.8,TP1=107845.06,TP2=107952.69,TP3=108167.95,SL=106876.4,TA=Rally Rush!",
+      "RaberTrades: Letâs 'launch' off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
       "RaberTrades: Bitcoin looks perky here guys",
-      "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
       "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
-      "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think. this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
+      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
     ]
   }
 ]
