@@ -4,17 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment in the chat shows a mix of opinions, but there are notable negative sentiments such as expecting further decline (e.g., 'ATH was december 2024 and it is constant fall. SHORT it and forget.'), suggestions to 'dump' BTC, and concerns about price getting rejected at technical indicators (e.g., VWAP, Ichimoku Cloud). A few are holding or buying dips, but the short-term view is cautious to bearish. There is no strong bullish conviction for immediate buying, and several traders express doubt about an imminent rally.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
-    "negative_count": 5,
-    "neutral_count": 7,
+    "explanation": "The overall sentiment is mixed, but with a slight bearish tilt on short-term price action. Several users suggest shorting, mention recent losses from shorts, or refer to a persistent downward trend. Some users express concern over price rejection at technical indicators (e.g., VWAP, Ichimoku cloud), and a few mention holding or buying dips for long-term, but short-term comments lean toward caution or selling. No clear high-confidence buy signal emerges for the immediate time frame.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 4,
+    "negative_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
       "iwannamynickagain: Go sleep. ATH was december 2024 and it is constant fall. SHORT it and forget.",
-      "Shekhar Chikara: bhai dump krwaado",
+      "Architec(MattyB!!!): i want to sell it",
       "oscartg638: getting rejected already by 5min ichimoku cloud",
+      "pramod singh: today 220 usd loss ho gya short m",
+      "Noob Trader: fly above the Cloud",
+      "Din Djarin: BTC never below 48k",
       "C-130: I'm holding it and I'm only purchasing the dips. And I'm only purchasing if it's below my average.",
-      "Din Djarin: BTC never below 48k"
+      "James Wampler: the small price movement needs nothing to me... it's an opportunity when fear strikes for me to buy",
+      "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
+      "Rodolfo: I feel like this is false up"
     ]
   }
 ]
