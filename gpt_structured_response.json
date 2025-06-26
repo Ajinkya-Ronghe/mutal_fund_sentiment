@@ -4,22 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several opinions reference a failed trendline, an inability to hold the daily open, and an overall uncertain or bearish short-term sentiment. Mention of a bear fractal, head and shoulders pattern, and a potential drop to 105,350 suggest caution. However, there is still some support and neutral speculation, so the confidence is not high.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The majority of recent opinions and technical observations point towards a bearish bias or at least caution for BTC in the immediate term. Key support levels (107200, 107150) are being tested, and there's mention of trendline rejection, a bear fractal, and head-and-shoulders patterns forming on higher timeframes. Several participants see downside targets (105200, 105350) if support breaks, and one notes that it's 'hard to say' with no clear bullish conviction. There is also a notable lack of sellers at lower levels, which could mean limited downside, but the range is still generally considered risky. Only minor bullish sentiment is present, with some noting support is holding for now, but the overall tone is more cautious and slightly bearish in the very short term.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 5,
-    "negative_count": 7,
-    "neutral_count": 9,
+    "negative_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Tjeerd Phaff: we rejected trendline, daily open could not hold",
-      "oscartg638: support is holding. it's real.",
-      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
-      "Caquaino: its gonna dump",
-      "Hoover: Drop it to 105,350 then launch up!",
+      "oscartg638: that support was real",
+      "Tjeerd Phaff: it's hard to say at this moment",
       "oscartg638: the breakout target to the downside is 105200 and to the upside is 108750 approximately.",
-      "Caquaino: look the 1 hour candle",
-      "Tjeerd Phaff: not saying we can't go up but i would be surprised",
-      "oscartg638: trend line matters still but the triangle will matter more",
-      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350"
+      "Tjeerd Phaff: we rejected trendline, daily open could not hold",
+      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
+      "oscartg638: support is holding. it's real.",
+      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
+      "Caquaino: its gonna dump",
+      "Siren Stardust: -0.0112% only this makes mee short thime bull now"
     ]
   }
 ]
