@@ -1,21 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "BTC opinions are mixed, but there are notable bullish calls (e.g., 'BUY BUY BUY', 'BTC to 1 million soon if dollar crashes'). Some believe the bottom is in or expect a breakout, while others warn of a possible drop or bearish control. The overall sentiment is moderately bullish due to the number of positive remarks and speculation about new all-time highs if the dollar weakens.",
+    "explanation": "Opinions are mixed, but short-term sentiment is tilted bearish due to comments about 'waterfall', 'down she goes', bears in control, and talk of a potential breakdown. However, there are also strong bullish counter-opinions about this being the bottom and calls to buy. The market appears uncertain with more negative signals than positive, suggesting caution with a slight bearish bias on the 1-minute chart.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 4,
+    "positive_count": 4,
+    "negative_count": 6,
     "neutral_count": 6,
     "representative_opinions": [
+      "Architec(MattyB!!!): down she goes",
+      "Architec(MattyB!!!): waterfall next",
+      "oscartg638: bears are in control. I meant to say. sorry",
+      "JUDAS THE TRAITOR: THIS IS BOTTOM HERE",
       "packslaya: BUY BUY BUY",
       "PolySopher: BTC to 1 million soon if dollar crashes. Still 1 BTC = less than a hous",
-      "JUDAS THE TRAITOR: THIS IS BOTTOM HERE",
-      "Architec(MattyB!!!): down she goes",
-      "oscartg638: bears are in control. I meant to say. sorry",
-      "ForgottenOne Legend: are we really on our way to new ath??"
+      "Dd: 107 to 100k is print",
+      "Din Djarin: if we were to reject here over the next few days the bearish target would be around 101"
     ]
   }
 ]
