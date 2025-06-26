@@ -3,18 +3,25 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
-    "confidence": "medium",
-    "explanation": "The majority of opinions referenced bearish sentiment or anticipation of a downward move for BTC, including explicit calls for shorting and mentions of a 'preweekend flash dump.' Several participants discuss targets below current levels and express expectations for further downside, though there is some mixed sentiment and a few bullish or neutral remarks. No clear 1-minute candlestick reversal or strong bullish catalyst was mentioned in the comments.",
+    "confidence": "High",
+    "explanation": "The majority of opinions express a bearish outlook for BTC, with repeated calls to short, predictions of imminent dumps (including pre-weekend and Friday dump expectations), and references to price targets below current levels. Although a few upbeat or contrarian comments exist, the sentiment is overwhelmingly negative, supported by references to failed pumps, profit-taking on shorts, and stop-loss strategies for further downside. No strong bullish counter-arguments are present, and even neutral questions about direction are met with short-side enthusiasm.",
     "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 2,
-    "negative_count": 7,
-    "neutral_count": 3,
+    "negative_count": 12,
+    "neutral_count": 6,
     "representative_opinions": [
+      "The Dusty Hunt: all in short",
       "JonTukaCring3: best spot to short leess gooo",
-      "oscartg638: we have to diverge hardcore now. sell, sell, sell!",
+      "JonTukaCring3: i short 4 da inevitable friday dump",
       "JonTukaCring3: preweekend flash dump coming yooo",
+      "oscartg638: this is the short everyone was taklking about all day.",
+      "oscartg638: we have to diverge hardcore now. sell, sell, sell!",
       "Josue Marin: Your SL at 108,500 if btc get over that may reach 109k",
-      "Islandsteve: DONT SHORT LOL"
+      "Josue Marin: Bearâs claws on the bulls now",
+      "Alina Bogdan: 104k next?",
+      "PolySopher: Dxy bottoming BTC dampening",
+      "Islandsteve: DONT SHORT LOL",
+      "Islandsteve: UP UP AND AWAY"
     ]
   }
 ]
