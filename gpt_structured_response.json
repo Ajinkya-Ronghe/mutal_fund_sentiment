@@ -4,17 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The collective sentiment in the live chat is mixed to bearish, with several participants discussing potential downside targets, warnings of a 'big dump incoming,' and observations of bearish chart patterns such as double tops and lower highs. Some warn to be cautious of fakeouts and to wait for confirmation, while others mention support holding. The consensus leans toward caution and a possible downward move in the near term, but not a high-confidence crash.",
+    "explanation": "BTC sentiment in the chat leans bearish, with several users mentioning a potential dump, talking about lower highs, double tops, and testing support levels. However, there are also voices noting price action looks like ranging, not a breakdown, and some expecting fakeouts. The overall bias is toward a short-term pullback or range-bound volatility, with no strong bullish conviction.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
+    "positive_count": 4,
     "negative_count": 9,
-    "neutral_count": 10,
+    "neutral_count": 7,
     "representative_opinions": [
-      "MrSubmariner76: Sell the ponzi now",
-      "oscartg638: support is holding. it's real.",
       "Caquaino: big dump incoming",
       "shabaotb: idk man a double top and a lower high seems to be prepping for a dump",
-      "aV1rus: look at previous dumps it doesnt hang out and chop - usually this price action is a range... it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation"
+      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
+      "oscartg638: support is holding. it's real.",
+      "aV1rus: this price action looks more like farming... they're gonna range this throw everyone off",
+      "shabaotb: seems to be losing that 50 as we speak",
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
+      "Molyn Brefon: a little bit down then up then dooooown",
+      "Degen Again: they wont dump if people keep shorting too early",
+      "oscartg638: triangle support"
     ]
   }
 ]
