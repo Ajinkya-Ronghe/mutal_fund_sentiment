@@ -1,20 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants express strong bullish sentiment regarding BTC holding above the 108K level, with some automated trading signals (Marticlues AI) recommending long positions and setting targets above current prices. However, a considerable number of participants are skeptical, mentioning potential corrections down to 106K or even 87-93K, and a few explicitly call for shorts or caution. The overall tone is mixed but slightly in favor of a continued pump in the near term, with 1-minute candlestick analysis (Marticlues AI, TioRyo) suggesting volatility but a tilt toward upside momentum.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 8,
-    "negative_count": 7,
-    "neutral_count": 5,
+    "explanation": "Several participants expect a price pullback, with repeated mentions of shorting BTC at or near 108,000, and expectations for a move towards 107,800 or even as low as 106,000. While some are bullish or neutral, the short-term 1-minute sentiment and presence of leveraged short calls and warnings of a crash dominate the immediate outlook.",
+    "safe_leverage_isolate_future_perpetual": 5,
+    "positive_count": 5,
+    "negative_count": 9,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Glenn Davis: Hello 108K never going below it again!!!!",
-      "Marticlues AI: Long BTC/USDT:ENTRY=107971.92,TP1=108187.86,TP2=108295.83,TP3=108511.77,SL=107216.11,TA=Whale Surge!",
-      "TioRyo: -108000 short",
+      "TioRyo: -108000 SELL",
+      "JUDAS THE TRAITOR: PULLBACK TO 107800",
+      "Josue Marin: Short , 25x",
       "Travis Alford: this the dump to 106 we all been predicting? lol it's possible",
-      "matt desroches: its kinda interesting the amount of people saying bitcoin heading to 87-93k"
+      "PolySopher: BTC crash = general crash caused by the dollar crash",
+      "Glenn Davis: Hello 108K never going below it again!!!!",
+      "Ace Winner: My algorithm bot is still aiming for 108.4k haha"
     ]
   }
 ]
