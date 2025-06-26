@@ -4,18 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of BTC-related opinions express a bearish outlook, with several users advocating for short positions and discussing ongoing or anticipated price drops. There are repeated mentions of 'shorting,' 'bear choke slamming these bulls,' and 'sell, sell, sell,' indicating a market sentiment skewed towards further downside in the short-term. However, there are a few neutral and mildly optimistic comments suggesting a potential rebound or delay rather than a sustained fall, so confidence is medium rather than high.",
+    "explanation": "The majority of recent opinions express bearish sentiment for BTC, mentioning expectations of a dump, calls to short, and targets below current price levels. However, there is some counter-opinion suggesting a possible recovery, so confidence is medium rather than high.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 2,
     "negative_count": 8,
-    "neutral_count": 4,
+    "neutral_count": 6,
     "representative_opinions": [
+      "Sagent: weekend is near red days coming",
       "Josue Marin: Letâs short btc",
-      "oscartg638: this is the short everyone was taklking about all day.",
-      "Travis Alford: bear choke slamming these bulls",
       "oscartg638: we have to diverge hardcore now. sell, sell, sell!",
-      "PolySopher: Dxy bottoming BTC dampening",
-      "JUDAS THE TRAITOR: IT WILL RETAKE IT MAKE NO WORRY. ITS JUST A DELAY"
+      "Josue Marin: Bearâs claws on the bulls now",
+      "oscartg638: this is the short everyone was taklking about all day.",
+      "Josue Marin: Your SL at 108,500 if btc get over that may reach 109k",
+      "JUDAS THE TRAITOR: IT WILL RETAKE IT MAKE NO WORRY. ITS JUST A DELAY",
+      "Legiox: Look at this gay bears saying itll dump"
     ]
   }
 ]
