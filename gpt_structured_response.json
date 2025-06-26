@@ -1,22 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There are mixed opinions regarding BTC with several users showing buying sentiment and expecting an upward move (mentions of 'keep buying', 'buy it like Saylor', and 'me im buying all the btc'), while a few others suggest the market is slow or recommend shorting. However, positive interest in buying and references to trend support dominate, though the lack of strong technical specifics tempers overall confidence.",
+    "explanation": "The live chat reflects a mixed but slightly bearish sentiment for BTC. Some users mention the market being slow, supporting the view of reduced bullish momentum. There are repeated mentions of shorting, with statements like 'now is good short,' 'hard short will coming,' and users discussing support/resistance levels and triangle patterns that typically indicate indecision or possible breakdowns. There is also a notable lack of strongly bullish opinions for BTC (some are buying, but these are not dominant), and some participants express concern about market direction. No clear evidence of high conviction, but the consensus leans towards caution and possible short setups.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 3,
-    "neutral_count": 5,
+    "positive_count": 2,
+    "negative_count": 4,
+    "neutral_count": 8,
     "representative_opinions": [
-      "IcicleTripClips: me im buying all the btc",
-      "Neev: keep buying icicle take us to the measured move",
-      "Noob Trader: we are back into up trend unless it stays under 107.3",
-      "Ricardo Sala: price moved between 108k and 107 the whole day",
       "Ferhaan Schmidt: now is good short",
-      "High Def: Dump it",
-      "pramod singh: slow ho gya hai market bahut"
+      "Raudhan Yuriansyah: now short",
+      "Ferhaan Schmidt: hard short will coming",
+      "oscartg638: i see a triangle",
+      "Ricardo Sala: price moved between 108k and 107 the whole day",
+      "oscartg638: support at 107210. That's my new thesis.",
+      "pramod singh: slow ho gya hai market bahut",
+      "IcicleTripClips: me im buying all the btc"
     ]
   }
 ]
