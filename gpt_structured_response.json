@@ -4,22 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple participants in the live chat discussed bullish momentum, holding long positions, and expecting a pump to higher levels (e.g., 'its soooo bullish', 'pump it', '120k here we go'). Some mentioned technical confirmations (EMA curling up, above cloud), while a few expressed skepticism about the move's validity or noted rejection at resistance (Ichimoku cloud, vwap play). Overall, sentiment leans bullish but with some caution and a need for more confirmation.",
+    "explanation": "The overall sentiment in the chat is mixed but leans bullish for BTC. Several users note bullish signals, such as holding longs, expecting pumps, and targeting higher prices (e.g., 120k). Some technical analysis remarks mention bullish patterns (cloud breakouts, W formation) and bear traps. However, there are also notable voices of caution referencing false rallies, price rejections, and a recent downtrend since December 2024. The positive momentum is supported by technical analysts and bullish traders, but uncertainty and neutral stances keep confidence at medium.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 10,
-    "negative_count": 4,
-    "neutral_count": 5,
+    "positive_count": 13,
+    "negative_count": 5,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Ruslanas Gu: its soooo bullish",
-      "Caquaino: pump it",
-      "Neev: yessir glad i held onto this long",
-      "Noob Trader: smaller ema's curling up",
-      "oscartg638: getting rejected already by 5min ichimoku cloud",
-      "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
-      "Rodolfo: I feel like this is false up",
-      "Noob Trader: fly above the Cloud",
+      "Riazul Islam: mai niche ka support se liya for long",
+      "Marticlues AI: WBTC/USDT Long Nail TP2!: P=105496.42,+0.3%",
+      "C-130: I'm holding it and I'm only purchasing the dips.",
       "Caquaino: 120k here we go",
-      "Solidity Monster: why would anyone short right now? Silly comment."
+      "Neev: yessir glad i held onto this long",
+      "Solidity Monster: why would anyone short right now? Silly comment.",
+      "oscartg638: getting rejected already by 5min ichimoku cloud",
+      "iwannamynickagain: Go sleep. ATH was december 2024 and it is constant fall. SHORT it and forget .",
+      "Rodolfo: I feel like this is false up"
     ]
   }
 ]
