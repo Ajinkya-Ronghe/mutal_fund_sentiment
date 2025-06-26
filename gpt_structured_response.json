@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of opinions suggest a bullish sentiment for BTC, with references to price targets like 108K, bullish divergence, and potential bounces after brief falls. However, there are also notable mentions of possible short-term drops and a 'consolidated' market, which tempers high confidence. The prevailing mood is cautiously optimistic, favoring a long position but with some risk.",
+    "explanation": "The community is divided, but several comments highlight underlying bullish factors including slow upward price action, bullish divergence, potential for a bounce after a minor drop, and persistent interest in daily price action. Negative opinions about immediate price drops and warnings about liquidity grabs are present but are balanced by optimism for higher levels and recent upward trends. The market appears consolidated and indecisive, but the prevailing sentiment leans slightly bullish due to technical signals and references to price resilience above key levels.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 4,
-    "neutral_count": 6,
+    "positive_count": 6,
+    "negative_count": 7,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Dd: It can get even 108 again",
+      "Islandsteve: 6/23 WE WAS AT 105K DSO ITS BEEN CLIMBING",
+      "JUDAS THE TRAITOR: IT CAN GO DOWN FOR LIQUIDITY GRAB TO BOUNCE ABOVE 108K",
       "Islandsteve: I THINK WE GOT BBULLISH DIVERGANCE",
-      "JUDAS THE TRAITOR: HE IS CAUGHT HERE IN SMALL DIFFERENTIAL, IT CAN GO DOWN FOR LIQUIDITY GRAB TO BOUNCE ABOVE 108K",
-      "Skylake Pro Cinema: 580$ down fall coming on bitcoin",
       "TIBERIO : only up now",
-      "Sandro Martins: All charts of all markets are trash tonight, markek is very consolidated...Forex, index, crypto... very strange.",
-      "Dd: Moonboys rekt"
+      "Dd: Let the waterfall begin moonies",
+      "Skylake Pro Cinema: 580$ down fall coming on bitcoin",
+      "Sandro Martins: All charts of all markets are trash tonight, markek is very consolidated...Forex, index, crypto... very strange."
     ]
   }
 ]
