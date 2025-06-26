@@ -4,22 +4,25 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The live chat presents a mix of opinions, with notable mentions of miners selling, potential price drops due to new BTC entering the market, traders expressing caution and noting resistance levels, and some calls for short positions. There are a few bullish comments, but the prevailing sentiment leans toward caution or short-term downside due to selling pressure and technical signals.",
+    "explanation": "The overall sentiment in the live chat leans bearish with repeated calls to 'sell', references to price drops, and comments about miner selling pressure and possible further downside. While some users mention potential bounce areas and hope for a long at lower levels, the prevailing tone is cautious or negative. There is no clear consensus for a bullish move in the immediate term, and discussions of support breakdowns, lack of bull flag patterns, and miner selling all weigh towards a short-term sell signal.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 4,
-    "negative_count": 6,
-    "neutral_count": 8,
+    "positive_count": 3,
+    "negative_count": 7,
+    "neutral_count": 10,
     "representative_opinions": [
-      "oscartg638: miners sell",
-      "Ferhaan Schmidt: im on short now",
+      "MrSubmariner76: Sell sell selll !!!!!!!!!",
       "oscartg638: It might be a reason why price drops maybe half a percent throughout the day",
-      "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
-      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
+      "Ferhaan Schmidt: im on short now",
+      "TIVERSON PUBG: i dont see bull flag",
       "shabaotb: or could head to that 50 on the 1hr",
-      "shabaotb: i just dont like that 4hr chart",
-      "Asi Landes: under 107200",
+      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
+      "oscartg638: miners sell",
+      "Y00LKA: everyday around 450 new BTC should be added. is this that creates sometimes downside in price as new available BTC appears?",
+      "Asi Landes: under 107200 ",
+      "shabaotb: no bull falg",
+      "Bitcoin GTR: Lets ripppp into the night bulls",
       "Caquaino: take my money btc",
-      "Bitcoin GTR: Lets ripppp into the night bulls"
+      "Molyn Brefon: some bounce aroud here"
     ]
   }
 ]
