@@ -3,17 +3,16 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "High",
-    "explanation": "There is significant positive sentiment around BTC, with mentions of ETF competition to buy the top, algorithmic buy calls with high take-profit targets (e.g., Ace algorithm TP 108.4k), and comments on account growth and positive trade outcomes. No major negative sentiment or strong short suggestions were found for BTC. The candlestick mood is inferred as 'long' due to the bullish crowd reaction and upward-focused targets.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
+    "confidence": "medium",
+    "explanation": "Several participants referenced significant buying activity and ETF competition for BTC, suggesting institutional demand and upward momentum. There was also mention of a buy call algorithm with a high target (TP 108.4k), and no strong opposing views. However, some comments alluded to uncertainty and questions about a potential short, lowering overall confidence.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 5,
     "negative_count": 1,
-    "neutral_count": 5,
+    "neutral_count": 8,
     "representative_opinions": [
+      "Zeythor: someone bought 1000000 billion or what happened? haha",
       "OH YEAH!: the etfs are fighting eachother trying to see who can buy the top more",
       "Ace Winner: Ace algorithm buy call stands. TP 108.4k",
-      "oscartg638: 10% account increase was worth it, though",
-      "oscartg638: My thesis was almost perfect.",
       "Ryan Teng: are we going all the way down now",
       "ä¸åå¾: that guy closed some to raise his liq price to 108.5"
     ]
