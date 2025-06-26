@@ -3,23 +3,27 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "Multiple comments show bullish sentiment for BTC, such as discussions of 'hail the longs', 'volcano till 156 then a pull back and spike to 200k', and trading community users opening or discussing longs at levels like 107250 to 108733. The sentiment is supported further by opinions on a weak dollar (DXY crumbling), but there is also mention of high greed and some concerns about a possible pullback. Overall, the balance of opinions leans bullish, though not without some caution.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 2,
-    "neutral_count": 11,
+    "confidence": "High",
+    "explanation": "The majority of live chat opinions express strong bullish sentiment, with repeated references to 'longs', targets above current price levels (e.g. 108k, 156k, 200k), and emotional exuberance. Some warnings of greed and possible bull traps are present, but positive momentum and expectation of further upward movement dominate. Technical mentions of triangle breakout, specific long entries, and macro commentary on DXY weakness reinforce the bullish bias.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 14,
+    "negative_count": 3,
+    "neutral_count": 8,
     "representative_opinions": [
       "jeff gates: it is a volcano till 156 then apull back and spike to 200k before the nuclear wars of 2026",
-      "packslaya: MY LONGSSSS",
-      "Geoff O: long the longs you cucks",
       "oscartg638: opening long at 107250, approximately.",
+      "Geoff O: long the longs you cucks",
       "oscartg638: targeting 108733",
-      "oscartg638: triangle breakout target",
       "PolySopher: Dxy crumbling",
-      "Islandsteve: I WISH IT WAS IN FEAR STILL",
+      "jeff gates: hail the longs that haven't move from 8 k up",
+      "packslaya: MY LONGSSSS",
+      "henrique aoyagui: dammn, i was actually kinda bearish but now go btc hahahahah",
+      "Daizzy : bull trap",
       "RelaxSlee: greed already high again lol",
-      "Bear Bull: You think it will go as low!?"
+      "Islandsteve: I WISH IT WAS IN FEAR STILL",
+      "oscartg638: triangle breakout target",
+      "PolySopher: That pump was sponsored by the fall of dollar empire",
+      "Tpol: Short fast?"
     ]
   }
 ]
