@@ -4,18 +4,20 @@
     "1_minute_candlestick_signal": "neutral",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The live chat reflects a mix of cautious optimism and ongoing uncertainty for BTC. Some users are looking to buy dips and discuss holding strategies, while others express skepticism about the recent upmoves, mentioning possible bear traps and false rallies. There is no strong consensus for an immediate long or short. However, buy-the-dip and holding sentiments slightly outweigh the negative, suggesting a medium-confidence buy signal with neutral short-term candlestick bias.",
-    "safe_leverage_isolate_future_perpetual": 1,
+    "explanation": "The live chat reflects mixed sentiment, with several users discussing holding or buying BTC on dips, uncertainty about price direction, and some mentioning recent losses from short positions. Technical indicators mentioned (e.g., EMA curl, Ichimoku cloud rejection, price holding above support) and behavioral comments (buying when fear strikes, holding, waiting for dips) lean toward a cautious bullish bias. There is no clear consensus for aggressive buying or selling, but more voices favor buying or holding on dips than selling, and the presence of buy-the-dip and long-position holders outweighs the few short sellers. However, skepticism and calls for confirmation suggest only moderate confidence.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 6,
-    "negative_count": 4,
+    "negative_count": 3,
     "neutral_count": 8,
     "representative_opinions": [
       "C-130: I'm holding it and I'm only purchasing the dips. And I'm only purchasing if it's below my average.",
       "James Wampler: the small price movement needs nothing to me... it's an opportunity when fear strikes for me to buy",
-      "Neev: glad i held onto this long",
-      "iwannamynickagain: Go sleep. ATH was december 2024 and it is constant fall. SHORT it and forget.",
+      "LURKING.187: Iâm still hoping we get another dip to go hard",
+      "pramod singh: today 220 usd loss ho gya short m",
+      "iwannamynickagain: Go sleep. ATH was december 2024 and it is constant fall. SHORT it and forget .",
+      "Solidity Monster: why would anyone short right now? Silly comment.",
       "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
-      "LURKING.187: Iâm still hoping we get another dip to go hard"
+      "Neev: yessir glad i held onto this long"
     ]
   }
 ]
