@@ -3,29 +3,25 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "Several participants expressed bullish sentiment, mentioning upward movement, liquidation of bears, and references to a 'moon' or significant leg up. However, some noted caution about potential pullbacks and the presence of large sell walls. The overall tone is positive but acknowledges short-term volatility and possible retracements.",
+    "confidence": "High",
+    "explanation": "Multiple participants are bullish on BTC, referencing liquidation of bears, expectations of higher moves, and an instant reward for bulls. Several mention upward momentum, triangle pattern support, and strong buying activity, though a few warn about potential fakeouts and sell walls. The general sentiment is buying, with attention to short-term take-profit strategies for scalpers.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 9,
+    "positive_count": 12,
     "negative_count": 4,
-    "neutral_count": 13,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Geoff O: we get another big leg today!?",
       "Moon Boy: Bears getting liquidated",
       "Moon Boy: Higher",
       "DREW THE EMPATH: Mooooon it!!",
       "Moon Boy: Wait for DC announcement, way higher",
+      "OH YEAH!: instant reward for bulls again",
       "oscartg638: target reached. 10% up for the day with 20x leverage.",
       "oscartg638: careful, it will come back down for the triangle support",
-      "oscartg638: we are in a triangle. It may slam down",
-      "oscartg638: TP, TP, TP!!!!",
-      "oscartg638: take profit if you're in it short term (scalping)",
       "Daveyboy: Binance has a 500btc sell at 108k",
-      "JR: lmao this shit funny AF, bear traps everywhere ",
-      "Sean Chin: it doesnt want to break down eh",
-      "aV1rus: nother thing to consider is later on the MM does want that liquidity above us to help pump the chart and through the sell walls",
-      "Y00LKA: if its lots of green then buy if red then sell",
-      "Y00LKA: it moves few % per day thats why check big picture daily chart to see how much % moves daily in average so you see it goes up and down but sometimes can go more up longer without any other issues"
+      "oscartg638: take profit if you're in it short term (scalping)",
+      "JR: lmao this shit funny AF, bear traps everywhere",
+      "aV1rus: it's always fake out first",
+      "aV1rus: takes a while for MA to cross bearish"
     ]
   }
 ]
