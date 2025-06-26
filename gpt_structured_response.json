@@ -4,22 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The majority of opinions suggest bullish sentiment for BTC, with several users referencing technical indicators showing upward momentum (1min stoch pointing up, MACD daily positive, trend line holding, and support at 107k). There is also discussion of price action likely heading toward higher liquidation levels, with multiple users advocating for long trades and noting strong support levels. A large sell order at 108050 is noted, but the general tone is positive, with calls for 'north' (upwards movement) and a 'full northern expedition.'",
+    "explanation": "Multiple community traders indicate short-term bullish momentum: 1-min stoch is pointing up, several comments reference imminent upward price movement (next leg up, pump hard, north direction), and technical resistance/support levels discussed align with bullish scenarios. However, warnings about using stop-losses and mentions of large sell walls suggest prudent risk management and potential volatility near resistance levels.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 10,
-    "negative_count": 2,
-    "neutral_count": 7,
+    "positive_count": 7,
+    "negative_count": 1,
+    "neutral_count": 6,
     "representative_opinions": [
-      "fun: wrong way bitty, you must go north. thats where the love is.",
+      "eastwest312 paq: so close to next leg up",
       "Was N 1: the 1min stoch is pointing up we gonna pump hard now",
-      "eastwest312 paq: the mac d daily says all i need to know",
+      "fun: wrong way bitty, you must go north. thats where the love is.",
+      "Sammy: fun didin stutter he SAID NORTH",
       "Kudjaks: full northern expedition",
-      "Alexis Gonzalez: I bet we go up at least to liquid levels before we see 103500 again",
-      "Tiger Eye: Trend line is holding up quite good, if we slip 107 is a strong support",
-      "Guitarist 90's Bodyboarder: Binance has a 501 BTC sell order at 108050",
-      "Josue Marin: Bulls are sleeping, letâs short",
-      "TioRyo: In long trade use stop on the daily or weekly candle. In short trade use stop loss on the last daily or weekly candle. Leverage only on TOPS AND BOTTOM.",
-      "Santi Note8: GREED !!"
+      "Alexis Gonzalez: 109700 is the last of liquidations above us and with this price action it looks quite possible. I bet we go up at least to liquid levels before we see 103500 again",
+      "Tiger Eye: Trend line is holding up quite good, if we slip 107 is a strong support"
     ]
   }
 ]
