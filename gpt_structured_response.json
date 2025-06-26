@@ -4,17 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several users expressed optimism about BTC, referencing a potential upward move towards all-time highs, VWAP targets, and general market positivity. Some technical caution and hedged bot strategies were suggested, indicating mixed short-term sentiment, but the overall tone leans positive for BTC. No specific candlestick signal was given, but the consensus is to be prepared for a move up. Leverage should be kept low and isolated, as discussed by Y00LKA.",
+    "explanation": "The opinions include several positive remarks about BTC's potential to reach higher price levels (e.g., all-time highs, 115K, 'looks perky'), and there is talk of bull pendant formation and miners/treasuries being strong plays. Some caution is expressed regarding possible dips or the need for careful leverage, but the majority sentiment is optimistic. The short-term candlestick signal is 'long' due to the expectation of upward movement and bullish patterns. However, cautious leverage and risk management are advised due to mixed signals about possible dips before breakouts.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
+    "positive_count": 7,
     "negative_count": 2,
     "neutral_count": 4,
     "representative_opinions": [
-      "RaberTrades: Bitcoin looks perky here guys",
-      "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
-      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
-      "OH YEAH!: there are no lower lows, itll get there"
+      "there are no lower lows, itll get there",
+      "Bitcoin looks perky here guys",
+      "Letâs 'launch' off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
+      "maybe bull pendant forming",
+      "115K is easy guys... lets go",
+      "be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big leverage",
+      "for a triangle to be legit I think price has to touch support and resistance 5 times, I think. this is why i think we'll go lower first before another Breakout."
     ]
   }
 ]
