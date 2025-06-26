@@ -4,20 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "While the discussion is mixed with some concerns about trendline rejections and possible bearish breakdowns, there are repeated references to support holding, triangles forming, and potential for upward movement. No clear consensus for an aggressive sell, and some participants mention staying long or waiting for a breakout upwards. The overall sentiment skews slightly bullish, supported by mentions of support, no one selling BTC, and expectations of a launch after a dip.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 6,
-    "neutral_count": 7,
+    "explanation": "Opinions in the live chat reflect a mixed but slightly positive sentiment for BTC. Several users reference key technical support levels holding, and some anticipate upward movement after a period of indecision. There are concerns about volatility and bearish fractals, but no one is selling BTC, and some participants remain long after the CME gap. The presence of both positive and negative takes, with a slight lean to the upside due to support holding and potential for an upward move, leads to a medium confidence buy signal. No aggressive leverage is recommended due to ongoing volatility.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 7,
+    "negative_count": 5,
+    "neutral_count": 10,
     "representative_opinions": [
       "oscartg638: support is holding. it's real.",
-      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
-      "Hoover: Drop it to 105,350 then launch up!",
+      "Rodolfo: i thought it was down, but its looking like it can actually have some legs and move up",
       "Dude Talk: lots of food at bottom but no one selling thier btc",
-      "oscartg638: triangle support",
-      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
-      "Siren Stardust: -0.0112% only this makes mee short thime bull now",
-      "Siren Stardust: Im still long after Cme gap ...big shote oute too dlock fore giving awsome week end charts"
+      "Siren Stardust: Im still long after Cme gap ...big shote oute too dlock fore giving awsome week end charts",
+      "shabaotb: so we got a double top and a lower high",
+      "Tjeerd Phaff: we rejected trendline, daily open could not hold",
+      "oscartg638: I have my clown mask ready just in case this thing breaks down aggressively. LOL"
     ]
   }
 ]
