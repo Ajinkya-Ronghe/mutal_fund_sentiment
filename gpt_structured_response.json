@@ -4,18 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several comments express bullishness and satisfaction with accurate bullish calls and recent upward price movements in BTC. There is excitement about ETF competition to buy at highs and praise for those who predicted the recent move, but there are also a few neutral or cautious remarks about support levels and taking profits.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 6,
+    "explanation": "Multiple opinions indicate bullish momentum and instant rewards for BTC bulls, with ETF competition to buy BTC at higher levels. Some users refer to accurate bullish calls and algorithmic buy signals. However, there is also mention of potential support levels for shorts, creating a slightly mixed but overall positive sentiment.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 7,
     "negative_count": 1,
-    "neutral_count": 7,
+    "neutral_count": 4,
     "representative_opinions": [
-      "\"OH YEAH!: instant reward for bulls again\"",
-      "\"the etfs are fighting eachother trying to see who can buy the top more\"",
-      "\"Ace Winner: Ace algorithm buy call stands. TP 108.4k\"",
-      "\"Joey: na bro Oscar you called it so accurately\"",
-      "\"oscartg638: If you short now, you'll find support at about 107230\"",
-      "\"oscartg638: My thesis was almost perfect.\""
+      "OH YEAH!: instant reward for bulls again",
+      "the etfs are fighting eachother trying to see who can buy the top more",
+      "Ace Winner: Ace algorithm buy call stands. TP 108.4k",
+      "Joey: na bro Oscar you called it so accurately",
+      "oscartg638: If you short now, you'll find support at about 107230",
+      "Ryan Teng: are we going all the way down now",
+      "oscartg638: My thesis was almost perfect."
     ]
   }
 ]
