@@ -1,28 +1,24 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There are mixed but generally positive sentiments regarding BTC's potential for higher prices, with users mentioning targets up to 111k and several noting the market is holding above levels or that 'no one has the stiring.' Some caution is present with mentions of support retests and bearish activity, but the prevailing outlook, including specific price targets and general optimism, supports a medium-confidence buy recommendation. No strong consensus on leverage, so a conservative approach is advised.",
+    "explanation": "Opinions are mixed, but there is a notable bearish sentiment with some traders mentioning recent losses on shorts, others expecting lower targets (e.g., 104000), and references to bearish technical indicators (VWAP, Ichimoku cloud, retest of support). However, there are also a few optimistic price targets (e.g., 111k) and discussions of volatility, so the signal is not high confidence.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 3,
+    "positive_count": 3,
+    "negative_count": 5,
     "neutral_count": 9,
     "representative_opinions": [
+      "pramod singh: today 220 usd loss ho gya short m",
       "SalmanDÂ£vil: bhai 1102000 jayenga phr sidha 104000",
-      "pramod singh: bhai btc kitna High laga sakta hai",
-      "Molyn Brefon: if greedy a bit i would say 107 720",
-      "Noob Trader: no its real rally",
+      "Ferhaan Schmidt: the chart look short signal",
+      "oscartg638: it aligns with ichimoku cloud 5min. lot's of confluence to validate vwap play",
       "Noob Trader: market is holding it above no one has the stiring",
+      "Molyn Brefon: 107.86 max i can see",
       "Mar: 109.6 maybe",
       "Y00LKA: 111",
-      "Noob Trader: 111k",
-      "GRIMMS: bears are roaming freely",
-      "Ferhaan Schmidt: the chart look short signal",
-      "oscartg638: i hate to say it but price must retest new support again",
-      "Ruslanas Gu: assia cloud take 108900 liq will be nice",
-      "Ruslanas Gu: its my main indicator funding rates its shows dynamics of market "
+      "GRIMMS: bears are roaming freely"
     ]
   }
 ]
