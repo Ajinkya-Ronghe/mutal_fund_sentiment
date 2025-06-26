@@ -4,18 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "While the chat reflects a mix of bullish and bearish sentiment, there are multiple references to being 'all in' on BTC, holding longs, and technical signals such as bullish divergence and suggestions to place long orders after a downtrend. However, there are also warnings of an incoming dump and suggestions to close longs, indicating some uncertainty. The overall tone is slightly more optimistic on BTC's upside, but caution is advised.",
+    "explanation": "Multiple users express a bullish stance on BTC, with some stating they are 'all in' long (no leverage) and referencing a bullish divergence, which typically signals a reversal from bearish to bullish momentum. Another comment mentions being in a no leverage long from 73k. Some short opinions and warnings of a bull trap are present, but the majority of BTC-specific sentiment leans cautious bullish, especially with a preference for lower risk (no leverage) strategies.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 6,
-    "negative_count": 4,
-    "neutral_count": 9,
+    "positive_count": 5,
+    "negative_count": 3,
+    "neutral_count": 3,
     "representative_opinions": [
-      "Dd: Hoping btc go to 108k",
       "Rising Lion: I'm poor currently because I'm all in on bitcoin. like crazy all in",
-      "Islandsteve: In a bullish divergence...bulls are getting stronger, indicating a bullish reversal after the downtrend ends. At this point, traders can place long orders",
-      "henrique aoyagui: maaassive dump incoming",
+      "Rising Lion: long, no leverage",
+      "matt desroches: no leverage long since 73k",
       "henrique aoyagui: close longs, take profit....",
-      "matt desroches: no leverage long since 73k"
+      "henrique aoyagui: bull trap",
+      "Islandsteve: In a bullish divergence...bulls are getting stronger, indicating a bullish reversal after the downtrend ends. At this point, traders can place long orders",
+      "Qvazor: Want short from 108.2k with short sl"
     ]
   }
 ]
