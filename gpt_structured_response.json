@@ -4,22 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The majority of the opinions are bullish on BTC, with repeated encouragements to buy and references to strong upward trends. Positive sentiment is reinforced by community enthusiasm, mentions of institutional support (BlackRock), and several users expressing optimism about BTC's trajectory. While a few comments question the pump's sustainability and mention potential pullbacks, the prevailing tone is highly positive with multiple users calling for continued buying.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The overall sentiment in the live chat is bullish for BTC, with multiple users expressing excitement about the price going up and predicting higher price targets. There are more strong positive sentiments and calls to buy than negative ones. While a few users express caution or suggest a potential pullback, the majority are optimistic about BTC's trend and future, indicating a high-confidence buy recommendation. However, some mention of 'bull trap' and 'lower low with high wick' suggests monitoring for volatility.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 10,
     "negative_count": 4,
-    "neutral_count": 16,
+    "neutral_count": 8,
     "representative_opinions": [
-      "OH YEAH!: NEVER STOP BUYING",
-      "OH YEAH!: BUY WITH BLACKROCK NEVER LOSE",
-      "packslaya: GOO BULLLLS",
-      "Pete : BTC live is the best chat room ever made.",
-      "OH YEAH!: IMMORTAL TRENDLINE CANNOT BE BROKEN",
-      "Pete : anyways, im in a great mood. glad to see BTC up",
-      "RaberTrades: I think we hit 119-125k end of June",
-      "Ryan Teng: sell sell its making lower low with high wick",
-      "Qvazor: low volume pump",
-      "Ryan Teng: bull trap?"
+      "GOO BULLLLS",
+      "BTC live is the best chat room ever made.",
+      "BTC up",
+      "FOREVER UP TRIPLE CONFIRMED",
+      "buy buy buy",
+      "1 mil BTC in 5 years",
+      "I think we hit 119-125k end of June",
+      "sell sell its making lower low with high wick",
+      "not enough stream. we might go back to bottom of triangle",
+      "bull trap?"
     ]
   }
 ]
