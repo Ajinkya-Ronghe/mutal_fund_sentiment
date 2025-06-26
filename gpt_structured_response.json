@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of opinions express a bullish sentiment, referencing an uptrend, a potential bull flag breakout, and expectations of a significant move upward. However, notable caution and bearish counterpoints exist, including concerns about a possible bull trap, profit-taking at resistance, and market indecision. This mix results in a medium confidence level. The 1-minute candlestick signal is 'long' due to short-term bullish momentum, but with some risk of reversal.",
+    "explanation": "The majority of opinions suggest BTC is in an uptrend, with several participants expecting a bullish breakout (bull flag), and some algorithmic buy signals targeting higher prices. However, there is notable caution about possible short-term volatility, fake breakouts, and decision points, leading to a medium confidence level. The 1-minute candlestick sentiment leans long due to the recent trend strength and bullish calls, but the presence of dissenting or cautious voices prevents a 'high' confidence.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 5,
-    "neutral_count": 6,
+    "positive_count": 9,
+    "negative_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Junn Guldur: Bulls not backing down today",
       "Pete : we are in an up trend",
-      "Din Djarin: yeah if this bull flag breakout plays out soon the target is near 130k believe it or not",
+      "Din Djarin: if this bull flag breakout plays out soon the target is near 130k believe it or not",
+      "Ace Winner: Ace algorithm buy call here. 108.4k imminent",
       "Ryan Teng: sell sell its making lower low with high wick",
-      "Qvazor: TRIANGLE is 50/50, for me, can go fast up and down. idk.",
-      "Fish: If BTC pumps to 125k wonât it cause all the alt coins dip hard AF at first because everyoneâs making BTC rally? Then bounce.",
-      "Qvazor: 125k today impossiable, ok mb 0.00001%"
+      "Qvazor: If hit 108200 - fake breakout, I'm start short.",
+      "Nillionaire: The chart looks like it's at a decisioning point between two channels, one of which being on the smaller time frame. This is usually how this goes when the market changes sentiment, no?",
+      "Qvazor: TRIANGLE is 50/50, for me, can go fast up and down. idk."
     ]
   }
 ]
