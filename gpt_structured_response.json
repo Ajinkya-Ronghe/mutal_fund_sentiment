@@ -4,22 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "A dominant majority of live opinions favor bullish sentiment for BTC, with repeated encouragement to buy, hold, or even leverage more BTC. Several users highlight institutional recognition and asset status for BTC, and there are strong statements against selling. Only a few voices express caution or mention potential fakeouts or bear traps, but these are outweighed by the positive momentum and the explicit encouragement to buy and hold.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 10,
-    "negative_count": 4,
-    "neutral_count": 9,
+    "explanation": "Multiple participants express strong bullish sentiment on BTC, discussing taking loans to buy more and banks treating BTC as a real asset. The general feeling is that buying BTC is a safe bet and there is little downside. While some express caution about patterns like triangles and potential for fake breakouts, the majority view is positive.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 8,
+    "negative_count": 3,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Pete : Never sell BTC",
       "Pete : take a loan against it",
       "OH YEAH!: you really can't lose on any buy",
-      "Pete : and buy more of it",
       "Pete : the bank sees BTC as real asset now",
       "SaRumbo: buy tp 1086500..",
-      "ð²ððððÌ¶ð£ðð¯ðªð°: James Wynn has a secret long with a billion probablyâ¦ knowing theyâll hunt his short",
+      "oscartg638: TRIANGLE is 50/50, for me, can go fast up and down. idk.",
       "Ryan Teng: sell sell its making lower low with high wick",
-      "Qvazor: If hit 108200 - fake breakout, I'm start short.",
-      "oscartg638: not enough stream. we might go back to bottom of triangle"
+      "Qvazor: If hit 108200 - fake breakout, I'm start short."
     ]
   }
 ]
