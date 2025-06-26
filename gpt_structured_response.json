@@ -4,21 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of opinions point towards an expectation of a near-term drop or 'dump' in BTC, especially around the weekend. Multiple users reference shorting, a coming dump, and a bearish outlook, with some lighter bullish counter-opinions. The sentiment is not extremely high conviction due to some users urging not to short and a few calls for a pump, but overall the negative/bearish bias is dominant.",
+    "explanation": "The majority of explicitly directional opinions reference an imminent price drop, with repeated mentions of a 'Friday dump,' 'preweekend flash dump,' and encouragement to short. However, there are also several bullish comments (e.g., 'UP UP AND AWAY', 'MORE PUMP PLEASE'), as well as sarcastic or contrarian statements. The bearish sentiment slightly outweighs the bullish, but there is uncertainty due to conflicting voices and some clear jokes/trolling.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 13,
-    "neutral_count": 9,
+    "positive_count": 5,
+    "negative_count": 8,
+    "neutral_count": 6,
     "representative_opinions": [
       "i short 4 da inevitable friday dump",
       "preweekend flash dump coming yooo",
-      "crypto bubbles looking really red right now",
-      "Fade the tops boys",
-      "dont short are you nuts",
       "UP UP AND AWAY",
-      "MORE PUMP PLEASE",
+      "Fade the tops boys",
+      "crypto bubbles looking really red right now",
+      "come on russa, buy buy buy",
       "DONT SHORT YOU REKT",
-      "sell, sell, sell!"
+      "MORE PUMP PLEASE"
     ]
   }
 ]
