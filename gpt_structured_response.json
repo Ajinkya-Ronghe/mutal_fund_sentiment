@@ -4,14 +4,15 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants highlighted bullish potential for Bitcoin, pointing to a 'perky' price action and the potential for a breakout to new all-time highs. RaberTrades specifically mentioned a target zone up to $111,983 and short-term VWAP targets, indicating optimism. However, some caution is noted by Y00LKA, who advises using bots for both short and long with careful stop-losses, and oscartg638 expects a drop before another breakout, reflecting some uncertainty and suggesting medium confidence rather than high. The overall sentiment is more positive than negative, with actionable buy/long ideas and risk management.",
+    "explanation": "Multiple community members, including RaberTrades and Y00LKA, express bullish sentiment for BTC, referencing breakout modes, short-term VWAP targets, and a potential move towards all-time highs. There is also mention of using both long and short bots around the $108,500 level, but the overall tone is more optimistic about upward movement. However, some caution is advised, and there is a minority opinion suggesting there may be further downside before a breakout, so confidence is set to medium.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
+    "positive_count": 5,
     "negative_count": 2,
-    "neutral_count": 3,
+    "neutral_count": 4,
     "representative_opinions": [
+      "Sammy: sneaky brk out mode",
       "RaberTrades: Bitcoin looks perky here guys",
-      "RaberTrades: Letâs 'launch' off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
+      "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
       "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
       "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage"
     ]
