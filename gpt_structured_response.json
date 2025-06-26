@@ -1,25 +1,21 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "BTC has reached a 7-day price high and there are visible warnings from participants to 'sell at the top' and get shorts ready. Several comments express anticipation of a reversal or pullback, with mentions of major short positions around 108.7 and a need to break resistance. While some optimism and bullishness is present, the dominant sentiment among BTC-specific comments is caution, profit-taking, or short positioning at these elevated levels.",
+    "explanation": "BTC has reached a 7-day price high, and opinions reflect recent liquidations of short positions and bullish momentum. While some warn of a potential pullback and significant short interest, multiple users reference the price pushing higher and shorts being 'burned.' The Marticlues AI bot issued a WBTC/USDT long signal, which is a BTC derivative. However, caution is warranted as some users anticipate a pullback or advise to wait before entering.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
-    "negative_count": 6,
-    "neutral_count": 4,
+    "positive_count": 6,
+    "negative_count": 4,
+    "neutral_count": 7,
     "representative_opinions": [
       "JUDAS THE TRAITOR: BTC/USDT has reached a 7-day price high. Current price: 108131.50.",
-      "Dd: Sell at the top boys",
+      "jrmurillo09: Bears liquidated.",
+      "Filthy Rabbit: Burn the shorts",
       "Tpol: Huge short positions @108.7",
-      "Alhamaf: Sell",
-      "oscartg638: get your shorts ready",
-      "oscartg638: almost reached target of 108300",
-      "jamal crawfish: but i think there is good opportunity here",
-      "ä¸åå¾: this guy sold half his position to lower his liq price to 108.9",
-      "Alhamaf: Need to break this resistance",
-      "jamal crawfish: no tis not"
+      "Marticlues AI: WBTC/USDT Long Boom TP3!: P=105481.5,+0.5%",
+      "Alhamaf: It will have a pull back"
     ]
   }
 ]
