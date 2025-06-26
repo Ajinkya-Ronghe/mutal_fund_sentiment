@@ -4,16 +4,16 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple signals and opinions indicate a bullish short-term outlook for BTC. Marticlues AI provided a technical long signal with entry and targets, and several community members referenced upward momentum and potential for a breakout. There is acknowledgment of volatility and the need for careful stop losses, but the consensus leans bullish.",
+    "explanation": "Multiple sources indicate a bullish outlook for BTC: Marticlues AI suggests a 'Rally Rush' long signal, and several chat participants (RaberTrades, Y00LKA) discuss upward movement, support for bullish entries, and targeting new highs. While one participant (oscartg638) mentions potential for a dip, the overall sentiment, including strategy suggestions and technical targets, is positive for BTC in the short term.",
     "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 5,
     "negative_count": 1,
-    "neutral_count": 2,
+    "neutral_count": 3,
     "representative_opinions": [
       "Marticlues AI: Long BTC/USDT:ENTRY=107629.8,TP1=107845.06,TP2=107952.69,TP3=108167.95,SL=106876.4,TA=Rally Rush!",
       "RaberTrades: Bitcoin looks perky here guys",
       "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "Y00LKA: set up bot ex. short with entry point 106500 +/- and wait and second bot long from 108500 and one more short from 108500 and wait. not too big leverage",
+      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
       "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think. this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
     ]
   }
