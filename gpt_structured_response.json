@@ -3,27 +3,21 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "High",
-    "explanation": "Most BTC-related comments show strong bullish sentiment, referencing price targets above all-time highs (ATH) like 109k and 120k, a breakout from an ascending triangle, and phrases such as 'only up now' and 'trump pumping our bags.' While a few opinions mention rejection or possible short-term pullbacks, the overall consensus is for continued upward momentum, especially in the short-term. Multiple users mention sideways movement as consolidation before another leg up, supporting a bullish 1-minute candlestick outlook.",
+    "confidence": "medium",
+    "explanation": "The majority of opinions anticipate bullish price action, referencing an ascending triangle breakout, targets above previous all-time highs (108K, 109K, 120K), and several remarks about sideways consolidation as a setup for higher moves. While a minority predict rejections or drops to 90K or 103K, positive sentiment outweighs negative, especially regarding medium-term moves. The overall tone is optimistic, but there is notable caution regarding resistance levels and fakeouts.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
-    "negative_count": 3,
-    "neutral_count": 3,
+    "negative_count": 4,
+    "neutral_count": 6,
     "representative_opinions": [
-      "TIBERIO : only up now",
-      "packslaya: trump pumping our bags rn",
-      "Kudjaks: breakout of this accending triangle as is rn is 109,3k",
-      "tqpro: Aight see you ladies and gents at $120k. Latah!",
-      "JUDAS THE TRAITOR: WE SIDEWAYS HERE UNTIL HE BUILDS UP JUICE AND MOMENTUM TO TAKE 108K ",
-      "henrique aoyagui: looks like rejection to me",
-      "henrique aoyagui: yep. rejected, see you guys in 103k",
-      "Iron(Sight)Hawk: GDP fake pump like usual then dump",
-      "matt desroches: no leverage long since 73k",
-      "Kudjaks: res at previous ath 109,375 basically again",
+      "Kudjaks: breakout of this ascending triangle as is rn is 109,3k",
       "packslaya: 109 eassy",
-      "Dd: They are collecting moonboys to rek them",
-      "Dd: Trump selling",
-      "Rising Lion: the moonie name calling rings hallow at 107....we were buying at 16.... this is the moon..... now we move further on"
+      "tqpro: Aight see you ladies and gents at $120k. Latah!",
+      "JUDAS THE TRAITOR: WE SIDEWAYS HERE UNTIL HE BUILDS UP JUICE AND MOMENTUM TO TAKE 108K",
+      "Rising Lion: the moonie name calling rings hallow at 107....we were buying at 16.... this is the moon..... now we move further on",
+      "henrique aoyagui: yep. rejected, see you guys in 103k",
+      "Pegasus SkylineRFS: see you guys at 90k byeee",
+      "matt desroches: no leverage long since 73k"
     ]
   }
 ]
