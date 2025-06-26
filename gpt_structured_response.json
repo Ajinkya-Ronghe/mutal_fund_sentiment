@@ -4,18 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple users discuss BTC potentially making new highs, with mentions of support at the 107,000-108,000 zone and some suggesting buying around 107,500. There is mixed sentiment with some expecting further downside due to global news and short suggestions near 110,000, but the majority of specific actionable opinions are leaning towards buying dips or regularly accumulating (e.g., buying every Friday). The overall tone is cautiously optimistic toward the uptrend as long as BTC stays above 107,300.",
+    "explanation": "Opinions show mixed short-term views on BTC, but there are more positive and neutral comments about buying, swing trading, and consistent accumulation. Several users discuss buying at current levels (107500, 107720), expectations of higher prices (111k), and regular DCA strategies (buying every Friday). Negative/short comments exist, but are outnumbered. Market sentiment is cautious but leans slightly bullish on the current time frame.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 5,
-    "neutral_count": 7,
+    "positive_count": 7,
+    "negative_count": 4,
+    "neutral_count": 10,
     "representative_opinions": [
       "pramod singh: bhai btc kitna High laga sakta hai",
-      "Architec(MattyB!!!): all the while new highs are going to be made",
+      "SalmanDÂ£vil: Big maine sirf .long par kamaya hai short par Washout kara hu bht ye saal",
       "Architec(MattyB!!!): 107500 buy?",
       "Noob Trader: we are back into up trend unless it stays under 107.3",
       "CHARLES SEXTON: every friday i buy 50$ btc at 5 pm im in the green",
-      "SalmanDÂ£vil: Big maine sirf .long par kamaya hai short par Washout kara hu bht ye saal"
+      "SalmanDÂ£vil: Bhai please batao 110000 bhai yanha se short kar sakta hu ???",
+      "Ferhaan Schmidt: now is good short"
     ]
   }
 ]
