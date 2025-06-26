@@ -4,21 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants mention BTC's resilience, institutional support, and the size of adoption (e.g., countries moving to BTC, BlackRock and Vanguard investing), suggesting a bullish sentiment. There is also talk of a 'bull flag' and positive reaction to the dollar's decline. However, some warn about the risk if 108k isn't held and mention smart money selling, introducing caution.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 3,
-    "neutral_count": 7,
+    "explanation": "Sentiment in the live chat is mixed but leans positive for BTC. Several users express confidence in BTC's resilience, referencing institutional investment and the inability to fall ('too big to fall now', 'when BlackRock and Vanguard invest it never falls'). There is some skepticism about price resistance at 108k and references to 'moonboys' and 'smart money selling', but no consensus on a major downturn. Technical observations include references to bullish short-term patterns (bull flag, volume), and some warnings about a possible big short if BTC fails to hold above 108k. The overall tone suggests cautious optimism, especially with the dollar weakening, which traditionally benefits BTC.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 8,
+    "negative_count": 4,
+    "neutral_count": 8,
     "representative_opinions": [
-      "jeff gates: bit coin dont care whats going on you have whole countires moveing to bit coin look at south america",
-      "jeff gates: its to big to fall now",
-      "jeff gates: when black rock and vangaurd invest it never falls",
-      "Geoff O: bull flag on the ten second let's go",
-      "PolySopher: That pump was sponsored by the fall of dollar empire",
-      "oscartg638: no poly. when dollar goes up btc goes down. when dollar goes down, btc is up.",
+      "its to big to fall now",
+      "when black rock and vangaurd invest it never falls",
+      "bull flag on the ten second let's go",
+      "let the weak sell at 108 and let the strong make the money",
+      "no poly. when dollar goes up btc goes down. when dollar goes down, btc is up.",
+      "Dd: 108k not more moonboys buying smartmoney selling",
       "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
-      "Dd: 108k not more moonboys buying smartmoney selling ",
-      "henrique aoyagui: struggling too much already"
+      "oscartg638: triangle is no more! lol"
     ]
   }
 ]
