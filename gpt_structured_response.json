@@ -4,20 +4,15 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple users expressed bullish sentiment on BTC, citing strong market support, significant investments, and expectations of new all-time highs. There were a few mentions of shorting, but the overall majority view was positive. Technical comments referenced BTC holding key levels, bullish EMA alignment, and strong upward momentum.",
+    "explanation": "The majority of real-time opinions indicate a bullish sentiment for BTC, including direct calls for long positions, expectations of breaking all-time highs, and confidence in BTC's resilience at current support levels. There are isolated mentions of shorting or potential manipulation, but these are outweighed by strong positive comments and confirmations that BTC is holding up well and may see further upward movement.",
     "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 8,
     "negative_count": 3,
-    "neutral_count": 7,
+    "neutral_count": 6,
     "representative_opinions": [
       "LORD UZI: long btc and sleep",
       "LORD UZI: millions of dollars have been invested into the market to pump this time btc is going to break the all time high",
-      "Neev: im impressed by how well btc is holding up here, up and to the right",
-      "Noob Trader: turning above 100 and staying above mean we have support down",
-      "Luca Weber: I think itâs goin up noob trader",
-      "Solidity Monster: why would anyone short right now? Silly comment.",
-      "Ferhaan Schmidt: you can short now gys",
-      "Shekhar Chikara: bhai dump krwaado"
+      "Neev: im impressed by how well btc is holding up here, up and to the right"
     ]
   }
 ]
