@@ -4,18 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of opinions suggest caution against longing BTC at the current levels, with several users warning of high downside risk and limited upside. Some note that longs have been punished recently and that liquidations at higher levels may act as a magnet, implying potential for a downward move before any recovery. A few positive and neutral voices are present, but the warnings dominate.",
-    "safe_leverage_isolate_future_perpetual": 3,
+    "explanation": "There is a split in sentiment, but dominant voices warn against longing BTC at current levels due to potential downside risk. Some expect magnet liquidity at 109k, but several participants emphasize that the risk to long positions is high right now and recommend caution. Positive comments about 'reward for dip buyers' and hitting all-time highs are countered by strong warnings from others about imminent liquidation risks and fakeouts.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 4,
     "negative_count": 6,
-    "neutral_count": 8,
+    "neutral_count": 10,
     "representative_opinions": [
-      "Christopher Harvey: DO NOT LONG RIGHT NOW",
       "OH YEAH!: longs coming back in, when hasn't bitcoin punished a long the last few days",
+      "Christopher Harvey: DO NOT LONG RIGHT NOW",
       "Christopher Harvey: the downside to a long going south right now is big",
+      "Architec(MattyB!!!): new ath!",
+      "OH YEAH!: instant gain, no threat of liquidation",
       "Phonz: Liqs at 109k are a magnet. Its going there",
-      "oscartg638: This is the bulls defending the triangle",
-      "Hoover: lets go, so we can go back up from there"
+      "Christopher Harvey: no reason to long now so close to the liq zone",
+      "oscartg638: most importantly, learn to not be emotional and place a tight stop loss....",
+      "shabaotb: lets see if its a fakeout",
+      "Degen Again: it literally has to dump for you to confirm its dumped"
     ]
   }
 ]
