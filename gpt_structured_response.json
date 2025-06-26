@@ -3,23 +3,20 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "High",
-    "explanation": "The majority of opinions are strongly bullish for BTC, with repeated calls to 'buy' and warnings against shorting in a bull market. Multiple chat participants explicitly state 'up', 'buy', and discourage shorting, indicating strong sentiment for a continued upward move. Some also mention specific high price targets and leverage, further suggesting confidence in a bullish move on short timeframes.",
-    "safe_leverage_isolate_future_perpetual": 5,
-    "positive_count": 10,
-    "negative_count": 2,
-    "neutral_count": 8,
+    "confidence": "medium",
+    "explanation": "The majority of opinions advocate for bullish action (buying or holding, not shorting), with multiple participants encouraging upward movement and warning against shorting in a bullish market. However, there are some neutral and a few slightly negative (cautionary) voices, so confidence is not 'High'. No explicit short-term candlestick technicals were discussed, but the crowd sentiment is generally upward.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 7,
+    "negative_count": 3,
+    "neutral_count": 7,
     "representative_opinions": [
       "Islandsteve: UP UP UP",
       "fun: come on russa, buy buy buy",
       "Islandsteve: dont short are you nuts",
       "Islandsteve: DONT SHORT YOU REKT",
       "Islandsteve: dont short a bull market",
-      "Josue Marin: 107.200 its my forecast",
-      "Alina Bogdan: 104k next?",
       "Was N 1: Fade the tops boys",
-      "Was N 1: crypto bubbles looking really red right now",
-      "oscartg638: 15min is only one diverging"
+      "Was N 1: crypto bubbles looking really red right now"
     ]
   }
 ]
