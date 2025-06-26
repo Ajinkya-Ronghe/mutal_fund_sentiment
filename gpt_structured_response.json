@@ -3,21 +3,22 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "Several participants express bullish sentiment, mentioning bullish divergence, support at around 107.8k, targets towards 108k and 109k, and the idea that 'only up now'. However, there are also notes about market consolidation, possible rejection, and 'collecting moonboys to rek them', which tempers the overall confidence.",
+    "confidence": "High",
+    "explanation": "Multiple participants express strong bullish sentiment and expectations for upward moves (e.g., 'only up now', '109 eassy', 'breakout', 'see you at $120k'). Resistance is noted at previous all-time highs, and while some mention downside or rejection, the prevailing mood is optimistic, with no consensus for shorts. Overall, the crowd expects sideways or upward movement, with technical levels (108k, 109k) as focus.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 5,
-    "neutral_count": 10,
+    "positive_count": 9,
+    "negative_count": 3,
+    "neutral_count": 5,
     "representative_opinions": [
-      "Islandsteve: I THINK WE GOT BBULLISH DIVERGANCE",
       "TIBERIO : only up now",
       "Kudjaks: breakout of this accending triangle as is rn is 109,3k",
-      "JUDAS THE TRAITOR: IT CAN NOT GO TO MUCH DOWN BELOW 107.820",
+      "tqpro: Aight see you ladies and gents at $120k. Latah!",
+      "packslaya: 109 eassy",
+      "JUDAS THE TRAITOR: WE SIDEWAYS HERE UNTIL HE BUILDS UP JUICE AND MOMENTUM TO TAKE 108K ",
       "henrique aoyagui: looks like rejection to me",
-      "Sandro Martins: All charts of all markets are trash tonight, markek is very consolidated...Forex, index, crypto... very strange.",
-      "Dd: They are collecting moonboys to rek them",
-      "packslaya: trump pumping our bags rn"
+      "Dd: Trump selling",
+      "matt desroches: no leverage long since 73k",
+      "JUDAS THE TRAITOR: IT CAN NOT GO TO MUCH DOWN BELOW 107.820"
     ]
   }
 ]
