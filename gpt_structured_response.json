@@ -4,18 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several opinions indicate a bullish bias for BTC, including suggestions to 'long btc and sleep', comments about BTC breaking all time highs due to large investments, and positive sentiment about BTC holding strong. However, there are also some short and bearish mentions, and a few neutral or unclear positions, resulting in a medium confidence buy signal.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 6,
+    "explanation": "Multiple participants express optimism or support for BTC price rises, referencing bullish market sentiment, recent investments, and technical analysis indicating support. There are also a few negative (short/dump) opinions, but the prevailing tone is positive or neutral. No clear, highly confident consensus for extreme leverage or aggressive position sizing, but bias is to the upside.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 7,
     "negative_count": 3,
-    "neutral_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
-      "LORD UZI: long btc and sleep",
+      "Real Krantikari : $14B ka BTC by hoga",
       "LORD UZI: millions of dollars have been invested into the market to pump this time btc is going to break the all time high",
       "Neev: im impressed by how well btc is holding up here, up and to the right",
-      "Ferhaan Schmidt: you can short now gys",
-      "Shekhar Chikara: bhai dump krwaado",
-      "NEMESIS: Bitcoin or girega kya"
+      "Riazul Islam: mai niche ka support se liya for long",
+      "Luca Weber: I think itâs goin up noob trader",
+      "Ferhaan Schmidt: see now the short",
+      "Shekhar Chikara: bhai dump krwaado"
     ]
   }
 ]
