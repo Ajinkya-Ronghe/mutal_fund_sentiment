@@ -4,24 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "High",
-    "explanation": "The majority of opinions express a bearish outlook for BTC, with repeated calls to short, predictions of imminent dumps (including pre-weekend and Friday dump expectations), and references to price targets below current levels. Although a few upbeat or contrarian comments exist, the sentiment is overwhelmingly negative, supported by references to failed pumps, profit-taking on shorts, and stop-loss strategies for further downside. No strong bullish counter-arguments are present, and even neutral questions about direction are met with short-side enthusiasm.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 2,
-    "negative_count": 12,
-    "neutral_count": 6,
+    "explanation": "The majority of opinions indicate a strong bearish sentiment on BTC, with many participants explicitly recommending to short, referencing expected 'dumps', and giving downside price targets. Only a few voices suggest upward movement, but these are outweighed by the bearish consensus, especially as specific short targets and warnings about market downturns are repeatedly mentioned.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 3,
+    "negative_count": 15,
+    "neutral_count": 5,
     "representative_opinions": [
       "The Dusty Hunt: all in short",
-      "JonTukaCring3: best spot to short leess gooo",
       "JonTukaCring3: i short 4 da inevitable friday dump",
-      "JonTukaCring3: preweekend flash dump coming yooo",
       "oscartg638: this is the short everyone was taklking about all day.",
-      "oscartg638: we have to diverge hardcore now. sell, sell, sell!",
       "Josue Marin: Your SL at 108,500 if btc get over that may reach 109k",
-      "Josue Marin: Bearâs claws on the bulls now",
-      "Alina Bogdan: 104k next?",
-      "PolySopher: Dxy bottoming BTC dampening",
       "Islandsteve: DONT SHORT LOL",
-      "Islandsteve: UP UP AND AWAY"
+      "Islandsteve: UP UP AND AWAY",
+      "PolySopher: Dxy bottoming BTC dampening"
     ]
   }
 ]
