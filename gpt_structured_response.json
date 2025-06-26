@@ -1,22 +1,21 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment for BTC in the live chat is cautious-to-bearish. Multiple users reference recent price drops, concerns about miner selling, and liquidation risks. While a few participants hope for a bounce at lower levels, the majority of actionable opinions discuss downside targets, support levels, and suggest taking short positions or setting stop-losses. There is also mention of DXY pumping, typically bearish for BTC. No clear bullish catalyst or consensus for a long. The environment is uncertain, but the lean is toward playing downside with protective risk management.",
+    "explanation": "There are mixed short-term opinions but several participants anticipate a bounce or recovery after a drop, with some referencing support levels and market structure. Some caution is advised due to uncertainty and mentions of potential further downside, but the overall sentiment leans towards looking for long opportunities at key levels.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
-    "negative_count": 8,
+    "positive_count": 6,
+    "negative_count": 4,
     "neutral_count": 7,
     "representative_opinions": [
-      "oscartg638: It might be a reason why price drops maybe half a percent throughout the day",
-      "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
-      "PolySopher: Itâs dumping because dxy is pumping ",
+      "Bitcoin GTR: Lets ripppp into the night bulls",
+      "Molyn Brefon: some bounce aroud here",
+      "Hoover: lets go, so we can go back up from there",
       "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
-      "Asi Landes: under 107200 ",
-      "mpepin1905: 105300 target from the symmetrical drop. c what happens",
-      "Caquaino: taking looses here"
+      "oscartg638: last support line. Here we go",
+      "Siren Stardust: like sup rest long"
     ]
   }
 ]
