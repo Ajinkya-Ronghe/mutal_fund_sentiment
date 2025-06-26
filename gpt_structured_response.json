@@ -4,22 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Opinions in the chat are mixed but lean bearish in the short term, with several participants predicting a pullback to 107,800 or even 107,200, mentioning lost traction and calls to short BTC. While there are bullish voices, the presence of multiple calls for a short and mentions of 'bear choke slamming these bulls' suggest a short-term downward sentiment. The overall mood is cautious or bearish for the immediate future.",
+    "explanation": "Several opinions suggest bearish sentiment for BTC, including calls for shorting, comments on market manipulation, and references to the market losing traction. There are mixed views with some positive remarks, but negative/bearish opinions are more numerous and more recent, especially referencing imminent shorting and market downturns. Overall, the chat leans bearish, but not with overwhelming conviction.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 5,
-    "negative_count": 7,
-    "neutral_count": 4,
+    "negative_count": 8,
+    "neutral_count": 6,
     "representative_opinions": [
-      "JUDAS THE TRAITOR: PULLBACK TO 107800",
-      "Josue Marin: It goes directly to 107,200",
-      "Travis Alford: bear choke slamming these bulls",
-      "TioRyo: -108000 short",
       "Josue Marin: Letâs short btc",
-      "Islandsteve: GO UP!!!!",
+      "oscartg638: shorting at 107781",
+      "Travis Alford: bear choke slamming these bulls",
+      "Sagent: no worries it will dump",
+      "JUDAS THE TRAITOR: IT WILL RETAKE IT MAKE NO WORRY. ITS JUST A DELAY",
       "BaNaNaCaKes (Squid): Pull Up! Pull Up!",
-      "Sagent: no dump here",
-      "JUDAS THE TRAITOR: WE LOST TRACTION",
-      "Miguel Angel Herrera Sosa: Go up maldita sea"
+      "Islandsteve: NOT A DUMP IT"
     ]
   }
 ]
