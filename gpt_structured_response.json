@@ -4,19 +4,28 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants express concerns about BTC's price action, mentioning potential dumps (e.g. 'bhai dump krwaado', 'bhai eth btc ko dump krwaado saalo ko'), expectations of lower prices ('bhai 1102000 jayenga phr sidha 104000'), and the need for support retests. Some mention bearish signals or short strategies, while others are skeptical of upward moves. However, a few bullish or neutral comments are present (targets above current price, market holding), so overall the sentiment is moderately bearish, justifying a 'Sell' recommendation but not with high conviction.",
+    "explanation": "The majority of actionable BTC-related opinions suggest short-term downside or caution. Some users mention the possibility of a retest of support, false rallies, and short signals on the chart. However, there are also a few bullish or neutral voices, indicating mixed market sentiment with a slight tilt towards caution/short.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 9,
-    "neutral_count": 7,
+    "positive_count": 4,
+    "negative_count": 6,
+    "neutral_count": 6,
     "representative_opinions": [
       "Shekhar Chikara: bhai eth btc ko dump krwaado saalo ko",
+      "pramod singh: today 220 usd loss ho gya short m",
       "SalmanDÂ£vil: bhai 1102000 jayenga phr sidha 104000",
-      "JUDAS THE TRAITOR: EVERY WAVE STEP FROM 107100 HAD TO DO IT AND WE STILL NOT PUMPING",
+      "JUDAS THE TRAITOR: ITS CANT HOLD THIS DIFFERENTIAL ANYLONGER. IT WILL HAVE TO PUSH MINIMUM 500 USD UP",
       "Ferhaan Schmidt: the chart look short signal",
-      "oscartg638: i hate to say it but price must retest new support again",
+      "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
+      "Molyn Brefon: if greedy a bit i would say 107 720",
       "Noob Trader: no its real rally",
-      "Molyn Brefon: if greedy a bit i would say 107 720"
+      "Molyn Brefon: 107.86 max i can see",
+      "oscartg638: it aligns with ichimoku cloud 5min. lot's of confluence to validate vwap play",
+      "oscartg638: i hate to say it but price must retest new support again",
+      "RaberTrades: Much higher",
+      "Mar: 109.6 maybe",
+      "Y00LKA: 111",
+      "Molyn Brefon: 107.8 ?",
+      "Neev: looking forward to using your 4-year cycle indicator in the bear to catch those dca bubbles"
     ]
   }
 ]
