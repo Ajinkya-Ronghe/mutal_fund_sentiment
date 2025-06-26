@@ -4,19 +4,18 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The opinions are mixed but with a slight lean toward cautious optimism for BTC. Some participants discuss opening long positions around 107,250, mention being in a long since 73k, and note that Bitcoin is 'perfect' for the short term. However, there are warnings about bull traps, market over-leverage, and the need to diversify. The overall sentiment is not strongly bullish or bearish, but the positive actionable suggestions (opening long, holding since lower levels) outweigh the negatives in the short term.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Opinions are mixed, but recent user comments indicate some participants are taking long positions at current levels (e.g., opening long at 107250, holding no-leverage longs since 73k). However, several express concern over a potential bull trap, market overleverage, and short-term volatility. The positive sentiment for short-term longs is offset by worries of a bull trap and overleveraging, resulting in only medium confidence for a buy signal. Leverage should be kept minimal or avoided due to the risk of rapid reversals.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 3,
     "negative_count": 4,
-    "neutral_count": 6,
+    "neutral_count": 3,
     "representative_opinions": [
       "oscartg638: opening long at 107250, approximately.",
       "matt desroches: no leverage long since 73k",
-      "Dd: Bitcoin short term is perfect long term I dont know",
       "henrique aoyagui: bull trap",
       "henrique aoyagui: market is over leveraged",
-      "Knowing Dahwae: still short",
-      "Dd: Diversify your money"
+      "Dd: Bitcoin short term is perfect long term I dont know",
+      "Knowing Dahwae: still short"
     ]
   }
 ]
