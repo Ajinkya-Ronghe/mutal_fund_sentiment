@@ -3,26 +3,22 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
-    "confidence": "medium",
-    "explanation": "The sentiment from the live chat leans bearish for BTC. Multiple participants mention selling, expecting pullbacks, or a negative July. Several call out specific levels for pullbacks (108k, 108.7k), and there are warnings about a possible crash or tanking. However, there are also mentions of a possible breakout (PolySopher), but this is quickly tempered by caution about a coming crash. The overall tone is cautious to negative, suggesting a short-term sell or short signal, but not outright panic. Confidence is medium as some opinions still acknowledge potential for volatility and reversal.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "confidence": "High",
+    "explanation": "The majority of opinions are negative or cautionary regarding BTC in the near term, with references to expected seasonal weakness ('July normally sucks for crypto'), warnings of large sell zones and liquidity at 108k-111k, multiple explicit calls to sell, and concerns about a potential crash. There are very few, if any, clear positive or bullish signals for BTC in this collection of live chat opinions.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 2,
-    "negative_count": 8,
-    "neutral_count": 4,
+    "negative_count": 9,
+    "neutral_count": 6,
     "representative_opinions": [
       "Islandsteve: JULY NORMALY SUCKS FOR CRYPTO JUST SAYING LOL",
       "Dd: Selllll",
       "Christopher Harvey: we have a 108.7k pullback anf itll only add to the yellow beams lingering above on the liq charts",
       "The Dusty Hunt: tanking",
-      "PolySopher: Everything is trying to breakout this may be a historical moment. Gold, silver, palladium, Spx, BTC, Eth, etc",
-      "PolySopher: Yeah this breakout could lead to a big event named crash",
-      "TioRyo: -108000 SELL",
-      "Travis Alford: if btc crashes down alts will get thrashed hard lol",
-      "oscartg638: this is it. this 15min has to reverse down",
       "BaNaNaCaKes (Squid): It's Gonna Suck Harder Than Usual, Trust Me!",
-      "CRYPTQSANTA: NORMAL IS NOT NORMAL ANY LONGER",
-      "jamal crawfish: i think everyone is scared",
-      "PolySopher: Better to be ready to collect season gains and dump it to the ground"
+      "PolySopher: Everything is trying to breakout this may be a historical moment. Gold, silver, palladium, Spx, BTC, Eth, etc",
+      "PolySopher: The breakout may be the breakdown of the dollar for real",
+      "TioRyo: -108000 SELL",
+      "Travis Alford: if btc crashes down alts will get thrashed hard lol"
     ]
   }
 ]
