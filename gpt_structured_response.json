@@ -1,31 +1,25 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There is a split sentiment with many community members expressing caution or advocating to sell, but algorithmic sources like Marticlues AI are issuing multiple strong BTC/USDT long signals with defined take profits. Some individual users warn of downside from miner selling and market chop, while others remain bullish or meme 'always buy, never sell.' Technical comments mention key support levels, potential for bounces, and mixed short-term signals, but the AI's actionable trading signals and several bullish crowd comments outweigh the negatives for a cautious long stance.",
+    "explanation": "The overall sentiment in the opinions is mixed but leans bearish for BTC. Multiple participants explicitly call for selling (e.g., 'Sell!!!!', 'Sell sell selll !!!!!!!!!!'), while others discuss miner selling, potential downside due to new BTC entering the market, and warnings about price dropping towards support levels. Some opinions mention price support and the potential for a bounce, but there are several warnings about possible dumps and risk. There are also a few bullish comments, but the majority with direct trading intent are short or cautious.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 6,
-    "neutral_count": 8,
+    "positive_count": 4,
+    "negative_count": 8,
+    "neutral_count": 10,
     "representative_opinions": [
-      "Marticlues AI: BTC/USDT Long Nail TP2!: P=105541.83,+0.3%",
-      "Marticlues AI: BTC/USDT Long Boom TP3!: P=105541.83,+0.5%",
-      "Sfork: Always buy, never sell, always profit",
       "MrSubmariner76: Sell!!!!",
-      "MrSubmariner76: Sell sell selll !!!!!!!!!",
+      "MrSubmariner76: Sell sell selll !!!!!!!!!!",
       "Ferhaan Schmidt: im on short now",
+      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
       "oscartg638: support at 107128",
       "oscartg638: miners sell",
-      "oscartg638: It might be a reason why price drops maybe half a percent throughout the day",
-      "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
-      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
+      "Caquaino: take my money btc",
+      "Bitcoin GTR: Lets ripppp into the night bulls",
       "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
-      "shabaotb: then bounce back up",
-      "Asi Landes: under 107200",
-      "Asi Landes: TP1 200EMA",
-      "Asi Landes: TP2 800EMA"
+      "shabaotb: or could head to that 50 on the 1hr"
     ]
   }
 ]
