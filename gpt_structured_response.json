@@ -4,19 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants anticipate an upward move for BTC, referencing price targets around 109,000â109,700, and suggesting that the market will move up to liquidate shorts before any potential drop. There is some disagreement, with a notable mention of a potential short to 107,000 based on head and shoulders pattern, but the consensus leans slightly bullish in the short term.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 5,
-    "negative_count": 3,
-    "neutral_count": 5,
+    "explanation": "Opinions are mixed but slightly favor a short-term upward move for BTC, with several participants mentioning support at lower levels (107,000), expectations of price rising to liquidation levels (109,700), and encouragement to 'go north.' There is also mention of a 'subway pump' and a focus on healthy upward moves. However, a few opinions warn of possible shorting opportunities and head & shoulders pattern, making confidence only medium.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 8,
+    "negative_count": 4,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Islandsteve: this is going up more your short liq",
-      "GRIMMS: 109 for sure shorters",
-      "Alexis Gonzalez: 109700 is the last of liquidations above us and with this price action it looks quite possible. I bet we go up at least to liquid levels before we see 103500 again",
-      "Alhamaf: It will form head and shoulder",
-      "Alhamaf: Short to 107",
-      "TioRyo: nextsup is 107000",
-      "Josue Marin: Bulls are sleeping, letâs short"
+      "subway pump",
+      "Cyber Subway Punk-Pump It UP !!",
+      "so close to next leg up",
+      "wrong way bitty, you must go north. thats where the love is.",
+      "It will form head and shoulder",
+      "Short to 107",
+      "this is going up more your short liq",
+      "109.2",
+      "109 for sure shorters",
+      "Bulls are sleeping, letâs short",
+      "nextsup is 107000",
+      "109700 is the last of liquidations above us and with this price action it looks quite possible. I bet we go up at least to liquid levels before we see 103500 again",
+      "It's not always like that, use STOP LOSS"
     ]
   }
 ]
