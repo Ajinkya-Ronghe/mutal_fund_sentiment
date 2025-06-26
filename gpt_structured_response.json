@@ -4,19 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "High",
-    "explanation": "The majority of opinions indicate a strong bearish sentiment on BTC, with many participants explicitly recommending to short, referencing expected 'dumps', and giving downside price targets. Only a few voices suggest upward movement, but these are outweighed by the bearish consensus, especially as specific short targets and warnings about market downturns are repeatedly mentioned.",
+    "explanation": "A strong majority of opinions express bearish sentiment, expecting a drop with explicit references to shorting, 'inevitable dump', and forecasts of lower prices (e.g., 97k, 104k, 106500, 107200). Only a few voices suggest upside, with some sarcasm and light-hearted comments. Bearish pressure is dominant for the immediate term.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 3,
-    "negative_count": 15,
-    "neutral_count": 5,
+    "negative_count": 13,
+    "neutral_count": 6,
     "representative_opinions": [
-      "The Dusty Hunt: all in short",
-      "JonTukaCring3: i short 4 da inevitable friday dump",
-      "oscartg638: this is the short everyone was taklking about all day.",
-      "Josue Marin: Your SL at 108,500 if btc get over that may reach 109k",
-      "Islandsteve: DONT SHORT LOL",
+      "JonTukaCring3: best spot to short leess gooo",
+      "oscartg638: we have to diverge hardcore now. sell, sell, sell!",
+      "Josue Marin: Bearâs claws on the bulls now",
+      "JonTukaCring3: preweekend flash dump coming yooo",
+      "Santi Note8: ...then BOOM to the ground",
       "Islandsteve: UP UP AND AWAY",
-      "PolySopher: Dxy bottoming BTC dampening"
+      "Islandsteve: DONT SHORT LOL",
+      "Josue Marin: Your SL at 108,500 if btc get over that may reach 109k",
+      "Alina Bogdan: 104k next?",
+      "Joey: 106500"
     ]
   }
 ]
