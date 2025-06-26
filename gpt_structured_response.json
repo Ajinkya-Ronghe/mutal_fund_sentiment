@@ -4,21 +4,15 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants are expressing bullish sentiment about BTC, referencing price targets, strong upward momentum, and live trading signals. Marticlues AI gave explicit BTC/USDT 'Long' signals with specific targets hit, while several others displayed excitement for a sharp upward move ('moon', 'rise'). No significant negative opinions were voiced. There is also commentary on BTC moving independently of other coins, suggesting market focus on BTC.",
+    "explanation": "Multiple participants and trading signals suggest bullish sentiment for BTC. Marticlues AI explicitly calls for 'BTC/USDT Long Boom' and 'Long WBTC/USDT', indicating strong buy signals with target profits. Several users (MOON CAT, Kudjaks, JamTrades) express optimism about BTC's imminent rise ('moon', 'gonna moon', 'it gots to moon', 'might blow up'). There are no notable negative or short opinions on BTC, while one user (Was N 1) says 'dump it', but this is not specifically targeted at BTC and is outweighed by the positive signals.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 9,
+    "positive_count": 8,
     "negative_count": 0,
-    "neutral_count": 4,
+    "neutral_count": 3,
     "representative_opinions": [
-      "Kuya G: ok, rise btc. rise i comand you",
       "MOON CAT: it's gonna moon",
       "Marticlues AI: BTC/USDT Long Boom TP3!: P=105510.29,+0.5%",
-      "Marticlues AI: BTC/USDT Long Nail TP2!: P=105510.29,+0.3%",
-      "Kudjaks: it gots to moon",
-      "Jora Sidhu: Why is nothing else moving with btc going up",
-      "JamTrades: it might blow up well see",
-      "Dd: Big pump or dump this is it guys",
-      "Kudjaks: intense fight and so early still"
+      "JamTrades: it might blow up well see"
     ]
   }
 ]
