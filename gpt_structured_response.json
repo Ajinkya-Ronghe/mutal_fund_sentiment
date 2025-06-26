@@ -4,17 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The sentiment is mixed but slightly bearish for the short-term due to multiple opinions indicating a possible drop in BTC price, mentions of a big drop incoming, and technical analysis suggesting a potential move to lower support levels before higher. Some traders mention a bear fractal and head-and-shoulders pattern, which are typically bearish signals. There is also discussion of triangle formation and risk of breaking down to lower targets. However, a minority still see room for a bullish reversal if certain technical levels are held.",
+    "explanation": "Multiple participants express caution or bearishness in the immediate term. MrSubmariner76 warns of a big drop, and there is talk of potential rejection and a triangle formation around 107,700. Technical analysis references, including symmetrical patterns and possible bear fractal/head & shoulders on higher timeframes, indicate short-term downside risk. However, several also note strong support zones and possible bounce targets, so the confidence is not high.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 8,
-    "neutral_count": 6,
+    "positive_count": 3,
+    "negative_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
       "MrSubmariner76: Big drop now. Pay attention",
       "oscartg638: if my thesis is correct and we are rejected from 107700 we are officially in a triangle. Be careful.",
-      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
+      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
+      "Travis Alford: is there any prediction yet that btc could dump back under 100k in the near future?",
       "Hoover: Drop it to 105,350 then launch up!",
-      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin"
+      "Tjeerd Phaff: but I think we could even go to 103/104 before higher but have to see",
+      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
+      "Dude Talk: 50 percent we die 50 percent we live @mpepin1905",
+      "Dude Talk: lots of food at bottom but no one selling thier btc"
     ]
   }
 ]
