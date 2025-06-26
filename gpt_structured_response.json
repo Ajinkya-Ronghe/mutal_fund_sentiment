@@ -1,22 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There is a mix of bullish sentiment with mentions of a new all-time high (ATH), rewards for dip buyers, and an expectation of BTC moving toward the 109k liquidation zone. However, several participants warn of fakeouts, choppy action, and the risk associated with longing near resistance, suggesting the move up could be slow and subject to volatility. The presence of strong bullish calls but also cautionary notes results in a medium confidence rating.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 5,
-    "neutral_count": 11,
+    "explanation": "The majority of BTC-related opinions suggest caution or short bias due to high liquidation risk near 109k, weak upside for longs, and the prevalence of 'fake outs' and trendline rejections. Several participants explicitly warn against longing at these levels, and the overall tone reflects uncertainty and risk for bullish entries. Only a few comments mention bullish momentum (e.g., 'bulls in charge'), but these are outweighed by warnings and negative sentiment.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 3,
+    "negative_count": 7,
+    "neutral_count": 10,
     "representative_opinions": [
-      "Architec(MattyB!!!): new ath!",
-      "Phonz: Liqs at 109k are a magnet. Its going there",
-      "OH YEAH!: its constant reward for all dip buyers",
       "Christopher Harvey: the downside to a long going south right now is big",
+      "Phonz: Liqs at 109k are a magnet. Its going there",
+      "Christopher Harvey: no reason to long now so close to the liq zone",
       "Tjeerd Phaff: trendline rejected again",
-      "oscartg638: This is the bulls defending the triangle",
-      "aV1rus: it'll likely go but just slowly and choppy"
+      "Degen Again: it literally has to dump for you to confirm its dumped",
+      "Moon Boy: That wick, bulls in charge",
+      "OH YEAH!: its constant reward for all dip buyers"
     ]
   }
 ]
