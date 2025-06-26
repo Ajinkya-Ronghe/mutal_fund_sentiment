@@ -4,22 +4,24 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Marticlues AI provided clear long signals for BTC/USDT with positive target points, indicating algorithmic confidence in upward movement. However, various participants in the live chat expressed mixed or uncertain short-term directional opinions, with some suggesting potential for down moves or range-bound action. The overall sentiment leans slightly bullish due to the algorithmic signals, but confidence is tempered by visible skepticism and mention of possible volatility, liquidation risks, and lack of a clear bull flag.",
+    "explanation": "Despite some conflicting short-term opinions and warnings about potential dumps, the most actionable signals come from Marticlues AI, which issued multiple 'BTC/USDT Long' calls with realized profits (TP1, TP2, TP3 hit) and a positive price move. Several chat participants are discussing support levels, possible 'fake outs,' and range-bound action, but the automated signals and a few bullish comments (e.g., 'Lets ripppp into the night bulls', 'take my money btc') suggest a moderate buy opportunity on the 1-minute candle, with risk management advised due to volatile and mixed trader sentiment.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 4,
+    "positive_count": 6,
     "negative_count": 8,
-    "neutral_count": 10,
+    "neutral_count": 12,
     "representative_opinions": [
       "Marticlues AI: BTC/USDT Long Score TP1!: P=105541.83,+0.2%",
       "Marticlues AI: BTC/USDT Long Nail TP2!: P=105541.83,+0.3%",
       "Marticlues AI: BTC/USDT Long Boom TP3!: P=105541.83,+0.5%",
-      "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
-      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
+      "Bitcoin GTR: Lets ripppp into the night bulls",
+      "Caquaino: take my money btc",
       "Ferhaan Schmidt: im on short now",
-      "shabaotb: or could head to that 50 on the 1hr",
-      "shabaotb: then bounce back up",
-      "shabaotb: i just dont like that 4hr chart",
-      "Asi Landes: on the trend line again"
+      "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
+      "oscartg638: support at 107128",
+      "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
+      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
+      "shabaotb: or could head to that 50 on the 1hr then bounce back up",
+      "shabaotb: i just dont like that 4hr chart"
     ]
   }
 ]
