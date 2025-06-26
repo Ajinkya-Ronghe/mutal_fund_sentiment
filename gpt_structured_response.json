@@ -4,22 +4,18 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple participants discuss the possibility of BTC dropping to lower levels (105,000â105,350), noting triangle and symmetrical patterns, potential bear fractal/head-and-shoulders on higher timeframes, and a lack of strong bullish conviction. However, some also mention the possibility of a bounce from current support or after a drop, suggesting a choppy or indecisive short-term environment. The consensus leans slightly bearish for the immediate next move.",
+    "explanation": "The overall sentiment from the opinions is mixed, but there is a slight bearish tilt in the very short term. Several users mention potential downside breakout targets (105200, 105350), the presence of a triangle or symmetrical pattern, and bear fractal/head-and-shoulders formations on higher timeframes. However, some users expect a bounce at lower levels, and there are no strong bullish catalysts mentioned. Most opinions are cautious and see the possibility of a short-term drop before any potential rally.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
-    "negative_count": 6,
-    "neutral_count": 4,
+    "positive_count": 4,
+    "negative_count": 8,
+    "neutral_count": 8,
     "representative_opinions": [
+      "Christopher Harvey: SHOOOOOORT SIREN!!!!",
       "oscartg638: if my thesis is correct and we are rejected from 107700 we are officially in a triangle. Be careful.",
-      "Travis Alford: is there any prediction yet that btc could dump back under 100k in the near future?",
-      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
       "Tjeerd Phaff: but I think we could even go to 103/104 before higher but have to see",
       "oscartg638: the breakout target to the downside is 105200 and to the upside is 108750 approximately.",
-      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
-      "Hoover: Drop it to 105,350 then launch up!",
-      "Dude Talk: lots of food at bottom but no one selling thier btc",
-      "Siren Stardust: -0.0112% only this makes mee short thime bull now",
-      "oscartg638: that support was real"
+      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
+      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350"
     ]
   }
 ]
