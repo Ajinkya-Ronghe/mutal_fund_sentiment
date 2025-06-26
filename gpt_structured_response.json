@@ -1,22 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of BTC-related opinions are negative, with repeated mentions of 'dump', 'manipulation', and expectations of a price drop after a fake pump. Several users express caution or recommend shorting, though a few see potential for upward movement in the short term. The overall sentiment is skewed bearish, but not with overwhelming conviction.",
+    "explanation": "Opinions are mixed but skew cautiously bullish: some mention manipulation and risk, while others point to potential upward movement toward all-time highs, with suggestions to set up both long and short bots due to volatility. Recent short-term VWAP and 'perky' comments, plus miner/treasury mentions, suggest accumulation or upward bias, but notable caution is advised.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
-    "negative_count": 7,
+    "positive_count": 5,
+    "negative_count": 4,
     "neutral_count": 6,
     "representative_opinions": [
-      "Dd: Clear dump",
-      "Dd: After fake pump comes dump",
-      "BREAKING_NEWS: Manipulation",
+      "RaberTrades: Bitcoin looks perky here guys",
+      "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
       "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
       "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
-      "RaberTrades: Bitcoin looks perky here guys",
-      "RaberTrades: Letâs 'launch' off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983."
+      "Dd: Manipulation",
+      "BREAKING_NEWS: Manipulation",
+      "BREAKING_NEWS: 1HR look  SEXAY",
+      "Sammy: COMFORTABLE WITH RISK, VERY IMPORTANT"
     ]
   }
 ]
