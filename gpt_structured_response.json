@@ -4,15 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Sentiment in the chat leans bearish, with multiple users discussing price drops, increased liquidations, and bearish technical signals like 'dxy is pumping' and miners selling. Some users discuss potential for further downside ('big dumps are never easy', 'target from the symmetrical drop', and setting up stop losses for short positions). However, there are also a few neutral and bullish comments (e.g., hoping for a bounce at lower levels), so the confidence is not high.",
+    "explanation": "The majority of market-related opinions and chat sentiment indicate caution, with several mentions of price drops, liquidation risks, and the influence of DXY (US Dollar Index) pumping, which is typically bearish for BTC. References to support lines, fakeouts, and targets at lower price levels (e.g., 105300, 106.5k, 107200) suggest traders are either short or waiting for a further drop to consider going long. There is some mixed sentiment about bounces and reversals, but negative/neutral signals outweigh outright bullishness.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
-    "negative_count": 7,
-    "neutral_count": 9,
+    "positive_count": 4,
+    "negative_count": 8,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Itâs dumping because dxy is pumping",
-      "watch out liquidation rised above 108k its easier to climb then go down now....",
-      "big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long"
+      "Ferhaan Schmidt: im on short now",
+      "PolySopher: Itâs dumping because dxy is pumping",
+      "aV1rus: big dumps are never easy - this could just slowly chop down",
+      "oscartg638: It might be a reason why price drops maybe half a percent throughout the day",
+      "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
+      "mpepin1905: 105300 target from the symmetrical drop. c what happens",
+      "Caquaino: taking looses here",
+      "Asi Landes: under 107200"
     ]
   }
 ]
