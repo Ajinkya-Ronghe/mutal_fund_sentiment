@@ -1,20 +1,28 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "Opinions are mixed, but several participants mention bullish momentum, significant liquidity at higher levels (109k), and rewards for dip buyers. Marticlues AI specifically recommends a WBTC/USDT long with technical targets, while others warn of liquidation risks and advise caution. The market sentiment is cautiously optimistic, but strong warnings against aggressive long positions and the importance of stop losses suggest only medium confidence.",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
+    "confidence": "High",
+    "explanation": "Multiple participants warn against longing BTC at current levels due to limited upside and significant downside risk near liquidity zones. Some mention imminent liquidation targets (108k-109k), consensus for tight stop-losses, and a general defensive stance. The only bullish comment references a new ATH, but is outweighed by negative sentiment and technical warnings.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 5,
+    "positive_count": 2,
+    "negative_count": 7,
     "neutral_count": 4,
     "representative_opinions": [
-      "OH YEAH!: longs coming back in, when hasn't bitcoin punished a long the last few days",
-      "Marticlues AI: Long WBTC/USDT:ENTRY=107390.79,TP1=107605.57,TP2=107712.96,TP3=107927.74,SL=106639.05,TA=Rally Rush!",
       "Christopher Harvey: DO NOT LONG RIGHT NOW",
+      "Christopher Harvey: the downside to a long going south right now is big",
       "Phonz: Liqs at 109k are a magnet. Its going there",
-      "oscartg638: most importantly, learn to not be emotional and place a tight stop loss...."
+      "Christopher Harvey: 108k.....109k maybe. the upside to a long is littlw.",
+      "Christopher Harvey: no reason to long now so close to the liq zone",
+      "Y00LKA: don't use max leverage to avoid liquidity. try to open long lower min 500 usd than you open short. divide cash you want to invest in 3 or 4",
+      "oscartg638: most importantly, learn to not be emotional and place a tight stop loss....",
+      "Architec(MattyB!!!): new ath!",
+      "OH YEAH!: its constant reward for all dip buyers",
+      "oscartg638: This is the bulls defending the triangle",
+      "mpepin1905: 105300 target from the symmetrical drop. c what happens",
+      "Hoover: lets go, so we can go back up from there",
+      "Degen Again: it literally has to dump for you to confirm its dumped"
     ]
   }
 ]
