@@ -1,23 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of explicitly directional opinions reference an imminent price drop, with repeated mentions of a 'Friday dump,' 'preweekend flash dump,' and encouragement to short. However, there are also several bullish comments (e.g., 'UP UP AND AWAY', 'MORE PUMP PLEASE'), as well as sarcastic or contrarian statements. The bearish sentiment slightly outweighs the bullish, but there is uncertainty due to conflicting voices and some clear jokes/trolling.",
+    "explanation": "The chat shows a mix of bullish and bearish short-term sentiment, but the most vocal opinions are pushing for an upward move ('UP UP UP', 'come on russa, buy buy buy', 'MORE PUMP PLEASE'), and some users strongly advise against shorting ('dont short are you nuts', 'DONT SHORT YOU REKT'). There are some mentions of potential dumps or fading the top, but the dominant tone in recent comments is to avoid shorts and expect a pump. Thus, the aggregate leans towards a buy signal, but with medium confidence due to notable split in crowd opinion.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 8,
-    "neutral_count": 6,
+    "positive_count": 7,
+    "negative_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
-      "i short 4 da inevitable friday dump",
-      "preweekend flash dump coming yooo",
-      "UP UP AND AWAY",
-      "Fade the tops boys",
-      "crypto bubbles looking really red right now",
-      "come on russa, buy buy buy",
-      "DONT SHORT YOU REKT",
-      "MORE PUMP PLEASE"
+      "Islandsteve: UP UP AND AWAY",
+      "fun: come on russa, buy buy buy",
+      "Islandsteve: dont short are you nuts",
+      "Was N 1: Fade the tops boys",
+      "JonTukaCring3: preweekend flash dump coming yooo",
+      "Joey: how far down we going?",
+      "Islandsteve: DONT SHORT YOU REKT"
     ]
   }
 ]
