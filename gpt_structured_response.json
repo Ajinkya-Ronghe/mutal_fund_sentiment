@@ -4,17 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The live chat reflects a mix of bearish and bullish sentiments for BTC, but the short-term mood is dominated by concerns of a bull trap, bears being in control, and skepticism about a breakout. Some opinions are extremely bullish on a longer time frame (e.g., $1 million if the dollar crashes, talk of new ATH), but immediate signals are more cautious or negative. No direct 1-minute candlestick indicator is given, but the representative bearish statements and lack of consensus on a breakout point to a short-term sell bias.",
+    "explanation": "The BTC-related opinions are mixed, with both bullish and bearish comments. There are bearish signals such as 'bull trap', 'down she goes', 'waterfall next', and 'bears are in control', which suggest a short-term downward move. A few bullish comments (e.g., 'BTC to 1 million soon', 'are we really on our way to new ath??') are more speculative and longer-term. The immediate 1-minute sentiment appears more bearish, with more participants expecting a move down or expressing caution. No strong consensus for a high-confidence trade, but the short-term technical and chat mood leans negative.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 4,
-    "negative_count": 5,
-    "neutral_count": 5,
+    "positive_count": 3,
+    "negative_count": 6,
+    "neutral_count": 4,
     "representative_opinions": [
       "NzTa: bull trap",
+      "Architec(MattyB!!!): down she goes",
+      "Architec(MattyB!!!): waterfall next",
       "oscartg638: bears are in control. I meant to say. sorry",
-      "Islandsteve: if this dont breakout im closing and going to bed",
-      "PolySopher: BTC to 1 million soon if dollar crashes. Still 1 BTC = less than a hous",
+      "JUDAS THE TRAITOR: THIS IS BOTTOM HERE",
       "ForgottenOne Legend: are we really on our way to new ath??",
+      "PolySopher: BTC to 1 million soon if dollar crashes. Still 1 BTC = less than a hous",
       "Fish: If BTC pumps to 125k wonât it cause all the alt coins dip hard AF at first because everyoneâs making BTC rally? Then bounce. Or will it follow BTC"
     ]
   }
