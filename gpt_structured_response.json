@@ -4,21 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment among the opinions leans bullish, as evidenced by multiple mentions of targets being reached, bears being liquidated, and positive moves with leverage. Several users discuss price targets being met, significant upward movement, and strategies for buying during green candles. There is some caution about fake outs and potential short-term pullbacks, but the prevailing mood is to look for long trades. Comments about high leverage and significant upward moves boost confidence, though mixed mentions of fake outs and sell walls temper it slightly. No strong 1-minute candlestick reversal signals (short) were discussed.",
+    "explanation": "Several comments suggest bullish sentiment, such as references to greed, bear traps, liquidations of bears, and active buying. However, some caution is noted due to resistance, potential for fake outs, and mentions of significant sell walls (e.g., a 500 BTC sell on Binance). The majority see upward potential, but the presence of large sell orders and technical chart patterns (triangle, fake outs) indicate the move may be choppy and not purely one-directional. The 1-minute candlestick signal is inferred as 'long' due to mentions of recent pumps and active buying, but with a medium confidence due to mixed technical caution.",
     "safe_leverage_isolate_future_perpetual": 5,
-    "positive_count": 9,
+    "positive_count": 6,
     "negative_count": 4,
-    "neutral_count": 13,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Din Djarin: that would be a 120-130 target",
-      "Geoff O: we get another big leg today!?",
+      "Kenny ð¦ Gee: Greeeeeeeeeeeed",
       "Moon Boy: Bears getting liquidated",
       "oscartg638: target reached. 10% up for the day with 20x leverage.",
       "Daveyboy: Binance has a 500btc sell at 108k",
-      "aV1rus: it'll likely go but just slowly and choppy",
-      "aV1rus: it's always fake out first",
       "oscartg638: careful, it will come back down for the triangle support",
-      "Y00LKA: if its lots of green then buy if red then sell"
+      "aV1rus: it'll likely go but just slowly and choppy",
+      "JR: lmao this shit funny AF, bear traps everywhere"
     ]
   }
 ]
