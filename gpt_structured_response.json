@@ -3,27 +3,21 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "High",
-    "explanation": "The majority of live chat opinions express strong bullish sentiment, with repeated references to 'longs', targets above current price levels (e.g. 108k, 156k, 200k), and emotional exuberance. Some warnings of greed and possible bull traps are present, but positive momentum and expectation of further upward movement dominate. Technical mentions of triangle breakout, specific long entries, and macro commentary on DXY weakness reinforce the bullish bias.",
+    "confidence": "medium",
+    "explanation": "There is a mix of bullish and bearish sentiment, but the prevailing mood is slightly bullish for BTC. Several participants advocate for longs, mention breakouts, and reference momentum from past gains. However, there are warnings of potential bull traps and suggestions not to long, indicating some caution. The macro context (DXY weakening) adds a supportive backdrop, but not all are convinced of a sustained move.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 14,
-    "negative_count": 3,
+    "positive_count": 8,
+    "negative_count": 4,
     "neutral_count": 8,
     "representative_opinions": [
-      "jeff gates: it is a volcano till 156 then apull back and spike to 200k before the nuclear wars of 2026",
-      "oscartg638: opening long at 107250, approximately.",
-      "Geoff O: long the longs you cucks",
-      "oscartg638: targeting 108733",
-      "PolySopher: Dxy crumbling",
       "jeff gates: hail the longs that haven't move from 8 k up",
-      "packslaya: MY LONGSSSS",
       "henrique aoyagui: dammn, i was actually kinda bearish but now go btc hahahahah",
+      "Kudjaks: breakout",
+      "Islandsteve: WE PUMP ONLY",
+      "packslaya: LONGSSSSS",
       "Daizzy : bull trap",
-      "RelaxSlee: greed already high again lol",
-      "Islandsteve: I WISH IT WAS IN FEAR STILL",
-      "oscartg638: triangle breakout target",
-      "PolySopher: That pump was sponsored by the fall of dollar empire",
-      "Tpol: Short fast?"
+      "Daizzy : do not enter Long",
+      "PolySopher: Dxy crumbling"
     ]
   }
 ]
