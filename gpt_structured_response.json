@@ -1,24 +1,20 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
+    "1_minute_candlestick_signal": "neutral",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions show mixed short-term sentiment with both bullish and bearish signals. Some participants expect a breakout or 'pump', while others anticipate a possible dump or express caution about false rallies. The market appears to be at a key channel top, and some traders are watching for confirmation before acting. The overall bias leans slightly positive due to mentions of breakouts and support holding, but there is not unanimous high conviction.",
+    "explanation": "There is mixed sentiment on BTC in the opinions, with some calling for a dump and others discussing holding, waiting for dips to buy, or stating that small price movements are opportunities to buy. No direct clear consensus on immediate buy or sell, but the overall sentiment leans towards buying on dips and viewing market fear as a buying opportunity. No strong 1-minute candlestick signal is explicitly suggested.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 5,
-    "neutral_count": 8,
+    "positive_count": 3,
+    "negative_count": 2,
+    "neutral_count": 5,
     "representative_opinions": [
-      "Kudjaks: breakout here will be massive",
-      "OH YEAH!: SO MUCH PUMP",
-      "Noob Trader: no its real rally",
-      "Shekhar Chikara: bhai dump krwaado",
-      "Ferhaan Schmidt: the chart look short signal",
+      "James Wampler: the small price movement needs nothing to me... it's an opportunity when fear strikes for me to buy",
+      "LURKING.187: Iâm still hoping we get another dip to go hard",
+      "Shekhar Chikara: bhai eth btc ko dump krwaado saalo ko",
       "Rodolfo: I feel like this is false up",
-      "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
-      "Kid Clouds: OK come back",
-      "Siren Stardust: Btc -0.0115%"
+      "Noob Trader: no its real rally"
     ]
   }
 ]
