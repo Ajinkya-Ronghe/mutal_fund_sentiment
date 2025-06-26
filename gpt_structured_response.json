@@ -1,23 +1,28 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "neutral",
+    "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "BTC sentiment is highly mixed in the live chat. Some participants highlight strong support levels and lack of selling, suggesting bullish resilience. Others point to trendline rejections, bearish fractals, and expectations of a dump. The triangle support is holding, but price action is unpredictable, with both bullish and bearish short-term signals noted. There is no overwhelming consensus to take a high conviction position; however, the absence of panic selling and support holding gives a slight edge to bulls for a cautious buy.",
-    "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 5,
+    "explanation": "BTC commentary is mixed, with some pointing to trendline rejection and potential bearish fractals, while others highlight support holding, absence of major selling, and a possible move up. Candlestick signals suggest volatility but the consensus leans toward holding or buying for short-term upside, especially after CME gap fills and no major sell pressure.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 7,
     "negative_count": 6,
-    "neutral_count": 6,
+    "neutral_count": 9,
     "representative_opinions": [
       "oscartg638: support is holding. it's real.",
       "Dude Talk: lots of food at bottom but no one selling thier btc",
+      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
+      "Tjeerd Phaff: we rejected trendline, daily open could not hold",
+      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
+      "shabaotb: so we got a double top and a lower high",
+      "Caquaino: is over",
+      "Asi Landes: I sold this morning 108",
       "oscartg638: triangle support",
       "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
-      "Tjeerd Phaff: we rejected trendline, daily open could not hold",
       "Caquaino: big dump incoming",
-      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
-      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up"
+      "Siren Stardust: -0.0112% only this makes mee short thime bull now",
+      "Siren Stardust: Im still long after Cme gap ...big shote oute too dlock fore giving awsome week end charts"
     ]
   }
 ]
