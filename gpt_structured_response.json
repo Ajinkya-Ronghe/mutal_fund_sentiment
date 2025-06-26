@@ -3,20 +3,20 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "High",
-    "explanation": "Multiple community traders indicate short-term bullish momentum: 1-min stoch is pointing up, several comments reference imminent upward price movement (next leg up, pump hard, north direction), and technical resistance/support levels discussed align with bullish scenarios. However, warnings about using stop-losses and mentions of large sell walls suggest prudent risk management and potential volatility near resistance levels.",
+    "confidence": "medium",
+    "explanation": "Multiple participants mention bullish sentiment, references to 1-minute stochastics pointing up and anticipation of a pump, as well as strong support levels (107k) and large sell orders (108050) indicating imminent liquidity moves. While some urge caution with stop losses and discuss significant resistance and liquidation points, the majority lean bullish short-term. No clear consensus on extreme high conviction, but overall the short-term direction is upward.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
     "negative_count": 1,
     "neutral_count": 6,
     "representative_opinions": [
-      "eastwest312 paq: so close to next leg up",
-      "Was N 1: the 1min stoch is pointing up we gonna pump hard now",
       "fun: wrong way bitty, you must go north. thats where the love is.",
-      "Sammy: fun didin stutter he SAID NORTH",
-      "Kudjaks: full northern expedition",
+      "Was N 1: the 1min stoch is pointing up we gonna pump hard now",
       "Alexis Gonzalez: 109700 is the last of liquidations above us and with this price action it looks quite possible. I bet we go up at least to liquid levels before we see 103500 again",
-      "Tiger Eye: Trend line is holding up quite good, if we slip 107 is a strong support"
+      "Tiger Eye: Trend line is holding up quite good, if we slip 107 is a strong support",
+      "TioRyo: In long trade use stop on the daily or weekly candle.",
+      "Binance has a 501 BTC sell order at 108050",
+      "Kudjaks: full northern expedition"
     ]
   }
 ]
