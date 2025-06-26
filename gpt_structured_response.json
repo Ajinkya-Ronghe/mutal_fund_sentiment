@@ -4,15 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants are expressing strong bullish sentiment on BTC, with repeated calls for 108K and even 110K targets. The overall mood in the chat is positive and anticipates a significant upward move. Although one user mentions a potential big short if BTC can't hold 108K and close above 109K, the majority of opinions are in favor of continued upside. There is also commentary that a declining dollar (DXY) is bullish for BTC. The short-term candlestick sentiment, based on the chat and the mention of Heikin Ashi candles, is long.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The majority of the opinions in the live chat are bullish regarding BTC, referencing price targets above 108k and even 110k. There is some mention of possible short-term volatility, particularly if BTC cannot hold a level above 108k, but overall sentiment is positive. Comments about the fall of the dollar and references to betting big on BTC further reinforce a bullish bias. There is no specific candlestick data, but references to 15-minute and heikin ashi candles suggest attention to bullish momentum.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 8,
     "negative_count": 2,
-    "neutral_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
       "DoubleAboveChaos: 110K by Morning",
       "Kevin Hamid: 108k IS NOTHING",
-      "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k"
+      "Marcos Patrick: 1 billion $ btc",
+      "jeff gates: seel your house and bet big see you on moon base 7 or rizia",
+      "PolySopher: That pump was sponsored by the fall of dollar empire",
+      "oscartg638: no poly. when dollar goes up btc goes down. when dollar goes down, btc is up.",
+      "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
+      "oscartg638: the chart you see here is using heikin ashi candle sticks. cleaner than traditional candlesticks."
     ]
   }
 ]
