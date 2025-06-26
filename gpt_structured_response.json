@@ -4,18 +4,18 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions are split, but there are several bullish comments referencing potential major breakouts, targets up to 100k or even 1 million, and a focus on upward momentum if the dollar weakens. However, some participants are cautious about possible rejection and bearish control. No technical indicator consensus, but positive sentiment dominates short-term speculation.",
+    "explanation": "Several chat participants express bullishness and anticipation of a breakout for BTC, with phrases like 'we LONG', '107 to 100k is print', and references to recent upward price action (from 105K to higher levels). However, some caution and uncertainty remain, with mentions of possible reversals ('Let the waterfall begin'), waiting for breakout confirmation, and at least one 'sell' comment. The overall sentiment is slightly more positive but not uniformly high-conviction.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 6,
     "negative_count": 2,
-    "neutral_count": 7,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Dd: 107 to 100k is print",
-      "PolySopher: BTC to 1 million soon if dollar crashes. Still 1 BTC = less than a hous",
       "packslaya: we LONG",
-      "Din Djarin: if we were to reject here over the next few days the bearish target would be around 101",
-      "oscartg638: bears are in control. I meant to say. sorry",
-      "Islandsteve: THIS BETTER BREAKOUT OR IM GOING TO BED"
+      "Dd: 107 to 100k is print",
+      "Islandsteve: 6/23 WE WAS AT 105K DSO ITS BEEN CLIMBING",
+      "Dd: Buy at the top",
+      "Snowman âï¸: sell",
+      "Din Djarin: id give it until about Friday to know if we will break out or down. hopefully sooner"
     ]
   }
 ]
