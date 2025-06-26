@@ -1,22 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There are several suggestions to short BTC around 110,000 and comments about an impending downturn (e.g., war risk, market being slow, 'bears are roaming', 'asian down btc in 2 hours'). However, there are also bullish sentiments (new ATH, uptrend unless under 107.3, routine DCA buying), so the overall sentiment is mixed but leans slightly bearish for the immediate 1-minute timeframe.",
+    "explanation": "There is mixed short-term sentiment, but more positive suggestions regarding buying, swing trading, and uptrend continuation. Several users mention buying strategies (e.g., regular weekly purchases), uptrend signals, or positive price action. However, some negative or bearish remarks and confusion about profit-taking and volatility limit overall confidence.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 6,
-    "negative_count": 8,
-    "neutral_count": 9,
+    "negative_count": 4,
+    "neutral_count": 8,
     "representative_opinions": [
-      "SalmanDÂ£vil: Bhai please batao 110000 bhai yanha se short kar sakta hu ???",
-      "SalmanDÂ£vil: Big maine sirf .long par kamaya hai short par Washout kara hu bht ye saal",
+      "pramod singh: mujhe swing trade Karna hai bhai",
       "Noob Trader: we are back into up trend unless it stays under 107.3",
-      "GRIMMS: bears are roaming freely",
-      "TIVERSON PUBG: asian down btc in 2 hours",
       "CHARLES SEXTON: every friday i buy 50$ btc at 5 pm im in the green",
-      "Architec(MattyB!!!): new ath is in sight! new higher high i swear it dumps",
+      "SalmanDÂ£vil: Big maine sirf .long par kamaya hai short par Washout kara hu bht ye saal",
+      "SalmanDÂ£vil: Bhai please batao 110000 bhai yanha se short kar sakta hu ???",
+      "Ferhaan Schmidt: now is good short",
+      "pramod singh: slow ho gya hai market bahut",
       "Ricardo Sala: price moved between 108k and 107 the whole day"
     ]
   }
