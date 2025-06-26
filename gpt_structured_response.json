@@ -4,20 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants expressed bullish sentiment on BTC, with repeated mentions of price pumps, algorithmic buy signals, and targets toward higher price ranges ($110,550 - $111,983). No direct negative or strong cautionary signals specifically for BTC; the dominant crowd sentiment is upward. Caution and short-term hedging were mentioned, but the main narrative leans toward long/Buy, supported by both enthusiasm and technical targets.",
+    "explanation": "Multiple participants express bullish sentiment with repeated calls for a pump and price targets above current levels (106K, 107K, 108K, up to 110K+). RaberTrades and Islandsteve emphasize upward movement and targeting new highs, while some suggest setting up both long and short bots due to volatility. The overall prevalent view is optimistic, with little meaningful opposition.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
     "negative_count": 1,
-    "neutral_count": 5,
+    "neutral_count": 4,
     "representative_opinions": [
-      "Ace Winner: Ace algorithm buy call here. 108.4k",
       "Islandsteve: WE PUMP 106K",
       "Islandsteve: WE PUMP 107K",
       "Islandsteve: NOW PUMP 108",
       "Pete : BTC pays for it",
+      "RaberTrades: Bitcoin miners and treasuries are the play",
       "RaberTrades: Bitcoin looks perky here guys",
       "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
+      "Y00LKA: set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
       "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
     ]
   }
