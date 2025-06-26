@@ -4,20 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The majority of opinions express bullish sentiment on BTC, with several participants recommending never to sell and to buy more. There is discussion of taking loans to buy more BTC and references to bears getting 'hammered,' indicating strong bullish conviction. A few negative or neutral voices mention possible sideways movement or a bull trap, but positive voices clearly dominate.",
+    "explanation": "A dominant majority of live opinions favor bullish sentiment for BTC, with repeated encouragement to buy, hold, or even leverage more BTC. Several users highlight institutional recognition and asset status for BTC, and there are strong statements against selling. Only a few voices express caution or mention potential fakeouts or bear traps, but these are outweighed by the positive momentum and the explicit encouragement to buy and hold.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 3,
-    "neutral_count": 4,
+    "positive_count": 10,
+    "negative_count": 4,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Pete: Never sell BTC",
-      "Pete: take a loan against it",
-      "Junn Guldur: Bulls have bigger balls then bears",
-      "ð²ððððÌ¶ð£ðð¯ðªð°: James Wynn has a secret long with a billion probablyâ¦ knowing theyâll hunt his short",
+      "Pete : Never sell BTC",
+      "Pete : take a loan against it",
+      "OH YEAH!: you really can't lose on any buy",
+      "Pete : and buy more of it",
+      "Pete : the bank sees BTC as real asset now",
       "SaRumbo: buy tp 1086500..",
+      "ð²ððððÌ¶ð£ðð¯ðªð°: James Wynn has a secret long with a billion probablyâ¦ knowing theyâll hunt his short",
       "Ryan Teng: sell sell its making lower low with high wick",
-      "oscartg638: not enough stream. we might go back to bottom of triangle",
-      "@ndreas: sidewayz for a month"
+      "Qvazor: If hit 108200 - fake breakout, I'm start short.",
+      "oscartg638: not enough stream. we might go back to bottom of triangle"
     ]
   }
 ]
