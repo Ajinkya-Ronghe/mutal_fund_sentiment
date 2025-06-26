@@ -1,27 +1,20 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
-    "confidence": "High",
-    "explanation": "Multiple participants are bullish on BTC, referencing liquidation of bears, expectations of higher moves, and an instant reward for bulls. Several mention upward momentum, triangle pattern support, and strong buying activity, though a few warn about potential fakeouts and sell walls. The general sentiment is buying, with attention to short-term take-profit strategies for scalpers.",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
+    "confidence": "medium",
+    "explanation": "While there is bullish enthusiasm with mentions of 'bears getting liquidated', 'moon', and 'higher', several opinions highlight the risk of a pullback. Specific technical commentary notes the price closing below resistance on the 1-minute chart, the presence of triangle support (implying an imminent move downwards), and warnings to take profit for short-term trades. The crowd is mixed, but immediate candlestick technicals and short-term sentiment suggest caution and a possible short opportunity.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 12,
-    "negative_count": 4,
+    "positive_count": 6,
+    "negative_count": 5,
     "neutral_count": 8,
     "representative_opinions": [
       "Moon Boy: Bears getting liquidated",
-      "Moon Boy: Higher",
-      "DREW THE EMPATH: Mooooon it!!",
-      "Moon Boy: Wait for DC announcement, way higher",
-      "OH YEAH!: instant reward for bulls again",
-      "oscartg638: target reached. 10% up for the day with 20x leverage.",
       "oscartg638: careful, it will come back down for the triangle support",
-      "Daveyboy: Binance has a 500btc sell at 108k",
+      "oscartg638: 1min closed perfectly below resistance",
       "oscartg638: take profit if you're in it short term (scalping)",
-      "JR: lmao this shit funny AF, bear traps everywhere",
-      "aV1rus: it's always fake out first",
-      "aV1rus: takes a while for MA to cross bearish"
+      "Y00LKA: if its lots of green then buy if red then sell"
     ]
   }
 ]
