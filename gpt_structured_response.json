@@ -4,21 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of actionable opinions lean bearish, with several users suggesting short positions and expecting further downside or volatility. Some note possible minor upward moves before a larger drop, and only a few hint at upward potential. There are also warnings to use stop losses due to choppy price action. The sentiment is more negative than positive in the short term.",
+    "explanation": "The majority of directional opinions and active trading calls suggest shorting or expecting downward movement in BTC in the immediate term. MrSubmariner76 directly suggests a high-leverage short, and multiple traders debate lower targets and further downside, though there is also mention of possible bounces and fakeouts. The sentiment is not strongly one-sided, with some expecting short-term rebounds, but the prevailing actionable idea is to sell or short, with caution around volatility.",
     "safe_leverage_isolate_future_perpetual": 5,
-    "positive_count": 4,
-    "negative_count": 8,
-    "neutral_count": 7,
+    "positive_count": 3,
+    "negative_count": 7,
+    "neutral_count": 10,
     "representative_opinions": [
-      "MrSubmariner76: Fall BTC fall down",
       "MrSubmariner76: Short 10 x SAFU from here",
-      "Molyn Brefon: a little bit down then up then dooooown",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
-      "shabaotb: and when i say dump im talkin maybe 104k not too low",
+      "Rodolfo: I thought it was down, but it's looking like it can actually have some legs and move up",
       "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
-      "oscartg638: triangle support",
-      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
-      "Degen Again: they wont dump if people keep shorting too early"
+      "oscartg638: damn bears testing it like it's a picnic basket",
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
+      "shabaotb: seems to be losing that 50 as we speak",
+      "FRED POZIL: Long short 0.5 lots of shorts. Will pump",
+      "shabaotb: i just dont like that 4hr chart",
+      "Caquaino: take my money btc"
     ]
   }
 ]
