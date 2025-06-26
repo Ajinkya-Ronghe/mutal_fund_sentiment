@@ -4,19 +4,18 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Despite some bearish mentions such as 'Today is dump day' and 'BearFlag', there is a notable presence of bullish sentiment including calls for BTC to rise, moon, and references to a bull flag. The community appears divided, but positive momentum and optimism outweigh negativity based on message volume and enthusiasm.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 3,
-    "neutral_count": 8,
+    "explanation": "BTC-related opinions are mixed, with several bullish comments such as 'rise btc. rise i command you', 'it's gonna moon', and 'bull flag on 10s', but also notable bearish signals like 'BearFlag' and 'Today is dump day be ready'. The net sentiment leans moderately positive, with more users expecting a rise or referencing bullish patterns. However, some caution is warranted due to the visible bearish voices and references to bear flags.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 6,
+    "negative_count": 4,
+    "neutral_count": 4,
     "representative_opinions": [
       "fun: ok, rise btc. rise i comand you",
       "MOON CAT: it's gonna moon",
-      "Kudjaks: it gots to moon",
-      "eastwest312 paq: trap dem bears",
-      "Was N 1: all most there btc",
+      "eastwest312 paq: bull flag on 10s",
+      "GARYU ART CRAFT: BearFlag",
       "Dd: Today is dump day be ready",
-      "GARYU ART CRAFT: BearFlag"
+      "Was N 1: gg moon boys"
     ]
   }
 ]
