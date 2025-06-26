@@ -4,20 +4,23 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of BTC-specific opinions indicate bearish sentiment, short positions, or expectations of further price drops. Comments discuss support levels (e.g., 107128), daily new supply from miners, increased liquidations above 108k, and the possibility of slow downward movement or further dumps. There are short entries and concerns about chart patterns (no bull flag, dislike of the 4hr chart), and targets below current price are mentioned. A minority anticipate a bounce or a 'juicey long' at lower levels, but the prevailing view is caution and short-term downside.",
+    "explanation": "Several participants mention possible price drops due to new BTC supply from miners, increased liquidations, and negative chart patterns (no bull flag, dislike for 4hr chart, trendline retests, targets for lower levels like 105300 and 103k, and EMA targets). While a few expect a bounce at certain levels, the prevailing short-term sentiment is cautious or bearish, with more arguments for downside or choppy action.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 9,
+    "positive_count": 3,
+    "negative_count": 6,
     "neutral_count": 8,
     "representative_opinions": [
       "MrSubmariner76: Bulls go nuts when BTC crashing. Itâs a sign",
+      "oscartg638: it might be a reason why price drops maybe half a percent throughout the day",
       "Ferhaan Schmidt: im on short now",
-      "oscartg638: support at 107128",
-      "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
-      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
       "shabaotb: no bull falg",
+      "shabaotb: i just dont like that 4hr chart",
+      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
+      "mpepin1905: 105300 target from the symmetrical drop. c what happens",
+      "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
       "Asi Landes: under 107200",
-      "mpepin1905: 105300 target from the symmetrical drop. c what happens"
+      "Asi Landes: TP1 200EMA",
+      "Asi Landes: TP2 800EMA"
     ]
   }
 ]
