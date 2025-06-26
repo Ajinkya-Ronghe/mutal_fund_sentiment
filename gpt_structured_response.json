@@ -1,22 +1,21 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Sentiment in the chat is cautious to bearish for BTC, with several users mentioning market dumps, support levels being tested, and discussions about potential further downside. Opinions about bounce possibilities exist, but the short-term tone is more negative, referencing dumping due to DXY strength, market makers' actions, and targets below current prices. There are also discussions about setting stop losses and possible fakeouts, reflecting uncertainty but a tilt toward downside risk.",
-    "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 3,
-    "negative_count": 7,
-    "neutral_count": 9,
+    "explanation": "The majority of BTC-related chat shows cautious optimism, with mentions of potential bounce points, fakeouts, and setups for both short and long positions. Some users suggest a short-term drop followed by a recovery, others discuss setting stop losses and looking for a 'juicy long' near 103k. There is no strong consensus for a large move, but the presence of bounce expectations, recovery comments, and long setup discussions slightly outweigh the negative and neutral chatter.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 6,
+    "negative_count": 4,
+    "neutral_count": 8,
     "representative_opinions": [
-      "PolySopher: Itâs dumping because dxy is pumping",
       "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
+      "Hoover: lets go, so we can go back up from there",
+      "Molyn Brefon: some bounce aroud here",
       "oscartg638: last support line. Here we go",
-      "Y00LKA: set up sl just in case if you short now",
-      "Lyndon Adjuta: Will btcc dump moree?",
-      "mpepin1905: 105300 target from the symmetrical drop. c what happens",
-      "Caquaino: taking looses here"
+      "Siren Stardust: like sup rest long",
+      "Rishad plays: always last 5 minute recovered"
     ]
   }
 ]
