@@ -4,18 +4,17 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple participants reference bullish sentiment, including ETF buying competition and algorithmic buy calls with high targets. However, there is some caution and discussion of potential short-term dips before a breakout, suggesting a mixed but overall upward bias.",
+    "explanation": "There are mildly positive sentiments and a few explicit buy signals, such as 'Ace algorithm buy call stands. TP 108.4k', and comments implying belief in upside potential (e.g., 'there are no lower lows, itll get there'). However, some opinions point to possible short-term pullbacks before a breakout, and there is a cautious tone in several comments. Most negative comments are about taking profit or waiting for better entries, not outright bearishness.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
+    "positive_count": 5,
     "negative_count": 2,
-    "neutral_count": 5,
+    "neutral_count": 8,
     "representative_opinions": [
-      "OH YEAH!: the etfs are fighting eachother trying to see who can buy the top more",
-      "Ace Winner: Ace algorithm buy call stands. TP 108.4k",
-      "OH YEAH!: there are no lower lows, itll get there",
-      "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think",
-      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
-      "ä¸åå¾: that guy closed some to raise his liq price to 108.5"
+      "Ace algorithm buy call stands. TP 108.4k",
+      "there are no lower lows, itll get there",
+      "that guy closed some to raise his liq price to 108.5",
+      "for a triangle to be legit I think price has to touch support and resistance 5 times, I think",
+      "this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
     ]
   }
 ]
