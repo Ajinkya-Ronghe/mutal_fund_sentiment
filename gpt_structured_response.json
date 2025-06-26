@@ -4,19 +4,18 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple participants (including Christopher Harvey, Ferhaan Schmidt, Raudhan Yuriansyah) express strong short sentiment or warn of a coming short, while other technical traders discuss risks of triangle rejections and possible drops below key levels. Some are watching for bullish signals, but the prevailing tone in the last 1-minute context is caution or short bias.",
+    "explanation": "Several participants discussed the risk of a BTC drop, with mentions of symmetrical triangle formation, rejection at resistance, and short signals. Specific price levels (107150-107850 range, potential drop to 105350) and suggestions of a 'hard short' coming increase the weight on a short-term bearish outlook. However, there are also opinions about a bullish reversal after a drop, so the confidence is medium.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
-    "negative_count": 7,
+    "positive_count": 2,
+    "negative_count": 6,
     "neutral_count": 5,
     "representative_opinions": [
-      "Christopher Harvey: SHORT SIREN NOWWW",
       "Ferhaan Schmidt: hard short will coming",
       "Raudhan Yuriansyah: now short",
       "oscartg638: support at 107210. That's my new thesis.",
       "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
       "Hoover: Drop it to 105,350 then launch up!",
-      "RaberTrades: Letâs let the bulls flip that 3D rsi over yellow ema while Stoch RSI has big room to run. Then BTC will giga send"
+      "Molyn Brefon: guys, if my thesis is correct and we are rejected from 107700 we are officially in a triangle. Be careful."
     ]
   }
 ]
