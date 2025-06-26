@@ -4,20 +4,15 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment in the live chat expresses concern about downside risk, with several participants noting a potential dump, loss of key levels (such as the 50 EMA), and an expectation of a move down to clear liquidity. However, there is also some debate and caution, with some believing price could fake out upwards before dumping, contributing to only medium confidence.",
-    "safe_leverage_isolate_future_perpetual": 3,
+    "explanation": "The majority of BTC-related opinions express caution, with several users noting patterns such as double tops, lower highs, and the potential for a 'dump' to levels like 104k. There is talk about price action being 'maddening,' support levels being tested, and the possibility of a range fake-out before a move down. While a few comments humorously mention buying or holding BTC, most actionable sentiment is wary or bearish in the short term, recommending stop losses and warning of downside risk.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 2,
     "negative_count": 8,
     "neutral_count": 6,
     "representative_opinions": [
-      "Caquaino: big dump incoming",
       "shabaotb: idk man a double top and a lower high seems to be prepping for a dump",
-      "Molyn Brefon: a little bit down then up then dooooown",
-      "shabaotb: and when i say dump im talkin maybe 104k not too low",
-      "shabaotb: jus to take liqs and clear that vector",
-      "oscartg638: damn bears testing it like it's a picnic basket",
-      "aV1rus: if it was gonna dump hard right now it would of already... this price action looks more like farming... they're gonna range this throw everyone off",
-      "aV1rus: look at previous dumps it doesnt hang out and chop - usually this price action is a range... it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation"
+      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
+      "oscartg638: damn bears testing it like it's a picnic basket"
     ]
   }
 ]
