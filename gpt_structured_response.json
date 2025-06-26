@@ -4,18 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The live chat featured a mix of bullish and bearish comments for BTC, but slightly more positive sentiment. Comments such as 'El Diablo LONGED it', 'come on bitty woooooo', and questions about longing suggest some participants are anticipating upward movement. However, warnings like 'Today is dump day be ready' indicate caution. No direct technical signals were mentioned for BTC, but the general tone leaned toward optimism with short-term uncertainty.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Several chat participants express bullish sentiment or hope for upward movement in BTC (e.g., 'come on bitty woooooo', 'El Diablo LONGED it', 'long now ?'), but there are also mentions of uncertainty or potential dumping (e.g., 'Today is dump day be ready', 'That was the bull run for this year'). The overall tone is slightly more positive than negative, but not strongly conclusive. No direct candlestick signal is provided, so 'long' is inferred from more bullish comments. No specific leverage suggestion is made; safe leverage is set to 0 for risk management.",
+    "safe_leverage_isolate_future_perpetual": 0,
     "positive_count": 3,
-    "negative_count": 1,
+    "negative_count": 2,
     "neutral_count": 2,
     "representative_opinions": [
       "Sammy: El Diablo LONGED it",
-      "Kuya G: long now ?",
       "fun: come on bitty woooooo",
+      "Kuya G: long now ?",
       "Dd: Today is dump day be ready",
-      "TioRyo: Oh another thing, study BULL MARKET and BEAR MARKET PLEASE bye guys",
-      "jamal crawfish: lots of tools, im using binance"
+      "Dd: That was the bull run for this year",
+      "Dd: Island boy sleeping ?",
+      "TioRyo: Oh another thing, study BULL MARKET and BEAR MARKET PLEASE bye guys"
     ]
   }
 ]
