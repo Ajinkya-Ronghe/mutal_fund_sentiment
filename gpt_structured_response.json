@@ -4,28 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants expect higher BTC prices (targets mentioned above 107k, 109.6k, even 111k), and some reference technical confluences like VWAP and Ichimoku cloud supporting upward movement. However, there is some caution with mentions of required support retests and a few short/uncertain signals, so the overall confidence is medium rather than high.",
+    "explanation": "There are mixed but generally positive sentiments regarding BTC's potential for higher prices, with users mentioning targets up to 111k and several noting the market is holding above levels or that 'no one has the stiring.' Some caution is present with mentions of support retests and bearish activity, but the prevailing outlook, including specific price targets and general optimism, supports a medium-confidence buy recommendation. No strong consensus on leverage, so a conservative approach is advised.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
-    "negative_count": 2,
-    "neutral_count": 6,
+    "negative_count": 3,
+    "neutral_count": 9,
     "representative_opinions": [
+      "SalmanDÂ£vil: bhai 1102000 jayenga phr sidha 104000",
       "pramod singh: bhai btc kitna High laga sakta hai",
-      "JUDAS THE TRAITOR: ITS CANT HOLD THIS DIFFERENTIAL ANYLONGER. IT WILL HAVE TO PUSH MINIMUM 500 USD UP",
-      "ð²ððððÌ¶ð£ðð¯ðªð°: Help I was telling everyone to buy it at $111",
+      "Molyn Brefon: if greedy a bit i would say 107 720",
       "Noob Trader: no its real rally",
+      "Noob Trader: market is holding it above no one has the stiring",
       "Mar: 109.6 maybe",
       "Y00LKA: 111",
       "Noob Trader: 111k",
-      "oscartg638: it aligns with ichimoku cloud 5min. lot's of confluence to validate vwap play",
+      "GRIMMS: bears are roaming freely",
       "Ferhaan Schmidt: the chart look short signal",
       "oscartg638: i hate to say it but price must retest new support again",
-      "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
-      "Mar: how high",
-      "Molyn Brefon: 107.86 max i can see",
-      "Molyn Brefon: 107.8 ?",
-      "Molyn Brefon: if greedy a bit i would say 107 720",
-      "RaberTrades: Much higher"
+      "Ruslanas Gu: assia cloud take 108900 liq will be nice",
+      "Ruslanas Gu: its my main indicator funding rates its shows dynamics of market "
     ]
   }
 ]
