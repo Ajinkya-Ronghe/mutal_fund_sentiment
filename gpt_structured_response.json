@@ -4,18 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment in the chat is bullish for BTC, with mentions of a 'bullrun', absence of sellers, and the belief that a falling dollar benefits BTC. However, there are mixed views, such as concerns if BTC can't hold key levels and references to needing confirmation on certain price candles. No clear technical signal was given, but the general bias leans positive.",
+    "explanation": "Several users referenced BTC's resilience, large movements, and adoption by countries as bullish factors. The discussion about the dollar weakening and BTC being 'too big to fall' supports a buy signal, but there are also concerns about not holding key resistance levels (108k/109k), so confidence is not high.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
+    "positive_count": 5,
     "negative_count": 2,
-    "neutral_count": 8,
+    "neutral_count": 6,
     "representative_opinions": [
-      "packslaya: BULLRUN",
+      "jeff gates: bit coin dont care whats going on you have whole countires moveing to bit coin look at south america",
+      "Islandsteve: THESE LITTLE 300$ MOVEMENTS ARE NOTHING TRY 5K IN 5 MIN MOVEMENTS",
+      "jeff gates: its to big to fall now",
       "PolySopher: That pump was sponsored by the fall of dollar empire",
       "oscartg638: no poly. when dollar goes up btc goes down. when dollar goes down, btc is up.",
-      "jeff gates: i dont trade i hold",
       "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
-      "oscartg638: we have to confirm a 15min candle for that to be the case"
+      "oscartg638: we have to confirm a 15min candle for that to be the case",
+      "oscartg638: find an exchange you're comfortable with and then find btc under that exchange in trading view",
+      "jamal crawfish: i have a btc usdt chart open"
     ]
   }
 ]
