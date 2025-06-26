@@ -4,22 +4,17 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Sentiment is cautiously bullish, with several participants discussing potential support zones (105k-107k), confirming bounce from daily open, and expressing reluctance to sell BTC. While there are some concerns about possible short-term downside (bear fractal, head and shoulders), the overall tone favors a recovery from lower levels, with targets for a move higher if certain support holds. No clear short signals dominate, and traders express that no one is selling their BTC at the bottom.",
-    "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 6,
-    "negative_count": 4,
+    "explanation": "BTC is currently trading in a range with significant support and resistance levels being discussed by multiple participants. There is a general lack of strong selling pressure ('no one selling their btc'), and several traders are watching for a potential bounce from lower levels (105,350-105,400) back upwards, with targets up to 108,750 and even 109,675 on a breakout. Sentiment is mixed, but the absence of panic selling and the anticipation of an upward move after a possible dip suggest a moderate buy opportunity, especially for short-term scalpers or those trading near support. The overall market tone is cautious but not bearish.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 5,
+    "negative_count": 3,
     "neutral_count": 8,
     "representative_opinions": [
-      "Christopher Harvey: Jose upset ge bought btc at 75k in 2021. now hes mad everyone rich but him",
-      "oscartg638: that support was real",
-      "oscartg638: 107200",
-      "Tjeerd Phaff: it's bouncing from daily open",
-      "Hoover: Drop it to 105,350 then launch up!",
       "Dude Talk: lots of food at bottom but no one selling thier btc",
-      "Tjeerd Phaff: but I think we could even go to 103/104 before higher but have to see",
-      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
       "oscartg638: the breakout target to the downside is 105200 and to the upside is 108750 approximately.",
-      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350"
+      "Hoover: Drop it to 105,350 then launch up!",
+      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
+      "Tjeerd Phaff: its bouncing from daily open"
     ]
   }
 ]
