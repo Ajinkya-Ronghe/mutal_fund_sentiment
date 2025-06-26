@@ -4,7 +4,7 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple opinions point to a near-term uptrend, with Marticlues AI issuing a long signal for BTC/USDT and several users referencing buying activity or support levels holding. Some users, however, express caution about shorts or price stalling, so confidence is not high. The overall tone is moderately bullish with support for a long strategy on BTC.",
+    "explanation": "Multiple opinions indicate a mixed but slightly bullish sentiment for BTC. Marticlues AI provided a detailed long signal with entry and targets. Some chat users noted uptrend signals and support levels, while others pointed out resistance and potential for shorts. The presence of both buy and short suggestions reduces confidence but the structured AI call for a long bias, and several users expressing buying interest, tips the scale toward a long recommendation.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 5,
     "negative_count": 3,
@@ -12,13 +12,18 @@
     "representative_opinions": [
       "Marticlues AI: Long BTC/USDT:ENTRY=107341.48,TP1=107556.16,TP2=107663.5,TP3=107878.18,SL=106590.08,TA=Green Wave!",
       "Noob Trader: we are back into up trend unless it stays under 107.3",
+      "oscartg638: support at 107210. That's my new thesis.",
       "IcicleTripClips: me im buying all the btc",
       "Neev: keep buying icicle take us to the measured move",
-      "oscartg638: support at 107210. That's my new thesis.",
+      "Ferhaan Schmidt: now is good short",
       "Raudhan Yuriansyah: now short",
       "Ferhaan Schmidt: hard short will coming",
       "Ricardo Sala: price moved between 108k and 107 the whole day",
-      "oscartg638: TP at about 107650"
+      "oscartg638: TP at about 107650",
+      "oscartg638: breakout in about 4.5 - 6 hours",
+      "Molyn Brefon: 107 720 still hot hit",
+      "Crypto Cypher: s",
+      "binksy134: Whatâs holding price up"
     ]
   }
 ]
