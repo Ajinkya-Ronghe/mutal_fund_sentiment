@@ -4,25 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants express bullish sentiment and expectations for BTC to reach or exceed new all-time highs (ATH) if key levels hold. Talk of short-term support at 108,000 and anticipation of moves to the 110,550-111,983 range, with some even projecting 119-125k by end of June, indicates strong confidence in upward momentum. The mood is predominantly optimistic, with only minor caution about swings and leverage risk.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Multiple participants expressed bullish sentiment and specific price targets above current levels (e.g., 110k, 119-125k end of June, ATH if 108800 holds). Comments from RaberTrades, Islandsteve, and others support upward momentum expectations. There is mention of potential volatility and the need for caution (e.g., using bots, setting both long and short with stops), but the predominant sentiment is bullish for BTC.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 9,
-    "negative_count": 1,
+    "negative_count": 0,
     "neutral_count": 3,
     "representative_opinions": [
+      "Islandsteve: UP UP",
       "Islandsteve: ATH IF 108800 HOLDS",
-      "Kudjaks: pumpening",
       "RaberTrades: Bitcoin looks perky here guys",
       "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "@ndreas: ...Go btc.",
-      "Islandsteve: UP UP",
       "RaberTrades: I think we hit 119-125k end of June",
-      "Y00LKA: ...long from 108 500 and one more short from 108 500 and wait. not too big laverage",
-      "RaberTrades: Nice VWAP target  short term",
-      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500...",
-      "Islandsteve: YES 2 FAILED RALLYS WE NEED BREAK NOW",
-      "Islandsteve: WE SEE HOW FRYDAY GOES",
-      "RaberTrades: Bitcoin miners and treasuries are the play"
+      "zeenith: 200k",
+      "Leo Cagape: 110k",
+      "@ndreas: ...Go btc.",
+      "Y00LKA: ...long from 108 500..."
     ]
   }
 ]
