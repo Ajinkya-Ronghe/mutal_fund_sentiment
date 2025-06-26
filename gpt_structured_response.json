@@ -1,22 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The sentiment in the chat is mixed but leans slightly bearish for BTC in the short term. Several users mention failed supports, trendline rejection, and a possible bear fractal or head and shoulders pattern forming on higher timeframes. Price targets mentioned (105200-105350 to the downside, 108750-109675 to the upside) reflect indecision, but the inability to hold the daily open and the presence of bearish chart patterns suggest a mild short-term downside bias. There is no strong consensus for an aggressive move in either direction, and some traders are hesitant or hedging, which reduces confidence.",
+    "explanation": "The majority of BTC-related chat reflects indecision and volatility, but there are signs of underlying support. While some mention bearish patterns (bear fractal, head and shoulders), others highlight support holding and lack of sellers. Comments like 'support is holding,' 'the direction...determines the next direction,' and 'no one selling their btc' suggest a neutral to slightly bullish short-term outlook. A few expect a possible dump followed by a rally. No strong consensus, but the absence of panic selling and mentions of support holding give a slight long bias for short-term scalping.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 7,
-    "neutral_count": 11,
+    "positive_count": 5,
+    "negative_count": 3,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Tjeerd Phaff: we rejected trendline, daily open could not hold",
-      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
-      "oscartg638: the breakout target to the downside is 105200 and to the upside is 108750 approximately.",
-      "Tjeerd Phaff: not saying we can't go up but i would be surprised",
+      "oscartg638: support is holding. it's real.",
+      "Dude Talk: lots of food at bottom but no one selling thier btc",
+      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
       "Caquaino: its gonna dump",
-      "Hoover: Drop it to 105,350 then launch up!",
-      "Dude Talk: lots of food at bottom but no one selling thier btc"
+      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin ",
+      "Tjeerd Phaff: not saying we can't go up but i would be surprised",
+      "Siren Stardust: -0.0112% only this makes mee short thime bull now"
     ]
   }
 ]
