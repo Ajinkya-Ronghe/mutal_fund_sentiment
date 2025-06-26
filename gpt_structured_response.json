@@ -1,20 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Opinions are mixed but slightly skewed toward bullishness: regular buyers (e.g., weekly DCA) and several comments about buying and market support. Some warn about possible downside risks (war/news, bears roaming, short calls), but the presence of ongoing buyers, support at 107210, and people 'buying all the BTC' support a moderate buy signal. No consensus on strong trend, but no major panic or mass selling observed.",
+    "explanation": "Multiple participants express concern over potential negative news or war impacting BTC prices, mention of bears prevailing, and suggestions to short at certain resistance levels (e.g., 110000). Some also note a slow or sideways market and a lack of profits from recent trades. However, there are a few who still mention buying regularly and accumulating, reflecting divided sentiment.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 5,
-    "negative_count": 4,
-    "neutral_count": 8,
+    "negative_count": 10,
+    "neutral_count": 6,
     "representative_opinions": [
-      "CHARLES SEXTON: every friday i buy 50$ btc at 5 pm im in the green",
-      "IcicleTripClips: me im buying all the btc",
-      "Noob Trader: we are back into up trend unless it stays under 107.3",
+      "SalmanDÂ£vil: bhai ab koi war na shuru hojayeEk News btc chand se zameen par",
+      "SalmanDÂ£vil: Bhai please batao 110000 bhai yanha se short kar sakta hu ???",
       "GRIMMS: bears are roaming freely",
-      "SalmanDÂ£vil: bhai ab koi war na shuru hojayeEk News btc chand se zameen par"
+      "Ferhaan Schmidt: now is good short",
+      "Noob Trader: we are back into up trend unless it stays under 107.3",
+      "Ricardo Sala: price moved between 108k and 107 the whole day",
+      "CHARLES SEXTON: every friday i buy 50$ btc at 5 pm im in the green",
+      "IcicleTripClips: me im buying all the btc"
     ]
   }
 ]
