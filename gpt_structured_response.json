@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple participants reference bullish momentum ('subway pump', 'north', 'going up more your short liq', '109 for sure shorters', 'liquidations above us...price action looks quite possible'), suggesting a short-term upward move. Despite some short suggestions, the majority sentiment leans toward a continuation to higher liquidation levels (109700) before any significant drop. There is also mention of support at 107000, suggesting that dips may be bought. The tone is optimistic but not without caution (mentions of stop loss).",
+    "explanation": "The majority of recent live chat opinions referencing BTC suggest a bullish outlook or expectation of price increases, such as references to 'subway pump,' 'going north,' and targets above 108-109k. Multiple users refer to strong support at 107k and expectations of a move to liquidate shorts above 109k. There are, however, a few bearish comments (e.g., head and shoulders, short to 107k), but the prevailing sentiment is upward with some neutral caution about stop losses.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
-    "negative_count": 4,
-    "neutral_count": 8,
+    "negative_count": 3,
+    "neutral_count": 4,
     "representative_opinions": [
       "subway pump",
       "wrong way bitty, you must go north. thats where the love is.",
-      "this is going up more your short liq",
-      "109 for sure shorters",
-      "109700 is the last of liquidations above us and with this price action it looks quite possible. I bet we go up at least to liquid levels before we see 103500 again",
-      "Short to 107",
-      "That is the support level"
+      "Sammy on Long !?",
+      "so close to next leg up",
+      "Alhamaf: Short to 107",
+      "Tiger Eye: Trend line is holding up quite good, if we slip 107 is a strong support",
+      "Alexis Gonzalez: 109700 is the last of liquidations above us and with this price action it looks quite possible. I bet we go up at least to liquid levels before we see 103500 again"
     ]
   }
 ]
