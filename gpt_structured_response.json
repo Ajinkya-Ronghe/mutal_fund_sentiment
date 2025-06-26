@@ -4,15 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment in the chat is mixed, with several users predicting short-term downward price movement or volatility for BTC (e.g., 'a little bit down then up then dooooown', 'seems to be losing that 50', 'no bull flag', 'support at 107128', 'it'll fake out to 106.8k max and then pop back to top of range'), and others warning of choppy price action and the need to be cautious with stop losses. While a few users express hope for an uptrend, the dominant opinion is that BTC will likely experience a short-term drop before any potential rebound. There is no clear bullish consensus, and traders are wary of fakeouts and range-bound price action.",
+    "explanation": "The majority of BTC-related opinions express uncertainty and concern about support levels being tested, with several users noting bearish price action, failed bull flags, and expectations of a further downward move before a possible bounce. While some mention a potential short-term pop or range-trading, the consensus is that BTC is at risk of losing key support and could see a significant drop if not reclaimed quickly. There is no strong bullish conviction in the current sentiment.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 2,
+    "positive_count": 3,
     "negative_count": 7,
     "neutral_count": 6,
     "representative_opinions": [
-      "Molyn Brefon: a little bit down then up then dooooown",
+      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
+      "oscartg638: triangle support",
       "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
-      "shabaotb: seems to be losing that 50 as we speak"
+      "shabaotb: seems to be losing that 50 as we speak",
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
+      "shabaotb: or could head to that 50 on the 1hr then bounce back up",
+      "shabaotb: i just dont like that 4hr chart",
+      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
+      "Caquaino: take my money btc"
     ]
   }
 ]
