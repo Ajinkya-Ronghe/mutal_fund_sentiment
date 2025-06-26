@@ -4,20 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Sentiment is mixed to cautious with several participants warning of a big drop or bearish fractals. Some technical analysis references suggest possible further downside (triangle rejection, head and shoulders, 'bear fractal'), and mentions of targets below the current price (105,350). However, there is also talk of strong support and possible bounce, so confidence is not high.",
+    "explanation": "Multiple participants anticipate a drop in BTC, referencing potential triangle rejection, targets below 107,000, and a bear fractal or head-and-shoulders pattern on higher timeframes. The short-term mood is cautious, with several expecting a downward move before any potential rally.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 4,
-    "negative_count": 8,
-    "neutral_count": 5,
+    "negative_count": 9,
+    "neutral_count": 7,
     "representative_opinions": [
       "MrSubmariner76: Big drop now. Pay attention",
       "oscartg638: if my thesis is correct and we are rejected from 107700 we are officially in a triangle. Be careful.",
+      "Travis Alford: is there any prediction yet that btc could dump back under 100k in the near future?",
       "Tjeerd Phaff: but I think we could even go to 103/104 before higher but have to see",
-      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
+      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
       "Hoover: Drop it to 105,350 then launch up!",
-      "Dude Talk: lots of food at bottom but no one selling thier btc",
-      "oscartg638: that support was real",
-      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350"
+      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin"
     ]
   }
 ]
