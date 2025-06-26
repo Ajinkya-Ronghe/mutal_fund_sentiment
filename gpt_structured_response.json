@@ -4,16 +4,18 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple users express bearish or cautious sentiment on BTC, referencing the recent bull run as possibly ending and anticipating a further drop. There are no strong bullish opinions, and the mood is generally wary or expecting downside. No explicit technical signal is present, but the overall tone is negative for BTC in the immediate short-term.",
+    "explanation": "There are mixed opinions about Bitcoin's direction, but the most relevant direct comments suggest short-term downside or a lack of bullish momentum. Users mention 'come btc drop a bit more' and refer to a recent bull run possibly being over for the year. No strong bullish signals are present, and the overall sentiment is cautious with a slight bearish bias for immediate trades.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 0,
-    "negative_count": 4,
-    "neutral_count": 2,
+    "positive_count": 1,
+    "negative_count": 2,
+    "neutral_count": 3,
     "representative_opinions": [
-      "Dd: Its time for the big dum after mini bull run",
-      "Was N 1: come btc drop a bit more",
-      "Dd: That was the bull run for this year",
-      "Kudjaks: ATH"
+      "come btc drop a bit more",
+      "That was the bull run for this year",
+      "ATH",
+      "Kuya G: long now ?",
+      "fun: come on bitty woooooo",
+      "TioRyo: Oh another thing, study BULL MARKET and BEAR MARKET PLEASE bye guys"
     ]
   }
 ]
