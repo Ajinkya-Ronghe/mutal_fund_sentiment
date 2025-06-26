@@ -4,19 +4,18 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The opinions about BTC are mixed, with multiple participants expecting a rejection at current price levels and forecasting significant corrections to lower levels like 103k and 90k. Some anticipate a 'massive dump' and express skepticism about BTC holding above 108k for a sustained period. There are a few bullish comments targeting 120k, but the negative and neutral voices are more prevalent in this sample, suggesting caution. No clear, strong momentum for an immediate long position is evident on the 1-minute timeframe.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 7,
-    "neutral_count": 4,
+    "explanation": "The live chat opinions are mixed, but there is a notable cluster of users expecting a dump or significant rejection in BTC price, with downside targets ranging from 108k to 90k. Several users mention 'massive dump incoming', and 'rejected', and express skepticism about BTC holding higher price levels. There are some long-term bullish comments, but short-term sentiment leans bearish. No strong bullish momentum or consensus for an immediate buy, and several users are discussing taking short positions or expecting lower levels soon.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 3,
+    "negative_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
-      "henrique aoyagui: yep. rejected, see you guys in 103k",
-      "Pegasus SkylineRFS: see you guys at 90k byeee",
       "henrique aoyagui: maaassive dump incoming",
       "tqpro: Aight see you ladies and gents at $120k. Latah!",
-      "Dd: Hoping btc go to 108k",
-      "matt desroches: no leverage long since 73k",
-      "Qvazor: Want short from 108.2k with short sl"
+      "Pegasus SkylineRFS: see you guys at 90k byeee",
+      "JB ðï¸ð: SCAAALP SHORT",
+      "henrique aoyagui: yep. rejected, see you guys in 103k",
+      "matt desroches: no leverage long since 73k"
     ]
   }
 ]
