@@ -4,19 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of BTC-related comments reference downward price movement, key support lines being tested, and market uncertainty. Multiple users reference price dumping, DXY (dollar index) pumping, miners potentially selling, and concerns over chart patterns (notably the 4hr). While some users express hope for a long position at lower levels, the prevailing sentiment is caution with a bias toward downside risk in the immediate term.",
+    "explanation": "The consensus in the chat leans bearish for BTC, with multiple references to support levels, potential for further downside, concerns over DXY strength, and short positions being discussed. Some are targeting lower levels (e.g., 105300, 103k) for potential bounces, indicating bearish momentum in the very short term. However, some opinions are neutral or cautious, noting possible fakeouts and uncertainty.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 2,
+    "positive_count": 3,
     "negative_count": 7,
-    "neutral_count": 6,
+    "neutral_count": 10,
     "representative_opinions": [
-      "oscartg638: It might be a reason why price drops maybe half a percent throughout the day",
+      "jo cotÃ©: broke the trendline",
       "PolySopher: Itâs dumping because dxy is pumping",
-      "shabaotb: i just dont like that 4hr chart",
+      "Ferhaan Schmidt: im on short now",
+      "oscartg638: It might be a reason why price drops maybe half a percent throughout the day",
+      "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
+      "oscartg638: last support line. Here we go",
       "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
       "Asi Landes: under 107200",
       "mpepin1905: 105300 target from the symmetrical drop. c what happens",
-      "shabaotb: lets see if its a fakeout"
+      "shabaotb: i just dont like that 4hr chart"
     ]
   }
 ]
