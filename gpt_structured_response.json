@@ -4,23 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The majority of opinions are bullish or positive on BTC, with multiple participants suggesting never to sell, taking out loans to buy more, and expecting further breakouts. There is some mention of sideways action and potential short-term bear traps, but the overall sentiment is highly supportive of buying BTC. No technical 1-minute candlestick data is given, but the strong positive crowd mood justifies a 'long' bias.",
+    "explanation": "The majority of opinions express bullish sentiment on BTC, with several participants recommending never to sell and to buy more. There is discussion of taking loans to buy more BTC and references to bears getting 'hammered,' indicating strong bullish conviction. A few negative or neutral voices mention possible sideways movement or a bull trap, but positive voices clearly dominate.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 11,
-    "negative_count": 4,
-    "neutral_count": 5,
+    "positive_count": 8,
+    "negative_count": 3,
+    "neutral_count": 4,
     "representative_opinions": [
-      "Pete : Never sell BTC",
-      "Pete : take a loan against it",
-      "Pete : and buy more of it",
+      "Pete: Never sell BTC",
+      "Pete: take a loan against it",
       "Junn Guldur: Bulls have bigger balls then bears",
-      "Din Djarin: 3rd times a charm on the breakout",
-      "Pete : Bears gettin hammered. James Wynn gonna get rekt.",
-      "OH YEAH!: DOWNTREND ONLY AFTER 1BTC = 1 EARTH",
+      "ð²ððððÌ¶ð£ðð¯ðªð°: James Wynn has a secret long with a billion probablyâ¦ knowing theyâll hunt his short",
       "SaRumbo: buy tp 1086500..",
-      "Qvazor: Why pump?",
       "Ryan Teng: sell sell its making lower low with high wick",
-      "Qvazor: low volume pump"
+      "oscartg638: not enough stream. we might go back to bottom of triangle",
+      "@ndreas: sidewayz for a month"
     ]
   }
 ]
