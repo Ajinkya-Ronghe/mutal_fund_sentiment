@@ -4,21 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants expressed bullish sentiment and specific price targets above current levels (e.g., 110k, 119-125k end of June, ATH if 108800 holds). Comments from RaberTrades, Islandsteve, and others support upward momentum expectations. There is mention of potential volatility and the need for caution (e.g., using bots, setting both long and short with stops), but the predominant sentiment is bullish for BTC.",
+    "explanation": "The overall sentiment towards BTC is strongly positive, with multiple users expressing high targets (some above 110k), excitement about imminent moves, and references to a bullish breakout in the short term. RaberTrades provides target zones above the current price and expects a major move by the end of June. There are also technical suggestions for long positions and safe leverage. Although one user suggests a hedged approach with both short and long bots, the majority express bullishness.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 9,
+    "positive_count": 8,
     "negative_count": 0,
     "neutral_count": 3,
     "representative_opinions": [
-      "Islandsteve: UP UP",
-      "Islandsteve: ATH IF 108800 HOLDS",
+      "Go btc.",
+      "Islandsteve: THIS IS IT GO BTC GO",
       "RaberTrades: Bitcoin looks perky here guys",
-      "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
+      "RaberTrades: Letâs 'launch' off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
       "RaberTrades: I think we hit 119-125k end of June",
       "zeenith: 200k",
       "Leo Cagape: 110k",
-      "@ndreas: ...Go btc.",
-      "Y00LKA: ...long from 108 500..."
+      "Y00LKA: set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage"
     ]
   }
 ]
