@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "BTC is discussed with mixed opinions: some mention strong support holding and potential for upward movement, while others warn of a possible dump. There is agreement that short-term direction is uncertain but the price action currently shows resilience at support levels, indicating a tilt towards a buy for quick trades using 1-minute candlesticks, albeit with caution.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Opinions are mixed, but several comments point to support holding, the potential for an upward move, and some traders remaining long after a CME gap. Bullish sentiment is countered by warnings of a possible dump and double-top, but no clear consensus on imminent breakdown. Neutral to bullish traders highlight the resilience of support and the possibility of upward momentum if current levels hold.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 5,
     "negative_count": 4,
-    "neutral_count": 5,
+    "neutral_count": 7,
     "representative_opinions": [
+      "SATs Stacker: I'll check back later. Keep stacking everyone",
       "oscartg638: support is holding. it's real.",
       "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
       "Caquaino: its gonna dump",
-      "oscartg638: triangle support",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
       "shabaotb: so we got a double top and a lower high",
-      "aV1rus: if it was gonna dump hard right now it would of already... this price action looks more like farming... they're gonna range this throw everyone off"
+      "aV1rus: if it was gonna dump hard right now it would of already... this price action looks more like farming... they're gonna range this throw everyone off",
+      "Siren Stardust: Im still long after Cme gap ...big shote oute too dlock fore giving awsome week end charts"
     ]
   }
 ]
