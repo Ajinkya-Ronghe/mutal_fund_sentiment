@@ -4,20 +4,27 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "BTC sentiment is mixed with a slight bearish tilt. Several users discuss possible support breakdowns, lower price targets (106200, 105300), and high volatility with no clear safe stop loss. Some expect a brief move up before a bigger drop, and others note the loss and potential retest of key moving averages. While there is some mention of bounces or range plays, the prevailing immediate opinion is caution and looking for short entries.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The live chat opinions suggest significant uncertainty and bearish bias for BTC in the short term. Multiple users mention price action being 'maddening', expecting further downside, discussing support breakdowns, and referencing historical dumps. There are a few speculative mentions of bounces, but overall, the tone is cautious with more references to downward movement and volatility. There are no clear bullish signals or sustained buy enthusiasm.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 3,
-    "negative_count": 7,
-    "neutral_count": 8,
+    "negative_count": 9,
+    "neutral_count": 5,
     "representative_opinions": [
-      "Rodolfo: I have 105300",
-      "oscartg638: 106200",
-      "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
-      "shabaotb: seems to be losing that 50 as we speak",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
+      "Timboslice: This price action is maddening. lol.",
+      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
+      "oscartg638: damn bears testing it like it's a picnic basket",
+      "Molyn Brefon: a little bit down then up then dooooown",
       "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
+      "shabaotb: seems to be losing that 50 as we speak",
+      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
+      "oscartg638: support at 107128",
       "shabaotb: i just dont like that 4hr chart",
-      "oscartg638: damn bears testing it like it's a picnic basket"
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
+      "TIVERSON PUBG: i dont see bull flag",
+      "shabaotb: no bull falg",
+      "Caquaino: take my money btc",
+      "a man Ryan: talking about privilege",
+      "Y00LKA: how new BTC's are added to available pool for sales?"
     ]
   }
 ]
