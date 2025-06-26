@@ -3,22 +3,22 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
-    "confidence": "High",
-    "explanation": "The majority of opinions are negative or cautionary regarding BTC in the near term, with references to expected seasonal weakness ('July normally sucks for crypto'), warnings of large sell zones and liquidity at 108k-111k, multiple explicit calls to sell, and concerns about a potential crash. There are very few, if any, clear positive or bullish signals for BTC in this collection of live chat opinions.",
-    "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 2,
-    "negative_count": 9,
-    "neutral_count": 6,
+    "confidence": "medium",
+    "explanation": "The current sentiment for BTC is mixed but slightly bearish. While there are mentions of a 'bull run' and a historical breakout, there are more explicit warnings about a crash and recommendations to sell, especially near -108,000. Several users warn about a broader market crash led by BTC and the dollar, and some reference a reversal and the need to be ready to 'dump it to the ground.' However, there is also a notable long trade recommendation from Marticlues AI, indicating a possible short-term pump. The majority of direct trader sentiment leans toward caution and selling.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 4,
+    "negative_count": 7,
+    "neutral_count": 5,
     "representative_opinions": [
-      "Islandsteve: JULY NORMALY SUCKS FOR CRYPTO JUST SAYING LOL",
       "Dd: Selllll",
-      "Christopher Harvey: we have a 108.7k pullback anf itll only add to the yellow beams lingering above on the liq charts",
       "The Dusty Hunt: tanking",
-      "BaNaNaCaKes (Squid): It's Gonna Suck Harder Than Usual, Trust Me!",
-      "PolySopher: Everything is trying to breakout this may be a historical moment. Gold, silver, palladium, Spx, BTC, Eth, etc",
-      "PolySopher: The breakout may be the breakdown of the dollar for real",
+      "Christopher Harvey: we have a 108.7k pullback anf itll only add to the yellow beams lingering above on the liq charts",
+      "PolySopher: This breakout could lead to a big event named crash",
       "TioRyo: -108000 SELL",
-      "Travis Alford: if btc crashes down alts will get thrashed hard lol"
+      "Marticlues AI: Long BTC/USDT:ENTRY=107971.92,TP1=108187.86,TP2=108295.83,TP3=108511.77,SL=107216.11,TA=Whale Surge!",
+      "PolySopher: Everything is trying to breakout this may be a historical moment. Gold, silver, palladium, Spx, BTC, Eth, etc",
+      "Dd: Nice bull run",
+      "PolySopher: BTC crash = general crash caused by the dollar crash"
     ]
   }
 ]
