@@ -4,21 +4,18 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Recent opinions indicate a cautious or bearish sentiment for BTC in the short term. Comments such as 'DO NOT LONG RIGHT NOW', 'the upside to a long is little', and 'when hasn't bitcoin punished a long the last few days' point to a perceived risk for long positions. Some see minor upside but warn of potential for fakeouts and liquidation, suggesting the market may be trapping longs and could move down before any recovery.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
-    "negative_count": 5,
-    "neutral_count": 9,
+    "explanation": "The majority of opinions suggest caution against longing BTC at the current levels, with several users warning of high downside risk and limited upside. Some note that longs have been punished recently and that liquidations at higher levels may act as a magnet, implying potential for a downward move before any recovery. A few positive and neutral voices are present, but the warnings dominate.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 4,
+    "negative_count": 6,
+    "neutral_count": 8,
     "representative_opinions": [
-      "OH YEAH!: longs coming back in, when hasn't bitcoin punished a long the last few days",
       "Christopher Harvey: DO NOT LONG RIGHT NOW",
-      "Christopher Harvey: 108k.....109k maybe. the upside to a long is littlw.",
-      "Architec(MattyB!!!): got stopped out, but got in again bigger",
-      "Hoover: lets go, so we can go back up from there",
-      "shabaotb: lets see if its a fakeout",
-      "Rishad plays: upside beaks means fakeout",
-      "Caquaino: how can this be a fake out?",
-      "Degen Again: it literally has to dump for you to confirm its dumped"
+      "OH YEAH!: longs coming back in, when hasn't bitcoin punished a long the last few days",
+      "Christopher Harvey: the downside to a long going south right now is big",
+      "Phonz: Liqs at 109k are a magnet. Its going there",
+      "oscartg638: This is the bulls defending the triangle",
+      "Hoover: lets go, so we can go back up from there"
     ]
   }
 ]
