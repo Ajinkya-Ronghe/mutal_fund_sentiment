@@ -1,22 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment is mixed with some participants expressing uncertainty and waiting for confirmation, while others suggest the rally is real and the market is holding above key levels. There are references to technical indicators like VWAP and Ichimoku cloud providing confluence for a bullish play. The absence of strong bearish comments or panic, and the mention of a real rally, support a cautious buy recommendation, but the lack of a clear unanimous direction and the call for confirmation lower the confidence.",
+    "explanation": "The live chat showed mixed to negative sentiment for BTC, with calls to 'dump' BTC, some expressing skepticism about an upward movement, and discussion on short trades and resistance levels. Technical mentions referenced rejection at the 5-minute Ichimoku cloud and a short signal on the chart, while a few users mentioned needing confirmation and not shooting in the dark. Although there are isolated bullish comments about possible rallies, the short-term technical bias and crowd sentiment lean slightly bearish.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 4,
-    "negative_count": 3,
-    "neutral_count": 7,
+    "negative_count": 7,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Noob Trader: no its real rally",
-      "oscartg638: it aligns with ichimoku cloud 5min. lot's of confluence to validate vwap play",
-      "Molyn Brefon: if greedy a bit i would say 107 720",
+      "Shekhar Chikara: bhai dump krwaado",
+      "Shekhar Chikara: bhai eth btc ko dump krwaado saalo ko",
       "Ferhaan Schmidt: the chart look short signal",
-      "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
+      "oscartg638: getting rejected already by 5min ichimoku cloud",
       "Rodolfo: I feel like this is false up",
-      "Neev: looking forward to using your 4-year cycle indicator in the bear to catch those dca bubbles"
+      "Noob Trader: no its real rally",
+      "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
+      "pramod singh: today 220 usd loss ho gya short m"
     ]
   }
 ]
