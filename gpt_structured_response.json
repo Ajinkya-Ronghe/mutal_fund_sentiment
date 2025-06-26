@@ -4,17 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Despite mixed opinions, there is a bullish divergence and anticipation of a bounce above 108K after a possible short-term dip. Several participants mention price climbing and only a limited downside. However, negative sentiment and warnings about 'moonboys' being rekt and a consolidated market reduce confidence.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 7,
-    "neutral_count": 5,
+    "explanation": "There is a mix of opinions regarding BTC's immediate future, with several suggesting a quick dip followed by a strong rebound above 108k, and mentions of bullish divergence and breakout targets up to 109.3k. Despite some warnings of a short-term drop, the prevailing sentiment is that the market will recover quickly and move higher, backed by technical patterns and community expectation of a bullish breakout.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 6,
+    "negative_count": 5,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Islandsteve: 6/23 WE WAS AT 105K DSO ITS BEEN CLIMBING",
-      "Islandsteve: I THINK WE GOT BBULLISH DIVERGANCE",
       "JUDAS THE TRAITOR: IT CAN GO DOWN FOR LIQUIDITY GRAB TO BOUNCE ABOVE 108K",
-      "Skylake Pro Cinema: 580$ down fall coming on bitcoin",
-      "TIBERIO : only up now"
+      "Islandsteve: I THINK WE GOT BBULLISH DIVERGANCE",
+      "Kudjaks: breakout of this accending triangle as is rn is 109,3k",
+      "TIBERIO : only up now",
+      "Skylake Pro Cinema: 580$ down fall coming on bitcoin then back up",
+      "JUDAS THE TRAITOR: IT CAN NOT GO TO MUCH DOWN BELOW 107.820",
+      "henrique aoyagui: looks like rejection to me",
+      "Dd: When 108k moonies?",
+      "Sandro Martins: All charts of all markets are trash tonight, markek is very consolidated...Forex, index, crypto... very strange.",
+      "Dd: Moonboys rekt",
+      "Dd: They are collecting moonboys to rek them",
+      "Dd: Trump selling",
+      "packslaya: trump pumping our bags rn"
     ]
   }
 ]
