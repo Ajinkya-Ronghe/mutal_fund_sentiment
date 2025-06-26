@@ -3,20 +3,20 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "Most opinions suggest bullish momentum, referencing bullish chart patterns (e.g., bull flag), increased volume, and macro comments about dollar weakness benefiting BTC. Some warn of resistance at 108k and possible short if not held, but the prevailing sentiment is optimistic, especially with mentions of strong hands and mainstream investment (BlackRock, Vanguard).",
+    "confidence": "High",
+    "explanation": "Majority of opinions are bullish on BTC, with several calling for price targets above 108k and 110k, referencing ongoing volume and positive market sentiment. There is discussion of dollar weakness (which supports BTC uptrend), and repeated affirmations of price breaking new highs. Only minor caution was raised if BTC cannot hold above 108k, but most sentiment is positive.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 3,
-    "neutral_count": 9,
+    "positive_count": 14,
+    "negative_count": 2,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Geoff O: bull flag on the ten second let's go",
-      "jeff gates: when black rock and vangaurd invest it never falls",
+      "jeff gates: let the weak sell at 108 and let the strong make the money",
+      "Kevin Hamid: 110k noobies",
+      "I-Dub: It's going up forever Laura",
+      "Pete : Maxi's get richer",
+      "Islandsteve: 108K PARTY",
       "oscartg638: no poly. when dollar goes up btc goes down. when dollar goes down, btc is up.",
-      "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
-      "Dd: 108k not more moonboys buying smartmoney selling",
-      "Nillionaire: Voluuuuuuume",
-      "Pete : Maxi's get richer"
+      "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k"
     ]
   }
 ]
