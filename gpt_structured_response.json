@@ -4,27 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinion flow is mixed but slightly bullish: there are references to 'bull flag on 10s', 'trap dem bears', and encouragements to 'long now' and 'come on bitty woooooo' which suggest positive short-term momentum. There are some bearish mentions like 'BearFlag' and 'dump day', so confidence is not high. However, the overall sentiment is leaning mildly positive with active discussion about bullish setups and dismissive comments toward bears.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The sentiment is mixed for BTC, with some comments suggesting a potential dump ('Today is dump day be ready'), references to bear flags, and others expressing bullishness ('long now ?', 'trap dem bears', 'bull flag on 10s', 'we aint done was n 1, you might win this 15 min but the next one is ours'). The bullish signals slightly outweigh the bearish, and there is ongoing debate about short-term direction. The recommendation is a cautious buy with medium confidence, as the candlestick-related comments favor a long position but there is notable bearish sentiment as well.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 5,
-    "negative_count": 3,
-    "neutral_count": 7,
+    "negative_count": 4,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Kuya G: long now ?",
-      "fun: come on bitty woooooo",
-      "eastwest312 paq: trap dem bears",
-      "Was N 1: gg moon boys",
-      "GARYU ART CRAFT: BearFlag",
-      "Dd: Today is dump day be ready",
-      "eastwest312 paq: bull flag on 10s",
-      "fun: we aint done was n 1, you might win this 15 min but the next one is ours",
-      "Was N 1: all most there btc",
-      "jamal crawfish: graph",
-      "jamal crawfish: i managed to set the graph",
-      "jamal crawfish: to resemble directly this one",
-      "jamal crawfish: lots of tools, im using binance",
-      "TioRyo: Oh another thing, study BULL MARKET and BEAR MARKET PLEASE bye guys",
-      "oscartg638: also, no emotions here. I hope you have thick skin."
+      "long now ?",
+      "Today is dump day be ready",
+      "bear flag",
+      "trap dem bears",
+      "bull flag on 10s",
+      "we aint done was n 1, you might win this 15 min but the next one is ours",
+      "all most there btc"
     ]
   }
 ]
