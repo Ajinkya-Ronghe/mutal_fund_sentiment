@@ -4,19 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple users express a bullish stance on BTC, with some stating they are 'all in' long (no leverage) and referencing a bullish divergence, which typically signals a reversal from bearish to bullish momentum. Another comment mentions being in a no leverage long from 73k. Some short opinions and warnings of a bull trap are present, but the majority of BTC-specific sentiment leans cautious bullish, especially with a preference for lower risk (no leverage) strategies.",
+    "explanation": "Several participants express bullish sentiment or are positioned long on BTC, citing bullish divergence, a potential bullish reversal, and no leverage. However, there are also warnings of market overleverage, a possible bull trap, and suggestions to take profit or diversify, which temper the overall confidence. No strong candlestick short signals were discussed. The majority of direct BTC opinions lean bullish but with risk awareness.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 5,
+    "positive_count": 4,
     "negative_count": 3,
-    "neutral_count": 3,
+    "neutral_count": 2,
     "representative_opinions": [
       "Rising Lion: I'm poor currently because I'm all in on bitcoin. like crazy all in",
       "Rising Lion: long, no leverage",
-      "matt desroches: no leverage long since 73k",
+      "Islandsteve: In a bullish divergence, the currency pair prices make a new low in the market, but the technical indicators mark a higher price. .",
+      "Islandsteve: This signals that bears in the market are no more in control, and bulls are getting stronger, indicating a bullish reversal after the downtrend ends. At this point, traders can place long orders",
       "henrique aoyagui: close longs, take profit....",
       "henrique aoyagui: bull trap",
-      "Islandsteve: In a bullish divergence...bulls are getting stronger, indicating a bullish reversal after the downtrend ends. At this point, traders can place long orders",
-      "Qvazor: Want short from 108.2k with short sl"
+      "henrique aoyagui: market is over leveraged",
+      "Dd: Diversify your money",
+      "matt desroches: no leverage long since 73k"
     ]
   }
 ]
