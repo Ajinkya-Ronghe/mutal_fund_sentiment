@@ -1,22 +1,25 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants express a preference for long positions in BTC, but they recommend no leverage and highlight both short-term opportunities and concerns about over-leverage and bull traps. The sentiment is cautiously optimistic for the short term, but some warn of risks and market volatility. No strong consensus for aggressive action, but the majority tilt towards a long bias.",
-    "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 3,
-    "negative_count": 3,
-    "neutral_count": 3,
+    "explanation": "There are more negative and cautious opinions regarding BTC in the short term, referencing a bull trap, over-leveraged market, and calls for short positions. Some mention 'no leverage long since 73k,' but more comments lean bearish for the current moment.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 2,
+    "negative_count": 4,
+    "neutral_count": 4,
     "representative_opinions": [
-      "Rising Lion: long, no leverage",
-      "matt desroches: no leverage long since 73k",
-      "Dd: Bitcoin short term is perfect long term I dont know",
       "henrique aoyagui: bull trap",
       "henrique aoyagui: market is over leveraged",
+      "Dd: Bitcoin short term is perfect long term I dont know",
+      "Knowing Dahwae: btc is wild",
       "Knowing Dahwae: still short",
-      "Knowing Dahwae: btc is wild"
+      "matt desroches: no leverage long since 73k",
+      "Qvazor: Want short from 108.2k with short sl",
+      "Dd: Bers we must go under 107k",
+      "c: so who's long and who's short?",
+      "c: hope it works out qvazor as long as you're careful"
     ]
   }
 ]
