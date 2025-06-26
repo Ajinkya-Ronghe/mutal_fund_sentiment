@@ -4,19 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "While there are polarizing opinions and some very bearish outliers, the overall sentiment from the BTC-focused comments is cautiously bullish: several users mention opening or holding long positions, a 'steady uptrend', and anticipation of upward movement from current levels. There is, however, notable skepticism and warnings of potential dumps, so confidence is not high. No specific short-term candlestick reversal is signaled, but the bias tips toward long due to majority positive or neutral outlooks.",
+    "explanation": "The majority of opinions lean bullish, with several participants mentioning opening or holding long positions, expectations for price to go up, and targets above the current price. There are conflicting bearish comments (e.g., 'going to 1k', 'big dump'), but these are countered by more resilient bullish sentiment and ongoing long positions from active participants. The overall tone is cautious optimism, but not without strong downside warnings.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 5,
-    "neutral_count": 7,
+    "positive_count": 9,
+    "negative_count": 6,
+    "neutral_count": 8,
     "representative_opinions": [
       "packslaya: steady uptrend",
-      "Islandsteve: IVE BEEN IN SAME LONG ALL DAY IM FAR FROM REKT",
       "oscartg638: opening long at 107250, approximately.",
+      "Islandsteve: IVE BEEN IN SAME LONG ALL DAY IM FAR FROM REKT",
+      "x (btc 141k gang): rip seller",
       "JB ðï¸ð: 107.3k target i close",
-      "Qvazor: Want short from 108.2k with short sl",
+      "Pegasus SkylineRFS: going to 1k",
       "Dd: Under 107k big dump",
-      "jeff gates: hail and kill see you at 126 next just like ucle bill said"
+      "Qvazor: Want short from 108.2k with short sl",
+      "matt desroches: no leverage long since 73k"
     ]
   }
 ]
