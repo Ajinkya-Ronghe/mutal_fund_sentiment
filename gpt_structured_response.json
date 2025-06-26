@@ -4,18 +4,15 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several opinions indicate selling pressure or expectation of further downside for BTC, such as 'Smart money selling moonboy buying', 'BTC just bleed a little more', and advice to use stop losses. While there are a few bullish or buy calls, most representative opinions lean toward caution or selling in the current environment.",
+    "explanation": "Sentiment from the chat indicates some bearishness for BTC, with mentions of 'Smart money selling', 'BTC just bleed a little more', and a short target being hit. There are no strongly bullish opinions, and some users are discussing selling or waiting for further downside. No clear 1-minute candlestick momentum, but the overall tone is cautious and leaning bearish.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 2,
-    "negative_count": 4,
+    "positive_count": 0,
+    "negative_count": 3,
     "neutral_count": 7,
     "representative_opinions": [
-      "Din Djarin: what? how did we lose 108. Damnit you guys. BUY!",
       "Dd: Smart money selling moonboy buying",
       "Was N 1: so close to short Target on Alt scalp. BTC just bleed a little more and then do what you like",
-      "Kudjaks: if not hold 900 its prolly down to 300 again",
-      "eastwest312 paq: the next 4 days will be great",
-      "TioRyo: In long trade use stop on the daily or weekly candle. In short trade use stop loss on the last daily or weekly candle. Leverage only on TOPS AND BOTTOM."
+      "Kudjaks: if not hold 900 its prolly down to 300 again"
     ]
   }
 ]
