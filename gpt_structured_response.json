@@ -4,17 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions are mixed but lean positive. RaberTrades highlights strong miner and treasury activity and expects a move towards all-time highs. There is mention of technical patterns suggesting a short-term dip before an upward breakout. Multiple users stress risk management and caution due to volatility and possible manipulation, but the overall sentiment from active traders is to position for upside with careful leverage.",
+    "explanation": "Several participants are optimistic about BTC's short-term prospects, discussing potential upward moves with targets near all-time highs and referencing strong VWAP targets. Some warn of volatility and recommend caution, suggesting both long and short strategies depending on price swings. Overall, there is a slight bullish tilt based on representative opinions, but enough cautionary and neutral sentiment to temper the confidence level.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 5,
-    "negative_count": 4,
-    "neutral_count": 7,
+    "negative_count": 3,
+    "neutral_count": 8,
     "representative_opinions": [
-      "RaberTrades: Bitcoin miners and treasuries are the play",
       "RaberTrades: Bitcoin looks perky here guys",
       "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think ... this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
-      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage"
+      "BREAKING_NEWS: 1HR look  SEXAY",
+      "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think",
+      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
+      "Dd: After fake pump comes dump",
+      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
+      "Sammy: COMFORTABLE WITH RISK, VERY IMPORTANT"
     ]
   }
 ]
