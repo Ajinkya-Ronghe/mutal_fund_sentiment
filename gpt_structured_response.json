@@ -1,23 +1,25 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of opinions suggest bearish sentiment or skepticism about immediate upside for BTC. Comments like 'bull trap', 'down she goes', 'waterfall next', and 'bears are in control' indicate expectations of a downward move. While some bullish opinions exist (e.g., 'BUY BUY BUY', 'BTC to 1 million soon if dollar crashes'), they are fewer and often conditional on extreme events. No clear consensus supports a strong Buy signal at this moment, and short-term signals lean bearish or cautious.",
+    "explanation": "The chat contains a mix of bullish and bearish opinions, but there is a slight bullish tilt due to multiple participants discussing high potential targets (86k, 109k), calls to 'BUY', and speculation about a new all-time high (ATH) if the dollar crashes. However, there are also remarks about possible bearish 'waterfall' moves and mention of bears being in control, so overall confidence is medium.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 7,
-    "neutral_count": 10,
+    "positive_count": 6,
+    "negative_count": 4,
+    "neutral_count": 8,
     "representative_opinions": [
-      "NzTa:  bull trap",
+      "Sandro Martins: 86k take a print",
+      "RelaxSlee: 109k max",
+      "PolySopher: BTC to 1 million soon if dollar crashes. Still 1 BTC = less than a hous",
+      "JUDAS THE TRAITOR: THIS IS BOTTOM HERE",
+      "packslaya: BUY BUY BUY",
+      "ForgottenOne Legend: are we really on our way to new ath??",
       "Architec(MattyB!!!): down she goes",
       "Architec(MattyB!!!): waterfall next",
       "oscartg638: bears are in control. I meant to say. sorry",
-      "packslaya: BUY BUY BUY",
-      "PolySopher: BTC to 1 million soon if dollar crashes. Still 1 BTC = less than a hous",
-      "Islandsteve: if this dont breakout im closing and going to bed",
-      "ForgottenOne Legend: are we really on our way to new ath??"
+      "Dd: Buy at the top"
     ]
   }
 ]
