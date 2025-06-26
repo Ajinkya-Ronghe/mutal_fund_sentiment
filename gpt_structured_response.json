@@ -1,22 +1,20 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Opinions are split but there is a notable presence of traders expecting a rally, discussing holding or buying dips, and referencing market structure holding above key support. Some caution about false rallies and the need for confirmation, but the positive sentiment outweighs the negative in short-term trading context.",
+    "explanation": "The overall sentiment in the chat shows a mix of opinions, but there are notable negative sentiments such as expecting further decline (e.g., 'ATH was december 2024 and it is constant fall. SHORT it and forget.'), suggestions to 'dump' BTC, and concerns about price getting rejected at technical indicators (e.g., VWAP, Ichimoku Cloud). A few are holding or buying dips, but the short-term view is cautious to bearish. There is no strong bullish conviction for immediate buying, and several traders express doubt about an imminent rally.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 4,
-    "neutral_count": 8,
+    "positive_count": 3,
+    "negative_count": 5,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Noob Trader: fly above the Cloud",
-      "C-130: I'm holding it and I'm only purchasing the dips. And I'm only purchasing if it's below my average.",
-      "James Wampler: the small price movement needs nothing to me... it's an opportunity when fear strikes for me to buy",
       "iwannamynickagain: Go sleep. ATH was december 2024 and it is constant fall. SHORT it and forget.",
-      "Rodolfo: I feel like this is false up",
-      "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
-      "Noob Trader: market is holding it above no one has the stiring"
+      "Shekhar Chikara: bhai dump krwaado",
+      "oscartg638: getting rejected already by 5min ichimoku cloud",
+      "C-130: I'm holding it and I'm only purchasing the dips. And I'm only purchasing if it's below my average.",
+      "Din Djarin: BTC never below 48k"
     ]
   }
 ]
