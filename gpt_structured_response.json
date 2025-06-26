@@ -4,17 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple participants suggest a short-term downward move for BTC, citing signals like a potential price dump, short signals on the chart, and expectations of lower support levels. However, some opinions mention possible upside targets, and there is uncertainty about the direction beyond the immediate short-term. The overall sentiment leans bearish for now, but not with fully high conviction.",
+    "explanation": "Multiple participants expressed concerns about BTC reaching resistance levels (110,000-111,000), with suggestions to short near these points. Others highlighted bearish sentiment, noting bears are 'roaming freely' and warning about risk in the current market. Some users suggested a possible retest of support and expectations for downward moves in the short term. However, a few comments referenced the uptrend or pointed to specific support levels (107,300), showing some mixed opinions.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 3,
-    "negative_count": 8,
-    "neutral_count": 6,
+    "negative_count": 7,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Architec(MattyB!!!): short, k guys, thats all. there seems to be a dump happening",
-      "Ferhaan Schmidt: the chart look short signal",
+      "SalmanDÂ£vil: bhai 1102000 jayenga phr sidha 104000",
+      "pramod singh: bhai btc kitna High laga sakta hai",
       "SalmanDÂ£vil: Bhai please batao 110000 bhai yanha se short kar sakta hu ???",
       "GRIMMS: bears are roaming freely",
-      "oscartg638: it aligns with ichimoku cloud 5min. lot's of confluence to validate vwap play"
+      "Ferhaan Schmidt: now is good short",
+      "Noob Trader: we are back into up trend unless it stays under 107.3",
+      "oscartg638: i hate to say it but price must retest new support again"
     ]
   }
 ]
