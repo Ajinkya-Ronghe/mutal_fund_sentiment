@@ -4,17 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Among a mix of off-topic and unrelated opinions, multiple user comments suggest bullish sentiment for BTC, such as 'come on bitty woooooo', 'trap dem bears', and 'all most there btc'. There is a single explicitly bearish comment ('Today is dump day be ready'). The overall mood is slightly positive, but not strong enough for high confidence.",
+    "explanation": "Opinion flow is mixed but slightly bullish: there are references to 'bull flag on 10s', 'trap dem bears', and encouragements to 'long now' and 'come on bitty woooooo' which suggest positive short-term momentum. There are some bearish mentions like 'BearFlag' and 'dump day', so confidence is not high. However, the overall sentiment is leaning mildly positive with active discussion about bullish setups and dismissive comments toward bears.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 1,
-    "neutral_count": 2,
+    "positive_count": 5,
+    "negative_count": 3,
+    "neutral_count": 7,
     "representative_opinions": [
       "Kuya G: long now ?",
       "fun: come on bitty woooooo",
-      "Dd: Today is dump day be ready",
       "eastwest312 paq: trap dem bears",
-      "Was N 1: all most there btc"
+      "Was N 1: gg moon boys",
+      "GARYU ART CRAFT: BearFlag",
+      "Dd: Today is dump day be ready",
+      "eastwest312 paq: bull flag on 10s",
+      "fun: we aint done was n 1, you might win this 15 min but the next one is ours",
+      "Was N 1: all most there btc",
+      "jamal crawfish: graph",
+      "jamal crawfish: i managed to set the graph",
+      "jamal crawfish: to resemble directly this one",
+      "jamal crawfish: lots of tools, im using binance",
+      "TioRyo: Oh another thing, study BULL MARKET and BEAR MARKET PLEASE bye guys",
+      "oscartg638: also, no emotions here. I hope you have thick skin."
     ]
   }
 ]
