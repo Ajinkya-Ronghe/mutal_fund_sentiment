@@ -4,17 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The overall sentiment for BTC in the provided opinions is mixed, but there are notable bearish signals. Several users reference shorting BTC, losses from shorts, and skepticism about the upside potential. Some mention technical confluences (VWAP, Ichimoku cloud) suggesting support retests and short signals. There are also references to market fear and price retesting lower supports. Bullish opinions on major upside (e.g., 111k) exist but are much less frequent and lack technical backing. No clear high-confidence buy signals are present.",
+    "explanation": "Several participants indicated potential for a downward move or resistance at current levels. There are mixed signals, but more negative/neutral sentiment: some mention short signals, confluence with bearish indicators (VWAP, Ichimoku), and the need to retest support. Bullish targets (111k, 109.6) are mentioned, but are not consensus; immediate chart signals and participant comments point toward caution or possible short-term downside.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
+    "positive_count": 4,
     "negative_count": 6,
-    "neutral_count": 13,
+    "neutral_count": 8,
     "representative_opinions": [
-      "pramod singh: today 220 usd loss ho gya short m",
       "Ferhaan Schmidt: the chart look short signal",
       "oscartg638: it aligns with ichimoku cloud 5min. lot's of confluence to validate vwap play",
+      "oscartg638: i hate to say it but price must retest new support again",
+      "Molyn Brefon: 107.86 max i can see",
       "GRIMMS: bears are roaming freely",
-      "Ruslanas Gu: assia cloud take 108900 liq will be nice",
+      "Noob Trader: 111k",
+      "Mar: 109.6 maybe",
       "SalmanDÂ£vil: bhai 1102000 jayenga phr sidha 104000"
     ]
   }
