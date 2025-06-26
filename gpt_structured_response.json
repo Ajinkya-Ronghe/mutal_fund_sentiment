@@ -4,20 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions on BTC are mixed, with some participants expecting a significant bull flag breakout towards higher targets (e.g., 130k, 108.4k, 125k), while others are pessimistic or expect a fake breakout. Institutional and corporate buying is cited as a positive driver, but there are concerns about retail sentiment and potential fakeouts at specific price points. The overall sentiment leans toward a bullish expectation in the short term, especially if a breakout occurs, but caution is advised due to possible volatility and unexpected moves.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 9,
-    "negative_count": 8,
-    "neutral_count": 7,
+    "explanation": "There is a mix of bullish and bearish sentiment, but positive momentum is driven by mentions of institutional (Blackrock, governments, corporations) accumulation, algorithmic buy calls, and FOMO. Some expect short-term volatility or a fake breakout, but the overall tone is upward, with the expectation of a rally to higher targets. However, there is also caution from some participants citing potential for downward moves and indecision at the current channel.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 8,
+    "negative_count": 7,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Din Djarin: yeah if this bull flag breakout plays out soon the target is near 130k believe it or not",
       "Ace Winner: Ace algorithm buy call here. 108.4k imminent",
-      "Pete : bro, governments didnt stop buying",
-      "Pete : Neither did Corporations",
       "OH YEAH!: FOREVER UP CONFIRMED, NOONE WILL SEE THAT COMING",
-      "Qvazor: If hit 108200 - fake breakout, I'm start short.",
+      "Pete : bro, governments didnt stop buying",
+      "OH YEAH!: blackrock did buy half their btc after pump from 70k",
+      "SaRumbo: buy tp 1086500..",
+      "Abell: DOOOWN",
       "Ryan Teng: sell sell its making lower low with high wick",
-      "Fish: If BTC pumps to 125k wonât it cause all the alt coins dip hard AF at first because everyoneâs making BTC rally?"
+      "Qvazor: TRIANGLE is 50/50, for me, can go fast up and down. idk."
     ]
   }
 ]
