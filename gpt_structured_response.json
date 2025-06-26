@@ -4,17 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple opinions in the chat reference BTC's recent climb, expectations for a bounce after a potential liquidity grab, and bullish divergence. Although some expect a short-term drop, the prevailing sentiment is for a recovery and a move higher, suggesting a medium-confidence long signal. The market is described as consolidated but with upward potential after a dip.",
+    "explanation": "The majority of opinions suggest a bullish sentiment for BTC, with references to price targets like 108K, bullish divergence, and potential bounces after brief falls. However, there are also notable mentions of possible short-term drops and a 'consolidated' market, which tempers high confidence. The prevailing mood is cautiously optimistic, favoring a long position but with some risk.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 3,
-    "neutral_count": 2,
+    "positive_count": 7,
+    "negative_count": 4,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Islandsteve: 6/23 WE WAS AT 105K DSO ITS BEEN CLIMBING",
-      "JUDAS THE TRAITOR: HE IS CAUGHT HERE IN SMALL DIFFERENTIAL, IT CAN GO DOWN FOR LIQUIDITY GRAB TO BOUNCE ABOVE 108K",
+      "Dd: It can get even 108 again",
       "Islandsteve: I THINK WE GOT BBULLISH DIVERGANCE",
+      "JUDAS THE TRAITOR: HE IS CAUGHT HERE IN SMALL DIFFERENTIAL, IT CAN GO DOWN FOR LIQUIDITY GRAB TO BOUNCE ABOVE 108K",
       "Skylake Pro Cinema: 580$ down fall coming on bitcoin",
-      "Skylake Pro Cinema: then back up"
+      "TIBERIO : only up now",
+      "Sandro Martins: All charts of all markets are trash tonight, markek is very consolidated...Forex, index, crypto... very strange.",
+      "Dd: Moonboys rekt"
     ]
   }
 ]
