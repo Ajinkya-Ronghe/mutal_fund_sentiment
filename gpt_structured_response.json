@@ -4,24 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of opinions reference bullish signals for BTC, including calls for a quick long, expectations of a reversal if BTC closes above 108,781, and comments about a potential breakout correlated with a crashing dollar. However, there are also some short/bearish suggestions (such as selling around 108,000 and targeting 107,000), but the positive momentum and bullish sentiment slightly outweigh the negative. The confidence is 'medium' due to some mixed short-term bearish calls.",
+    "explanation": "Opinions indicate bullish sentiment driven by the dollar's weakness, expectations of a reversal if the price holds above 108,781, and several mentions of a potential breakout or historical moment for BTC. Some bearish voices suggest caution, but the overall momentum and references to pumps and reversals outweigh the negatives.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
-    "negative_count": 5,
-    "neutral_count": 4,
+    "negative_count": 4,
+    "neutral_count": 5,
     "representative_opinions": [
       "Filthy Rabbit: Delusional Bears celebrating every little dip",
-      "Kevin Hamid: AND BOUNCE",
-      "Ian Pryor: Midnight pump",
-      "oscartg638: if we close above 108781 we're going to start to reverse",
       "PolySopher: Dollar is crashing",
+      "oscartg638: if we close above 108781 we're going to start to reverse",
+      "PolySopher: Everything is trying to breakout this may be a historical moment. Gold, silver, palladium, Spx, BTC, Eth, etc",
+      "jamal crawfish: when ppl sell there is pumping",
       "oscartg638: long quick",
-      "PolySopher: I think this is gonna breakout",
-      "TioRyo: 108000- sell",
-      "Alhamaf: 107 is the next target",
-      "Alina Bogdan: hold on for the shorts .. so war we retested and 108k and its holding",
-      "oscartg638: wait for confirmation.",
-      "oscartg638: don't get caught with your shorts down"
+      "Kevin Hamid: AND BOUNCE"
     ]
   }
 ]
