@@ -1,21 +1,24 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "neutral",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The live chat contains a mix of short-term bearish and bullish outlooks with frequent mentions of choppy price action, triangle support, and bounces from key levels. Some participants mention waiting for confirmation and a potential fake-out before a larger move up, while others note the risk of rapid dumps and recommend caution with stop losses. No clear consensus on an immediate directional trade, but the sentiment leans slightly bullish after a potential short-term dip, suggesting a moderate confidence buy for a quick scalp if confirmation for reversal appears.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 7,
+    "explanation": "Sentiment in the live chat is mixed to slightly negative for BTC. Several participants discuss price action showing choppy movement, range-bound trading, and no clear bull flag. Multiple mentions of support levels being tested, losing key moving averages, and the possibility of a fake-out pump before a larger drop. Some users mention waiting for confirmation and being cautious with stop losses, indicating uncertainty and hesitation to go long. There are a few positive or hopeful comments, but the prevailing tone is wary of downside risk and volatility.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 4,
+    "negative_count": 8,
     "neutral_count": 7,
     "representative_opinions": [
-      "Rodolfo: the direction of the chart in the next half hour determines the next direction imo",
+      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
       "oscartg638: triangle support",
-      "Molyn Brefon: a little bit down then up then dooooown",
-      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
       "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
-      "shabaotb: or could head to that 50 on the 1hr then bounce back up"
+      "Molyn Brefon: a little bit down then up then dooooown",
+      "oscartg638: damn bears testing it like it's a picnic basket",
+      "shabaotb: seems to be losing that 50 as we speak",
+      "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
+      "shabaotb: or could head to that 50 on the 1hr then bounce back up",
+      "shabaotb: i just dont like that 4hr chart"
     ]
   }
 ]
