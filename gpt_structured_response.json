@@ -4,21 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "While some participants mention overall crypto market weakness, several opinions discourage shorting and emphasize not shorting in a bull market. There are repeated references to 'buy', encouragement to go long, and warnings against trying to short BTC. No strong technical analysis is present, but the social sentiment leans towards long/Buy, with some calls for market pumps and only one notable mention of a bearish head and shoulders pattern. Overall, the mood is cautiously bullish for BTC.",
+    "explanation": "The majority of the comments are in favor of buying or holding BTC rather than shorting, with repeated encouragement to 'buy' and skepticism toward shorting in a bull market. However, there are scattered mentions of potential resistance (head and shoulders, support at 107) and some neutral to unclear banter. No clear technical analysis for short-term direction, but community sentiment skews long.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
     "negative_count": 2,
-    "neutral_count": 6,
+    "neutral_count": 8,
     "representative_opinions": [
-      "JonTukaCring3: wow they so buying cuz he said buy buy buy wat a magical happening",
-      "fun: the world needs japan to buy, meta you can do it. buy baby buy",
-      "Islandsteve: dont short are you nuts",
-      "Islandsteve: DONT SHORT YOU REKT",
-      "Islandsteve: dont short a bull market",
-      "Islandsteve: try and catch that falling knife . not going to happen",
-      "Islandsteve: 103600",
-      "Alhamaf: It will form head and shoulder",
-      "Alhamaf: Short to 107"
+      "i think you should keep typing buy i think its working",
+      "the world needs japan to buy, meta you can do it. buy baby buy",
+      "you are so in sync with bitty",
+      "short squezze this shit once and for all",
+      "dont short are you nuts",
+      "DONT SHORT YOU REKT",
+      "dont short a bull market",
+      "It will form head and shoulder",
+      "Short to 107"
     ]
   }
 ]
