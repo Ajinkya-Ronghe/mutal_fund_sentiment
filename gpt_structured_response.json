@@ -4,22 +4,27 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of recent opinions for BTC in the chat suggest bearish sentiment, with several users calling for a short position or predicting further downside. Some mention a possible brief upward movement before a bigger drop, targeting lower levels such as 104k-106k. There is notable caution about fakeouts and the need for confirmation, but the general tone leans toward expecting a short-term decline.",
-    "safe_leverage_isolate_future_perpetual": 5,
-    "positive_count": 2,
-    "negative_count": 8,
-    "neutral_count": 5,
+    "explanation": "The majority of recent BTC-related opinions in the chat express a bearish sentiment, with users mentioning potential for a price dump, lower highs, double top patterns, and expectations of liquidity grabs. Some traders explicitly state their intent to short or predict further downside, though a few note possible fakeouts or bounces before a larger move down. The consensus leans bearish, but there is notable uncertainty due to choppy, ranging price action and warnings about premature shorting and stop loss hunting.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 3,
+    "negative_count": 10,
+    "neutral_count": 7,
     "representative_opinions": [
       "MrSubmariner76: Fall BTC fall down",
       "MrSubmariner76: Short 10 x SAFU from here",
       "shabaotb: idk man a double top and a lower high seems to be prepping for a dump",
       "shabaotb: and when i say dump im talkin maybe 104k not too low",
-      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
-      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
-      "oscartg638: triangle support",
-      "Caquaino: take my money btc",
       "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
-      "FRED POZIL: @Caquaino sell you BTC to me. Than"
+      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
+      "aV1rus: this is why you wait for confirmation",
+      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
+      "oscartg638: damn bears testing it like it's a picnic basket",
+      "FRED POZIL: Long short 0.5 lots of shorts. Will pump ",
+      "shabaotb: seems to be losing that 50 as we speak",
+      "TIVERSON PUBG: i dont see bull flag",
+      "TIVERSON PUBG: m15?",
+      "shabaotb: no bull falg",
+      "Asi Landes: on the trend line again"
     ]
   }
 ]
