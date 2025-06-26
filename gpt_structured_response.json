@@ -4,19 +4,16 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants express bullish sentiment or are positioned long on BTC, citing bullish divergence, a potential bullish reversal, and no leverage. However, there are also warnings of market overleverage, a possible bull trap, and suggestions to take profit or diversify, which temper the overall confidence. No strong candlestick short signals were discussed. The majority of direct BTC opinions lean bullish but with risk awareness.",
+    "explanation": "Several participants reference being 'all in' on BTC and holding long positions, with mentions of bullish divergence and suggestions that bulls are gaining strength. However, there are also warnings about potential bull traps and market over-leverage, as well as advice to take profits and diversify, which tempers confidence. No strong consensus for high confidence, but overall sentiment slightly favors cautious long positions without leverage.",
     "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 4,
     "negative_count": 3,
-    "neutral_count": 2,
+    "neutral_count": 4,
     "representative_opinions": [
       "Rising Lion: I'm poor currently because I'm all in on bitcoin. like crazy all in",
-      "Rising Lion: long, no leverage",
-      "Islandsteve: In a bullish divergence, the currency pair prices make a new low in the market, but the technical indicators mark a higher price. .",
       "Islandsteve: This signals that bears in the market are no more in control, and bulls are getting stronger, indicating a bullish reversal after the downtrend ends. At this point, traders can place long orders",
       "henrique aoyagui: close longs, take profit....",
       "henrique aoyagui: bull trap",
-      "henrique aoyagui: market is over leveraged",
       "Dd: Diversify your money",
       "matt desroches: no leverage long since 73k"
     ]
