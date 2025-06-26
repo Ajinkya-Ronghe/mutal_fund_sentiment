@@ -4,22 +4,18 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of actionable comments regarding BTC sentiment indicate a mixed to negative bias, with references to increased selling, market washouts on shorts, and multiple calls for short positions and market slowdowns. Some users mention support and resistance levels around 107k-108k, suggesting a technical trading range. While a few comments show interest in buying or holding, the prevailing tone is cautious or bearish, especially in the short term.",
+    "explanation": "Sentiment is mixed but slightly leans bearish for BTC. Some users mention support zones and triangle formations, but more explicitly suggest shorting or a hard short coming. There are references to market slowness, lack of profit, and support/resistance levels around 107k-108k. Positive buying comments exist but are outweighed by short/neutral sentiments in this batch.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 7,
-    "neutral_count": 11,
+    "positive_count": 3,
+    "negative_count": 5,
+    "neutral_count": 4,
     "representative_opinions": [
-      "SalmanDÂ£vil: Big maine sirf .long par kamaya hai short par Washout kara hu bht ye saal",
-      "faheem sindhi: sir selling hoge shayad",
-      "Ricardo Sala: price moved between 108k and 107 the whole day",
       "Ferhaan Schmidt: now is good short",
       "Raudhan Yuriansyah: now short",
+      "Ricardo Sala: price moved between 108k and 107 the whole day",
       "Noob Trader: we are back into up trend unless it stays under 107.3",
       "oscartg638: support at 107210. That's my new thesis.",
-      "IcicleTripClips: me im buying all the btc",
-      "Neev: keep buying icicle take us to the measured move",
-      "High Def: Dump it"
+      "IcicleTripClips: me im buying all the btc"
     ]
   }
 ]
