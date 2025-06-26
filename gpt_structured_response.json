@@ -4,21 +4,17 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of directional opinions and active trading calls suggest shorting or expecting downward movement in BTC in the immediate term. MrSubmariner76 directly suggests a high-leverage short, and multiple traders debate lower targets and further downside, though there is also mention of possible bounces and fakeouts. The sentiment is not strongly one-sided, with some expecting short-term rebounds, but the prevailing actionable idea is to sell or short, with caution around volatility.",
-    "safe_leverage_isolate_future_perpetual": 5,
+    "explanation": "The majority of the opinions reflect uncertainty and bearishness regarding BTC's short-term direction. Multiple users reference losing key supports, expectation of further downside, and a need for caution with stop-losses. However, some users note potential for quick upward moves before a further dump, and others highlight range-bound behavior, suggesting choppy conditions rather than a clear bullish reversal. Overall, the consensus leans toward expecting a downward move after brief volatility, with no strong bullish conviction.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 3,
-    "negative_count": 7,
-    "neutral_count": 10,
+    "negative_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
-      "MrSubmariner76: Short 10 x SAFU from here",
-      "Rodolfo: I thought it was down, but it's looking like it can actually have some legs and move up",
-      "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
-      "oscartg638: damn bears testing it like it's a picnic basket",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
-      "shabaotb: seems to be losing that 50 as we speak",
-      "FRED POZIL: Long short 0.5 lots of shorts. Will pump",
+      "Molyn Brefon: a little bit down then up then dooooown",
+      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
       "shabaotb: i just dont like that 4hr chart",
-      "Caquaino: take my money btc"
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
+      "oscartg638: damn bears testing it like it's a picnic basket"
     ]
   }
 ]
