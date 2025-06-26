@@ -1,18 +1,21 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
-    "confidence": "medium",
-    "explanation": "The majority of opinions referencing BTC highlight short-term caution, mentioning resistance levels being respected on the 1-minute chart and recommendations to take profit or consider shorting. Although some bullish comments exist (e.g., ETF buying, 'instant reward for bulls'), the technical focus on a 1-minute close below resistance, talk of placing stop losses, and suggestions to short for a move to support at 107230â107290 point toward a short-term bearish signal. There is no strong consensus for a longer-term move, and sentiment is somewhat mixed, but the technical short-term signals are more prominent in the discussion.",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
+    "confidence": "High",
+    "explanation": "Multiple opinions support bullish momentum for BTC, including comments about rewards for bulls, ETF competition to buy at highs, and algorithmic buy calls. There is a strong positive sentiment, and no significant negative or bearish BTC signals were found in the listed opinions.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 3,
-    "negative_count": 5,
-    "neutral_count": 7,
+    "positive_count": 6,
+    "negative_count": 1,
+    "neutral_count": 8,
     "representative_opinions": [
-      "oscartg638: take profit if you're in it short term (scalping)",
-      "oscartg638: 1min closed perfectly below resistance",
-      "oscartg638: If you short now, you'll find support at about 107230"
+      "OH YEAH!: instant reward for bulls again",
+      "the etfs are fighting eachother trying to see who can buy the top more",
+      "Ace Winner: Ace algorithm buy call stands. TP 108.4k",
+      "Joey: na bro Oscar you called it so accurately",
+      "oscartg638: My thesis was almost perfect.",
+      "Ryan Teng: are we going all the way down now"
     ]
   }
 ]
