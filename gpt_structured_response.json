@@ -4,18 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Among the opinions, there is a visible split between bullish and bearish sentiment on BTC. Several users (Islandsteve, fun, Santi Note8) suggest or celebrate upward movement, referencing 'bull market', 'long', and 'going up more'. Others (Alhamaf, Josue Marin, GRIMMS) anticipate a short-term retrace or shorting opportunity to levels like 107-109. However, the bullish side appears slightly stronger, with warnings not to short a bull market and references to liquidity being taken from shorters. The candlestick signal is 'long' due to the prevailing expectation of continued upward momentum and the resilience of the bulls noted in the comments. Confidence is 'medium' due to the still-present, but less numerous, bearish/short voices.",
+    "explanation": "There is a mixed sentiment with both bullish and bearish opinions, but positive and neutral comments such as 'subway pump', 'Cyber Subway Punk-Pump It UP !!', and 'this is going up more your short liq' suggest an upward movement bias. Some participants caution against shorting in a bull market, and there is mention of support holding. However, several opinions anticipate a short squeeze or a possible dip to the 107k level, indicating caution is warranted. The consensus leans towards bullish momentum in the very short term.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 4,
-    "neutral_count": 8,
+    "positive_count": 9,
+    "negative_count": 7,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Islandsteve: dont short a bull market",
-      "Santi Note8: Sammy on Long !?",
-      "Islandsteve: this is going up more your short liq",
-      "Alhamaf: Short to 107",
-      "Josue Marin: Bulls are sleeping, letâs short",
-      "GRIMMS: 109 for sure shorters"
+      "subway pump",
+      "Cyber Subway Punk-Pump It UP !!",
+      "this is going up more your short liq",
+      "dont short a bull market",
+      "Short to 107",
+      "thanks for the liq i guess lol",
+      "Bulls are sleeping, letâs short",
+      "if you dont mind sharing",
+      "It will form head and shoulder"
     ]
   }
 ]
