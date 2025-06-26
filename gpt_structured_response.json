@@ -4,25 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a moderate bullish consensus based on several opinions suggesting an upward move towards 107700, calls for 'moon time', and signals from Marticlues AI with long entries and take-profit targets for WBTC (wrapped BTC). However, there are several warnings about fakeouts, trendline rejections, and the importance of stop losses, indicating the uptrend may be choppy and subject to sudden reversals. The crowd is mixed, but the short-term technicals and sentiment lean bullish.",
+    "explanation": "BTC opinions are mixed but lean bullish. Several participants mention bulls being in charge, ongoing cycles between 109k-97k, and a likely upward breakout if the current level holds. Some highlight a confirmed breakout if BTC closes at this level for another day or two. Others warn of fake-outs and liquidity risks, but no consensus for a strong short. The majority anticipate continuation upwards, but the presence of fake-outs and triangle resistance suggests caution. Traders recommend using tight stop losses and managing leverage.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
     "negative_count": 4,
-    "neutral_count": 8,
+    "neutral_count": 7,
     "representative_opinions": [
-      "oscartg638: it will break through and reach 107700",
-      "Architec(MattyB!!!): it moon time, moon central, moon a bust",
-      "Marticlues AI: Long WBTC/USDT:ENTRY=107390.79,TP1=107605.57,TP2=107712.96,TP3=107927.74,SL=106639.05,TA=Rally Rush!",
       "Moon Boy: That wick, bulls in charge",
+      "Din Djarin: closing another day or 2 at this level confirms the breakout of the bull flag on the daily from apr 9",
+      "oscartg638: it will break through and reach 107700",
       "OH YEAH!: until trend changes, im retarded bullish, i give up thinking it'll ever go down",
       "Christopher Harvey: 109k-97k. this has been a cycle for months now. trading has been easy",
-      "oscartg638: Like i said. It still matters for now but the triangle is also being respected.",
       "Tjeerd Phaff: trendline rejected again",
-      "shabaotb: why cant MM break the 50 to fake u out?",
-      "aV1rus: it'll likely go but just slowly and choppy",
-      "aV1rus: after it bottoms and comes back up the net one IF it gets rejected will be the real one",
-      "aV1rus: it's always fake out first",
-      "Y00LKA: look at big picture and short term like check daily chart, then look at 1h chart and 15 min and 5 min. check heatmap where looks closer set up entry points"
+      "aV1rus: it'll likely go but just slowly and choppy"
     ]
   }
 ]
