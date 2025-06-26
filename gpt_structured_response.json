@@ -3,23 +3,16 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "Multiple opinions indicate both bullish and bearish sentiment. Whales are reportedly buying up sells, and there are strong buy recommendations like 'NEVER STOP BUYING' and references to institutional buying (Blackrock). Some participants anticipate higher BTC prices by the end of June, while others warn of possible bull traps and sellers coming in. The mixture of views results in medium confidence, but the balance tips bullish due to the weight of positive market sentiment and whale action.",
+    "confidence": "High",
+    "explanation": "Multiple opinions suggest strong buying pressure on BTC, with references to whales accumulating, bots being rekt on sell attempts, and bullish sentiment prevailing. Several users express optimism for higher price targets (119-125k by end of June), and the overall tone is positive despite isolated bearish comments. There are more positive than negative/neutral opinions, with active encouragement to buy and references to major institutional buying.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
+    "positive_count": 8,
     "negative_count": 3,
-    "neutral_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
       "ð²ððððÌ¶ð£ðð¯ðªð°: Whales buying up all sells",
-      "OH YEAH!: NEVER STOP BUYING",
       "OH YEAH!: BUY WITH BLACKROCK NEVER LOSE",
-      "Leo Cagape: sellers are coming",
-      "Abell: FATALITY SOON",
-      "packslaya: bulls printing",
-      "Ryan Teng: pump over",
-      "Ryan Teng: bull trap?",
-      "RaberTrades: I think we hit 119-125k end of June",
-      "oscartg638: not enough stream. we might go back to bottom of triangle"
+      "RaberTrades: I think we hit 119-125k end of June"
     ]
   }
 ]
