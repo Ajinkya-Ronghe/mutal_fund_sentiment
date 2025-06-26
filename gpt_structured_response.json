@@ -4,18 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants in the live chat are bullish on BTC, referencing expectations of new highs (targets up to $110k, $119-125k), positive sentiment about the immediate term ('Go BTC', 'this is it go BTC go', 'Bitcoin looks perky here'), and a broad sense of optimism around upcoming days. Some tactical caution is suggested around leverage and stop-losses, but the overall consensus is strongly positive in both the short and medium term.",
+    "explanation": "The majority of live chat opinions are strongly bullish for BTC, with multiple users calling for significant upside such as targets of 110k, 119k-125k by end of June, and emotional encouragements like 'GO BTC GO' and 'this is it.' RaberTrades, a seemingly followed trader, sees near-term price targets above current levels and expects a rally to all-time highs soon. While some users advise caution in leverage and stop-loss management, there are no notable negative or bearish BTC-specific comments in the feed.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 10,
+    "positive_count": 7,
     "negative_count": 0,
     "neutral_count": 4,
     "representative_opinions": [
       "Islandsteve: THIS IS IT GO BTC GO",
-      "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "@ndreas: im 50 now, grown children and singel. Been in this shtt for 10y. its time to have some serious fun. Go btc.",
-      "zeenith: 200k",
+      "- Billy's Joint - : 109 here we come",
       "Leo Cagape: 110k",
-      "RaberTrades: I think we hit 119-125k end of June"
+      "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
+      "RaberTrades: I think we hit 119-125k end of June",
+      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
+      "RaberTrades: Bitcoin looks perky here guys"
     ]
   }
 ]
