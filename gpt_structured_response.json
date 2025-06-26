@@ -4,21 +4,18 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of recent live chat opinions indicate bearish or uncertain sentiment for BTC in the short-term. Multiple participants explicitly mention shorting (\"Letâs short btc\", \"shorting at 107781\"), potential for a market dump (\"dumpet\", \"no worries it will dump\", \"weekend is near red days coming\"), and 'bear choke slamming these bulls'. However, there are also a few bullish or neutral voices (\"Go up maldita sea\", \"IT WILL RETAKE IT MAKE NO WORRY\"), but they are outnumbered by those expecting downside or volatility. The sentiment is not strongly high-confidence due to some mixed and hesitant comments, but the short-term bias is clear.",
+    "explanation": "The majority of the most recent opinions lean bearish: several users mention 'shorting' BTC, expecting a dump, or referencing market maker fakeouts. While there is some bullish sentiment about a possible recovery or higher future targets, the dominant sentiment for the immediate timeframe is negative, with more people expressing caution or advocating for short positions. The positive sentiment is present but less assertive in the short term.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
-    "negative_count": 11,
-    "neutral_count": 7,
+    "positive_count": 6,
+    "negative_count": 10,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Letâs short btc",
-      "shorting at 107781",
-      "no worries it will dump",
-      "bear choke slamming these bulls",
-      "Go up maldita sea",
-      "IT WILL RETAKE IT MAKE NO WORRY. ITS JUST A DELAY",
-      "weekend is near red days coming",
-      "big fake out well played market makers well played",
-      "bulls want 108K but the schmucks wont allow it."
+      "Josue Marin: Letâs short btc",
+      "oscartg638: shorting at 107781",
+      "Sagent: no worries it will dump",
+      "JUDAS THE TRAITOR: IT WILL RETAKE IT MAKE NO WORRY. ITS JUST A DELAY",
+      "PolySopher: Dxy bottoming BTC dampening",
+      "Miguel Angel Herrera Sosa: Go up maldita sea"
     ]
   }
 ]
