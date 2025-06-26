@@ -4,18 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants express bullish sentiment on BTC, mentioning potential for upward movement to new highs (110k+), and noting BTC's 'perky' look and VWAP targets. However, there are also cautions about possible dips and the need for careful leverage. The overall tone is positive but with awareness of volatility and short-term downside risk.",
+    "explanation": "Sentiment for BTC is moderately positive with multiple participants suggesting potential bullish patterns (e.g., bull pennant, upward targets), recent miner/treasury accumulation, and some positive technical reflections. However, there is caution due to suggestions of price whipsaws, fake moves, and short-term volatility, as well as conflicting opinions about potential dumps. The consensus leans toward upside, but with notable warnings to use low leverage and tight stop losses.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 6,
-    "negative_count": 3,
-    "neutral_count": 6,
+    "negative_count": 4,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Neutral Man: 115K is easy guys... lets go",
-      "RaberTrades: Bitcoin looks perky here guys",
-      "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
-      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
-      "Christopher Harvey: Siren diverges btc. ive been able to short alts because of Sirens divergence"
+      "Asia started dumping dollar; good sign.",
+      "maybe bull pendant forming",
+      "giga chad final boss line wants 109k",
+      "Bitcoin miners and treasuries are the play",
+      "Bitcoin looks perky here guys",
+      "Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
+      "be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
+      "for a triangle to be legit I think price has to touch support and resistance 5 times, I think",
+      "this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
+      "instant 107.8, full dump, then slow recovery again o.O",
+      "Dd: Fake oh",
+      "Just dump it",
+      "115K is easy guys... lets go",
+      "Nice VWAP target short term",
+      "low SL but not too low to avoid liquidations too fast in case its swining i would say SL 23% TP 40% min"
     ]
   }
 ]
