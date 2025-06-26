@@ -4,17 +4,18 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of BTC-related opinions point to a bullish sentiment with references to a steady uptrend, multiple comments about 'just go up,' and several traders mentioning holding longs from lower prices. There are some warnings about potential dumps below specific price levels (107k, 108.2k), and a few users are cautious or considering shorts. However, the overall tone remains optimistic, especially around the 107250 level as a potential entry for longs, with some traders discussing launching from there. The consensus is not unanimous, as a few anticipate corrections or express skepticism, but the prevailing mood is upward with moderate conviction.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
+    "explanation": "The opinions are mixed with a slight bullish tilt. Several users mention opening or holding long positions (oscartg638, Islandsteve, matt desroches, Sammy), and some expect rebounds from lower levels (oscartg638: 'we may launch from there to raber's moon.'). However, warnings about dumps below 107k and interest in shorting near 108.2k (Dd, Qvazor) introduce downside risk. The repeated mention of long holds and confidence in certain bullish calls (Islandsteve 87% right, positive comments from Pete and Sammy) provide moderate conviction for a near-term buy, but the presence of bearish warnings and sideways patterns lowers the overall confidence.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 6,
     "negative_count": 4,
     "neutral_count": 5,
     "representative_opinions": [
-      "Islandsteve: JUST GO UP",
-      "packslaya: steady uptrend",
       "oscartg638: opening long at 107250, approximately.",
+      "Islandsteve: IVE BEEN IN SAME LONG ALL DAY IM FAR FROM REKT",
+      "matt desroches: no leverage long since 73k",
+      "Qvazor: Want short from 108.2k with short sl",
       "Dd: Under 107k big dump",
-      "Qvazor: Want short from 108.2k with short sl"
+      "ð²ððððÌ¶ð£ðð¯ðªð°: W then sideways and up into another w"
     ]
   }
 ]
