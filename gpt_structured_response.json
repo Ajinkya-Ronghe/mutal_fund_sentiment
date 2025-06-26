@@ -3,23 +3,26 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "While there are notable short-term concerns about selling pressure and resistance near 108k-109k, the majority of the community opinions remain bullish mid-term, pointing to strong buying on dips, expectations of new all-time highs, and significant future growth. There is, however, visible caution due to chart divergences and resistance levels. The consensus leans bullish but not with full conviction due to these mixed signals.",
+    "confidence": "High",
+    "explanation": "The prevailing sentiment in the live chat is bullish for BTC, with multiple users emphasizing corporate and ultra-rich support, expectations of a strong breakout above resistance, and long-term price targets as high as 1 million. Several participants highlight that selling is being absorbed quickly, and there is excitement about the current rally. While some mention resistance and suggest short-term caution, the majority believe in upward momentum. This is supported by comments on bullish chart patterns and resilience despite resistance, indicating a strong buy sentiment in the immediate term.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 10,
-    "negative_count": 7,
-    "neutral_count": 10,
+    "positive_count": 12,
+    "negative_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Islandsteve: SELLING GETTING BOUGHT UP ITS STAYING WE WIN",
       "Pete : YOU CANNOT STOP BTC",
-      "PolySopher: BTC and gold to new Ath",
       "ð²ððððÌ¶ð£ðð¯ðªð°: Next 108.8 â¦. 109.2 super bullish",
       "jeff gates: any who see ya at 1 million after the runa away in 2027 when world economies collapses",
-      "Tpol: One it break 108.7k the crying Will be terrified",
-      "Dd: So much selling",
-      "oscartg638: the 15, 30, and 1hr charts are all diverging. not good",
+      "Pete : CORPORATIONS ALL IN",
+      "Kevin Hamid: LET HER RISE",
+      "Islandsteve: SELLING GETTING BOUGHT UP ITS STAYING WE WIN",
+      "TioRyo: GOOOOOO 108600",
+      "oscartg638: get your shorts ready",
+      "Abell: DOWN DOOOOOW!!",
       "Alhamaf: Resistance is so strong",
-      "TioRyo: 108000- SELL"
+      "TioRyo: 108000- SELL",
+      "oscartg638: the 15, 30, and 1hr charts are all diverging. not good",
+      "jamal crawfish: but i think there is good opportunity here"
     ]
   }
 ]
