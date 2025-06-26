@@ -4,19 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants are bullish on BTC, referencing upward targets and a positive momentum (VWAP target up to $111,983). Some mention short-term volatility and advise caution with leverage, but the overall sentiment is for a move higher. There is a clear focus on potential for breakout and new highs, supported by trader enthusiasm and technical discussion.",
+    "explanation": "Multiple participants expressed bullish sentiment on BTC, with repeated mentions of price pumps, algorithmic buy signals, and targets toward higher price ranges ($110,550 - $111,983). No direct negative or strong cautionary signals specifically for BTC; the dominant crowd sentiment is upward. Caution and short-term hedging were mentioned, but the main narrative leans toward long/Buy, supported by both enthusiasm and technical targets.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
+    "positive_count": 8,
     "negative_count": 1,
-    "neutral_count": 6,
+    "neutral_count": 5,
     "representative_opinions": [
       "Ace Winner: Ace algorithm buy call here. 108.4k",
       "Islandsteve: WE PUMP 106K",
       "Islandsteve: WE PUMP 107K",
-      "RaberTrades: Bitcoin miners and treasuries are the play",
+      "Islandsteve: NOW PUMP 108",
+      "Pete : BTC pays for it",
       "RaberTrades: Bitcoin looks perky here guys",
       "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "Y00LKA: set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
+      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
       "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
     ]
   }
