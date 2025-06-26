@@ -1,19 +1,24 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The live opinions are mixed but slightly skewed toward bearishness for BTC in the immediate term. Several participants suggest shorting or selling, referencing resistance around 108k and a potential reversal if price closes above 108781. Some mention that the dollar is crashing, which could be bullish for BTC, but the majority sentiment right now is to wait for confirmation and sell or short in the short term.",
-    "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 3,
-    "negative_count": 7,
-    "neutral_count": 6,
+    "explanation": "The majority of opinions are bullish, highlighting bears being 'demolished', anticipation for a breakout, and positive reactions to price action (e.g., 'Midnight pump', 'long quick'). There are some short/sell suggestions, but the overall sentiment leans toward a continued upward move in BTC, especially with mentions of the dollar crashing and strong reactions to bullish candles. However, the presence of opposing views and calls to short at certain levels tempers confidence.",
+    "safe_leverage_isolate_future_perpetual": 2,
+    "positive_count": 8,
+    "negative_count": 5,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Moon Boy: Short it and go to sleep",
-      "oscartg638: if we close above 108781 we're going to start to reverse",
+      "Moon Boy: Bears keep getting demolished today",
+      "Islandsteve: AS LONG THIS 1 HOUR CANDLE ENDS GREEN IT DONT MATTER",
+      "PolySopher: I think this is gonna breakout",
+      "oscartg638: long quick",
+      "PolySopher: Dollar is crashing",
+      "Filthy Rabbit: Delusional Bears celebrating every little dip",
       "Alina Bogdan: hold on for the shorts .. so war we retested and 108k and its holding",
       "Candra Saputra: best to sell right now ?",
+      "TioRyo: 108000- sell",
       "Qvazor: Open short from 108.2 tnx, wait dump)"
     ]
   }
