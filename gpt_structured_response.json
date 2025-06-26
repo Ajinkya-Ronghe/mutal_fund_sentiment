@@ -3,21 +3,20 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "medium",
-    "explanation": "Multiple opinions highlight bullish sentiment or call attention to potential upside (e.g., 'Ace algorithm buy call stands', 'Bitcoin looks perky here', 'there are no lower lows, itll get there'). However, there is some caution and suggestions to use bots for both long and short around key levels, indicating mixed short-term expectations but a positive bias overall.",
+    "confidence": "High",
+    "explanation": "Several participants expressed positive sentiment toward BTC, including algorithmic buy calls with high target prices (e.g., TP 108.4k), comments about bullish chart patterns (potential bull pendant, perky price action), and mentions of strategic long setups. Although some caution for volatility and multiple short/long strategies were mentioned, the overall opinion count and quality of bullish signals outweigh the negatives for BTC.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 5,
+    "positive_count": 7,
     "negative_count": 2,
-    "neutral_count": 8,
+    "neutral_count": 9,
     "representative_opinions": [
       "Ace Winner: Ace algorithm buy call stands. TP 108.4k",
       "OH YEAH!: there are no lower lows, itll get there",
-      "RaberTrades: Bitcoin looks perky here guys",
-      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
-      "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think",
-      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
+      "JB ðï¸ð: maybe bull pendant forming",
       "RaberTrades: Bitcoin miners and treasuries are the play",
-      "SlicK: Wake me up if it ever gets to 108200"
+      "RaberTrades: Bitcoin looks perky here guys",
+      "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think",
+      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage"
     ]
   }
 ]
