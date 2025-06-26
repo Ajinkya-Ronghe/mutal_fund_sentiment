@@ -4,26 +4,15 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The majority of opinions suggest bullish sentiment for BTC. Several participants mention large investments, expectations to break all-time highs, and the prevalence of retail shorts, which could lead to a short squeeze and upward price movement. There is also discussion about strong support levels and market structure favoring a long setup.",
+    "explanation": "Multiple opinions indicate a strong bullish sentiment for BTC. Comments mention large investments to pump BTC, expectations of breaking all-time highs, and negative funding rates suggesting the majority are short, which can fuel a short squeeze upwards. Several participants state 'only up', 'no way we crash', and intentions to add to long positions, supported by technical observations such as EMAs curling up and price holding support.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 9,
+    "positive_count": 8,
     "negative_count": 3,
     "neutral_count": 2,
     "representative_opinions": [
-      "Real Krantikari : $14B ka BTC by hoga",
-      "LORD UZI: long btc and sleep",
       "LORD UZI: millions of dollars have been invested into the market to pump this time btc is going to break the all time high",
-      "Neev: looks like mm really wants those liqs above us",
-      "Ruslanas Gu: market full of shorts",
-      "Ruslanas Gu: bybit offers -0.02 rates",
-      "Ruslanas Gu: on btc",
-      "Caquaino: thats good we gonna pump",
-      "Ruslanas Gu: only up",
-      "Shekhar Chikara: bhai dump krwaado",
-      "Ferhaan Schmidt: you can short now gys",
-      "Solidity Monster: why would anyone short right now? Silly comment.",
-      "oscartg638: the more times price hits it, the likelier it is to break it",
-      "Noob Trader: turning above 100 and staying above mean we have support down"
+      "Ruslanas Gu: no way we crash",
+      "Neev: agree ruslanas i might add to my long"
     ]
   }
 ]
