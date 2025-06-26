@@ -4,20 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There are several bullish opinions with some projecting significant long-term growth (e.g., $1M in 5 years, $22M in 20 years, and $119-125k by end of June). Many express optimism ('FOREVER UP TRIPLE CONFIRMED', 'buy buy buy'), while cautionary and bearish comments exist (e.g., 'DOWN DOWN', 'sell sell its making lower low with high wick', 'bull trap?'). The overall sentiment is slightly more positive than negative with a high number of bullish long-term projections; however, short-term uncertainty and volatility are noted, so confidence is not set to 'High'.",
+    "explanation": "Most opinions skew bullish, referencing high long-term price targets (1 million in 5 years, forever up, bears getting rekt), immediate buy calls, and bullish sentiment. However, there are a few cautionary and bearish voices noting possible fake breakouts, bull traps, and lower lows, and some mention of sideways movement, which lowers overall confidence. No clear short-term candlestick reversal is indicated in aggregate.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 10,
-    "negative_count": 7,
+    "positive_count": 12,
+    "negative_count": 6,
     "neutral_count": 7,
     "representative_opinions": [
-      "FOREVER UP TRIPLE CONFIRMED",
-      "buy buy buy",
-      "1 mil BTC in 5 years",
-      "3rd times a charm on the breakout",
-      "sell sell its making lower low with high wick",
-      "bull trap?",
-      "not enough stream. we might go back to bottom of triangle",
-      "BTC live is the best chat room ever made."
+      "packslaya: buy buy buy",
+      "OH YEAH!: FOREVER UP TRIPLE CONFIRMED",
+      "Pete : 1 mil BTC in 5 years",
+      "RaberTrades: I think we hit 119-125k end of June",
+      "Ryan Teng: sell sell its making lower low with high wick",
+      "Qvazor: If hit 108200 - fake breakout, I'm start short.",
+      "Pete : Bears gettin hammered. James Wynn gonna get rekt."
     ]
   }
 ]
