@@ -4,18 +4,18 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "BTC community sentiment is mixed but slightly leans bullish: some users advocate holding or being 'all in' on BTC, one reports being in a no-leverage long since 73k, and mentions of bullish divergence. However, there are warnings of a potential 'massive dump' and calls to close longs or scalp short, so confidence is not high. Nonetheless, the overall tone shows more positive or neutral long-term conviction than outright bearishness.",
+    "explanation": "While the chat reflects a mix of bullish and bearish sentiment, there are multiple references to being 'all in' on BTC, holding longs, and technical signals such as bullish divergence and suggestions to place long orders after a downtrend. However, there are also warnings of an incoming dump and suggestions to close longs, indicating some uncertainty. The overall tone is slightly more optimistic on BTC's upside, but caution is advised.",
     "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 6,
-    "negative_count": 5,
-    "neutral_count": 4,
+    "negative_count": 4,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Rising Lion: hodl moar, talk less",
+      "Dd: Hoping btc go to 108k",
+      "Rising Lion: I'm poor currently because I'm all in on bitcoin. like crazy all in",
+      "Islandsteve: In a bullish divergence...bulls are getting stronger, indicating a bullish reversal after the downtrend ends. At this point, traders can place long orders",
       "henrique aoyagui: maaassive dump incoming",
-      "matt desroches: no leverage long since 73k",
-      "JB ðï¸ð: SCAAALP SHORT",
-      "Islandsteve: In a bullish divergence, the currency pair prices make a new low in the market, but the technical indicators mark a higher price.",
-      "henrique aoyagui: close longs, take profit...."
+      "henrique aoyagui: close longs, take profit....",
+      "matt desroches: no leverage long since 73k"
     ]
   }
 ]
