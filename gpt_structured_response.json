@@ -1,21 +1,21 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants mention imminent levels above 108k and anticipate a breakout, with references to a potential pump and major moves. Some caution about a short-term pullback and typical July weakness, but overall sentiment leans toward a significant upcoming upside event, especially with broader market breakouts. Short calls exist but are outnumbered by bullish or neutral-to-bullish commentary. No clear consensus for high confidence, but positive signals dominate.",
+    "explanation": "Sentiment is mixed but slightly leans bearish for the immediate term. Multiple users mention downside targets (107k), pullbacks, and shorts waiting to 'print.' While some anticipate a potential pump, a majority lean toward a short-term reversal or correction, and there is explicit mention of shorting at current levels. However, there is also mention of historical breakouts, so confidence is not high.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 3,
+    "positive_count": 4,
+    "negative_count": 6,
     "neutral_count": 6,
     "representative_opinions": [
       "Christopher Harvey: 108.7k..pullback....then 109.7k",
-      "ð²ððððÌ¶ð£ðð¯ðªð°: 108.8 imminent",
-      "CRYPTQSANTA: MAY SEE A PUMP BEFORE THE BIG SHOW BUT I BELIEVE THE BIG SHOW IS MID JULY - CHRISTMAS IN JULY",
+      "Dd: Short here free money",
+      "oscartg638: this is it. this 15min has to reverse down",
+      "Alhamaf: 107 is the next target",
       "PolySopher: Everything is trying to breakout this may be a historical moment. Gold, silver, palladium, Spx, BTC, Eth, etc",
-      "oscartg638: long quick",
-      "Islandsteve: RETEEST AND BOUNCE"
+      "CRYPTQSANTA: MAY SEE A PUMP BEFORE THE BIG SHOW BUT I BELIEVE THE BIG SHOW IS MID JULY - CHRISTMAS IN JULY"
     ]
   }
 ]
