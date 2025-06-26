@@ -4,19 +4,18 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There is a notable bearish sentiment among several participants, with repeated mentions of short positions and warnings about a market downturn or a 'big show' coming soon. July is mentioned as a historically weak month for crypto, and multiple voices suggest selling or preparing for a drop. However, a few comments hint at a possible short-term bounce or pump before the larger move, indicating mixed but overall bearish short-term outlook.",
+    "explanation": "A majority of opinions reference bearish sentiment, imminent pullbacks, and expectations for a negative July for BTC. There is repeated mention of targets around 108k-111k as key liquidity/pullback zones, with calls to 'short' and 'sell'. Some mention a possible pump before a larger drop, but the short-term consensus leans bearish due to expected reversal and seasonality.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 2,
-    "negative_count": 7,
-    "neutral_count": 3,
+    "positive_count": 3,
+    "negative_count": 8,
+    "neutral_count": 6,
     "representative_opinions": [
       "Dd: Short here free money",
-      "Christopher Harvey: i have shorts that have been waiting to print for a week now",
       "Islandsteve: JULY NORMALY SUCKS FOR CRYPTO JUST SAYING LOL",
-      "CRYPTQSANTA: MAY SEE A PUMP BEFORE THE BIG SHOW BUT I BELIEVE THE BIG SHOW IS MID JULY - CHRISTMAS IN JULY",
-      "PolySopher: Everything is trying to breakout this may be a historical moment. Gold, silver, palladium, Spx, BTC, Eth, etc",
-      "PolySopher: The breakout may be the breakdown of the dollar for real",
-      "PolySopher: Yeah this breakout could lead to a big event named crash"
+      "Christopher Harvey: the 111k zone is building liquidity.",
+      "TioRyo: -108000 SELL",
+      "PolySopher: Better to be ready to collect season gains and dump it to the ground",
+      "oscartg638: this is it. this 15min has to reverse down"
     ]
   }
 ]
