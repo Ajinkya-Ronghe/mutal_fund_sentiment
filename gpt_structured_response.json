@@ -1,21 +1,19 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There are mixed opinions about Bitcoin's direction, but the most relevant direct comments suggest short-term downside or a lack of bullish momentum. Users mention 'come btc drop a bit more' and refer to a recent bull run possibly being over for the year. No strong bullish signals are present, and the overall sentiment is cautious with a slight bearish bias for immediate trades.",
+    "explanation": "Several users express a bullish sentiment or hope for BTC's price to rise, referencing previous all-time highs (ATH), discussing the bull run, and enthusiastically calling for BTC to go up (e.g., 'come on bitty woooooo'). There are also references to longing in the broader crypto context and discussions of market cycles (bull and bear markets). However, there is a lack of specific technical or candlestick data, and some comments are neutral or unrelated, so the overall confidence is medium.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 1,
-    "negative_count": 2,
-    "neutral_count": 3,
+    "positive_count": 4,
+    "negative_count": 0,
+    "neutral_count": 8,
     "representative_opinions": [
-      "come btc drop a bit more",
-      "That was the bull run for this year",
-      "ATH",
+      "Kudjaks: ATH",
+      "Dd: That was the bull run for this year",
       "Kuya G: long now ?",
-      "fun: come on bitty woooooo",
-      "TioRyo: Oh another thing, study BULL MARKET and BEAR MARKET PLEASE bye guys"
+      "fun: come on bitty woooooo"
     ]
   }
 ]
