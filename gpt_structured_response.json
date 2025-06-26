@@ -3,21 +3,20 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
-    "confidence": "High",
-    "explanation": "The majority of opinions indicate strong bullish sentiment for BTC, with several mentions of breaking new highs, high volume, and bearish traders being 'wiped out.' Comments like 'NEW HIGHER HIGH YEA', 'too much volume we pamping', and 'bears are fucked' suggest a strong upward momentum. There are also references to FOMO and BTC dominance dropping (alt season), but the overall crowd sentiment is highly positive for BTC price action.",
+    "confidence": "medium",
+    "explanation": "Most opinions express excitement about BTC's price action, mentioning new highs, potential pumps, and positive momentum, though there are hints of caution due to BTC dominance dropping and warnings about reversals and RSI divergence. No clear consensus but positive sentiment outweighs negative or neutral takes.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
-    "negative_count": 1,
-    "neutral_count": 5,
+    "positive_count": 7,
+    "negative_count": 3,
+    "neutral_count": 9,
     "representative_opinions": [
-      "Pete : I SAID BEARS ARE FUCKED",
-      "Chris: just hold on to your panties. this is no big deal until we hit new ATH",
       "Islandsteve: NEW HIGHER HIGH YEA",
-      "jeff gates: see you at 110",
-      "Marcos Patrick: too much volume we pamping",
+      "@ndreas: Pump up the jam",
       "DTWD: 130 here we go",
       "Rodolfo: btc dominance DROPPING",
-      "PolySopher: Dollar is really crashing right now"
+      "oscartg638: if we reverse from here, price will be diverging with rsi. be careful. don't try to catch a shooting rocket.",
+      "TioRyo: 109500",
+      "PolySopher: Dollar is really crashing right now "
     ]
   }
 ]
