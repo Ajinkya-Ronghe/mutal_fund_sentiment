@@ -4,18 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several users referenced BTC price action suggesting a short-term downtrend: mentions of resistance being broken to the downside, taking profits for short-term scalpers, and advice to short with support levels noted. However, there are also bullish statements related to ETF buying and 'instant reward for bulls,' so the consensus is mixed but leans to a short signal for the immediate term.",
+    "explanation": "Several participants discussed BTC price action, with references to taking profit, the 1-minute candle closing below resistance, and support levels around 107230-107290. No strong bullish sentiment or major fundamental catalyst was noted; instead, some scalping and short-term short ideas were discussed. There is little consensus on a strong directional move, but the immediate candlestick and resistance comments suggest a cautious short-term bearish stance.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 2,
+    "positive_count": 1,
     "negative_count": 4,
-    "neutral_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
-      "oscartg638: we are in a triangle. It may slam down",
       "oscartg638: 1min closed perfectly below resistance",
       "oscartg638: If you short now, you'll find support at about 107230",
-      "OH YEAH!: instant reward for bulls again",
-      "the etfs are fighting eachother trying to see who can buy the top more",
-      "oscartg638: take profit if you're in it short term (scalping)"
+      "oscartg638: take profit if you're in it short term (scalping)",
+      "Y00LKA: try to look at BTC chart but invest in BCH",
+      "Joey: should I short this?",
+      "oscartg638: my lines were accurate. I almost put on the clown mask. lol",
+      "Joey: Imma put a SL and go-to bed"
     ]
   }
 ]
