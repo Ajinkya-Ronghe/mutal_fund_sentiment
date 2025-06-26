@@ -4,19 +4,27 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The sentiment is mixed for BTC, with some comments suggesting a potential dump ('Today is dump day be ready'), references to bear flags, and others expressing bullishness ('long now ?', 'trap dem bears', 'bull flag on 10s', 'we aint done was n 1, you might win this 15 min but the next one is ours'). The bullish signals slightly outweigh the bearish, and there is ongoing debate about short-term direction. The recommendation is a cautious buy with medium confidence, as the candlestick-related comments favor a long position but there is notable bearish sentiment as well.",
-    "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 5,
-    "negative_count": 4,
+    "explanation": "There is a mix of optimism and caution, but several comments suggest bullish momentum for BTC, referencing potential for a rise and mentioning bull flags. However, some bearish signals and uncertainty remain present, so the confidence is medium.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 6,
+    "negative_count": 3,
     "neutral_count": 6,
     "representative_opinions": [
-      "long now ?",
-      "Today is dump day be ready",
-      "bear flag",
-      "trap dem bears",
-      "bull flag on 10s",
-      "we aint done was n 1, you might win this 15 min but the next one is ours",
-      "all most there btc"
+      "fun: ok, rise btc. rise i comand you",
+      "MOON CAT: it's gonna moon",
+      "eastwest312 paq: bull flag on 10s",
+      "Was N 1: all most there btc",
+      "Kuya G: long now ?",
+      "Dd: Today is dump day be ready",
+      "GARYU ART CRAFT: BearFlag",
+      "Sammy: ber flag",
+      "eastwest312 paq: trap dem bears",
+      "fun: we aint done was n 1, you might win this 15 min but the next one is ours",
+      "Was N 1: gg moon boys",
+      "Miguel Angel Herrera Sosa: Oooof",
+      "JonTukaCring3: now they're like 6.99 lol",
+      "Santi Note8: 666",
+      "JonTukaCring3: bring back double digit gas prices"
     ]
   }
 ]
