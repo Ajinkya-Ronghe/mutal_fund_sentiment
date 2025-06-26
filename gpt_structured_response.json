@@ -4,18 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Despite mixed opinions, the overall sentiment leans slightly bullish for BTC. Support levels are holding according to several traders, and there is commentary on lack of selling pressure. Some anticipate a dump, but there are more mentions of holding, ranging price action, and refusal to sell. One user highlights that 'no one selling their btc,' and another notes that if a dump was imminent, it would have already happened. However, concerns about double tops, lower highs, and potential dumps temper the confidence level.",
+    "explanation": "BTC is discussed with mixed opinions: some mention strong support holding and potential for upward movement, while others warn of a possible dump. There is agreement that short-term direction is uncertain but the price action currently shows resilience at support levels, indicating a tilt towards a buy for quick trades using 1-minute candlesticks, albeit with caution.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
+    "positive_count": 5,
     "negative_count": 4,
-    "neutral_count": 6,
+    "neutral_count": 5,
     "representative_opinions": [
       "oscartg638: support is holding. it's real.",
-      "Dude Talk: lots of food at bottom but no one selling thier btc",
-      "aV1rus: if it was gonna dump hard right now it would of already... this price action looks more like farming... they're gonna range this throw everyone off",
+      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
       "Caquaino: its gonna dump",
+      "oscartg638: triangle support",
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
       "shabaotb: so we got a double top and a lower high",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL"
+      "aV1rus: if it was gonna dump hard right now it would of already... this price action looks more like farming... they're gonna range this throw everyone off"
     ]
   }
 ]
