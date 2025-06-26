@@ -4,25 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Opinions are mixed but slightly favor a short-term upward move for BTC, with several participants mentioning support at lower levels (107,000), expectations of price rising to liquidation levels (109,700), and encouragement to 'go north.' There is also mention of a 'subway pump' and a focus on healthy upward moves. However, a few opinions warn of possible shorting opportunities and head & shoulders pattern, making confidence only medium.",
+    "explanation": "Multiple participants reference bullish momentum ('subway pump', 'north', 'going up more your short liq', '109 for sure shorters', 'liquidations above us...price action looks quite possible'), suggesting a short-term upward move. Despite some short suggestions, the majority sentiment leans toward a continuation to higher liquidation levels (109700) before any significant drop. There is also mention of support at 107000, suggesting that dips may be bought. The tone is optimistic but not without caution (mentions of stop loss).",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
+    "positive_count": 7,
     "negative_count": 4,
-    "neutral_count": 7,
+    "neutral_count": 8,
     "representative_opinions": [
       "subway pump",
-      "Cyber Subway Punk-Pump It UP !!",
-      "so close to next leg up",
       "wrong way bitty, you must go north. thats where the love is.",
-      "It will form head and shoulder",
-      "Short to 107",
       "this is going up more your short liq",
-      "109.2",
       "109 for sure shorters",
-      "Bulls are sleeping, letâs short",
-      "nextsup is 107000",
       "109700 is the last of liquidations above us and with this price action it looks quite possible. I bet we go up at least to liquid levels before we see 103500 again",
-      "It's not always like that, use STOP LOSS"
+      "Short to 107",
+      "That is the support level"
     ]
   }
 ]
