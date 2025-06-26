@@ -4,19 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants noted technical resistance being respected on the 1-minute chart, the price closing below resistance, and a triangle pattern with potential for a downward move. There is also advice to 'take profit if you're in it short term (scalping)' and references to support levels below current price, indicating short-term downside sentiment. However, a few bullish comments ('Moon it!!', 'Higher', 'flag is up') add some uncertainty, so overall confidence is medium.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 7,
-    "neutral_count": 11,
+    "explanation": "The majority of BTC-related live chat opinions are short-term cautious or bearish, noting price closing below resistance on the 1-minute chart, suggestions to take profit, and references to key support levels below current price. However, some bullish sentiment exists regarding future upside after a DC announcement, and general hype. The immediate 1-minute signal is short, but the overall market mood remains mixed.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 5,
+    "negative_count": 8,
+    "neutral_count": 6,
     "representative_opinions": [
+      "Moon Boy: Moon that",
+      "OH YEAH!: instant reward for bulls again",
       "oscartg638: we are in a triangle. It may slam down",
       "oscartg638: 1min closed perfectly below resistance",
+      "oscartg638: If you short now, you'll find support at about 107230",
       "oscartg638: take profit if you're in it short term (scalping)",
       "Joey: should I short this?",
-      "Moon Boy: Higher",
-      "DREW THE EMPATH: Mooooon it!!",
-      "oscartg638: If you short now, you'll find support at about 107230"
+      "oscartg638: TP, TP, TP!!!!",
+      "Y00LKA: it moves few % per day thats why check big picture daily chart..."
     ]
   }
 ]
