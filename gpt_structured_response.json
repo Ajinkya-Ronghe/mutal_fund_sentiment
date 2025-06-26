@@ -4,28 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple opinions and Marticlues AI signals indicate BTC/USDT is hitting long take profits (TP1, TP2, TP3), suggesting upward momentum on short timeframes. However, community sentiment is mixed, with some users voicing caution about short-term downside, miner selling pressure, and the influence of China market hours. Technical analysis comments reference potential for both range-bound action and dumps, but overall, the 1-minute signal remains long with moderate confidence due to these conflicting short-term views.",
+    "explanation": "Multiple signals from Marticlues AI indicate successful BTC/USDT long trades hitting take-profit targets. There is bullish sentiment from users like 'Bitcoin GTR' and 'Caquaino' expressing optimism for BTC's price. However, notable caution and uncertainty are present, with several users discussing potential short-term drops, miner selling, and the need for careful stop-losses. The overall sentiment is mixed but leans positive due to technical signals and some bullish commentary.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
-    "negative_count": 4,
-    "neutral_count": 8,
+    "negative_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
       "Marticlues AI: BTC/USDT Long Score TP1!: P=105541.83,+0.2%",
       "Marticlues AI: BTC/USDT Long Nail TP2!: P=105541.83,+0.3%",
       "Marticlues AI: BTC/USDT Long Boom TP3!: P=105541.83,+0.5%",
-      "oscartg638: and there it is again gents. Place your bets and have your SL ready",
       "Bitcoin GTR: Lets ripppp into the night bulls",
-      "aV1rus: it'll fake out to 106.8k max and then pop back to top of range. this is why you wait for confirmation",
-      "oscartg638: support at 107128",
+      "Caquaino: take my money btc",
+      "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
       "Ferhaan Schmidt: im on short now",
-      "aV1rus: i hope im wrong, get it over with",
-      "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
-      "shabaotb: or could head to that 50 on the 1hr",
-      "shabaotb: then bounce back up",
-      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
-      "Noob Trader: then up then down and uppppppp",
-      "Asi Landes: under 107200",
-      "shabaotb: no bull falg"
+      "oscartg638: support at 107128",
+      "Y00LKA: china miners selling at market opening?",
+      "shabaotb: or could head to that 50 on the 1hr then bounce back up"
     ]
   }
 ]
