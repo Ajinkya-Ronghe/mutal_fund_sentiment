@@ -4,20 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Across multiple opinions, there is a moderate bullish sentiment for BTC. Some users mention buying BTC, referencing technical setups like triangles and support levels, and there are calls to keep buying. However, there are also neutral and a few bearish mentions, such as 'Dump it' and 'now short'. The overall balance is tipped toward a long/buy bias, but confidence is not high due to mixed signals and lack of strong conviction in technical analysis.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The overall sentiment in the chat is slightly positive for BTC. Multiple users mention buying BTC, holding, or positive technical setups. Some mention support levels and suggest accumulation, while a few neutral or mildly negative comments exist. No strong coordinated bearish signal is present. The signal is not 'high' confidence due to mixed technical chatter and lack of strong consensus, but more positive than negative.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 6,
     "negative_count": 2,
-    "neutral_count": 7,
+    "neutral_count": 6,
     "representative_opinions": [
       "IcicleTripClips: me im buying all the btc",
       "Neev: keep buying icicle take us to the measured move",
       "TIVERSON PUBG: mossad buy btc lol",
+      "oscartg638: support at 107210. That's my new thesis.",
+      "oscartg638: TP at about 107650",
+      "RaberTrades: Letâs let the bulls flip that 3D rsi over yellow ema while Stoch RSI has big room to run. Then BTC will giga send",
       "High Def: Dump it",
       "Raudhan Yuriansyah: now short",
-      "oscartg638: breakout in about 4.5 - 6 hours",
-      "oscartg638: support at 107210. That's my new thesis.",
-      "RaberTrades: Letâs let the bulls flip that 3D rsi over yellow ema while Stoch RSI has big room to run. Then BTC will giga send"
+      "Noob Trader: Ricardo you mean the only 4h candle that could not even engulf the previous one",
+      "Ricardo Sala: yes... overall. the day was 1k movement",
+      "oscartg638: i see a triangle",
+      "herr_lippi: chatgpt said 106.7 for me",
+      "Siren Stardust: its a open market soo far soo why not",
+      "IcicleTripClips: id buy it like saylor if i could"
     ]
   }
 ]
