@@ -4,18 +4,18 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants express optimism about BTC's short- to medium-term movement, mentioning a potential breakout towards all-time highs and positive sentiment from miners and treasuries. However, there are also mentions of cautiousness and possible lower moves first, indicating some uncertainty. The majority of the neutral to positive comments lean towards a bullish bias, but caution is advised regarding leverage and swing volatility.",
+    "explanation": "Several participants express bullish sentiment on BTC, mentioning potential for upward movement to new highs (110k+), and noting BTC's 'perky' look and VWAP targets. However, there are also cautions about possible dips and the need for careful leverage. The overall tone is positive but with awareness of volatility and short-term downside risk.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 6,
-    "negative_count": 2,
-    "neutral_count": 8,
+    "negative_count": 3,
+    "neutral_count": 6,
     "representative_opinions": [
-      "OH YEAH!: there are no lower lows, itll get there",
-      "RaberTrades: Bitcoin miners and treasuries are the play",
+      "Neutral Man: 115K is easy guys... lets go",
       "RaberTrades: Bitcoin looks perky here guys",
       "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
+      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
       "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
-      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
+      "Christopher Harvey: Siren diverges btc. ive been able to short alts because of Sirens divergence"
     ]
   }
 ]
