@@ -1,23 +1,21 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The current sentiment in the chat is mixed, but there are slightly more negative or cautious opinions toward BTC, including calls to 'dump it', suggestions of an upcoming 'hard short', and comments about short-term resistance and support levels. Short-term technical signals such as mentions of support at 107210, resistance at 107650, and sideways price action reinforce a neutral-to-bearish view. There are positive comments (e.g., 'buy it like Saylor', 'mossad buy btc'), but they are outnumbered by negative or neutral sentiments. No strong bullish technical triggers are present for the immediate 1-minute candlestick signal.",
+    "explanation": "The chat contains mixed opinions with some bullish signals: references to buying BTC, mentions of technical support levels (107210), and optimism around the 3D RSI setup suggesting a potential rally. There are also bearish opinions and jokes, but the balance slightly favors a buy bias due to repeated mentions of buying and anticipation of positive momentum if technical indicators flip. No explicit short-term 1-minute candlestick signals were given, but sentiment leans toward a cautious buy.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 6,
-    "neutral_count": 8,
+    "positive_count": 6,
+    "negative_count": 4,
+    "neutral_count": 10,
     "representative_opinions": [
-      "High Def: Dump it",
-      "Ferhaan Schmidt: hard short will coming",
-      "Raudhan Yuriansyah: now short",
-      "oscartg638: support at 107210. That's my new thesis.",
+      "a man Ryan: 94% down in buying power ... why hold a dollar ? it's going down more",
       "IcicleTripClips: id buy it like saylor if i could",
       "TIVERSON PUBG: mossad buy btc lol",
-      "Caquaino: look the 1 hour candle",
-      "RaberTrades: Letâs let the bulls flip that 3D rsi over yellow ema while Stoch RSI has big room to run. Then BTC will giga send"
+      "RaberTrades: Letâs let the bulls flip that 3D rsi over yellow ema while Stoch RSI has big room to run. Then BTC will giga send",
+      "oscartg638: support at 107210. That's my new thesis.",
+      "High Def: Dump it"
     ]
   }
 ]
