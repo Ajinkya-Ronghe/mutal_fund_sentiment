@@ -4,17 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several users express bullish sentiment or potential for upward movement in BTC, including references to 'Ace algorithm buy call', 'no lower lows', and 'Bitcoin looks perky here'. However, there are also cautions about potential for shorting at certain levels and reminders to use low leverage, indicating some mixed short-term outlooks. The overall tone leans toward a cautious buy, with emphasis on not using high leverage and being prepared for volatility.",
+    "explanation": "Multiple opinions highlight bullish sentiment or call attention to potential upside (e.g., 'Ace algorithm buy call stands', 'Bitcoin looks perky here', 'there are no lower lows, itll get there'). However, there is some caution and suggestions to use bots for both long and short around key levels, indicating mixed short-term expectations but a positive bias overall.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 5,
     "negative_count": 2,
-    "neutral_count": 6,
+    "neutral_count": 8,
     "representative_opinions": [
       "Ace Winner: Ace algorithm buy call stands. TP 108.4k",
       "OH YEAH!: there are no lower lows, itll get there",
       "RaberTrades: Bitcoin looks perky here guys",
       "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
-      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
+      "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think",
+      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
+      "RaberTrades: Bitcoin miners and treasuries are the play",
+      "SlicK: Wake me up if it ever gets to 108200"
     ]
   }
 ]
