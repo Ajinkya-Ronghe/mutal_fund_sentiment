@@ -4,17 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The overall sentiment is mixed but leans mildly bullish for BTC. Multiple users discuss long positions from lower levels, expecting recovery or a move upward, while a few mention concerns about potential dumps below specific price thresholds. There are references to significant past wins and expectations of price targets up to 200k, but also short interest around 108.2k. The 1-minute candlestick sentiment is slightly positive, but not with high conviction due to the simultaneous presence of short calls and caution.",
+    "explanation": "The majority of BTC-related opinions lean bullish, with several users mentioning long positions at current or lower prices, and expectations of significant upside (e.g., '200k by xmas' and 'opening long at 107250'). There is also banter about previous successful calls from community figures. However, some skepticism and acknowledgment of unpredictable price action tempers confidence (references to failed longs and wild moves). The candlestick signal is 'long' based on the explicit mentions of opening or holding longs, but the confidence is medium due to some mixed and neutral comments.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
-    "negative_count": 4,
-    "neutral_count": 9,
+    "negative_count": 3,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Islandsteve: IVE BEEN IN SAME LONG ALL DAY IM FAR FROM REKT",
+      "x (btc 141k gang): rip seller",
       "jeff gates: here to 200k by xmas or so he said then they went fishing again",
       "oscartg638: opening long at 107250, approximately.",
+      "Islandsteve: IVE BEEN IN SAME LONG ALL DAY IM FAR FROM REKT",
+      "matt desroches: no leverage long since 73k",
       "Qvazor: Want short from 108.2k with short sl",
-      "Dd: Under 107k big dump"
+      "Dd: Island steve rekt long at the top",
+      "The Dusty Hunt: Upper Down",
+      "Fish: Who knows maybe the ultimate invention AI can save us from our selfâs. As our minds are limited and can be emotional tyrants at times. Thatâs the hope anyway haha"
     ]
   }
 ]
