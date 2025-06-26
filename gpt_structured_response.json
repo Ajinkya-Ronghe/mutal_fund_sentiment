@@ -1,25 +1,21 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The chat contains a mix of bullish and skeptical opinions about BTC, but positive sentiment is notable regarding a potential rally if the dollar weakens. Some users speculate about a breakout and new all-time highs if macroeconomic conditions (like a dollar crash) occur. There are also references to BTC's dominance and potential for a major pump, although some users doubt immediate large moves. The majority of relevant BTC comments lean bullish, but conviction is tempered by skepticism and a lack of clear technical consensus in the chat.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The live chat reflects a mix of bearish and bullish sentiments for BTC, but the short-term mood is dominated by concerns of a bull trap, bears being in control, and skepticism about a breakout. Some opinions are extremely bullish on a longer time frame (e.g., $1 million if the dollar crashes, talk of new ATH), but immediate signals are more cautious or negative. No direct 1-minute candlestick indicator is given, but the representative bearish statements and lack of consensus on a breakout point to a short-term sell bias.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 4,
-    "negative_count": 2,
-    "neutral_count": 4,
+    "negative_count": 5,
+    "neutral_count": 5,
     "representative_opinions": [
-      "Fish: If BTC pumps to 125k wonât it cause all the alt coins dip hard AF at first because everyoneâs making BTC rally? Then bounce. Or will it follow BTC",
+      "NzTa: bull trap",
+      "oscartg638: bears are in control. I meant to say. sorry",
+      "Islandsteve: if this dont breakout im closing and going to bed",
       "PolySopher: BTC to 1 million soon if dollar crashes. Still 1 BTC = less than a hous",
       "ForgottenOne Legend: are we really on our way to new ath??",
-      "oscartg638: bears are in control. I meant to say. sorry",
-      "Qvazor: 125k today impossiable, ok mb 0.00001%",
-      "Islandsteve: if this dont breakout im closing and going to bed",
-      "Islandsteve: more pumnp",
-      "PolySopher: Dxy is drilling lower lows and platinum out of control ",
-      "Qvazor: TRIANGLE is 50/50, for me, can go fast up and down. idk.",
-      "Fish: I agree. But if black rock  really wanted too anything is possible  hahaha."
+      "Fish: If BTC pumps to 125k wonât it cause all the alt coins dip hard AF at first because everyoneâs making BTC rally? Then bounce. Or will it follow BTC"
     ]
   }
 ]
