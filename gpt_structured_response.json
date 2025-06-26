@@ -4,19 +4,15 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants discussed BTC price action, with references to taking profit, the 1-minute candle closing below resistance, and support levels around 107230-107290. No strong bullish sentiment or major fundamental catalyst was noted; instead, some scalping and short-term short ideas were discussed. There is little consensus on a strong directional move, but the immediate candlestick and resistance comments suggest a cautious short-term bearish stance.",
+    "explanation": "The majority of opinions referencing BTC highlight short-term caution, mentioning resistance levels being respected on the 1-minute chart and recommendations to take profit or consider shorting. Although some bullish comments exist (e.g., ETF buying, 'instant reward for bulls'), the technical focus on a 1-minute close below resistance, talk of placing stop losses, and suggestions to short for a move to support at 107230â107290 point toward a short-term bearish signal. There is no strong consensus for a longer-term move, and sentiment is somewhat mixed, but the technical short-term signals are more prominent in the discussion.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 1,
-    "negative_count": 4,
+    "positive_count": 3,
+    "negative_count": 5,
     "neutral_count": 7,
     "representative_opinions": [
-      "oscartg638: 1min closed perfectly below resistance",
-      "oscartg638: If you short now, you'll find support at about 107230",
       "oscartg638: take profit if you're in it short term (scalping)",
-      "Y00LKA: try to look at BTC chart but invest in BCH",
-      "Joey: should I short this?",
-      "oscartg638: my lines were accurate. I almost put on the clown mask. lol",
-      "Joey: Imma put a SL and go-to bed"
+      "oscartg638: 1min closed perfectly below resistance",
+      "oscartg638: If you short now, you'll find support at about 107230"
     ]
   }
 ]
