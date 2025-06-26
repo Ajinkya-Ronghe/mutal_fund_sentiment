@@ -1,29 +1,24 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
+    "1_minute_candlestick_signal": "neutral",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "While there is notable uncertainty and mixed sentiment in the chat, direct references to regular buying (e.g., recurring buys on Fridays), community support for buying BTC, and mentions of participants actively accumulating Bitcoin indicate a moderate bullish bias. Some users discuss market slowdowns and lack of profit, but no strong bearish consensus emerges. The presence of a few bearish comments is outweighed by repeated statements about buying and holding BTC. No explicit short signals dominate. Given the cautious optimism, a 'Buy' with medium confidence is warranted.",
+    "explanation": "The overall sentiment in the chat is mixed with some bearish remarks about shorting and bears, but there are also bullish opinions and jokes about buying all the BTC. The mention of support and resistance levels, and the fact that someone is still buying, suggests a cautious optimism. However, no clear momentum or strong unified direction emerges, so the candlestick signal is neutral but the general recommendation is to buy with medium confidence.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 4,
-    "negative_count": 2,
-    "neutral_count": 8,
+    "positive_count": 3,
+    "negative_count": 3,
+    "neutral_count": 3,
     "representative_opinions": [
-      "CHARLES SEXTON: every friday i buy 50$ btc at 5 pm im in the green",
       "IcicleTripClips: me im buying all the btc",
       "Neev: keep buying icicle take us to the measured move",
-      "pramod singh: slow ho gya hai market bahut",
-      "faheem sindhi: sir selling hoge shayad",
+      "Ferhaan Schmidt: hard short will coming",
       "GRIMMS: bears are roaming freely",
-      "Ferhaan Schmidt: now is good short",
       "Ricardo Sala: price moved between 108k and 107 the whole day",
       "oscartg638: support at 107210. That's my new thesis.",
       "Noob Trader: we are back into up trend unless it stays under 107.3",
       "SalmanDÂ£vil: Big maine sirf .long par kamaya hai short par Washout kara hu bht ye saal",
-      "herr_lippi: i started on 1 myself, but it's not on point yet",
-      "Crypto Cypher: s",
-      "High Def: Whatâs holding price up"
+      "pramod singh: slow ho gya hai market bahut"
     ]
   }
 ]
