@@ -4,15 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of BTC-related opinions express caution, with several users noting patterns such as double tops, lower highs, and the potential for a 'dump' to levels like 104k. There is talk about price action being 'maddening,' support levels being tested, and the possibility of a range fake-out before a move down. While a few comments humorously mention buying or holding BTC, most actionable sentiment is wary or bearish in the short term, recommending stop losses and warning of downside risk.",
+    "explanation": "Several participants express expectations of downward moves, referencing terms like 'dump', 'down target', 'double top', 'lower high', and testing of support levels. There are warnings about price manipulation, fakeouts, and the need to be cautious with stop losses, suggesting market indecision but a bearish tilt in the very short term. However, some voices mention potential for upside fakeouts before a bigger move down, pointing to high volatility and risk.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 2,
-    "negative_count": 8,
-    "neutral_count": 6,
+    "positive_count": 3,
+    "negative_count": 9,
+    "neutral_count": 7,
     "representative_opinions": [
+      "MrSubmariner76: Fall BTC fall down",
       "shabaotb: idk man a double top and a lower high seems to be prepping for a dump",
+      "Molyn Brefon: a little bit down then up then dooooown",
+      "oscartg638: damn bears testing it like it's a picnic basket",
       "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
-      "oscartg638: damn bears testing it like it's a picnic basket"
+      "shabaotb: seems to be losing that 50 as we speak",
+      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
+      "shabaotb: and when i say dump im talkin maybe 104k not too low"
     ]
   }
 ]
