@@ -1,22 +1,22 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several live participants express short-term caution or bearish bias for BTC, referencing chart patterns (triangles, symmetrical bottoms, head and shoulders, bear fractal) with downside breakout targets (105200, 105350) and warnings about potential drops below 100k. Some expect bounces at lower levels but overall sentiment leans defensive for the immediate term. No clear consensus on a strong upward move in the current 1-minute context, and warnings about liquidity grabs and high leverage further support caution.",
+    "explanation": "Opinions are mixed with both bullish and bearish short-term technicals cited. Several users reference support levels around 105k-107k and expect a bounce, while others highlight possible downside risk to 103k-105k. There is no strong consensus for a major move, but the lack of selling pressure and expectation of a bounce from support suggest a moderate buy signal with measured optimism.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 5,
-    "negative_count": 8,
-    "neutral_count": 7,
+    "positive_count": 7,
+    "negative_count": 5,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Christopher Harvey: SHOOOOOORT SIREN!!!!",
+      "Stutter the Bull: It's long",
       "oscartg638: the breakout target to the downside is 105200 and to the upside is 108750 approximately.",
-      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
-      "Hoover: Drop it to 105,350 then launch up!",
-      "Travis Alford: is there any prediction yet that btc could dump back under 100k in the near future?",
       "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
-      "Tjeerd Phaff: but I think we could even go to 103/104 before higher but have to see"
+      "Hoover: Drop it to 105,350 then launch up!",
+      "Dude Talk: lots of food at bottom but no one selling thier btc",
+      "Tjeerd Phaff: but I think we could even go to 103/104 before higher but have to see",
+      "oscartg638: if my thesis is correct and we are rejected from 107700 we are officially in a triangle. Be careful."
     ]
   }
 ]
