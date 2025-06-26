@@ -3,22 +3,19 @@
     "crypto": "BTC",
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
-    "confidence": "High",
-    "explanation": "The majority of opinions explicitly suggest shorting BTC, discuss anticipated dumps, and express bearish sentiment for the immediate future. Multiple users are talking about selling, setting short positions, and forecasting significant drops, with clear price targets and stop-loss levels mentioned. There are no notable bullish or neutral BTC opinions in the provided data.",
+    "confidence": "medium",
+    "explanation": "Multiple participants explicitly mentioned shorting BTC, expecting a price decline. Specific entry and stop loss levels were shared. Sentiment includes bearish calls, targets below current price, and negative references to market conditions. There are no clear bullish BTC opinions, and neutral/bullish comments are focused on other assets or general market humor.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 0,
-    "negative_count": 9,
-    "neutral_count": 2,
+    "negative_count": 6,
+    "neutral_count": 5,
     "representative_opinions": [
       "Josue Marin: Letâs short btc",
       "oscartg638: shorting at 107781",
-      "Josue Marin: Bearâs claws on the bulls now",
+      "Josue Marin: Your SL at 108,500 if btc get over that may reach 109k",
       "oscartg638: this is the short everyone was taklking about all day.",
       "oscartg638: we have to diverge hardcore now. sell, sell, sell!",
-      "Josue Marin: Your SL at 108,500 if btc get over that may reach 109k",
-      "oscartg638: 97k I hope",
-      "Sagent: weekend is near red days coming",
-      "Sagent: no worries it will dump"
+      "PolySopher: Dxy bottoming BTC dampening"
     ]
   }
 ]
