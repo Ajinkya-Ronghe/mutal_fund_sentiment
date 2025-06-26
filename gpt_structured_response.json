@@ -4,21 +4,28 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Sentiment in the chat is bullish for BTC with mentions of bears getting liquidated, 'Moon it', big legs upward, and discussions of pump and triangle pattern support. However, there is some caution about possible fake-outs, triangle support pullbacks, and large sell walls. The general consensus leans toward a buy/long position, but not with the highest confidence due to mixed technical analysis and risk of downside moves.",
-    "safe_leverage_isolate_future_perpetual": 5,
+    "explanation": "Several participants expressed bullish sentiment, mentioning upward movement, liquidation of bears, and references to a 'moon' or significant leg up. However, some noted caution about potential pullbacks and the presence of large sell walls. The overall tone is positive but acknowledges short-term volatility and possible retracements.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 9,
     "negative_count": 4,
-    "neutral_count": 7,
+    "neutral_count": 13,
     "representative_opinions": [
-      "Moon Boy: Bears getting liquidated",
       "Geoff O: we get another big leg today!?",
-      "DREW THE EMPATH: Mooooon it!!",
+      "Moon Boy: Bears getting liquidated",
       "Moon Boy: Higher",
-      "Y00LKA: if its lots of green then buy if red then sell",
+      "DREW THE EMPATH: Mooooon it!!",
+      "Moon Boy: Wait for DC announcement, way higher",
       "oscartg638: target reached. 10% up for the day with 20x leverage.",
       "oscartg638: careful, it will come back down for the triangle support",
       "oscartg638: we are in a triangle. It may slam down",
-      "aV1rus: after it bottoms and comes back up the net one IF it gets rejected will be the real one"
+      "oscartg638: TP, TP, TP!!!!",
+      "oscartg638: take profit if you're in it short term (scalping)",
+      "Daveyboy: Binance has a 500btc sell at 108k",
+      "JR: lmao this shit funny AF, bear traps everywhere ",
+      "Sean Chin: it doesnt want to break down eh",
+      "aV1rus: nother thing to consider is later on the MM does want that liquidity above us to help pump the chart and through the sell walls",
+      "Y00LKA: if its lots of green then buy if red then sell",
+      "Y00LKA: it moves few % per day thats why check big picture daily chart to see how much % moves daily in average so you see it goes up and down but sometimes can go more up longer without any other issues"
     ]
   }
 ]
