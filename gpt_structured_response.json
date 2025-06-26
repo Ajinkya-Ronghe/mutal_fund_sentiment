@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of recent opinions suggest bearish sentiment or caution due to current market conditions, such as DXY pumping, references to support levels being tested, and discussions of ongoing or further dumps. However, there is some talk of potential bounces and fakeouts, indicating a mixed view and reducing overall confidence.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 8,
-    "neutral_count": 7,
+    "explanation": "Sentiment in the chat is cautious to bearish for BTC, with several users mentioning market dumps, support levels being tested, and discussions about potential further downside. Opinions about bounce possibilities exist, but the short-term tone is more negative, referencing dumping due to DXY strength, market makers' actions, and targets below current prices. There are also discussions about setting stop losses and possible fakeouts, reflecting uncertainty but a tilt toward downside risk.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 3,
+    "negative_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
       "PolySopher: Itâs dumping because dxy is pumping",
-      "Lyndon Adjuta: Will btcc dump moree?",
       "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
-      "Y00LKA: set up sl just in case if you short now",
-      "Asi Landes: under 107200",
       "oscartg638: last support line. Here we go",
-      "mpepin1905: 105300 target from the symmetrical drop. c what happens"
+      "Y00LKA: set up sl just in case if you short now",
+      "Lyndon Adjuta: Will btcc dump moree?",
+      "mpepin1905: 105300 target from the symmetrical drop. c what happens",
+      "Caquaino: taking looses here"
     ]
   }
 ]
