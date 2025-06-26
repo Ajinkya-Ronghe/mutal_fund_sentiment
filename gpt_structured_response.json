@@ -4,23 +4,25 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "A majority of the opinions are bullish on BTC, referencing potential for all-time highs if certain price levels hold (e.g., 108800), expectation of a rally towards 110,550â111,983 in the short term, and a possible move to 119,000â125,000 by the end of June. There is some caution expressed regarding leverage and stop loss, but the sentiment is predominantly positive with references to miners and treasuries adding further confidence.",
+    "explanation": "Multiple participants express bullish sentiment and expectations for BTC to reach or exceed new all-time highs (ATH) if key levels hold. Talk of short-term support at 108,000 and anticipation of moves to the 110,550-111,983 range, with some even projecting 119-125k by end of June, indicates strong confidence in upward momentum. The mood is predominantly optimistic, with only minor caution about swings and leverage risk.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
+    "positive_count": 9,
     "negative_count": 1,
     "neutral_count": 3,
     "representative_opinions": [
       "Islandsteve: ATH IF 108800 HOLDS",
+      "Kudjaks: pumpening",
       "RaberTrades: Bitcoin looks perky here guys",
       "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "RaberTrades: I think we hit 119-125k end of June",
-      "Y00LKA: set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
-      "RaberTrades: Bitcoin miners and treasuries are the play",
+      "@ndreas: ...Go btc.",
       "Islandsteve: UP UP",
+      "RaberTrades: I think we hit 119-125k end of June",
+      "Y00LKA: ...long from 108 500 and one more short from 108 500 and wait. not too big laverage",
+      "RaberTrades: Nice VWAP target  short term",
+      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500...",
       "Islandsteve: YES 2 FAILED RALLYS WE NEED BREAK NOW",
-      "Y00LKA: low SL but not too low to avoid liquidations too fast in case its swining i would say SL 23% TP 40% min",
-      "RaberTrades: Nice VWAP target short term",
-      "CatHak: steve were do you think its going for the next 2 weeks"
+      "Islandsteve: WE SEE HOW FRYDAY GOES",
+      "RaberTrades: Bitcoin miners and treasuries are the play"
     ]
   }
 ]
