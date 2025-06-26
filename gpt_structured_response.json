@@ -1,23 +1,21 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of opinions express concern over a potential rejection and significant dump for BTC, with repeated references to lower price targets (e.g., 'see you at 90k', 'maaassive dump incoming', 'rejected', 'can't stay 108 for a week'). Although there are a few bullish outliers (e.g., 'hoping BTC go to 108k', 'no leverage long since 73k'), the prevailing sentiment is short-term bearish. Some traders are explicitly calling for short positions or expecting downside volatility.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 3,
-    "negative_count": 7,
-    "neutral_count": 5,
+    "explanation": "The opinions are mixed, but there are several strong bullish sentiments such as predictions of BTC going to 90k or 108k and advice to 'hodl more'. A few mention holding long positions from lower prices, while some express caution or predict a 'massive dump'. There are also short/scalp comments, but the overall representation is slightly more positive towards buying or holding BTC than selling.",
+    "safe_leverage_isolate_future_perpetual": 1,
+    "positive_count": 6,
+    "negative_count": 3,
+    "neutral_count": 7,
     "representative_opinions": [
-      "henrique aoyagui: maaassive dump incoming",
       "Pegasus SkylineRFS: see you guys at 90k byeee",
+      "Dd: Hoping btc go to 108k",
+      "Rising Lion: hodl moar, talk less",
+      "henrique aoyagui: maaassive dump incoming",
       "JB ðï¸ð: SCAAALP SHORT",
-      "Qvazor: Want short from 108.2k with short sl",
-      "Dd: Cant stay 108 for a week",
-      "henrique aoyagui: yep. rejected, see you guys in 103k",
-      "matt desroches: no leverage long since 73k",
-      "Dd: Hoping btc go to 108k"
+      "matt desroches: no leverage long since 73k"
     ]
   }
 ]
