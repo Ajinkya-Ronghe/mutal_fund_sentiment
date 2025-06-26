@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "A majority of community sentiment leans bullish for BTC in the short term. Comments such as 'so close to next leg up', 'the 1min stoch is pointing up we gonna pump hard now', and repeated references to moving 'north' indicate expectations of upward price action. Several users mention strong support at 107k and a possible move to liquidate shorts above 109700. However, there are references to significant sell orders and reminders to use stop losses, suggesting caution and not overwhelming confidence.",
+    "explanation": "Several participants express bullish sentiment for BTC, noting technical signals such as the 1-minute stoch pointing up, a strong trend line holding, and expectations for another upward move. Some mention large sell orders and liquidation levels above, suggesting possible short-term volatility. There are neutral and cautionary opinions regarding use of stop-loss and leverage, but the majority lean towards a near-term upward move.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
     "negative_count": 3,
-    "neutral_count": 6,
+    "neutral_count": 5,
     "representative_opinions": [
       "eastwest312 paq: so close to next leg up",
-      "Was N 1: the 1min stoch is pointing up we gonna pump hard now",
       "fun: wrong way bitty, you must go north. thats where the love is.",
+      "Was N 1: the 1min stoch is pointing up we gonna pump hard now",
       "Alexis Gonzalez: 109700 is the last of liquidations above us and with this price action it looks quite possible. I bet we go up at least to liquid levels before we see 103500 again",
       "Tiger Eye: Trend line is holding up quite good, if we slip 107 is a strong support",
-      "Guitarist 90's Bodyboarder: Binance has a 501 BTC sell order at 108050",
-      "TioRyo: In long trade use stop on the daily or weekly candle. In short trade use stop loss on the last daily or weekly candle. Leverage only on TOPS AND BOTTOM."
+      "TioRyo: In long trade use stop on the daily or weekly candle. In short trade use stop loss on the last daily or weekly candle. Leverage only on TOPS AND BOTTOM.",
+      "Guitarist 90's Bodyboarder: Binance has a 501 BTC sell order at 108050"
     ]
   }
 ]
