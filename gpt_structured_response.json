@@ -4,14 +4,24 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants and trading signals suggest bullish sentiment for BTC. Marticlues AI explicitly calls for 'BTC/USDT Long Boom' and 'Long WBTC/USDT', indicating strong buy signals with target profits. Several users (MOON CAT, Kudjaks, JamTrades) express optimism about BTC's imminent rise ('moon', 'gonna moon', 'it gots to moon', 'might blow up'). There are no notable negative or short opinions on BTC, while one user (Was N 1) says 'dump it', but this is not specifically targeted at BTC and is outweighed by the positive signals.",
+    "explanation": "Multiple participants express strong bullish sentiment toward BTC, referencing expectations of a sharp upward move (\"moon\"), imminent large price targets (\"117k in 87 hours\"), and a perception that BTC is currently leading the market rise (\"nothing else moving with btc going up\"). Additionally, an automated signal (WBTC/USDT: Whale Surge!) suggests a strong long entry with close targets, further supporting the current bullish momentum.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
-    "negative_count": 0,
-    "neutral_count": 3,
+    "negative_count": 1,
+    "neutral_count": 4,
     "representative_opinions": [
       "MOON CAT: it's gonna moon",
-      "Marticlues AI: BTC/USDT Long Boom TP3!: P=105510.29,+0.5%",
+      "TheChrisamella: 117k in 87 hours",
+      "Kudjaks: it gots to moon",
+      "Marticlues AI: Long WBTC/USDT:ENTRY=107710.27,TP1=107925.69,TP2=108033.4,TP3=108248.82,SL=106956.3,TA=Whale Surge!",
+      "MOON CAT: GO GO GO",
+      "Jora Sidhu: Why is nothing else moving with btc going up",
+      "Kudjaks: intense fight and so early still",
+      "Kudjaks: day is young",
+      "Was N 1: dump it",
+      "Dd: Big pump or dump this is it guys",
+      "fun: come on",
+      "fun: thats true, 11 minitus in",
       "JamTrades: it might blow up well see"
     ]
   }
