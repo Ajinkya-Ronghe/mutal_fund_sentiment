@@ -1,22 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "neutral",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Live chat sentiment is mixed but leans negative for BTC in the immediate termâmentions of trendline rejection, double top, lower high, and multiple traders expecting a dump outweigh the mentions of support holding and possible upside. Most opinions reference short-term technical weakness and increased risk of downside moves, but there are a few neutral to positive takes about support holding.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "BTC sentiment is highly mixed in the live chat. Some participants highlight strong support levels and lack of selling, suggesting bullish resilience. Others point to trendline rejections, bearish fractals, and expectations of a dump. The triangle support is holding, but price action is unpredictable, with both bullish and bearish short-term signals noted. There is no overwhelming consensus to take a high conviction position; however, the absence of panic selling and support holding gives a slight edge to bulls for a cautious buy.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 5,
-    "negative_count": 8,
+    "negative_count": 6,
     "neutral_count": 6,
     "representative_opinions": [
-      "Tjeerd Phaff: we rejected trendline, daily open could not hold",
-      "shabaotb: so we got a double top and a lower high",
-      "Caquaino: is over",
-      "Caquaino: big dump incoming",
       "oscartg638: support is holding. it's real.",
-      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL"
+      "Dude Talk: lots of food at bottom but no one selling thier btc",
+      "oscartg638: triangle support",
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
+      "Tjeerd Phaff: we rejected trendline, daily open could not hold",
+      "Caquaino: big dump incoming",
+      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
+      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up"
     ]
   }
 ]
