@@ -1,22 +1,24 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "long",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of sentiment in the live chat is cautious or bearish for BTC, with recurring themes of 'smart money selling,' concerns about failing to hold above 108k, and warnings of an incoming big short if key levels are not maintained. There are also repeated mentions of significant risk-taking and skepticism about further bullish moves. However, a minority of comments remain optimistic, referencing institutional support and BTC's resilience, lending some balance to the outlook.",
+    "explanation": "Several participants mention BTC's resilience, institutional support, and the size of adoption (e.g., countries moving to BTC, BlackRock and Vanguard investing), suggesting a bullish sentiment. There is also talk of a 'bull flag' and positive reaction to the dollar's decline. However, some warn about the risk if 108k isn't held and mention smart money selling, introducing caution.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 4,
-    "negative_count": 7,
+    "positive_count": 6,
+    "negative_count": 3,
     "neutral_count": 7,
     "representative_opinions": [
-      "Dd: 108k not more moonboys buying smartmoney selling",
-      "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
-      "Islandsteve: THESE LITTLE 300$ MOVEMENTS ARE NOTHING TRY 5K IN 5 MIN MOVEMENTS",
-      "jeff gates: when black rock and vangaurd invest it never falls",
+      "jeff gates: bit coin dont care whats going on you have whole countires moveing to bit coin look at south america",
       "jeff gates: its to big to fall now",
+      "jeff gates: when black rock and vangaurd invest it never falls",
+      "Geoff O: bull flag on the ten second let's go",
+      "PolySopher: That pump was sponsored by the fall of dollar empire",
       "oscartg638: no poly. when dollar goes up btc goes down. when dollar goes down, btc is up.",
-      "PolySopher: Dollar crashing for short"
+      "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
+      "Dd: 108k not more moonboys buying smartmoney selling ",
+      "henrique aoyagui: struggling too much already"
     ]
   }
 ]
