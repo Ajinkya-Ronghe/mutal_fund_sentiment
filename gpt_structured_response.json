@@ -4,23 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple participants express strong bullish sentiment for BTC, referencing upward momentum ('UP UP AND AWAY', 'MORE PUMP PLEASE') and discouraging shorting. Predictions of higher prices (104k, 106500, 107200) and explicit warnings against shorting in a bull market further reinforce the buy bias. No significant negative or neutral opinions counter the prevailing bullish outlook.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 11,
-    "negative_count": 1,
-    "neutral_count": 7,
+    "explanation": "The majority of opinions are strongly bullish for BTC, with repeated calls to 'buy' and warnings against shorting in a bull market. Multiple chat participants explicitly state 'up', 'buy', and discourage shorting, indicating strong sentiment for a continued upward move. Some also mention specific high price targets and leverage, further suggesting confidence in a bullish move on short timeframes.",
+    "safe_leverage_isolate_future_perpetual": 5,
+    "positive_count": 10,
+    "negative_count": 2,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Islandsteve: UP UP AND AWAY",
-      "Islandsteve: dont short are you nuts",
-      "Alina Bogdan: 104k next?",
-      "Joey: 106500",
-      "Josue Marin: 107.200 its my forecast",
-      "Islandsteve: dont short a bull market",
-      "Islandsteve: DONT SHORT YOU REKT",
+      "Islandsteve: UP UP UP",
       "fun: come on russa, buy buy buy",
-      "fun: the world needs japan to buy, meta you can do it. buy baby buy",
-      "Santi Note8: ... this is \"Don't you Know pUmp It UP\" till 109.800, with a thin candle... then BOOM to the ground  POLL ?Â¡",
-      "Was N 1: Fade the tops boys"
+      "Islandsteve: dont short are you nuts",
+      "Islandsteve: DONT SHORT YOU REKT",
+      "Islandsteve: dont short a bull market",
+      "Josue Marin: 107.200 its my forecast",
+      "Alina Bogdan: 104k next?",
+      "Was N 1: Fade the tops boys",
+      "Was N 1: crypto bubbles looking really red right now",
+      "oscartg638: 15min is only one diverging"
     ]
   }
 ]
