@@ -4,19 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants express optimism for BTC to reach new all-time highs (ATH) soon and reference price targets above 108kâ110k. Some believe the current price is 'cheap' and expect much higher levels, while others mention that a falling dollar and potential geopolitical events could favor BTC. However, a few warn of choppy/volatile conditions and possible traps, suggesting some caution.",
+    "explanation": "Several live chat opinions suggest bullish sentiment for BTC, including mentions of a potential bull run, price targets as high as 110K and 400K, and the expectation that a falling dollar (DXY) could support BTC upside. Although some concerns about short-term resistance near 108K-109K exist, the overall tone leans positive with no strong, credible bearish case. No direct 1-minute candlestick analysis is given, but the momentum and sentiment support a medium-confidence long bias.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 7,
-    "negative_count": 3,
-    "neutral_count": 7,
+    "negative_count": 2,
+    "neutral_count": 8,
     "representative_opinions": [
-      "Jay Dawg: ATH coming soon!",
+      "Kevin Hamid: YOU WERE WARNED 110K",
       "jeff gates: it cheap now wait till its cheap at 400k",
-      "Kudjaks: will get all exchanges above 108k that way",
-      "Dd: 109k will come maybe thats it",
-      "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k",
+      "packslaya: BULLRUN",
+      "Kudjaks: 108137 on CB is needed",
+      "PolySopher: That pump was sponsored by the fall of dollar empire",
       "oscartg638: no poly. when dollar goes up btc goes down. when dollar goes down, btc is up.",
-      "PolySopher: That pump was sponsored by the fall of dollar empire"
+      "Alina Bogdan: a big short incoming IF(big IF) we cant hold 108 and close above 109k"
     ]
   }
 ]
