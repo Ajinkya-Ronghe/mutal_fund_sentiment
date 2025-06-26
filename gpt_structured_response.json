@@ -4,22 +4,24 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "The majority of opinions are bullish, highlighting bears being 'demolished', anticipation for a breakout, and positive reactions to price action (e.g., 'Midnight pump', 'long quick'). There are some short/sell suggestions, but the overall sentiment leans toward a continued upward move in BTC, especially with mentions of the dollar crashing and strong reactions to bullish candles. However, the presence of opposing views and calls to short at certain levels tempers confidence.",
+    "explanation": "The majority of opinions reference bullish signals for BTC, including calls for a quick long, expectations of a reversal if BTC closes above 108,781, and comments about a potential breakout correlated with a crashing dollar. However, there are also some short/bearish suggestions (such as selling around 108,000 and targeting 107,000), but the positive momentum and bullish sentiment slightly outweigh the negative. The confidence is 'medium' due to some mixed short-term bearish calls.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
+    "positive_count": 7,
     "negative_count": 5,
-    "neutral_count": 7,
+    "neutral_count": 4,
     "representative_opinions": [
-      "Moon Boy: Bears keep getting demolished today",
-      "Islandsteve: AS LONG THIS 1 HOUR CANDLE ENDS GREEN IT DONT MATTER",
-      "PolySopher: I think this is gonna breakout",
-      "oscartg638: long quick",
-      "PolySopher: Dollar is crashing",
       "Filthy Rabbit: Delusional Bears celebrating every little dip",
-      "Alina Bogdan: hold on for the shorts .. so war we retested and 108k and its holding",
-      "Candra Saputra: best to sell right now ?",
+      "Kevin Hamid: AND BOUNCE",
+      "Ian Pryor: Midnight pump",
+      "oscartg638: if we close above 108781 we're going to start to reverse",
+      "PolySopher: Dollar is crashing",
+      "oscartg638: long quick",
+      "PolySopher: I think this is gonna breakout",
       "TioRyo: 108000- sell",
-      "Qvazor: Open short from 108.2 tnx, wait dump)"
+      "Alhamaf: 107 is the next target",
+      "Alina Bogdan: hold on for the shorts .. so war we retested and 108k and its holding",
+      "oscartg638: wait for confirmation.",
+      "oscartg638: don't get caught with your shorts down"
     ]
   }
 ]
