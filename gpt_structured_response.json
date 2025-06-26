@@ -1,23 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "short",
-    "signal": "Sell",
+    "1_minute_candlestick_signal": "",
+    "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Sentiment in the chat is mixed, but several users mention potential for fake breakouts, bull traps, and bears being in control. Some are waiting for further dips (105k or lower), and a few are considering shorting if BTC reaches 108.2k. However, there are also bullish voices expecting higher prices if the dollar crashes or large players intervene. The overall tone is cautious with a slight bearish tilt for the immediate term.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Opinions are mixed: some expect a pump or new all-time highs if certain events occur (like a dollar crash), while others are skeptical about a rapid BTC rally. Overall, sentiment is cautiously optimistic with speculative upside potential, but also acknowledges current bearish control and the possibility of volatility.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 4,
-    "negative_count": 6,
-    "neutral_count": 5,
+    "negative_count": 3,
+    "neutral_count": 4,
     "representative_opinions": [
-      "JUDAS THE TRAITOR: PARKED HERE, WE SET ANCHOR HERE SO NOW WE WAIT UNTIL IT GO 108.2K",
-      "Dd: 105 or lower",
-      "NzTa:  bull trap",
-      "Qvazor: If hit 108200 - fake breakout, I'm start short.",
-      "oscartg638: bears are in control. I meant to say. sorry",
-      "Fish: If BTC pumps to 125k wonât it cause all the alt coins dip hard AF at first because everyoneâs making BTC rally? Then bounce.",
+      "Fish: If BTC pumps to 125k wonât it cause all the alt coins dip hard AF at first because everyoneâs making BTC rally? Then bounce. Or will it follow BTC",
+      "PolySopher: BTC to 1 million soon if dollar crashes. Still 1 BTC = less than a hous",
       "ForgottenOne Legend: are we really on our way to new ath??",
-      "PolySopher: BTC to 1 million soon if dollar crashes. Still 1 BTC = less than a hous"
+      "Islandsteve: more pumnp",
+      "oscartg638: bears are in control. I meant to say. sorry",
+      "NzTa: bull trap",
+      "Qvazor: 125k today impossiable, ok mb 0.00001%",
+      "Qvazor: TRIANGLE is 50/50, for me, can go fast up and down. idk."
     ]
   }
 ]
