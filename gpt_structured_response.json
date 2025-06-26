@@ -4,22 +4,23 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The majority of opinions indicate strong bullish sentiment, expectations of a breakout continuation, and targets above current levels such as $108k, $120k-$130k. Multiple participants reference confirmed bull flag breakouts and sustained positive momentum. While there are mentions of fakeouts and some cautious outlooks, the prevailing sentiment, price targets, and FOMO suggest a high-confidence buy signal. However, there is some mention of large sell orders (e.g., 500btc at 108k) which warrants caution at resistance, but does not override the overall bullish consensus.",
+    "explanation": "The majority of opinions about BTC are strongly bullish, referencing breakouts, bull flags, and expectations of higher targets (e.g. 120-130). There is a clear sentiment that the price action is bullish unless a trend change occurs. Multiple users refer to checking all time frames, respecting triangles, and monitoring for confirmed breakouts. Some mention large sell walls and the need for caution, but the general tone is positive with references to rocket moves and 'moon time.' No significant or repeated negative sentiment is observed for BTC.",
     "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 13,
-    "negative_count": 3,
-    "neutral_count": 8,
+    "positive_count": 11,
+    "negative_count": 2,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Analytics: 108...",
-      "Din Djarin: closing another day or 2 at this level confirms the breakout of the bull flag on the daily from apr 9",
-      "Din Djarin: that would be a 120-130 target",
       "OH YEAH!: until trend changes, im retarded bullish, i give up thinking it'll ever go down",
+      "Din Djarin: closing another day or 2 at this level confirms the breakout of the bull flag on the daily from apr 9",
       "oscartg638: it will break through and reach 107700",
       "Architec(MattyB!!!): it moon time, moon central, moon a bust",
+      "Leo Cagape: bullish flag?",
       "Daveyboy: Binance has a 500btc sell at 108k",
       "aV1rus: it'll likely go but just slowly and choppy",
-      "Tjeerd Phaff: trendline rejected again",
-      "Nillionaire: floors swept, you think @Moon Boy ?"
+      "mike ho: Lets gooooooo rocket",
+      "oscartg638: beautiful",
+      "oscartg638: right on time",
+      "Din Djarin: that would be a 120-130 target"
     ]
   }
 ]
