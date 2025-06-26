@@ -4,21 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "There is a mixed sentiment with both bullish and bearish opinions, but positive and neutral comments such as 'subway pump', 'Cyber Subway Punk-Pump It UP !!', and 'this is going up more your short liq' suggest an upward movement bias. Some participants caution against shorting in a bull market, and there is mention of support holding. However, several opinions anticipate a short squeeze or a possible dip to the 107k level, indicating caution is warranted. The consensus leans towards bullish momentum in the very short term.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 9,
-    "negative_count": 7,
-    "neutral_count": 6,
+    "explanation": "There are mixed opinions, but several users use language suggesting a potential short squeeze and 'pump,' indicating upward momentum. However, some users mention shorting and key support levels (107000), and there is uncertainty about timing. The overall sentiment is slightly bullish due to repeated references to pumping and longing, but caution is warranted due to the presence of bearish voices.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 8,
+    "negative_count": 6,
+    "neutral_count": 7,
     "representative_opinions": [
-      "subway pump",
-      "Cyber Subway Punk-Pump It UP !!",
-      "this is going up more your short liq",
-      "dont short a bull market",
-      "Short to 107",
-      "thanks for the liq i guess lol",
-      "Bulls are sleeping, letâs short",
-      "if you dont mind sharing",
-      "It will form head and shoulder"
+      "fun: short squezze this shit once and for all",
+      "Kudjaks: subway pump",
+      "Santi Note8: Cyber Subway Punk-Pump It UP !!",
+      "Santi Note8: Sammy on Long !?",
+      "Sammy: FUN PUMP",
+      "Islandsteve: this is going up more your short liq",
+      "Alhamaf: Short to 107",
+      "Josue Marin: Bulls are sleeping, letâs short"
     ]
   }
 ]
