@@ -4,23 +4,22 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants mention possible price drops due to new BTC supply from miners, increased liquidations, and negative chart patterns (no bull flag, dislike for 4hr chart, trendline retests, targets for lower levels like 105300 and 103k, and EMA targets). While a few expect a bounce at certain levels, the prevailing short-term sentiment is cautious or bearish, with more arguments for downside or choppy action.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "The overall sentiment on BTC leans negative or cautious, with several users noting miner selling pressure, concerns about liquidation levels, and recent price drops. Some participants mention key support lines and targets to the downside, and there is skepticism about quick recoveries. While a few express hope for a bounce at lower levels, the dominant tone reflects uncertainty and risk of further downside.",
+    "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 3,
-    "negative_count": 6,
-    "neutral_count": 8,
+    "negative_count": 7,
+    "neutral_count": 10,
     "representative_opinions": [
       "MrSubmariner76: Bulls go nuts when BTC crashing. Itâs a sign",
-      "oscartg638: it might be a reason why price drops maybe half a percent throughout the day",
+      "oscartg638: miners sell",
+      "Y00LKA: everyday around 450 new BTC should be added. is this that creates sometimes downside in price as new available BTC appears?",
       "Ferhaan Schmidt: im on short now",
-      "shabaotb: no bull falg",
-      "shabaotb: i just dont like that 4hr chart",
-      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
-      "mpepin1905: 105300 target from the symmetrical drop. c what happens",
+      "oscartg638: It might be a reason why price drops maybe half a percent throughout the day",
       "Y00LKA: watch out liquidation rised above 108k its easier to climb then go down now....",
+      "shabaotb: or could head to that 50 on the 1hr",
+      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
       "Asi Landes: under 107200",
-      "Asi Landes: TP1 200EMA",
-      "Asi Landes: TP2 800EMA"
+      "shabaotb: lets see if its a fakeout"
     ]
   }
 ]
