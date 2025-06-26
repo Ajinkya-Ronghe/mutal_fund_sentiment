@@ -4,18 +4,18 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several participants reference being 'all in' on BTC and holding long positions, with mentions of bullish divergence and suggestions that bulls are gaining strength. However, there are also warnings about potential bull traps and market over-leverage, as well as advice to take profits and diversify, which tempers confidence. No strong consensus for high confidence, but overall sentiment slightly favors cautious long positions without leverage.",
+    "explanation": "Several users discussed a bullish divergence, which is a classic signal for a trend reversal to the upside. Islandsteve explained that when technical indicators show higher lows while price makes new lows, it suggests bears are losing control and a bullish reversal is likely. Multiple users (Rising Lion, matt desroches) mentioned being long BTC with no or low leverage, reflecting a preference for spot or unleveraged positions. However, some skepticism is present (henrique aoyagui: 'bull trap', 'market is over leveraged'), indicating some concern about the sustainability of the move. The overall sentiment leans bullish but with caution.",
     "safe_leverage_isolate_future_perpetual": 1,
     "positive_count": 4,
-    "negative_count": 3,
+    "negative_count": 2,
     "neutral_count": 4,
     "representative_opinions": [
-      "Rising Lion: I'm poor currently because I'm all in on bitcoin. like crazy all in",
       "Islandsteve: This signals that bears in the market are no more in control, and bulls are getting stronger, indicating a bullish reversal after the downtrend ends. At this point, traders can place long orders",
-      "henrique aoyagui: close longs, take profit....",
+      "Rising Lion: long, no leverage",
+      "matt desroches: no leverage long since 73k",
       "henrique aoyagui: bull trap",
-      "Dd: Diversify your money",
-      "matt desroches: no leverage long since 73k"
+      "henrique aoyagui: market is over leveraged",
+      "Zeythor: @Rising Lion anyways u should take care, all in is never a good choice xD"
     ]
   }
 ]
