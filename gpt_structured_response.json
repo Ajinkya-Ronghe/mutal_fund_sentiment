@@ -4,17 +4,17 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple sources indicated a bullish posture for BTC. Marticlues AI provided a clear long BTC/USDT recommendation with precise entry, targets, and a rally thesis. RaberTrades highlighted positive miner and treasury activity, described BTC as 'perky', and forecasted a potential launch toward all-time highs above $110,550. Y00LKA suggested a cautious approach but noted setups for both long and short bots, with emphasis on the upside. No strong negative or neutral BTC-specific opinions were observed.",
+    "explanation": "Multiple opinions in the live chat are bullish on BTC, including explicit long trade calls with technical analysis (TPs, SLs) and positive sentiment about launching towards all-time highs. There are also suggestions for using long bots above certain price levels. No clear negative or short opinions dominate, with most neutral cautions relating to risk management.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 5,
-    "negative_count": 0,
-    "neutral_count": 1,
+    "negative_count": 1,
+    "neutral_count": 4,
     "representative_opinions": [
       "Marticlues AI: Long BTC/USDT:ENTRY=107629.8,TP1=107845.06,TP2=107952.69,TP3=108167.95,SL=106876.4,TA=Rally Rush!",
-      "RaberTrades: Bitcoin miners and treasuries are the play",
       "RaberTrades: Bitcoin looks perky here guys",
       "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage"
+      "Y00LKA: set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
+      "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think; this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
     ]
   }
 ]
