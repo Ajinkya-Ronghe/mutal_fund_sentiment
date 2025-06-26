@@ -4,20 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple participants express bullish sentiment and expectations of an upward movement, referencing key resistance and liquidation levels above the current price (108, 109.2, 109700). There is some acknowledgement of strong support at 107 and suggestions to use stop losses, indicating mixed caution but with an overall bias towards a move higher. The presence of large sell orders and talk of liquidations above current price supports a short squeeze possibility, but also implies risk. There is no direct technical 1m candle analysis, but crowd sentiment is generally upward for the near term.",
-    "safe_leverage_isolate_future_perpetual": 3,
+    "explanation": "The majority of opinions suggest bullish sentiment and expectations of upward movement for BTC, with mentions of 'next leg up', 'go north', and price targets above current levels. However, some caution and mentions of resistance, large sell orders, and the need for healthy consolidation suggest that while the trend is upward, risks remain and confidence is not maximal. There are also reminders to use stop losses and leverage cautiously.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 8,
-    "negative_count": 3,
+    "negative_count": 4,
     "neutral_count": 7,
     "representative_opinions": [
-      "fun: wrong way bitty, you must go north. thats where the love is.",
-      "Guitarist 90's Bodyboarder: Binance has a 501 BTC sell order at 108050",
-      "Tiger Eye: 109.2",
       "eastwest312 paq: so close to next leg up",
+      "fun: wrong way bitty, you must go north. thats where the love is.",
       "Alexis Gonzalez: 109700 is the last of liquidations above us and with this price action it looks quite possible. I bet we go up at least to liquid levels before we see 103500 again",
       "Tiger Eye: Trend line is holding up quite good, if we slip 107 is a strong support",
-      "GRIMMS: 109 for sure shorters",
-      "TioRyo: In long trade use stop on the daily or weekly candle. In short trade use stop loss on the last daily or weekly candle. Leverage only on TOPS AND BOTTOM."
+      "Guitarist 90's Bodyboarder: Binance has a 501 BTC sell order at 108050",
+      "TioRyo: In long trade use stop on the daily or weekly candle. In short trade use stop loss on the last daily or weekly candle. Leverage only on TOPS AND BOTTOM.",
+      "Santi Note8: This need To be Healthy , man don't worry!",
+      "GRIMMS: 109 for sure shorters"
     ]
   }
 ]
