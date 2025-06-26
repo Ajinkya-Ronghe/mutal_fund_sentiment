@@ -4,21 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple real-time comments and live trading signals indicate bullish sentiment for BTC. Several users are calling for a 'moon' or strong upward movement, and Marticlues AI has called out repeated successful BTC/USDT long trades with incremental take-profit achievements. Crowd sentiment is excited and supportive of further upside, while no significant negative or neutral opinions are present. Technical mentions, such as a bull flag and live trade triggers, further confirm the current uptrend.",
-    "safe_leverage_isolate_future_perpetual": 3,
+    "explanation": "Multiple participants express strong bullish sentiment on BTC, referencing patterns like a 'bull flag' and expecting significant price increases ('moon', '117k in 87 hours'). Marticlues AI's automated signals repeatedly indicate successful long trades at multiple target levels, reinforcing the bullish bias on short timeframes. The overall tone is optimistic, with no significant bearish counter-opinions, and BTC is noted as moving independently upward.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 10,
     "negative_count": 0,
     "neutral_count": 3,
     "representative_opinions": [
-      "fun: ok, rise btc. rise i comand you",
+      "eastwest312 paq: bull flag on 10s",
       "MOON CAT: it's gonna moon",
+      "TheChrisamella: 117k in 87 hours",
       "Marticlues AI: BTC/USDT Long Score TP1!: P=105510.29,+0.2%",
       "Marticlues AI: BTC/USDT Long Nail TP2!: P=105510.29,+0.3%",
       "Marticlues AI: BTC/USDT Long Boom TP3!: P=105510.29,+0.5%",
-      "eastwest312 paq: bull flag on 10s",
       "Kudjaks: it gots to moon",
-      "Kudjaks: intense fight and so early still",
-      "Kudjaks: day is young",
       "Jora Sidhu: Why is nothing else moving with btc going up"
     ]
   }
