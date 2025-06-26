@@ -4,23 +4,22 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Multiple opinions highlight bullish sentiment and expectations of a pump or rally, including references to support-based longs, bullish exchange rates, and upward momentum, but there are also some concerns about resistance, possible false rallies, and short-term uncertainty. The overall tone is moderately positive but not unanimous.",
+    "explanation": "Multiple participants in the live chat discussed bullish momentum, holding long positions, and expecting a pump to higher levels (e.g., 'its soooo bullish', 'pump it', '120k here we go'). Some mentioned technical confirmations (EMA curling up, above cloud), while a few expressed skepticism about the move's validity or noted rejection at resistance (Ichimoku cloud, vwap play). Overall, sentiment leans bullish but with some caution and a need for more confirmation.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 11,
-    "negative_count": 5,
-    "neutral_count": 7,
+    "positive_count": 10,
+    "negative_count": 4,
+    "neutral_count": 5,
     "representative_opinions": [
-      "Real Krantikari : $14B ka BTC by hoga",
-      "Riazul Islam: mai niche ka support se liya for long",
-      "Solidity Monster: why would anyone short right now? Silly comment.",
       "Ruslanas Gu: its soooo bullish",
-      "Neev: yessir glad i held onto this long",
       "Caquaino: pump it",
+      "Neev: yessir glad i held onto this long",
+      "Noob Trader: smaller ema's curling up",
       "oscartg638: getting rejected already by 5min ichimoku cloud",
-      "Rodolfo: I feel like this is false up",
-      "khilmi mubarok: still hold Sell until demand zone",
       "oscartg638: at this point, personally me, need to see more price movement and confirmation. I don't like to shoot in the dark.",
-      "Siren Stardust: Btc -0.0115%"
+      "Rodolfo: I feel like this is false up",
+      "Noob Trader: fly above the Cloud",
+      "Caquaino: 120k here we go",
+      "Solidity Monster: why would anyone short right now? Silly comment."
     ]
   }
 ]
