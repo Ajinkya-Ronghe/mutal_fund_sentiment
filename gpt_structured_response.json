@@ -4,16 +4,15 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several participants expect BTC to drop further, referencing a 'big dum after mini bull run', comments about a recent bull run being over, and direct calls for BTC to 'drop a bit more'. There are no strongly bullish BTC opinions, while multiple voices expect downward movement or consolidation.",
-    "safe_leverage_isolate_future_perpetual": 1,
+    "explanation": "Several opinions suggest bearish sentiment for BTC in the short term, with calls for a further drop before a potential rebound. There are explicit comments about BTC needing to 'bleed a little more' and expectations of a 'big dum' after a mini bull run. No strongly bullish BTC opinions appear. Comments referencing ATH or past bull runs are not accompanied by fresh buy enthusiasm.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 0,
-    "negative_count": 4,
+    "negative_count": 3,
     "neutral_count": 2,
     "representative_opinions": [
       "Was N 1: so close to short Target on Alt scalp. BTC just bleed a little more and then do what you like",
       "Dd: Its time for the big dum after mini bull run",
-      "Was N 1: come btc drop a bit more",
-      "Dd: That was the bull run for this year"
+      "Was N 1: come btc drop a bit more"
     ]
   }
 ]
