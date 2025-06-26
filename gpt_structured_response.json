@@ -4,17 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Recent live opinions show a split in sentiment but lean slightly bearish for BTC in the very short term. Comments like 'now short', 'hard short will coming', and 'Dump it' indicate expectations of a pullback or correction. However, there are also bullish voices focusing on technical setups, such as 'Letâs let the bulls flip that 3D rsi over yellow ema while Stoch RSI has big room to run. Then BTC will giga send', suggesting possible upside in a higher timeframe, but not on the 1-minute candlestick. No consensus for a strong long, and no clear positive momentum in the immediate term.",
-    "safe_leverage_isolate_future_perpetual": 1,
+    "explanation": "Recent live chat opinions for BTC are mixed, but several suggest caution or short-term downside: 'Raudhan Yuriansyah: now short', 'Ferhaan Schmidt: hard short will coming', and 'High Def: Dump it'. Some technicals discussed (support, resistance, 3D RSI) indicate a potential for a short, but there's no strong consensus for a sharp move. The presence of both short and bullish opinions tempers confidence.",
+    "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 2,
     "negative_count": 4,
-    "neutral_count": 4,
+    "neutral_count": 3,
     "representative_opinions": [
-      "now short",
-      "hard short will coming",
-      "Dump it",
-      "Letâs let the bulls flip that 3D rsi over yellow ema while Stoch RSI has big room to run. Then BTC will giga send",
-      "support at 107210. That's my new thesis."
+      "Raudhan Yuriansyah: now short",
+      "Ferhaan Schmidt: hard short will coming",
+      "High Def: Dump it",
+      "oscartg638: support at 107210. That's my new thesis.",
+      "RaberTrades: Letâs let the bulls flip that 3D rsi over yellow ema while Stoch RSI has big room to run. Then BTC will giga send",
+      "IcicleTripClips: id buy it like saylor if i could",
+      "oscartg638: TP at about 107650",
+      "herr_lippi: chatgpt said 106.7 for me",
+      "Siren Stardust: its a open market soo far soo why not"
     ]
   }
 ]
