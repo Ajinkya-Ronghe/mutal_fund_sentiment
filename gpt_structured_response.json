@@ -1,21 +1,21 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple participants discussed BTC price action near 108k, referencing previous pumps and support levels. There was a call to 'BUY!' after a drop from 108k, and several users expressed positive sentiment or anticipation for upward moves. However, there is also mention of a party being 'over' and reference to support at 107k, suggesting some caution and mixed views. Technical advice was shared on using stops with daily/weekly candles and leveraging only at extremes. Overall, the sentiment leans bullish but is not unanimous, with some uncertainty as the price hovers near support.",
+    "explanation": "Recent comments indicate BTC broke out above 108.4k but quickly fell back below 108k, with sentiment shifting from excitement to concern. Some users mention 'smart money selling' and 'party 108k is over,' while others reference holding positions or calling for a buy at the dip. Technical comments suggest 107k is a strong support, but the overall tone is cautious after the failed breakout. The presence of both bullish and bearish opinions, as well as advice on using stop losses and being careful with leverage, produces a medium confidence short-term sell signal.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 3,
-    "neutral_count": 6,
+    "positive_count": 3,
+    "negative_count": 5,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Kudjaks: same setup gor the pump but now fr",
-      "fun: ok i like it",
-      "Din Djarin: what? how did we lose 108. Damnit you guys. BUY!  ",
       "Kudjaks: it did pumped well and touched over top of the channel, 108,4k breakout",
+      "Dd: Party 108k is over",
+      "Dd: Smart money selling moonboy buying",
+      "Kudjaks: back to 935 still holding",
       "Tiger Eye: Trend line is holding up quite good, if we slip 107 is a strong support",
-      "Dd: Party 108k is over ",
+      "Din Djarin: what? how did we lose 108. Damnit you guys. BUY!",
       "Alexis Gonzalez: Yeah, it's been touching 107 area all day"
     ]
   }
