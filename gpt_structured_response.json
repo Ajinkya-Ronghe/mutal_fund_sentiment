@@ -4,23 +4,20 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "The majority of opinions about BTC are strongly bullish, referencing breakouts, bull flags, and expectations of higher targets (e.g. 120-130). There is a clear sentiment that the price action is bullish unless a trend change occurs. Multiple users refer to checking all time frames, respecting triangles, and monitoring for confirmed breakouts. Some mention large sell walls and the need for caution, but the general tone is positive with references to rocket moves and 'moon time.' No significant or repeated negative sentiment is observed for BTC.",
-    "safe_leverage_isolate_future_perpetual": 3,
-    "positive_count": 11,
+    "explanation": "Several participants note bullish chart patterns (bull flag, triangle breakout), rapid price moves, and bullish momentum. Multiple comments mention targets being hit and profit-taking with high leverage, with little direct bearish commentary. There is mention of bear traps, suggesting downside moves are being absorbed. The overall sentiment is positive, with many referencing price targets above current levels, and market participants noting aggressive upward moves and liquidity events (liquidation of bears). While fake outs and choppiness are mentioned, the consensus leans toward continued upside with prudent risk controls.",
+    "safe_leverage_isolate_future_perpetual": 5,
+    "positive_count": 9,
     "negative_count": 2,
-    "neutral_count": 7,
+    "neutral_count": 8,
     "representative_opinions": [
-      "OH YEAH!: until trend changes, im retarded bullish, i give up thinking it'll ever go down",
-      "Din Djarin: closing another day or 2 at this level confirms the breakout of the bull flag on the daily from apr 9",
-      "oscartg638: it will break through and reach 107700",
-      "Architec(MattyB!!!): it moon time, moon central, moon a bust",
       "Leo Cagape: bullish flag?",
+      "oscartg638: it will break through and reach 107700",
+      "Geoff O: we get another big leg today!?",
+      "Moon Boy: Bears getting liquidated",
       "Daveyboy: Binance has a 500btc sell at 108k",
+      "oscartg638: target reached. 10% up for the day with 20x leverage.",
       "aV1rus: it'll likely go but just slowly and choppy",
-      "mike ho: Lets gooooooo rocket",
-      "oscartg638: beautiful",
-      "oscartg638: right on time",
-      "Din Djarin: that would be a 120-130 target"
+      "JR: lmao this shit funny AF, bear traps everywhere"
     ]
   }
 ]
