@@ -1,20 +1,23 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The live chat presents a mixed set of short-term opinions: some users see support holding, mention triangle support, and suggest potential for an upward move, while others worry about double tops and possible dumps. However, there are more positive or neutral remarks about support holding than negative ones, and some are still holding longs after the CME gap. The consensus is indecisive but leans slightly bullish for a short-term bounce or range, not a strong dump.",
+    "explanation": "The opinions show mixed but slightly bearish sentiment for BTC. Multiple users discuss double tops, lower highs, and the potential for a dump. Some mention support holding, but others expect a move down to targets like 106, 105.3, or 104k. There are notes about price action being choppy and unsafe for stops, and a few users mention the risk of being shaken out by ranging price. There is little explicit bullishness, and the overall tone leans toward caution or short-term downside.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 5,
-    "neutral_count": 6,
+    "positive_count": 4,
+    "negative_count": 8,
+    "neutral_count": 4,
     "representative_opinions": [
-      "oscartg638: support is holding. it's real.",
-      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
       "shabaotb: so we got a double top and a lower high",
       "Caquaino: big dump incoming",
-      "aV1rus: if it was gonna dump hard right now it would of already... this price action looks more like farming... they're gonna range this throw everyone off"
+      "shabaotb: idk man a double top and a lower high seems to be prepping for a dump",
+      "shabaotb: and when i say dump im talkin maybe 104k not too low",
+      "oscartg638: support is holding. it's real.",
+      "oscartg638: triangle support",
+      "aV1rus: if it was gonna dump hard right now it would of already... this price action looks more like farming... they're gonna range this throw everyone off",
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL"
     ]
   }
 ]
