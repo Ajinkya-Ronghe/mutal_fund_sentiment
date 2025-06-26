@@ -4,21 +4,24 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Multiple participants discuss recent BTC price action around 107,100â111,000, with several suggesting shorting at resistance levels or expecting a retest of support. Some mention bearish confluence from technical indicators like VWAP and Ichimoku cloud. However, a few comments note trend reversals and potential uptrend if specific levels are held, which tempers the overall bearishness. Risk management and caution against high leverage are also emphasized.",
+    "explanation": "Multiple participants mention potential for BTC to drop from current levels, with targets as low as 104000-107000 and references to a possible short opportunity at 110000. There are mentions of recent uptrend but with caution due to bearish sentiment, price retests, and warnings about over-leverage. The overall opinion is mixed but leans bearish in the short-term.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 3,
-    "negative_count": 5,
-    "neutral_count": 6,
+    "negative_count": 6,
+    "neutral_count": 4,
     "representative_opinions": [
       "SalmanDÂ£vil: bhai 1102000 jayenga phr sidha 104000",
-      "SalmanDÂ£vil: bhai ab koi war na shuru hojayeEk News btc chand se zameen par",
-      "pramod singh: mujhe swing trade Karna hai bhai",
       "SalmanDÂ£vil: Bhai please batao 110000 bhai yanha se short kar sakta hu ???",
+      "JUDAS THE TRAITOR: FROM 107.100 UP TO 107600 WE HAVE BUILT PUMP DIFFERENTIAL POTENTIAL. THAT WILL PLAY OUT NO MATTER WHAT",
+      "Architec(MattyB!!!): short, k guys, thats all. there seems to be a dump happening",
       "Ferhaan Schmidt: the chart look short signal",
-      "oscartg638: it aligns with ichimoku cloud 5min. lot's of confluence to validate vwap play",
       "GRIMMS: bears are roaming freely",
       "Noob Trader: we are back into up trend unless it stays under 107.3",
-      "Molyn Brefon: 107.86 max i can see"
+      "oscartg638: vwap is legit",
+      "oscartg638: it aligns with ichimoku cloud 5min. lot's of confluence to validate vwap play",
+      "Molyn Brefon: 107.8 ?",
+      "Olu Folarin: I remember that every time I think about using high leverage",
+      "Ruslanas Gu: in this market most important thing is risk managment"
     ]
   }
 ]
