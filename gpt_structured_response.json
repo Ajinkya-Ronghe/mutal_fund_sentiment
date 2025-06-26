@@ -4,19 +4,21 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several comments suggest bullish sentiment, such as references to greed, bear traps, liquidations of bears, and active buying. However, some caution is noted due to resistance, potential for fake outs, and mentions of significant sell walls (e.g., a 500 BTC sell on Binance). The majority see upward potential, but the presence of large sell orders and technical chart patterns (triangle, fake outs) indicate the move may be choppy and not purely one-directional. The 1-minute candlestick signal is inferred as 'long' due to mentions of recent pumps and active buying, but with a medium confidence due to mixed technical caution.",
+    "explanation": "Sentiment in the chat is bullish for BTC with mentions of bears getting liquidated, 'Moon it', big legs upward, and discussions of pump and triangle pattern support. However, there is some caution about possible fake-outs, triangle support pullbacks, and large sell walls. The general consensus leans toward a buy/long position, but not with the highest confidence due to mixed technical analysis and risk of downside moves.",
     "safe_leverage_isolate_future_perpetual": 5,
-    "positive_count": 6,
+    "positive_count": 9,
     "negative_count": 4,
-    "neutral_count": 9,
+    "neutral_count": 7,
     "representative_opinions": [
-      "Kenny ð¦ Gee: Greeeeeeeeeeeed",
       "Moon Boy: Bears getting liquidated",
+      "Geoff O: we get another big leg today!?",
+      "DREW THE EMPATH: Mooooon it!!",
+      "Moon Boy: Higher",
+      "Y00LKA: if its lots of green then buy if red then sell",
       "oscartg638: target reached. 10% up for the day with 20x leverage.",
-      "Daveyboy: Binance has a 500btc sell at 108k",
       "oscartg638: careful, it will come back down for the triangle support",
-      "aV1rus: it'll likely go but just slowly and choppy",
-      "JR: lmao this shit funny AF, bear traps everywhere"
+      "oscartg638: we are in a triangle. It may slam down",
+      "aV1rus: after it bottoms and comes back up the net one IF it gets rejected will be the real one"
     ]
   }
 ]
