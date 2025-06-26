@@ -4,20 +4,26 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "BTC chat sentiment is mixed, but notable traders recognize key support holding and possible upward move if triangle pattern resolves to the upside. Despite some bearish calls and a head-and-shoulders mention, there is no mass selling reported and some traders remain long post-CME gap. The lack of strong conviction from either bulls or bears, as well as the presence of both long and short opinions, suggests a moderate buy opportunity for scalpers or quick trades. Leverage should be low, as volatility and whipsaw potential remain high.",
+    "explanation": "There is active debate but support is currently holding and some participants observe that BTC may move up if the triangle support holds. The market sentiment is mixed with both bullish and bearish opinions, but no one is selling their BTC and some remain long after recent gaps. The immediate direction is uncertain, but the prevailing consensus leans toward an upward move if the current support is sustained.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 6,
-    "negative_count": 6,
+    "negative_count": 5,
     "neutral_count": 8,
     "representative_opinions": [
       "oscartg638: support is holding. it's real.",
       "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
-      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
-      "Caquaino: its gonna dump",
-      "Tjeerd Phaff: not saying we can't go up but i would be surprised",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
       "Dude Talk: lots of food at bottom but no one selling thier btc",
-      "Siren Stardust: but im not uuu huuu"
+      "oscartg638: triangle support",
+      "Siren Stardust: Im still long after Cme gap ...big shote oute too dlock fore giving awsome week end charts",
+      "Hoover: Drop it to 105,350 then launch up!",
+      "Tjeerd Phaff: we rejected trendline, daily open could not hold",
+      "Sandro Martins: dump it",
+      "Caquaino: its gonna dump",
+      "mpepin1905: in a symmetrical 15m bottom 107150 and top 107850. target if breaks above is 109675 if breaks below target is 105350",
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
+      "mpepin1905: bear fractal lookin on the 4h or even head and shoulder lookin",
+      "Dude Talk: 50 percent we die 50 percent we live @mpepin1905",
+      "Asi Landes: let the trade come to you"
     ]
   }
 ]
