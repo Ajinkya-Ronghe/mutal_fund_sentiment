@@ -4,23 +4,21 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "The majority of recent opinions indicate bearish short-term sentiment for BTC, with multiple users discussing downside targets, failed support, and ongoing bearish price action. There is a consensus that BTC is currently facing downward pressure, possibly due to new supply from miners and technical failures at key support levels. However, a minority suggest a possible bounce at lower levels and warn about potential fakeouts, which tempers confidence.",
+    "explanation": "The majority of commentary on BTC points to uncertain or bearish price action, with participants discussing support levels being tested, potential for further downside, references to 'big dumps', and lack of bullish chart patterns. While there are occasional bullish hopes, the dominant sentiment is caution and expectation of further decline or choppy sideways movement, especially with references to price targets below current levels and concerns about trend line integrity.",
     "safe_leverage_isolate_future_perpetual": 1,
-    "positive_count": 3,
-    "negative_count": 9,
-    "neutral_count": 5,
+    "positive_count": 2,
+    "negative_count": 7,
+    "neutral_count": 9,
     "representative_opinions": [
+      "oscartg638: triangle support",
+      "Travis Alford: what's next down target",
+      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
       "oscartg638: damn bears testing it like it's a picnic basket",
       "Molyn Brefon: a little bit down then up then dooooown",
       "aV1rus: it'll lose the 50 and then get it back before the real play. China in session. 106.8 to 108 then the real dump - so be careful with stop losses",
-      "shabaotb: seems to be losing that 50 as we speak",
-      "TIVERSON PUBG: i dont see bull flag",
+      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long",
       "shabaotb: no bull falg",
-      "shabaotb: i just dont like that 4hr chart",
-      "Noob Trader: look at the candles no sl will be safe if keep doing that HH LL",
-      "Rodolfo: i thougth it was down, but its looking like it can actually have some legs and move up",
-      "oscartg638: triangle support",
-      "aV1rus: big dumps are never easy - this could just slowly chop down - i hope we get to 103k for a juicey long"
+      "shabaotb: or could head to that 50 on the 1hr"
     ]
   }
 ]
