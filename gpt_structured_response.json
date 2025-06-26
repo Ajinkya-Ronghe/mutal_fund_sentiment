@@ -4,26 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Several opinions support a bullish trend, mentioning a big bull run, a strong 108K level, and specific long signals from a trading bot. However, there are also some warnings about a potential crash and suggestions to wait for confirmation, which tempers overall confidence.",
-    "safe_leverage_isolate_future_perpetual": 2,
+    "explanation": "Majority of opinions point towards a bullish sentiment for BTC in the very short term, with multiple references to a 'bull run', strong price holding above 108K, and a trading bot successfully running. Marticlues AI specifically issues a 'Long BTC/USDT' call with clear entry and take-profit targets based on a 'Whale Surge' technical pattern. However, there are notable bearish warnings about potential crashes and sell-offs, including suggestions to short and caution about a broader market reversal, which reduces overall confidence to medium.",
+    "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 7,
     "negative_count": 6,
-    "neutral_count": 4,
+    "neutral_count": 5,
     "representative_opinions": [
       "Dd: Nice bull run",
       "ð²ððððÌ¶ð£ðð¯ðªð°: Big Beautiful Bull Run",
-      "Glenn Davis: Alright! 108K and holding!!!",
+      "Glenn Davis: Hello 108K never going below it again!!!!",
       "Marticlues AI: Long BTC/USDT:ENTRY=107971.92,TP1=108187.86,TP2=108295.83,TP3=108511.77,SL=107216.11,TA=Whale Surge!",
-      "PolySopher: The breakout may be the breakdown of the dollar for real",
+      "PolySopher: Yeah this breakout could lead to a big event named crash",
       "TioRyo: -108000 SELL",
-      "Josue Marin: Short , 25x",
-      "matt desroches: its kinda interesting the amount of people saying bitcoin heading to 87-93k",
-      "Travis Alford: if btc crashes down alts will get thrashed hard lol",
-      "PolySopher: BTC is collateral damage of dxy dump",
-      "oscartg638: this is it. this 15min has to reverse down",
-      "TioRyo: wait for confirmation",
-      "Josue Marin: It goes directly to 107,200",
-      "Bitcoin GTR: They said it had to dump to fill the gap..."
+      "Josue Marin: Short , 25x"
     ]
   }
 ]
