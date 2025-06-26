@@ -4,19 +4,20 @@
     "1_minute_candlestick_signal": "short",
     "signal": "Sell",
     "confidence": "medium",
-    "explanation": "There are several bearish opinions citing imminent dumps and targets as low as 90k, with some expecting a rejection and others mentioning a period of small dips and pumps. A minority mention longing or holding, but the short/negative sentiment dominates the group chat.",
+    "explanation": "The majority of opinions express concern over a potential rejection and significant dump for BTC, with repeated references to lower price targets (e.g., 'see you at 90k', 'maaassive dump incoming', 'rejected', 'can't stay 108 for a week'). Although there are a few bullish outliers (e.g., 'hoping BTC go to 108k', 'no leverage long since 73k'), the prevailing sentiment is short-term bearish. Some traders are explicitly calling for short positions or expecting downside volatility.",
     "safe_leverage_isolate_future_perpetual": 3,
     "positive_count": 3,
     "negative_count": 7,
-    "neutral_count": 4,
+    "neutral_count": 5,
     "representative_opinions": [
-      "henrique aoyagui: yep. rejected, see you guys in 103k",
-      "Pegasus SkylineRFS: see you guys at 90k byeee",
       "henrique aoyagui: maaassive dump incoming",
+      "Pegasus SkylineRFS: see you guys at 90k byeee",
       "JB ðï¸ð: SCAAALP SHORT",
       "Qvazor: Want short from 108.2k with short sl",
+      "Dd: Cant stay 108 for a week",
+      "henrique aoyagui: yep. rejected, see you guys in 103k",
       "matt desroches: no leverage long since 73k",
-      "Rising Lion: hodl moar, talk less"
+      "Dd: Hoping btc go to 108k"
     ]
   }
 ]
