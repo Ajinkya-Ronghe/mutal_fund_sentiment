@@ -1,21 +1,25 @@
 [
   {
     "crypto": "BTC",
-    "1_minute_candlestick_signal": "long",
-    "signal": "Buy",
+    "1_minute_candlestick_signal": "short",
+    "signal": "Sell",
     "confidence": "medium",
-    "explanation": "Several opinions indicate mixed but slightly bullish sentiment for BTC. While some participants mention possible dumps and manipulation, others suggest upward potential, with specific targets toward all-time highs and advice to set up both long and short bots. The overall tone is cautious but leans towards a near-term upside attempt, especially with references to perky price action and potential for a breakout after a dip.",
+    "explanation": "Several participants express caution or warn of a possible short-term dump for BTC. Some expect further downside before a breakout. There are mixed views, but the negative/neutral opinions slightly outweigh the bullish ones in the very short term. Bot-based strategies and advice to use low leverage and cautious stop-losses suggest increased volatility.",
     "safe_leverage_isolate_future_perpetual": 2,
     "positive_count": 4,
-    "negative_count": 3,
-    "neutral_count": 5,
+    "negative_count": 6,
+    "neutral_count": 6,
     "representative_opinions": [
-      "Spotbot: BTC: 64.81%",
+      "Dd: Just dump it",
+      "Dd: Clear dump",
+      "Dd: Manipulation",
+      "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think",
+      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that",
+      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
+      "Y00LKA: low SL but not too low to avoid liquidations too fast in case its swining i would say SL 23% TP 40% min",
       "RaberTrades: Bitcoin looks perky here guys",
       "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
-      "oscartg638: ...I think we'll go lower first before another Breakout. I hope Im ready for that",
-      "Dd: Clear dump",
-      "Y00LKA: set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage"
+      "Spotbot: BTC: 64.81%"
     ]
   }
 ]
