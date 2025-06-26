@@ -4,18 +4,17 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "medium",
-    "explanation": "Most of the opinions reflect a bullish sentiment on BTC, referencing potential breakouts and a recent steady climb from 105k to 107k. Some participants expect a breakout soon, and others discuss the possibility of a move up to 108k or even 100k. However, there is also caution about a possible liquidity grab and a minor negative sentiment from a single 'sell' comment, making the overall outlook moderately confident.",
+    "explanation": "Most BTC-related opinions are positive or neutral, with discussions about price climbing from 105k to 107k, expectations for further moves to 108k or even 100k, and multiple participants mentioning 'long' or upward moves. Some opinions warn of possible short-term drops (e.g., 'waterfall', 'liquidity grab', '$580 down fall'), but the prevailing sentiment suggests a continuation of the climb or a bounce after a dip. There is no consensus for a strong sell; both bullish and cautious/dip-buying perspectives are present, but overall attitude leans optimistic.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 6,
-    "negative_count": 2,
+    "positive_count": 7,
+    "negative_count": 4,
     "neutral_count": 5,
     "representative_opinions": [
-      "we LONG",
-      "107 to 100k is print",
-      "6/23 WE WAS AT 105K DSO ITS BEEN CLIMBING",
-      "JUDAS THE TRAITOR: HE IS CAUGHT HERE IN SMALL DIFFERENTIAL, IT CAN GO DOWN FOR LIQUIDITY GRAB TO BOUNCE ABOVE 108K",
-      "Islandsteve: SLOW HORRABLE CLIMB UP",
-      "Snowman âï¸: sell"
+      "packslaya: we LONG",
+      "Dd: 107 to 100k is print",
+      "Islandsteve: 6/23 WE WAS AT 105K DSO ITS BEEN CLIMBING",
+      "Skylake Pro Cinema: 580$ down fall coming on bitcoin",
+      "JUDAS THE TRAITOR: HE IS CAUGHT HERE IN SMALL DIFFERENTIAL, IT CAN GO DOWN FOR LIQUIDITY GRAB TO BOUNCE ABOVE 108K"
     ]
   }
 ]
