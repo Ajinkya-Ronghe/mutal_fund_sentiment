@@ -4,19 +4,17 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Several participants expressed positive sentiment toward BTC, including algorithmic buy calls with high target prices (e.g., TP 108.4k), comments about bullish chart patterns (potential bull pendant, perky price action), and mentions of strategic long setups. Although some caution for volatility and multiple short/long strategies were mentioned, the overall opinion count and quality of bullish signals outweigh the negatives for BTC.",
+    "explanation": "Multiple participants express optimism for BTC, referencing potential upward price movement, strategic long/short setups, and bullish price targets. Some suggest specific bot strategies for both long and short but emphasize higher targets and positive miner/treasury news. A technical analysis suggests a potential breakout after a dip, but the general sentiment leans bullish.",
     "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 7,
-    "negative_count": 2,
-    "neutral_count": 9,
+    "positive_count": 5,
+    "negative_count": 1,
+    "neutral_count": 5,
     "representative_opinions": [
-      "Ace Winner: Ace algorithm buy call stands. TP 108.4k",
-      "OH YEAH!: there are no lower lows, itll get there",
-      "JB ðï¸ð: maybe bull pendant forming",
-      "RaberTrades: Bitcoin miners and treasuries are the play",
       "RaberTrades: Bitcoin looks perky here guys",
+      "RaberTrades: Letâs \"launch\" off this shelf up towards the all-time highs zone ranging from $110,550 up to $111,983.",
+      "Y00LKA: set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage",
       "oscartg638: for a triangle to be legit I think price has to touch support and resistance 5 times, I think",
-      "Y00LKA: be cautious. set up bot ex. short with entry point 106 500 +/- and wait and second bot long from 108 500 and one more short from 108 500 and wait. not too big laverage"
+      "oscartg638: this is why i think we'll go lower first before another Breakout. I hope Im ready for that"
     ]
   }
 ]
