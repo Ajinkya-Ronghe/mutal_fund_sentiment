@@ -4,21 +4,19 @@
     "1_minute_candlestick_signal": "long",
     "signal": "Buy",
     "confidence": "High",
-    "explanation": "Multiple community members are expressing bullish sentiment on BTC, with references to 'moon', 'rise', and Marticlues AI reporting multiple successful BTC/USDT long trades hitting take profit targets (+0.2% to +0.5%). Visual patterns like bull flags are mentioned, and there is an overall positive outlook in the short term.",
-    "safe_leverage_isolate_future_perpetual": 2,
-    "positive_count": 8,
+    "explanation": "Multiple real-time signals (Marticlues AI: BTC/USDT Long Score TP1, Long Nail TP2, Long Boom TP3) indicate successful long (buy) trades on BTC with positive profit targets. Community sentiment is also bullish, as seen with comments like 'rise btc', 'it's gonna moon', and 'GO GO GO'. While there are some mentions of bear/bull flags, the overall momentum and opinion count favor a bullish outlook in the immediate term.",
+    "safe_leverage_isolate_future_perpetual": 3,
+    "positive_count": 7,
     "negative_count": 1,
-    "neutral_count": 9,
+    "neutral_count": 8,
     "representative_opinions": [
+      "Marticlues AI: BTC/USDT Long Score TP1!: P=105510.29,+0.2%",
       "fun: ok, rise btc. rise i comand you",
       "MOON CAT: it's gonna moon",
       "Kudjaks: it gots to moon",
-      "Marticlues AI: BTC/USDT Long Score TP1!: P=105510.29,+0.2%",
-      "Marticlues AI: BTC/USDT Long Nail TP2!: P=105510.29,+0.3%",
       "Marticlues AI: BTC/USDT Long Boom TP3!: P=105510.29,+0.5%",
-      "eastwest312 paq: bull flag on 10s",
-      "TheChrisamella: 117k in 87 hours",
-      "GARYU ART CRAFT: BearFlag"
+      "GARYU ART CRAFT: BearFlag",
+      "eastwest312 paq: bull flag on 10s"
     ]
   }
 ]
